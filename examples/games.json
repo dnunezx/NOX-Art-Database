@@ -1,0 +1,66 @@
+[
+  {
+    "title_id": "NOXS00001",
+    "title": "NOX synthetic square demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "missing",
+    "review_status": "pending",
+    "source": {
+      "provider": "local",
+      "path": "samples/square.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    }
+  },
+  {
+    "title_id": "NOXS00002",
+    "title": "NOX synthetic portrait demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "missing",
+    "review_status": "pending",
+    "source": {
+      "provider": "local",
+      "path": "samples/portrait.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    }
+  },
+  {
+    "title_id": "NOXS00003",
+    "title": "NOX synthetic landscape demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "missing",
+    "review_status": "pending",
+    "source": {
+      "provider": "local",
+      "path": "samples/landscape.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    }
+  },
+  {
+    "title_id": "NOXS00004",
+    "title": "NOX synthetic transparent demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "missing",
+    "review_status": "pending",
+    "source": {
+      "provider": "local",
+      "path": "samples/transparent.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    }
+  }
+]

@@ -1,0 +1,66 @@
+name: Publish Database
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Release version, e.g. v1.0.0
+        required: true
+      publish:
+        description: Create a public GitHub release (otherwise build an artifact only)
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: publish-artwork
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -v
+      - run: python -m scripts.validate_artwork
+      - run: python -m scripts.check_public
+      - run: python -m scripts.build_database --check
+      - run: python -m scripts.generate_report
+      - run: python -m scripts.package_artwork
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: release-pack
+          path: |
+            dist/
+            database/artwork_manifest.json
+            reports/review.md
+          if-no-files-found: error
+  release:
+    needs: build
+    if: inputs.publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment: artwork-releases
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: release-pack
+      - name: Verify and publish versioned pack
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          VERSION: ${{ inputs.version }}
+        shell: bash
+        run: |
+          [[ "$VERSION" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]] || { echo 'Use a version such as v1.0.0'; exit 1; }
+          (cd dist && sha256sum --check SHA256SUMS)
+          gh release create "$VERSION" dist/nox-artwork.zip dist/SHA256SUMS database/artwork_manifest.json --target "$GITHUB_SHA" --title "NOX Artwork $VERSION" --notes-file reports/review.md
