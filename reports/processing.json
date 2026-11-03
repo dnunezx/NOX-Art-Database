@@ -6,6 +6,7 @@
       512,
       512
     ],
+    "format": "PNG",
     "warnings": []
   },
   {
@@ -15,6 +16,7 @@
       512,
       512
     ],
+    "format": "PNG",
     "warnings": []
   },
   {
@@ -29,6 +31,7 @@
       1024,
       1024
     ],
+    "format": "PNG",
     "warnings": []
   },
   {
@@ -38,6 +41,7 @@
       512,
       512
     ],
+    "format": "PNG",
     "warnings": []
   }
 ]
