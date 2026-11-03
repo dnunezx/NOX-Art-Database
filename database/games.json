@@ -5,9 +5,42 @@
     "platform": "PS3",
     "region": "US",
     "release_year": 2010,
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
-    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98111"
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98111",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 38217,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/9a9a9310b598409af151c45ef23d8ea3.png",
+      "provider_artwork_id": 263645,
+      "path": "downloads/c329bc7cf2993afbd2fd2e51f7eed2c5ba99d95415d2ae3ff9ba35f8c9af5efc.image",
+      "source_page": "https://www.steamgriddb.com/grid/263645",
+      "attribution": "Prabhjot19",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "c329bc7cf2993afbd2fd2e51f7eed2c5ba99d95415d2ae3ff9ba35f8c9af5efc",
+    "sha256": "acc827b43a1852de76d71822bb7524719eb65f9e0564e20c658f5baf734ef8e3",
+    "thumbnail_sha256": "b440110a8c24ab5bca919c2734b6d160e3d053891ba4d0d9dd7e70c9cbd4e798",
+    "generated_at": "2026-11-03T03:40:30.481545+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98123",
@@ -15,9 +48,42 @@
     "platform": "PS3",
     "region": "US",
     "release_year": 2009,
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
-    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98123"
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98123",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5245365,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/3c5c893d0214c89fdfa50e1af885b0d5.png",
+      "provider_artwork_id": 137325,
+      "path": "downloads/3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641.image",
+      "source_page": "https://www.steamgriddb.com/grid/137325",
+      "attribution": "Timberfang",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641",
+    "sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa",
+    "thumbnail_sha256": "33bcd66a87ddd0d6dc5879c312ccb0be3cd99264c07d4c06143b4d37ea7693df",
+    "generated_at": "2026-11-03T03:40:30.624203+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98233",
@@ -35,9 +101,42 @@
     "platform": "PS3",
     "region": "US",
     "release_year": 2013,
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
-    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98174"
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98174",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5103049,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/992c2f0d2905f7c730f85a8a4f98e460.png",
+      "provider_artwork_id": 144045,
+      "path": "downloads/8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd.image",
+      "source_page": "https://www.steamgriddb.com/grid/144045",
+      "attribution": "ABH20",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified",
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd",
+    "sha256": "c7617aa06998993f289426bddbffb476416f7b7f788b6eeb9bd35704b43d5e45",
+    "thumbnail_sha256": "05606e7fef0c067bc6ef357e59dee6d3ec101eac81255d7d1d7fd38027259999",
+    "generated_at": "2026-11-03T03:40:30.810014+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98148",
@@ -45,8 +144,41 @@
     "platform": "PS3",
     "region": "US",
     "release_year": 2008,
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
-    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98148"
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98148",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246704,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/a1192e95e865f8ced808b3dc35657a01.png",
+      "provider_artwork_id": 238018,
+      "path": "downloads/7e7fd2acfa0b6ec4334c738e93d1f30e07e711e3d71ec4f1cc9a7d10b05561d7.image",
+      "source_page": "https://www.steamgriddb.com/grid/238018",
+      "attribution": "Shiios42",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "7e7fd2acfa0b6ec4334c738e93d1f30e07e711e3d71ec4f1cc9a7d10b05561d7",
+    "sha256": "8e6e210e0f819177112f43b4bbef289abb530cf59bcafb8f49a00bcc78d83a5b",
+    "thumbnail_sha256": "0385d08642d874a6006cac2f340de55d3b58f9af037fb5d3f394b19136df82ba",
+    "generated_at": "2026-11-03T03:40:30.997746+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   }
 ]

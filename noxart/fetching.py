@@ -82,6 +82,7 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
                         if info["dimensions"] != [row["width"], row["height"]]:
                             raise ValueError("Downloaded dimensions disagree with API metadata")
                         source = {"provider": "steamgriddb", "url": url, "provider_artwork_id": row["id"],
+                                  "format": info["format"], "dimensions": info["dimensions"],
                                   "path": path.relative_to(root / "sources").as_posix(),
                                   "source_page": f"https://www.steamgriddb.com/grid/{row['id']}",
                                   "attribution": (row.get("author") or {}).get("name", "Unknown SteamGridDB contributor"),

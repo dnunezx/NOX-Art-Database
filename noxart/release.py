@@ -26,10 +26,10 @@ def validate(root, database="database/games.json", config_file="config.json"):
                 raise ValueError("Non-generated entry references artwork")
             continue
         canonical = canonical_id(game, by_id)
-        expected = f"PS3/{canonical}.png"
+        expected = f"{canonical}.png"
         if game.get("artwork") != expected:
             raise ValueError("Artwork reference must match canonical Title ID")
-        for directory, key, size, checksum in (("artwork", "artwork", 512, "sha256"), ("thumbnails", "thumbnail", 256, "thumbnail_sha256")):
+        for directory, key, size, checksum in (("art", "artwork", 512, "sha256"), ("thumbnails", "thumbnail", 256, "thumbnail_sha256")):
             if key == "thumbnail" and not game.get(key):
                 continue
             if game.get(key) != expected:
@@ -50,8 +50,8 @@ def validate(root, database="database/games.json", config_file="config.json"):
             target = by_id[canonical]
             if target.get("sha256") != game["sha256"] or target.get("source") != game.get("source"):
                 raise ValueError("Shared artwork metadata conflicts with canonical entry")
-    for directory in ("artwork", "thumbnails"):
-        for path in (root / directory).glob("PS3/*"):
+    for directory in ("art", "thumbnails"):
+        for path in (root / directory).glob("*"):
             if path.is_file() and path.name != ".gitkeep" and path.resolve() not in referenced:
                 raise ValueError(f"Unreferenced output: {path.relative_to(root)}")
     return games
@@ -61,7 +61,7 @@ def manifest(root, database="database/games.json", config_file="config.json"):
     games = validate(root, database, config_file)
     by_id = {g["title_id"]: g for g in games}
     result = {"version": 1, "platform": "PS3", "artwork_size": 512, "thumbnail_size": 256,
-              "artwork_root": "artwork/", "thumbnail_root": "thumbnails/", "games": {}}
+              "artwork_root": "art/", "thumbnail_root": "thumbnails/", "games": {}}
     for game in sorted(games, key=lambda g: g["title_id"]):
         if publishable(game) and publishable(by_id[canonical_id(game, by_id)]):
             result["games"][game["title_id"]] = {key: game.get(key) for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256")}
@@ -84,7 +84,7 @@ def package(root, database="database/games.json", config_file="config.json", ver
                           and by_id[canonical_id(g, by_id)].get("review_status") == "approved"}
     paths = set()
     for entry in index["games"].values():
-        paths.add("artwork/" + entry["artwork"])
+        paths.add("art/" + entry["artwork"])
         if entry.get("thumbnail"):
             paths.add("thumbnails/" + entry["thumbnail"])
     public_metadata = []
@@ -137,7 +137,7 @@ def prepare_public(root, database="database/games.json"):
     for game in games:
         canonical = by_id[canonical_id(game, by_id)]
         if not redistribution_allowed(canonical):
-            for directory, key in (("artwork", "artwork"), ("thumbnails", "thumbnail")):
+            for directory, key in (("art", "artwork"), ("thumbnails", "thumbnail")):
                 if game.get(key):
                     safe_path(root / directory, game[key]).unlink(missing_ok=True)
                     game[key] = None

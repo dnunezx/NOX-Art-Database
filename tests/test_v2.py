@@ -22,6 +22,7 @@ from noxart.pipeline import generate
 from noxart.release import manifest, package, prepare_public, validate
 from noxart.reporting import reports
 from noxart.selection import ranked
+from noxart.individual import individual_index
 from providers.steamgriddb import ResponseError, SteamGridDB
 from scripts.import_games import import_games
 from scripts.review_artwork import approve
@@ -150,7 +151,7 @@ class SelectionTests(Fixture):
 class PipelineTests(Fixture):
     def test_512_download_and_pixels_preserved(self):
         entry = self.build()
-        output = self.root / "artwork" / entry["artwork"]
+        output = self.root / "art" / entry["artwork"]
         with Image.open(output) as image:
             self.assertEqual(image.tobytes(), self.image.tobytes())
         self.assertEqual(entry["processing_method"], "native-square")
@@ -166,7 +167,7 @@ class PipelineTests(Fixture):
         generate(self.root)
         entry = read_json(self.root / "database/games.json")[0]
         self.assertEqual(entry["processing_method"], "downscale-square")
-        validate_png(self.root / "artwork" / entry["artwork"], 512, self.config)
+        validate_png(self.root / "art" / entry["artwork"], 512, self.config)
 
     def test_empty_grids_generate_missing_report(self):
         result, _ = self.fetch(self.api([]))
@@ -229,7 +230,7 @@ class PipelineTests(Fixture):
         approve(self.root, ["BCUS98111"])
         path = package(self.root, private=True)
         with zipfile.ZipFile(path) as archive:
-            self.assertIn("artwork/PS3/BCUS98111.png", archive.namelist())
+            self.assertIn("art/BCUS98111.png", archive.namelist())
         self.assertEqual(manifest(self.root)["games"], {})
 
     def test_approved_manifest_real_hashes_and_reproducible_zip(self):
@@ -243,12 +244,24 @@ class PipelineTests(Fixture):
         self.assertEqual(index["games"]["BCUS98111"]["sha256"], entry["sha256"])
         first = package(self.root).read_bytes()
         self.assertEqual(first, package(self.root).read_bytes())
+        index = individual_index(self.root)
+        entry = index["games"]["BCUS98111"]
+        self.assertEqual(entry["artwork"], "art/BCUS98111.png")
+        self.assertTrue(entry["download_url"].endswith("/main/art/BCUS98111.png"))
+        self.assertEqual(entry["sha256"], file_hash(self.root / entry["artwork"]))
+
+    def test_individual_index_has_no_broken_public_links(self):
+        self.build()
+        prepare_public(self.root)
+        index = individual_index(self.root)
+        self.assertIsNone(index["games"]["BCUS98111"]["download_url"])
+        self.assertIn("steamgriddb.com", index["games"]["BCUS98111"]["source_url"])
 
     def test_prepare_public_keeps_metadata_removes_image(self):
         self.build()
         prepare_public(self.root)
         validate(self.root)
-        self.assertFalse((self.root / "artwork/PS3/BCUS98111.png").exists())
+        self.assertFalse((self.root / "art/BCUS98111.png").exists())
         reports(self.root)
         self.assertIn("cdn2.steamgriddb.com", (self.root / "reports/contact-sheet.html").read_text())
 
@@ -275,7 +288,7 @@ class PipelineTests(Fixture):
             load_games(self.root / "database/games.json")
         write_json(self.root / "database/games.json", [GAME])
         self.build()
-        save_png(Image.new("RGB", (512, 512), "red"), self.root / "artwork/PS3/BCUS98111.png")
+        save_png(Image.new("RGB", (512, 512), "red"), self.root / "art/BCUS98111.png")
         with self.assertRaisesRegex(ValueError, "Checksum"):
             validate(self.root)
 

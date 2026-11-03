@@ -1,0 +1,43 @@
+[
+  {
+    "title_id": "BCUS98111",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98123",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98233",
+    "status": "missing",
+    "message": "No permitted source image available"
+  },
+  {
+    "title_id": "BCUS98174",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98148",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "warnings": []
+  }
+]

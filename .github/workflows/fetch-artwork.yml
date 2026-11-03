@@ -16,6 +16,10 @@ on:
         description: Include a private-use approved pack (private repositories only)
         type: boolean
         default: false
+      build_zip:
+        description: Also build optional ZIP packs
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths:
@@ -38,10 +42,12 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          persist-credentials: false
+          persist-credentials: true
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.11'
@@ -60,7 +66,7 @@ jobs:
             .cache/state
           key: sgdb-v2-${{ runner.os }}-${{ github.run_id }}
           restore-keys: sgdb-v2-${{ runner.os }}-
-      - name: Fetch, match, validate and package
+      - name: Fetch and validate individual artwork
         env:
           STEAMGRIDDB_API_KEY: ${{ secrets.STEAMGRIDDB_API_KEY }}
           NOX_LIMIT: ${{ inputs.limit || '10' }}
@@ -68,15 +74,21 @@ jobs:
           NOX_REPLACE: ${{ inputs.replace || '' }}
           NOX_PRIVATE_PACK: ${{ inputs.private_pack || 'false' }}
           NOX_REPOSITORY_PRIVATE: ${{ github.event.repository.private }}
+          NOX_BUILD_ZIP: ${{ inputs.build_zip || 'false' }}
         run: python -m scripts.run_pipeline
+      - name: Update individual artwork database directly
+        if: github.ref == 'refs/heads/main'
+        run: python -m scripts.commit_updates
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         if: success()
         with:
           name: nox-steamgriddb-${{ github.run_number }}
           path: |
-            dist/
+            art/
+            thumbnails/
             reports/
             database/
+            dist/
           if-no-files-found: error
           retention-days: 14
       - name: Upload explicitly requested private pack

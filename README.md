@@ -5,6 +5,29 @@ SteamGridDB is the **only online artwork provider**. Sources must already be sta
 512 × 512 or 1024 × 1024 squares. Native 512px grids take priority; 1024px grids are
 downscaled with Lanczos. No rectangular-cover fallback, cropping, effects or AI.
 
+## Individual downloads (default)
+
+NOX follows [CosmicScale's art database](https://github.com/CosmicScale/psbbn-art-database/tree/main/art):
+one PNG per game, named by its exact Title ID, in a flat `art/` directory.
+
+```text
+art/BCUS98111.png
+thumbnails/BCUS98111.png
+database/individual_manifest.json
+```
+
+Once an image is approved for public distribution, its individual URL is:
+`https://raw.githubusercontent.com/dnunezx/NOX-Art-Database/main/art/BCUS98111.png`.
+The individual manifest supplies actual download URLs and SHA-256 hashes, plus
+per-title source links when an image is not hosted. Unavailable files never get
+fabricated download URLs. Regional aliases use their canonical artwork path.
+
+The fetch workflow writes permitted artwork and provenance directly to `main`.
+It no longer requires pull requests or ZIP downloads. ZIP packaging is optional:
+select `build_zip` on a manual fetch, or run **NOX — Package Artwork** separately.
+GitHub's workflow artifact is merely a review snapshot; clients use individual
+raw PNG URLs for normal operation.
+
 ## Run on GitHub
 
 1. Add `STEAMGRIDDB_API_KEY` under **Settings → Secrets and variables → Actions**.
@@ -13,15 +36,15 @@ downscaled with Lanczos. No rectangular-cover fallback, cropping, effects or AI.
    five real PS3 titles, including God of War III (`BCUS98111`). Set `limit` to 1
    for a single-game test or 10 for the initial catalog.
 3. Download the `nox-steamgriddb-…` artifact. It contains full database records,
-   cached mappings, reports, a contact sheet, versioned public ZIPs and checksums.
+   cached mappings, reports, a contact sheet and individual download indexes. ZIPs are optional.
 4. Open `reports/contact-sheet.html` to inspect selected square art. Its images load
    directly from SteamGridDB; the HTML does not embed a private image cache.
 
 Missing artwork is reported without failing the batch. Missing/invalid credentials,
 malformed API responses, programming errors and invalid packages fail clearly.
-No secrets are logged or included in artifacts. Workflows run with read-only GitHub
-permissions and do not open PRs or commit database changes automatically. Reviewed
-database changes can be pushed directly to `main`.
+No secrets are logged or included in artifacts. Validation jobs use read-only GitHub permissions. The fetch job has content-write
+permission to commit validated public images and metadata directly to `main`; no PR
+is created. API secrets are available only to the fetch step.
 
 The fetch workflow also runs on catalog/code changes and weekly, bounded to ten
 games by default. It caches API metadata, mappings and a rotating queue cursor;
@@ -37,11 +60,11 @@ failures. HTTP 429 defers the host for the batch.
   and alternate preview links.
 - `reports/missing_artwork.json`, `ambiguous_matches.json`, `download_results.json`,
   `artwork_selections.json`, and `contact-sheet.html`.
-- `dist/NOX-PS3-Artwork-v2-test.zip`, `NOX-PS3-Thumbnails-v2-test.zip`,
+- Optional ZIP mode: `dist/NOX-PS3-Artwork-v2-test.zip`, `NOX-PS3-Thumbnails-v2-test.zip`,
   `NOX-Artwork-Manifest.json`, `NOX-Missing-Artwork.json` and `SHA256SUMS`.
 
 **Public packs include only visually approved artwork with documented redistribution
-permission.** Until rights are established, the ZIP contains metadata and reports,
+permission.** Until rights are established, individual records contain metadata and source links,
 and previews link to the provider. This public repository does not automatically
 upload unverified image files, including in Actions artifacts. Test processing still
 downloads, decodes, converts, validates and hashes the actual images on the runner.
@@ -138,7 +161,7 @@ python -m scripts.run_pipeline
 
 Individual modules remain available: `scripts.fetch_artwork`, `generate_squares`
 (now square-only normalization), `validate_artwork`, `generate_report`,
-`generate_manifest` and `package_artwork`. The implementation lives in `noxart/`
+`generate_manifest`, `publish_individual` and optional `package_artwork`. The implementation lives in `noxart/`
 and `providers/steamgriddb.py`, rather than duplicate wrapper implementations.
 
 Unit tests use original geometric fixtures created in memory and mocked HTTP/API

@@ -1,0 +1,66 @@
+[
+  {
+    "title_id": "BCUS98111",
+    "status": "selected",
+    "asset_id": 263645,
+    "game_id": 38217,
+    "url": "https://cdn2.steamgriddb.com/grid/9a9a9310b598409af151c45ef23d8ea3.png",
+    "source_sha256": "c329bc7cf2993afbd2fd2e51f7eed2c5ba99d95415d2ae3ff9ba35f8c9af5efc",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked-pending-review",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98123",
+    "status": "selected",
+    "asset_id": 137325,
+    "game_id": 5245365,
+    "url": "https://cdn2.steamgriddb.com/grid/3c5c893d0214c89fdfa50e1af885b0d5.png",
+    "source_sha256": "3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked-pending-review",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98233",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BCUS98174",
+    "status": "selected",
+    "asset_id": 144045,
+    "game_id": 5103049,
+    "url": "https://cdn2.steamgriddb.com/grid/992c2f0d2905f7c730f85a8a4f98e460.png",
+    "source_sha256": "8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked-pending-review",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98148",
+    "status": "selected",
+    "asset_id": 238018,
+    "game_id": 5246704,
+    "url": "https://cdn2.steamgriddb.com/grid/a1192e95e865f8ced808b3dc35657a01.png",
+    "source_sha256": "7e7fd2acfa0b6ec4334c738e93d1f30e07e711e3d71ec4f1cc9a7d10b05561d7",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked-pending-review",
+    "warnings": []
+  }
+]

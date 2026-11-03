@@ -20,7 +20,7 @@ def inspect_source(path, config):
                     raise ValueError("Only static PNG, JPEG and WebP images are supported")
                 if image.mode not in {"RGB", "RGBA", "P", "L", "LA", "CMYK"}:
                     raise ValueError("Unsupported source color mode")
-                dimensions = list(image.size)
+                dimensions, source_format = list(image.size), image.format
                 image.verify()
             with Image.open(path) as image:
                 image.load()
@@ -31,7 +31,7 @@ def inspect_source(path, config):
                 if max(stat.stddev) == 0:
                     raise ValueError("Blank source image")
                 notes = ["Low color variation: inspect for placeholders or intentional minimalism"] if max(stat.stddev) < 5 else []
-                return {"dimensions": dimensions, "warnings": notes}
+                return {"dimensions": dimensions, "format": source_format, "warnings": notes}
     except (UnidentifiedImageError, OSError, Image.DecompressionBombError, Image.DecompressionBombWarning):
         raise ValueError("Corrupt or unsafe source image") from None
 

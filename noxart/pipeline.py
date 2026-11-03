@@ -27,7 +27,7 @@ def generate(root, database="database/games.json", config_file="config.json", li
         if game.get("shared_with"):
             continue
         ident = game["title_id"]
-        output = safe_path(root / "artwork/PS3", ident + ".png")
+        output = safe_path(root / "art", ident + ".png")
         source = (game.get("pending_source") if ident in replacement_ids else None) or game.get("source") or {}
         source_path = safe_path(root / "sources", source["path"]) if source.get("path") else None
         if game.get("artwork_status") == "restricted" and not (source_path and source_path.is_file()):
@@ -37,11 +37,11 @@ def generate(root, database="database/games.json", config_file="config.json", li
             if not game.get("artwork"):
                 # Adopt pre-existing valid NOX art without inventing rights or approval.
                 checksum = file_hash(output)
-                thumb_path = "PS3/" + ident + ".png" if config["thumbnails"] else None
+                thumb_path = ident + ".png" if config["thumbnails"] else None
                 if thumb_path:
                     with Image.open(output) as existing:
                         save_png(existing.resize((256, 256), Image.Resampling.LANCZOS), safe_path(root / "thumbnails", thumb_path))
-                game.update(artwork_status="generated", artwork="PS3/" + ident + ".png", thumbnail=thumb_path,
+                game.update(artwork_status="generated", artwork=ident + ".png", thumbnail=thumb_path,
                             sha256=checksum, source_sha256=checksum,
                             thumbnail_sha256=file_hash(safe_path(root / "thumbnails", thumb_path)) if thumb_path else None,
                             source={"provider": "existing", "attribution": "Existing NOX artwork; provenance requires review", "redistribution": "unverified"},
@@ -69,9 +69,9 @@ def generate(root, database="database/games.json", config_file="config.json", li
             save_png(image, output)
             thumb_path = None
             if config["thumbnails"]:
-                thumb_path = "PS3/" + ident + ".png"
+                thumb_path = ident + ".png"
                 save_png(image.resize((256, 256), Image.Resampling.LANCZOS), safe_path(root / "thumbnails", thumb_path))
-            game.update(artwork_status="generated", artwork="PS3/" + ident + ".png", thumbnail=thumb_path,
+            game.update(artwork_status="generated", artwork=ident + ".png", thumbnail=thumb_path,
                         source=source,
                         source_sha256=file_hash(source_path), sha256=file_hash(output),
                         thumbnail_sha256=file_hash(safe_path(root / "thumbnails", thumb_path)) if thumb_path else None,
@@ -98,7 +98,8 @@ def generate(root, database="database/games.json", config_file="config.json", li
             canonical = by_id[canonical["shared_with"]]
         if canonical.get("artwork_status") == "generated":
             for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256", "source", "source_sha256", "generated_at",
-                        "processing_method", "processing_settings", "processing_sha256", "source_dimensions", "quality_warnings"):
+                        "processing_method", "processing_settings", "processing_sha256", "source_dimensions", "quality_warnings",
+                        "steamgriddb_game_id", "match_confidence"):
                 game[key] = canonical.get(key)
             if game.get("sha256") != game.get("reviewed_sha256"):
                 game["review_status"] = "pending"

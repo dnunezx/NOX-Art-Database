@@ -3,7 +3,7 @@
   "platform": "PS3",
   "artwork_size": 512,
   "thumbnail_size": 256,
-  "artwork_root": "artwork/",
+  "artwork_root": "art/",
   "thumbnail_root": "thumbnails/",
   "games": {}
 }

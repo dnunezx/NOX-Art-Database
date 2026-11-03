@@ -1,0 +1,89 @@
+[
+  {
+    "title_id": "BCUS98233",
+    "title": "Uncharted 3: Drake's Deception",
+    "candidates": [
+      {
+        "id": 5245366,
+        "name": "Uncharted 3: Drake's Deception",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5325996,
+        "name": "Uncharted™ 3: Drake’s Deception Remastered",
+        "verified": true,
+        "types": [],
+        "release_date": 1479254400
+      },
+      {
+        "id": 5209428,
+        "name": "Uncharted: Drake's Fortune",
+        "verified": true,
+        "types": [],
+        "release_date": 1195430400
+      },
+      {
+        "id": 5325994,
+        "name": "Uncharted™: Drake's Fortune Remastered",
+        "verified": true,
+        "types": [],
+        "release_date": 1479254400
+      },
+      {
+        "id": 5246715,
+        "name": "Uncharted: The Nathan Drake Collection",
+        "verified": true,
+        "types": [],
+        "release_date": 1444176000
+      },
+      {
+        "id": 2363,
+        "name": "Uncharted Waters Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1363974840
+      },
+      {
+        "id": 5230,
+        "name": "Uncharted Waters Online: Episode Atlantis",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412369220
+      },
+      {
+        "id": 13872,
+        "name": "Uncharted Waters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 642988800
+      },
+      {
+        "id": 18091,
+        "name": "Uncharted Waters II (Daikoukai Jidai II)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 729302400
+      },
+      {
+        "id": 29425,
+        "name": "Uncharted Waters Online - Steam",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1545254929
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  }
+]

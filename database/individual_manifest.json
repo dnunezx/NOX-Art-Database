@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "platform": "PS3",
+  "artwork_size": 512,
+  "artwork_base_url": "https://raw.githubusercontent.com/dnunezx/NOX-Art-Database/main/art/",
+  "thumbnail_base_url": "https://raw.githubusercontent.com/dnunezx/NOX-Art-Database/main/thumbnails/",
+  "games": {
+    "BCUS98111": {
+      "title": "God of War III",
+      "steamgriddb_id": 38217,
+      "asset_id": 263645,
+      "status": "restricted",
+      "artwork": null,
+      "thumbnail": null,
+      "download_url": null,
+      "sha256": null,
+      "source_url": "https://cdn2.steamgriddb.com/grid/9a9a9310b598409af151c45ef23d8ea3.png",
+      "source_page": "https://www.steamgriddb.com/grid/263645",
+      "source_sha256": "c329bc7cf2993afbd2fd2e51f7eed2c5ba99d95415d2ae3ff9ba35f8c9af5efc",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "attribution": "Prabhjot19",
+      "license": "Third-party artwork; redistribution unverified",
+      "review_status": "pending",
+      "redistribution": "unverified"
+    },
+    "BCUS98123": {
+      "title": "Uncharted 2: Among Thieves",
+      "steamgriddb_id": 5245365,
+      "asset_id": 137325,
+      "status": "restricted",
+      "artwork": null,
+      "thumbnail": null,
+      "download_url": null,
+      "sha256": null,
+      "source_url": "https://cdn2.steamgriddb.com/grid/3c5c893d0214c89fdfa50e1af885b0d5.png",
+      "source_page": "https://www.steamgriddb.com/grid/137325",
+      "source_sha256": "3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "attribution": "Timberfang",
+      "license": "Third-party artwork; redistribution unverified",
+      "review_status": "pending",
+      "redistribution": "unverified"
+    },
+    "BCUS98233": {
+      "title": "Uncharted 3: Drake's Deception",
+      "steamgriddb_id": null,
+      "asset_id": null,
+      "status": "missing",
+      "artwork": null,
+      "thumbnail": null,
+      "download_url": null,
+      "sha256": null,
+      "source_url": null,
+      "source_page": null,
+      "source_sha256": null,
+      "source_dimensions": null,
+      "attribution": null,
+      "license": null,
+      "review_status": "pending",
+      "redistribution": "unverified"
+    },
+    "BCUS98174": {
+      "title": "The Last of Us",
+      "steamgriddb_id": 5103049,
+      "asset_id": 144045,
+      "status": "restricted",
+      "artwork": null,
+      "thumbnail": null,
+      "download_url": null,
+      "sha256": null,
+      "source_url": "https://cdn2.steamgriddb.com/grid/992c2f0d2905f7c730f85a8a4f98e460.png",
+      "source_page": "https://www.steamgriddb.com/grid/144045",
+      "source_sha256": "8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd",
+      "source_dimensions": [
+        1024,
+        1024
+      ],
+      "attribution": "ABH20",
+      "license": "Third-party artwork; redistribution unverified",
+      "review_status": "pending",
+      "redistribution": "unverified"
+    },
+    "BCUS98148": {
+      "title": "LittleBigPlanet",
+      "steamgriddb_id": 5246704,
+      "asset_id": 238018,
+      "status": "restricted",
+      "artwork": null,
+      "thumbnail": null,
+      "download_url": null,
+      "sha256": null,
+      "source_url": "https://cdn2.steamgriddb.com/grid/a1192e95e865f8ced808b3dc35657a01.png",
+      "source_page": "https://www.steamgriddb.com/grid/238018",
+      "source_sha256": "7e7fd2acfa0b6ec4334c738e93d1f30e07e711e3d71ec4f1cc9a7d10b05561d7",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "attribution": "Shiios42",
+      "license": "Third-party artwork; redistribution unverified",
+      "review_status": "pending",
+      "redistribution": "unverified"
+    }
+  }
+}

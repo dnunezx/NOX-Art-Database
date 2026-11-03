@@ -7,6 +7,7 @@ from noxart.common import read_json, write_json
 from noxart.pipeline import generate
 from noxart.release import package, prepare_public, validate
 from noxart.reporting import reports
+from noxart.individual import individual_index
 
 
 def main():
@@ -32,13 +33,15 @@ def main():
     prepare_public(root)
     validate(root)
     reports(root)
-    package(root, version=os.environ.get("NOX_VERSION", "v2-test"))
+    individual_index(root)
+    if os.environ.get("NOX_BUILD_ZIP", "false").lower() == "true":
+        package(root, version=os.environ.get("NOX_VERSION", "v2-test"))
     write_json(state / "mapping.json", read_json(mapping_file))
     if queue_file.exists():
         write_json(state / "queue.json", read_json(queue_file))
     from collections import Counter
     print("Batch results:", dict(Counter(g.get("artwork_status", "missing") for g in read_json(root / "database/games.json"))))
-    print("Validated public packs, reports and manifest are ready in dist/, reports/ and database/")
+    print("Validated individual artwork, reports and download indexes are ready in art/, reports/ and database/")
 
 
 if __name__ == "__main__":

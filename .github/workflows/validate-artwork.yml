@@ -24,12 +24,14 @@ jobs:
       - run: python -m scripts.check_public
       - run: python -m scripts.build_database --check
       - run: python -m scripts.generate_report
-      - run: python -m scripts.package_artwork
+      - run: python -m scripts.publish_individual
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: validated-nox-artwork
           path: |
-            dist/
+            art/
+            thumbnails/
             reports/
+            database/
           if-no-files-found: error
           retention-days: 14
