@@ -4,7 +4,7 @@ on:
     inputs:
       limit:
         description: Maximum games per batch (1-1000)
-        default: '10'
+        default: '100'
       refresh:
         description: Refresh API caches and check for changed sources
         type: boolean
@@ -32,7 +32,7 @@ on:
       - requirements.txt
       - .github/workflows/fetch-artwork.yml
   schedule:
-    - cron: '17 7 * * 1'
+    - cron: '17 * * * *'
 permissions:
   contents: read
 concurrency:
@@ -69,7 +69,7 @@ jobs:
       - name: Fetch and validate individual artwork
         env:
           STEAMGRIDDB_API_KEY: ${{ secrets.STEAMGRIDDB_API_KEY }}
-          NOX_LIMIT: ${{ inputs.limit || '10' }}
+          NOX_LIMIT: ${{ inputs.limit || '100' }}
           NOX_REFRESH: ${{ inputs.refresh || 'false' }}
           NOX_REPLACE: ${{ inputs.replace || '' }}
           NOX_PRIVATE_PACK: ${{ inputs.private_pack || 'false' }}
@@ -80,7 +80,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: python -m scripts.commit_updates
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        if: success()
+        if: success() && github.event_name != 'schedule'
         with:
           name: nox-steamgriddb-${{ github.run_number }}
           path: |
@@ -90,7 +90,7 @@ jobs:
             database/
             dist/
           if-no-files-found: error
-          retention-days: 14
+          retention-days: 3
       - name: Upload explicitly requested private pack
         if: inputs.private_pack && github.event.repository.private
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4

@@ -1,18 +1,27 @@
 """Match PS3 entries, fetch native squares, and record reviewable selections."""
 from pathlib import Path
+import time
+from datetime import datetime, timezone
 
 from providers.steamgriddb import SteamGridDB
 from .common import advance_queue, digest, file_hash, load_games, queued_games, read_json, safe_path, write_json
-from .http import DownloadError, HttpClient
+from .http import DownloadError, HttpClient, RateLimitError
 from .imaging import inspect_source
 from .matching import resolve
 from .selection import ranked, score
+from .queue import eligible, record
 
 
 def fetch(root, limit=None, refresh=False, client=None, replace=()):
     root = Path(root)
     config = read_json(root / "config.json")
     games = load_games(root / "database/games.json")
+    queue_path = root / "reports/provider_cooldown.json"
+    if queue_path.exists() and not refresh:
+        cooldown = read_json(queue_path).get("retry_after")
+        if cooldown and datetime.fromisoformat(cooldown) > datetime.now(timezone.utc):
+            print("SteamGridDB cooldown active; saved progress retained until", cooldown)
+            return []
     client = client or HttpClient(root, config)
     api = SteamGridDB(client, refresh=refresh)  # Missing keys are fatal even for empty batches.
     mapping_path = root / "database/steamgriddb_mapping.json"
@@ -21,21 +30,28 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
     if not 1 <= maximum <= 1000:
         raise ValueError("Batch size must be between 1 and 1000")
     events, ambiguous, count, last_attempted = [], [], 0, None
+    started = time.monotonic()
+    previous_ambiguous = root / "reports/ambiguous_matches.json"
+    review_by_id = {row["title_id"]: row for row in read_json(previous_ambiguous)} if previous_ambiguous.exists() else {}
     for game in queued_games(root, games, "fetch"):
         ident = game["title_id"]
-        if game.get("shared_with") or (game.get("artwork_status") == "generated" and ident not in replace and not refresh):
+        if game.get("artwork_status") == "generated" and ident not in replace and not refresh:
             continue
-        if count >= maximum:
+        if not eligible(game, config, refresh=refresh, replace=replace):
+            continue
+        if count >= maximum or time.monotonic() - started >= config.get("batch_time_seconds", 1200):
             break
         count += 1
         last_attempted = ident
         try:
             mapping, suggestions = resolve(game, api, mappings.get(ident))
             if not mapping:
-                ambiguous.append({"title_id": ident, "title": game["title"], "candidates": suggestions,
-                                  "reason": "No unique exact title and release match; verify game ID manually"})
+                review_by_id[ident] = {"title_id": ident, "title": game["title"], "candidates": suggestions,
+                                      "reason": "No unique exact title and release match; verify game ID manually"}
                 events.append({"title_id": ident, "status": "ambiguous_match" if suggestions else "missing_game"})
+                record(game, config, events[-1])
                 continue
+            review_by_id.pop(ident, None)
             previous_asset = mappings.get(ident, {}).get("asset_id") if not refresh else None
             mappings[ident] = mapping
             game["match_confidence"] = mapping["confidence"]
@@ -96,6 +112,18 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
                                 game["pending_source"] = source
                         else:
                             game["source"] = source
+                        # The same verified SGDB identity + exact asset is an explicit
+                        # equivalence, independent of filename similarity.
+                        for canonical in games:
+                            if canonical is game or canonical.get("shared_with"):
+                                continue
+                            if (canonical.get("steamgriddb_game_id") == mapping["game_id"]
+                                    and (canonical.get("source") or {}).get("provider_artwork_id") == row["id"]
+                                    and canonical.get("match_confidence") in {"exact", "manual"}
+                                    and (canonical.get("artwork_status") in {"generated", "restricted"}
+                                         or canonical.get("fetch_state", {}).get("status") == "selected")):
+                                game["shared_with"] = canonical["title_id"]
+                                break
                         mapping["asset_id"] = row["id"]
                         mapping["asset_selection"] = "manual" if asset_id else "ranked-pending-review"
                         mapping["previews"] = previews
@@ -103,20 +131,30 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
                                        "game_id": mapping["game_id"], "url": url, "source_sha256": file_hash(path),
                                        "dimensions": info["dimensions"], "match_confidence": mapping["confidence"],
                                        "selection": mapping["asset_selection"], "warnings": info["warnings"]})
+                        record(game, config, events[-1])
                         selected = True
                         break
+                    except RateLimitError:
+                        raise
                     except (DownloadError, ValueError, OSError) as error:
                         events.append({"title_id": ident, "status": "candidate_rejected", "asset_id": row["id"], "message": str(error)})
                 if selected:
                     break
             if not selected:
                 events.append({"title_id": ident, "status": "missing_square", "previews": previews})
+                record(game, config, events[-1])
+        except RateLimitError as error:
+            events.append({"title_id": ident, "status": "provider_unavailable", "message": str(error)})
+            record(game, config, events[-1])
+            write_json(queue_path, {"retry_after": error.retry_after or game["fetch_state"]["retry_after"]})
+            break
         except DownloadError as error:
             events.append({"title_id": ident, "status": "provider_unavailable", "message": str(error)})
+            record(game, config, events[-1])
     write_json(root / "database/games.json", games)
     write_json(mapping_path, mappings)
     if last_attempted:
         advance_queue(root, "fetch", last_attempted)
-    write_json(root / "reports/ambiguous_matches.json", ambiguous)
+    write_json(root / "reports/ambiguous_matches.json", list(review_by_id.values()))
     write_json(root / "reports/download_results.json", events)
     return events

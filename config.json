@@ -1,5 +1,7 @@
 {
-  "batch_size": 10,
+  "batch_size": 100,
+  "batch_time_seconds": 1200,
+  "missing_retry_days": 7,
   "thumbnails": true,
   "max_source_bytes": 20971520,
   "max_pixels": 1048576,

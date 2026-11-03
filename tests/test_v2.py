@@ -23,6 +23,10 @@ from noxart.release import manifest, package, prepare_public, validate
 from noxart.reporting import reports
 from noxart.selection import ranked
 from noxart.individual import individual_index
+from noxart.queue import eligible, record
+from datetime import datetime, timedelta, timezone
+from noxart.http import RateLimitError
+from scripts.import_us_discs import import_catalog
 from providers.steamgriddb import ResponseError, SteamGridDB
 from scripts.import_games import import_games
 from scripts.review_artwork import approve
@@ -265,12 +269,25 @@ class PipelineTests(Fixture):
         reports(self.root)
         self.assertIn("cdn2.steamgriddb.com", (self.root / "reports/contact-sheet.html").read_text())
 
-    def test_duplicates_require_explicit_shared_mapping(self):
+    def test_same_verified_identity_and_asset_create_explicit_alias(self):
         write_json(self.root / "database/games.json", [GAME, {**GAME, "title_id": "BCES00510"}])
         self.fetch()
         generate(self.root)
-        with self.assertRaisesRegex(ValueError, "duplicate"):
-            validate(self.root)
+        games = validate(self.root)
+        self.assertEqual(games[1]["shared_with"], "BCUS98111")
+
+    def test_unrelated_duplicate_output_is_queued_for_review(self):
+        self.build()
+        games = read_json(self.root / "database/games.json")
+        second = copy.deepcopy(games[0])
+        second.update(title_id="BLUS99999", title="Unrelated game", artwork_status="missing", steamgriddb_game_id=99)
+        for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256"):
+            second.pop(key, None)
+        games.append(second)
+        write_json(self.root / "database/games.json", games)
+        generate(self.root)
+        games = validate(self.root)
+        self.assertEqual(games[1]["fetch_state"]["status"], "duplicate_review")
 
     def test_verified_region_alias(self):
         write_json(self.root / "database/games.json", [GAME, {"title_id": "BCES00510", "title": "God of War III", "shared_with": "BCUS98111"}])
@@ -324,6 +341,59 @@ class ImageTests(Fixture):
         image.save(path)
         inspect_source(path, self.config)
         self.assertEqual(square_image(path)[0].mode, "RGB")
+
+
+class QueueTests(Fixture):
+    def test_finished_title_is_not_downloaded_on_next_run(self):
+        self.build()
+        prepare_public(self.root)
+        api = self.api()
+        self.fetch(api)
+        api.search.assert_not_called()
+        api.game.assert_not_called()
+        api.grids.assert_not_called()
+
+    def test_missing_retry_and_configuration_change(self):
+        game = dict(GAME)
+        now = datetime(2026, 11, 2, tzinfo=timezone.utc)
+        record(game, self.config, {"status": "missing_square"}, now)
+        self.assertFalse(eligible(game, self.config, now + timedelta(hours=1)))
+        self.assertTrue(eligible(game, self.config, now + timedelta(days=8)))
+        self.assertTrue(eligible(game, self.config, now, refresh=True))
+        self.config["overrides"] = {game["title_id"]: {"asset_id": 9}}
+        self.assertTrue(eligible(game, self.config, now))
+
+    def test_ambiguous_waits_for_manual_mapping_and_keeps_report(self):
+        api = self.api()
+        api.search.return_value = [{"id": 9, "name": "Unrelated"}]
+        self.fetch(api)
+        self.fetch(self.api())
+        self.assertEqual(len(read_json(self.root / "reports/ambiguous_matches.json")), 1)
+        game = read_json(self.root / "database/games.json")[0]
+        self.assertFalse(eligible(game, self.config))
+        game.update(steamgriddb_game_id=12, mapping_approved=True)
+        self.assertTrue(eligible(game, self.config))
+
+    def test_rate_limit_stops_batch_and_persists_cooldown(self):
+        api = self.api()
+        api.search.side_effect = RateLimitError((datetime.now(timezone.utc) + timedelta(hours=2)).isoformat())
+        self.fetch(api)
+        self.assertTrue((self.root / "reports/provider_cooldown.json").exists())
+        api = self.api()
+        self.fetch(api)
+        api.search.assert_not_called()
+
+    def test_disc_import_filters_regions_and_demo_word_boundaries(self):
+        catalog = self.root / "catalog.json"
+        write_json(catalog, {"BLUS-30443": {"title": "Demon's Souls", "region": "NTSC-U"},
+                            "BCUS-90660": {"title": "Game Demo Disc", "region": "NTSC-U"},
+                            "NPUB-12345": {"title": "PSN Game", "region": "NTSC-U"},
+                            "BLES-12345": {"title": "European Disc", "region": "PAL"}})
+        result = import_catalog(self.root, catalog)
+        games = read_json(self.root / "database/games.json")
+        self.assertEqual(result["added"], 1)
+        self.assertEqual(len(result["excluded"]), 1)
+        self.assertEqual(games[-1]["title"], "Demon's Souls")
 
 
 class Response(io.BytesIO):

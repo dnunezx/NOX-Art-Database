@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 from .common import load_games, read_json, safe_path, write_json
+from .queue import eligible
 
 
 def reports(root, database="database/games.json"):
@@ -16,6 +17,17 @@ def reports(root, database="database/games.json"):
     missing = [{"title_id": g["title_id"], "title": g["title"], "status": results.get(g["title_id"], {}).get("status", g.get("artwork_status", "missing"))}
                for g in games if g.get("artwork_status") not in {"generated", "restricted"}]
     write_json(destination / "missing_artwork.json", missing)
+    config = read_json(root / "config.json")
+    progress = {"total_title_ids": len(games),
+                "processed_artwork": sum(g.get("artwork_status") in {"generated", "restricted"} for g in games),
+                "hosted_pngs": sum(g.get("artwork_status") == "generated" for g in games),
+                "awaiting_review": sum(g.get("fetch_state", {}).get("status") in {"ambiguous_match", "duplicate_review"} for g in games),
+                "missing_retry": sum(g.get("fetch_state", {}).get("status") in {"missing_game", "missing_square", "provider_unavailable"} for g in games),
+                "ready_for_next_batch": sum(eligible(g, config) and g.get("artwork_status") != "generated" for g in games),
+                "batch_size": config["batch_size"]}
+    write_json(destination / "progress.json", progress)
+    summary = "\n".join(f"- {key.replace('_', ' ')}: {value}" for key, value in progress.items()) + "\n"
+    (destination / "progress.md").write_text("# US disc artwork progress\n\n" + summary, encoding="utf-8")
     rows = ["# NOX artwork review", "", "| Title | Title ID | Asset | Match | Validation | Review | Redistribution |",
             "|---|---|---|---|---|---|---|"]
     cards = []

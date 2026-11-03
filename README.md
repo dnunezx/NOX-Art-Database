@@ -33,8 +33,8 @@ raw PNG URLs for normal operation.
 1. Add `STEAMGRIDDB_API_KEY` under **Settings → Secrets and variables → Actions**.
    Obtain your key from [SteamGridDB API preferences](https://www.steamgriddb.com/profile/preferences/api).
 2. Open **Actions → NOX — Fetch PS3 Artwork → Run workflow**. The initial list has
-   five real PS3 titles, including God of War III (`BCUS98111`). Set `limit` to 1
-   for a single-game test or 10 for the initial catalog.
+   **1,238 US disc Title IDs**, including God of War III (`BCUS98111`). Batches
+   attempt 100 eligible titles by default and automatically resume hourly.
 3. Download the `nox-steamgriddb-…` artifact. It contains full database records,
    cached mappings, reports, a contact sheet and individual download indexes. ZIPs are optional.
 4. Open `reports/contact-sheet.html` to inspect selected square art. Its images load
@@ -46,11 +46,14 @@ No secrets are logged or included in artifacts. Validation jobs use read-only Gi
 permission to commit validated public images and metadata directly to `main`; no PR
 is created. API secrets are available only to the fetch step.
 
-The fetch workflow also runs on catalog/code changes and weekly, bounded to ten
-games by default. It caches API metadata, mappings and a rotating queue cursor;
+The fetch workflow also runs on catalog/code changes and hourly, bounded to 100
+eligible titles and a 20-minute soft budget. It caches API metadata, mappings and a rotating queue cursor;
 unavailable titles cannot starve later entries. It never caches private source images
 on GitHub. API access is sequential, paced and retried at most twice for transient
-failures. HTTP 429 defers the host for the batch.
+failures. HTTP 429 stops the batch and persists the provider's cooldown. Completed
+titles are skipped; missing artwork retries after seven days, while ambiguous
+matches wait for review. [Progress](reports/progress.md) shows the current queue.
+See [US catalog and automation](docs/US-CATALOG.md) for scope, provenance and limits.
 
 ## What the artifact includes
 

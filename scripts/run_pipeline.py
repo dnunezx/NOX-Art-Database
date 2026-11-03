@@ -18,9 +18,9 @@ def main():
     # Explicit committed mappings take precedence over restored automatic mappings.
     if (state / "mapping.json").exists():
         write_json(mapping_file, {**read_json(state / "mapping.json"), **(read_json(mapping_file) if mapping_file.exists() else {})})
-    if (state / "queue.json").exists():
+    if (state / "queue.json").exists() and not queue_file.exists():
         write_json(queue_file, read_json(state / "queue.json"))
-    limit = int(os.environ.get("NOX_LIMIT", "50"))
+    limit = int(os.environ.get("NOX_LIMIT", str(read_json(root / "config.json")["batch_size"])))
     replacement = os.environ.get("NOX_REPLACE", "").split()
     fetch(root, limit, refresh=os.environ.get("NOX_REFRESH", "false").lower() == "true", replace=replacement)
     generate(root, limit=limit, replace=replacement)
@@ -42,6 +42,10 @@ def main():
     from collections import Counter
     print("Batch results:", dict(Counter(g.get("artwork_status", "missing") for g in read_json(root / "database/games.json"))))
     print("Validated individual artwork, reports and download indexes are ready in art/, reports/ and database/")
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as stream:
+            stream.write((root / "reports/progress.md").read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":

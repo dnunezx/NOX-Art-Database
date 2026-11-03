@@ -1,0 +1,79 @@
+{
+  "source": "https://github.com/niemasd/GameDB-PS3",
+  "download": "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.data.json",
+  "source_sha256": "e541c785d72be6e18a238eecbff6599c34de1bf890dc2f95b480fa13ee415432",
+  "metadata_attribution": "Niema's GameDB-PS3; upstream sources MiSTer Addons and Redump",
+  "scope": "US BCUS/BLUS disc serials in upstream metadata; excludes explicit demo/trial/sampler entries",
+  "catalog_total": 1238,
+  "added": 1233,
+  "excluded": [
+    {
+      "title_id": "BCUS90660",
+      "title": "PlayStation Move Game Demo Disc Volume 2",
+      "reason": "Demo/trial/non-retail sampler"
+    },
+    {
+      "title_id": "BCUS90762",
+      "title": "PlayStation Move Game Demo Disc Volume 3",
+      "reason": "Demo/trial/non-retail sampler"
+    }
+  ],
+  "region_conflicts": [
+    {
+      "title_id": "BCUS98253",
+      "title": "God of War Collection",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BCUS98466",
+      "title": "Everybody Dance 2",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BCUS99192",
+      "title": "Invizimals: El Reino Escondido",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BCUS99277",
+      "title": "Everybody Dance 3",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31004",
+      "title": "Los Caballeros del Zodiaco: Batalla por el Santuario ~ Os Cavaleiros do Zodíaco: Batalha do Santuário",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31140",
+      "title": "Call of Duty: Black Ops II",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31198",
+      "title": "El Chavo Kart",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31221",
+      "title": "Diablo III",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31357",
+      "title": "Os Cavaleiros do Zodíaco: Bravos Soldados",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31559",
+      "title": "Os Cavaleiros do Zodíaco: Alma dos Soldados",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    },
+    {
+      "title_id": "BLUS31616",
+      "title": "FIFA 19: Legacy Edition",
+      "warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    }
+  ],
+  "coverage": "Upstream catalog coverage; not a claim that every US retail release has been independently verified"
+}

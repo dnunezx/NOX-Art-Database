@@ -5,6 +5,8 @@ import ipaddress
 import json
 import socket
 import time
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 import urllib.error
 import urllib.request
 from urllib.parse import urljoin, urlsplit
@@ -18,6 +20,12 @@ class AuthenticationError(RuntimeError):
 
 class DownloadError(ValueError):
     """Expected remote failure; callers can record it and continue a batch."""
+
+
+class RateLimitError(DownloadError):
+    def __init__(self, retry_after=None):
+        super().__init__("Provider rate limit reached; batch deferred")
+        self.retry_after = retry_after
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -95,7 +103,15 @@ class HttpClient:
                 if code == 429:
                     # Stop this host for the entire batch. Never retry before a provider's reset.
                     self.blocked_hosts.add(urlsplit(current).hostname)
-                    raise DownloadError("Provider rate limit reached; batch deferred") from None
+                    now = time.time()
+                    if retry_after.isdigit():
+                        retry_at = now + int(retry_after)
+                    else:
+                        try:
+                            retry_at = parsedate_to_datetime(retry_after).timestamp()
+                        except (TypeError, ValueError):
+                            retry_at = now + 3600
+                    raise RateLimitError(datetime.fromtimestamp(max(now + 60, retry_at), timezone.utc).isoformat()) from None
                 if code not in {500, 502, 503, 504} or attempt == self.config["retries"]:
                     raise DownloadError(f"Provider returned HTTP {code}") from None
                 if retry_after and (not retry_after.isdigit() or int(retry_after) > 30):

@@ -1,7 +1,6172 @@
 [
   {
+    "title_id": "BCUS00236",
+    "title": "MLB 15: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS01089",
+    "title": "MLB The Show 16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS81138",
+    "title": "LittleBigPlanet 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90142",
+    "title": "Mercenaries 2: World in Flames",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90143",
+    "title": "Tomb Raider: Underworld",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90162",
+    "title": "Call of Duty: Black Ops",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90190",
+    "title": "The Ico & Shadow of the Colossus Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90259",
+    "title": "Ratchet & Clank: All 4 One",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90260",
+    "title": "LittleBigPlanet 2: Special Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90490",
+    "title": "Sports Champions / Medieval Moves: Deadmund's Quest Combo Disc",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90637",
+    "title": "MLB 12: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS90664",
+    "title": "Resistance 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS94344",
+    "title": "SingStar Latino",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98102",
+    "title": "NBA 07",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98103",
+    "title": "Uncharted: Drake's Fortune",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98106",
+    "title": "Twisted Metal",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98107",
+    "title": "Resistance: Fall of Man",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98109",
+    "title": "MLB 07: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98110",
+    "title": "MAG",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98112",
+    "title": "Lair",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98114",
+    "title": "Gran Turismo 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98115",
+    "title": "Hot Shots Golf: Out of Bounds",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98116",
+    "title": "Killzone 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98117",
+    "title": "Warhawk",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98119",
+    "title": "inFamous",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98120",
+    "title": "Resistance 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98124",
+    "title": "Ratchet & Clank Future: A Crack in Time",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98125",
+    "title": "inFamous 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98127",
+    "title": "Ratchet & Clank Future: Tools of Destruction",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98131",
+    "title": "Genji: Days of the Blade",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98132",
+    "title": "Heavenly Sword",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98133",
+    "title": "The Eye of Judgment",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98135",
+    "title": "SOCOM 4: U.S. Navy SEALs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98137",
+    "title": "MotorStorm",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98141",
+    "title": "MLB 08: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98142",
+    "title": "Formula One: Championship Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98144",
+    "title": "NBA 08 featuring Games of the Week",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98145",
+    "title": "Buzz! Quiz TV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98146",
+    "title": "White Knight Chronicles: International Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98147",
+    "title": "Folklore",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98151",
+    "title": "SingStar",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98152",
+    "title": "SOCOM: U.S. Navy SEALs: Confrontation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98153",
+    "title": "Ratchet & Clank Future: Tools of Destruction",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98155",
+    "title": "MotorStorm: Pacific Rift",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98158",
+    "title": "Gran Turismo 5: Prologue",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98161",
+    "title": "SingStar",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98162",
+    "title": "Warhawk",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98164",
+    "title": "Heavy Rain",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98165",
+    "title": "NBA 09: The Inside",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98167",
+    "title": "ModNation Racers",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98169",
+    "title": "PlayStation 3 System Software Update (Version 2.0)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98175",
+    "title": "Ratchet & Clank: All 4 One",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98176",
+    "title": "Resistance 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98177",
+    "title": "Sports Champions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98180",
+    "title": "MLB 09: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98181",
+    "title": "Starhawk",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98183",
+    "title": "SOCOM: U.S. Navy SEALs: Confrontation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98186",
+    "title": "SingStar Vol. 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98190",
+    "title": "Resistance 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98192",
+    "title": "SingStar ABBA",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98199",
+    "title": "LittleBigPlanet",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98203",
+    "title": "Sorcery",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98206",
+    "title": "SingStar Queen",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98207",
+    "title": "MLB 10: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98208",
+    "title": "LittleBigPlanet: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98209",
+    "title": "Buzz! Quiz World",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98214",
+    "title": "EyePet",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98215",
+    "title": "Buzz! Quiz World",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98220",
+    "title": "Start the Party!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98222",
+    "title": "The Shoot",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98224",
+    "title": "TV Superstars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98227",
+    "title": "Puppeteer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98229",
+    "title": "God of War Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98232",
+    "title": "God of War: Ascension",
+    "status": "missing"
+  },
+  {
     "title_id": "BCUS98233",
     "title": "Uncharted 3: Drake's Deception",
     "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BCUS98234",
+    "title": "Killzone 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98235",
+    "title": "EyePet & Friends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98242",
+    "title": "MotorStorm: Apocalypse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98245",
+    "title": "LittleBigPlanet 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98246",
+    "title": "The Sly Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98247",
+    "title": "Sly Cooper: Thieves in Time",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98248",
+    "title": "PlayStation Move Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98251",
+    "title": "MLB 11: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98253",
+    "title": "God of War Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98254",
+    "title": "LittleBigPlanet Karting",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98255",
+    "title": "The Fight: Lights Out",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98257",
+    "title": "Uncharted 2: Among Thieves",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98259",
+    "title": "The Ico & Shadow of the Colossus Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98261",
+    "title": "High Velocity Bowling",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98266",
+    "title": "SingStar Dance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98269",
+    "title": "Wonderbook: Walking with Dinosaurs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98270",
+    "title": "Kung Fu Rider",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98271",
+    "title": "Carnival Island",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98278",
+    "title": "Sports Champions 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98279",
+    "title": "Medieval Moves: Deadmund's Quest",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98280",
+    "title": "Heavy Rain: Director's Cut",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98281",
+    "title": "Jak and Daxter Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98282",
+    "title": "Ratchet & Clank Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98286",
+    "title": "Killzone 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98289",
+    "title": "God of War: Origins Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98295",
+    "title": "MLB 12: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98296",
+    "title": "Gran Turismo 6",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98298",
+    "title": "Beyond: Two Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98359",
+    "title": "Wonderbook: Book of Spells",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98362",
+    "title": "LittleBigPlanet 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98365",
+    "title": "Everybody Dance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98368",
+    "title": "PlayStation Move Puzzle Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98369",
+    "title": "PlayStation Move Indoor Sports Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98372",
+    "title": "LittleBigPlanet 2: Special Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98377",
+    "title": "Journey Collector's Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98379",
+    "title": "Uncharted 3: Drake's Deception",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98380",
+    "title": "Ratchet & Clank: Full Frontal Assault",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98394",
+    "title": "Gran Turismo 5: XL Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98466",
+    "title": "Everybody Dance 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98472",
+    "title": "PlayStation All-Stars Battle Royale",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS98473",
+    "title": "MLB 13: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99075",
+    "title": "Killzone Trilogy (Killzone | Killzone 2)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99086",
+    "title": "Uncharted 3: Drake's Deception: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99089",
+    "title": "LittleBigPlanet Karting",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99134",
+    "title": "Beyond: Two Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99189",
+    "title": "Wonderbook: Book of Potions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99192",
+    "title": "Invizimals: El Reino Escondido",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99195",
+    "title": "MLB 14: The Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99198",
+    "title": "The Last of Us",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99205",
+    "title": "Best of PlayStation Network Vol. 1",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99245",
+    "title": "Ratchet & Clank: Into the Nexus",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99247",
+    "title": "Gran Turismo 6",
+    "status": "missing"
+  },
+  {
+    "title_id": "BCUS99277",
+    "title": "Everybody Dance 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30001",
+    "title": "Ridge Racer 7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30002",
+    "title": "Untold Legends: Dark Kingdom",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30003",
+    "title": "F.E.A.R.: First Encounter Assault Recon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30004",
+    "title": "NBA 2K7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30005",
+    "title": "NHL 2K7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30006",
+    "title": "Blazing Angels: Squadrons of WWII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30007",
+    "title": "The Elder Scrolls IV: Oblivion",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30008",
+    "title": "Sonic the Hedgehog",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30009",
+    "title": "Full Auto 2: Battlelines",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30010",
+    "title": "Marvel: Ultimate Alliance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30011",
+    "title": "Tony Hawk's Project 8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30012",
+    "title": "Call of Duty 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30013",
+    "title": "Tiger Woods PGA Tour 07",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30014",
+    "title": "Madden NFL 07",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30016",
+    "title": "Need for Speed: Carbon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30017",
+    "title": "Mobile Suit Gundam: Crossfire",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30018",
+    "title": "Tom Clancy's Rainbow Six: Vegas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30019",
+    "title": "Fight Night Round 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30020",
+    "title": "Virtua Fighter 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30021",
+    "title": "Virtua Tennis 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30022",
+    "title": "NBA Street Homecourt",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30023",
+    "title": "The Godfather: The Don's Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30024",
+    "title": "Def Jam: Icon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30025",
+    "title": "Major League Baseball 2K7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30026",
+    "title": "College Hoops 2K7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30027",
+    "title": "Armored Core 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30028",
+    "title": "Enchanted Arms",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30029",
+    "title": "Disney Pirates of the Caribbean: At World's End",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30030",
+    "title": "Spider-Man 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30031",
+    "title": "Spider-Man 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30032",
+    "title": "Tom Clancy's Splinter Cell: Double Agent",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30033",
+    "title": "The Bigs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30034",
+    "title": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30035",
+    "title": "The Darkness",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30036",
+    "title": "Ninja Gaiden Sigma",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30037",
+    "title": "Madden NFL 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30038",
+    "title": "FIFA Soccer 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30039",
+    "title": "NCAA Football 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30040",
+    "title": "NASCAR 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30042",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30043",
+    "title": "Disney/Pixar Ratatouille",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30044",
+    "title": "NHL 2K8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30045",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30046",
+    "title": "Surf's Up",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30047",
+    "title": "Transformers: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30048",
+    "title": "Hellboy: The Science of Evil",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30049",
+    "title": "All-Pro Football 2K8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30050",
+    "title": "Rock Band",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30052",
+    "title": "Blazing Angels 2: Secret Missions of WWII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30053",
+    "title": "Tiger Woods PGA Tour 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30055",
+    "title": "The Orange Box",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30056",
+    "title": "Mercenaries 2: World in Flames",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30057",
+    "title": "Army of Two",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30058",
+    "title": "Dynasty Warriors: Gundam",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30059",
+    "title": "Skate.",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30060",
+    "title": "NBA Live 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30061",
+    "title": "Burnout Paradise",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30062",
+    "title": "NHL 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30063",
+    "title": "Clive Barker's Jericho",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30064",
+    "title": "DiRT",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30065",
+    "title": "The Simpsons Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30066",
+    "title": "Need for Speed: ProStreet",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30067",
+    "title": "Medal of Honor: Airborne",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30068",
+    "title": "Sega Rally Revo",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30069",
+    "title": "Conan",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30070",
+    "title": "Bladestorm: The Hundred Years' War",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30071",
+    "title": "Tony Hawk's Proving Ground",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30072",
+    "title": "Call of Duty 4: Modern Warfare",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30073",
+    "title": "Stuntman: Ignition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30074",
+    "title": "Guitar Hero III: Legends of Rock",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30075",
+    "title": "World Series of Poker 2008: Battle for the Bracelets",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30076",
+    "title": "Rapala Fishing Frenzy 2009",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30077",
+    "title": "NBA 2K8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30078",
+    "title": "College Hoops 2K8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30079",
+    "title": "LEGO Star Wars: The Complete Saga",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30080",
+    "title": "John Woo Presents Stranglehold",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30081",
+    "title": "John Woo Presents Stranglehold",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30082",
+    "title": "WWE SmackDown vs. Raw 2008",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30083",
+    "title": "The Golden Compass",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30084",
+    "title": "Juiced 2: Hot Import Nights",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30086",
+    "title": "Unreal Tournament III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30087",
+    "title": "The Elder Scrolls IV: Oblivion: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30088",
+    "title": "Disney/Pixar Cars: Mater-National Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30089",
+    "title": "Assassin's Creed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30090",
+    "title": "TimeShift",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30091",
+    "title": "Beowulf: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30092",
+    "title": "Devil May Cry 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30093",
+    "title": "Time Crisis 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30094",
+    "title": "Haze",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30097",
+    "title": "MX vs. ATV Untamed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30098",
+    "title": "NCAA March Madness 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30099",
+    "title": "FIFA Street 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30100",
+    "title": "NFL Tour",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30101",
+    "title": "BlackSite: Area 51",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30102",
+    "title": "Kane & Lynch: Dead Men",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30103",
+    "title": "The History Channel: Battle for the Pacific",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30104",
+    "title": "Turok",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30105",
+    "title": "Soldier of Fortune: Payback",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30106",
+    "title": "The Elder Scrolls IV: Shivering Isles",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30107",
+    "title": "Conflict: Denied Ops",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30108",
+    "title": "The Club",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30109",
+    "title": "Metal Gear Solid 4: Guns of the Patriots",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30110",
+    "title": "Dynasty Warriors 6",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30111",
+    "title": "PES 2008: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30112",
+    "title": "Karaoke Revolution Presents: American Idol Encore",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30113",
+    "title": "Lost Planet: Extreme Condition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30114",
+    "title": "UEFA Euro 2008: Austria-Switzerland",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30115",
+    "title": "Condemned 2: Bloodshot",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30116",
+    "title": "Dark Sector",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30117",
+    "title": "Dragon Ball Z: Burst Limit",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30118",
+    "title": "Battlefield: Bad Company",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30119",
+    "title": "Turning Point: Fall of Liberty",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30120",
+    "title": "Lost: Via Domus",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30121",
+    "title": "Battlefield: Bad Company",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30122",
+    "title": "Major League Baseball 2K8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30123",
+    "title": "Sega Superstars Tennis",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30125",
+    "title": "Tom Clancy's Rainbow Six: Vegas 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30126",
+    "title": "Vampire Rain: Altered Species",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30127",
+    "title": "Grand Theft Auto IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30128",
+    "title": "NFL Head Coach 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30129",
+    "title": "Viking: Battle for Asgard",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30130",
+    "title": "Sid Meier's Civilization Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30131",
+    "title": "Tom Clancy's Rainbow Six: Vegas 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30132",
+    "title": "Enemy Territory: Quake Wars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30133",
+    "title": "Guitar Hero: Aerosmith",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30134",
+    "title": "Iron Man",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30135",
+    "title": "NBA Ballers: Chosen One",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30136",
+    "title": "DreamWorks Kung Fu Panda",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30137",
+    "title": "Robert Ludlum's The Bourne Conspiracy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30138",
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30139",
+    "title": "NASCAR 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30140",
+    "title": "Monster Madness: Grave Danger",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30141",
+    "title": "LEGO Indiana Jones: The Original Adventures",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30142",
+    "title": "Grid",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30143",
+    "title": "Overlord: Raising Hell",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30144",
+    "title": "Star Wars: The Force Unleashed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30145",
+    "title": "Prototype",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30146",
+    "title": "Madden NFL 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30147",
+    "title": "Rock Band 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30150",
+    "title": "Madden NFL 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30151",
+    "title": "Disney/Pixar WALL-E",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30152",
+    "title": "The Incredible Hulk",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30153",
+    "title": "Hail to the Chimp",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30154",
+    "title": "Beijing 2008",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30155",
+    "title": "NCAA Football 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30156",
+    "title": "The Chronicles of Riddick: Assault on Dark Athena",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30157",
+    "title": "Top Spin 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30158",
+    "title": "FaceBreaker",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30159",
+    "title": "Tiger Woods PGA Tour 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30160",
+    "title": "Soulcalibur IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30161",
+    "title": "Eternal Sonata",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30162",
+    "title": "Ferrari Challenge: Trofeo Pirelli",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30164",
+    "title": "Guitar Hero World Tour",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30165",
+    "title": "Brothers in Arms: Hell's Highway",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30166",
+    "title": "BioShock",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30168",
+    "title": "NHL 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30169",
+    "title": "Silent Hill: Homecoming",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30170",
+    "title": "Madden NFL 09 en Español",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30173",
+    "title": "NBA Live 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30174",
+    "title": "TNA Impact! Total Nonstop Action Wrestling",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30175",
+    "title": "LEGO Batman: The Videogame",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30176",
+    "title": "FIFA 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30177",
+    "title": "Dead Space",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30178",
+    "title": "Far Cry 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30179",
+    "title": "Mirror's Edge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30180",
+    "title": "Tom Clancy's EndWar",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30181",
+    "title": "Disgaea 3: Absence of Justice",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30182",
+    "title": "Pure",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30184",
+    "title": "Fracture",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30185",
+    "title": "Fallout 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30186",
+    "title": "Tom Clancy's H.A.W.X",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30187",
+    "title": "Armored Core: For Answer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30188",
+    "title": "NHL 2K9",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30189",
+    "title": "PES 2009: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30190",
+    "title": "Midnight Club: Los Angeles",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30191",
+    "title": "Baja: Edge of Control",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30192",
+    "title": "Call of Duty: World at War",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30194",
+    "title": "WWE SmackDown vs. Raw 2009",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30195",
+    "title": "Rock Band: Track Pack Volume 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30196",
+    "title": "Valkyria Chronicles",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30197",
+    "title": "NBA 2K9",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30198",
+    "title": "007: Quantum of Solace",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30199",
+    "title": "007: Quantum of Solace",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30200",
+    "title": "Naruto: Ultimate Ninja Storm",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30201",
+    "title": "Saints Row 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30203",
+    "title": "Blitz: The League II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30204",
+    "title": "Disney Sing It",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30205",
+    "title": "The Legend of Spyro: Dawn of the Dragon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30209",
+    "title": "Golden Axe: Beast Rider",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30210",
+    "title": "Legendary",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30211",
+    "title": "History Civil War: Secret Missions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30212",
+    "title": "Rock Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30213",
+    "title": "Monopoly",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30214",
+    "title": "Prince of Persia",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30215",
+    "title": "Karaoke Revolution Presents: American Idol Encore 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30218",
+    "title": "Spider-Man: Web of Shadows",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30219",
+    "title": "DreamWorks Madagascar: Escape 2 Africa",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30220",
+    "title": "MotoGP 08",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30221",
+    "title": "Cabela's Dangerous Hunts 2009",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30223",
+    "title": "Shaun White Snowboarding",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30224",
+    "title": "Tomb Raider: Underworld",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30225",
+    "title": "ShellShock 2: Blood Trails",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30226",
+    "title": "The Lord of the Rings: Conquest",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30228",
+    "title": "Rise of the Argonauts",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30229",
+    "title": "Walt Disney Pictures Bolt",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30230",
+    "title": "Score International Baja 1000: The Official Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30231",
+    "title": "NCAA Basketball 09",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30232",
+    "title": "Alone in the Dark: Inferno",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30233",
+    "title": "Shaun White Snowboarding",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30234",
+    "title": "Fallout 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30235",
+    "title": "AC/DC Live: Rock Band Track Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30236",
+    "title": "SBK: Superbike World Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30241",
+    "title": "X-Blades",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30242",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30244",
+    "title": "Sonic Unleashed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30246",
+    "title": "Mortal Kombat vs. DC Universe",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30248",
+    "title": "Need for Speed: Undercover",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30251",
+    "title": "F.E.A.R. 2: Project Origin",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30253",
+    "title": "Skate 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30254",
+    "title": "NPPL Championship Paintball 2009",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30255",
+    "title": "Bionic Commando",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30256",
+    "title": "50 Cent: Blood on the Sand",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30257",
+    "title": "Guitar Hero: Metallica",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30258",
+    "title": "Red Faction: Guerrilla",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30259",
+    "title": "Sonic's Ultimate Genesis Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30261",
+    "title": "The Godfather II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30262",
+    "title": "Wheelman",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30264",
+    "title": "Afro Samurai",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30265",
+    "title": "Street Fighter IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30266",
+    "title": "MLB Front Office Manager",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30267",
+    "title": "Eat Lead: The Return of Matt Hazard",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30268",
+    "title": "X-Men Origins: Wolverine: Uncaged Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30269",
+    "title": "WWE Legends of WrestleMania",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30270",
+    "title": "Resident Evil 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30271",
+    "title": "Trivial Pursuit",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30272",
+    "title": "Ski-Doo Snowmobile Challenge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30273",
+    "title": "DreamWorks Monsters vs. Aliens",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30274",
+    "title": "Disney Sing It: High School Musical 3: Senior Year",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30275",
+    "title": "Wanted: Weapons of Fate",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30276",
+    "title": "Major League Baseball 2K9",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30278",
+    "title": "Dead to Rights: Retribution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30279",
+    "title": "Batman: Arkham Asylum",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30280",
+    "title": "The Bigs 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30281",
+    "title": "Mafia II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30282",
+    "title": "The Beatles: Rock Band",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30283",
+    "title": "Command & Conquer: Red Alert 3: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30284",
+    "title": "Mini Ninjas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30285",
+    "title": "Fight Night Round 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30286",
+    "title": "Tiger Woods PGA Tour 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30288",
+    "title": "Dynasty Warriors: Gundam 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30289",
+    "title": "007: Blood Stone",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30290",
+    "title": "Guitar Hero: Smash Hits",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30291",
+    "title": "Guitar Hero: Van Halen",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30292",
+    "title": "Guitar Hero 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30293",
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30294",
+    "title": "Marvel: Ultimate Alliance 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30295",
+    "title": "Blur",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30296",
+    "title": "Singularity",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30297",
+    "title": "Transformers: Revenge of the Fallen",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30298",
+    "title": "Wolfenstein",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30299",
+    "title": "UFC 2009 Undisputed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30300",
+    "title": "Split/Second",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30303",
+    "title": "Shaun White Skateboarding",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30304",
+    "title": "Damnation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30305",
+    "title": "Disney/Pixar Up",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30306",
+    "title": "Dynasty Warriors 6: Empires",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30307",
+    "title": "Ghostbusters: The Video Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30308",
+    "title": "Heroes over Europe",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30310",
+    "title": "Brink",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30311",
+    "title": "Rogue Warrior",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30312",
+    "title": "Sacred 2: Fallen Angel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30313",
+    "title": "DiRT 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30314",
+    "title": "Fuel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30316",
+    "title": "Operation Flashpoint: Dragon Rising",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30317",
+    "title": "Overlord II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30318",
+    "title": "Terminator Salvation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30319",
+    "title": "Disney/Pixar Cars: Race-O-Rama",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30320",
+    "title": "Darksiders",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30321",
+    "title": "MX vs. ATV Reflex",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30323",
+    "title": "Dark Void",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30324",
+    "title": "Ride to Hell: Retribution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30325",
+    "title": "Tony Hawk: Ride",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30326",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30327",
+    "title": "Rock Band Track Pack: Classic Rock",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30328",
+    "title": "Stormrise",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30329",
+    "title": "Quantum Theory",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30330",
+    "title": "Brütal Legend",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30331",
+    "title": "Leisure Suit Larry: Box Office Bust",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30333",
+    "title": "JASF: Jane's Advanced Strike Fighters",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30334",
+    "title": "Backbreaker",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30335",
+    "title": "Splatterhouse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30336",
+    "title": "Katamari Forever",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30339",
+    "title": "Castlevania: Lords of Shadow",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30340",
+    "title": "Aliens vs. Predator",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30341",
+    "title": "Alpha Protocol",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30342",
+    "title": "Sonic & Sega All-Stars Racing",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30343",
+    "title": "Virtua Tennis 2009",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30344",
+    "title": "Vancouver 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30345",
+    "title": "NHL 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30347",
+    "title": "Call of Juarez: Bound in Blood",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30348",
+    "title": "Cross Edge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30350",
+    "title": "Green Day: Rock Band",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30351",
+    "title": "Rock Band: Country Track Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30352",
+    "title": "Rock Band: Metal Track Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30353",
+    "title": "The King of Fighters XII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30354",
+    "title": "Disney G-Force",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30355",
+    "title": "NCAA Football 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30356",
+    "title": "Bakugan: Battle Brawlers",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30357",
+    "title": "Transformers: War for Cybertron",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30358",
+    "title": "Saw",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30359",
+    "title": "Tekken 6",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30360",
+    "title": "Inversion",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30363",
+    "title": "Cloudy with a Chance of Meatballs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30364",
+    "title": "Assassin's Creed II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30365",
+    "title": "Hannah Montana: The Movie",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30366",
+    "title": "Planet 51: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30367",
+    "title": "Bayonetta",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30368",
+    "title": "DJ Hero",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30369",
+    "title": "MotoGP 09/10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30371",
+    "title": "Tornado Outbreak",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30372",
+    "title": "Band Hero",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30374",
+    "title": "James Cameron's Avatar: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30375",
+    "title": "Madden NFL 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30376",
+    "title": "Watchmen: The End Is Nigh: Parts 1 and 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30377",
+    "title": "Call of Duty: Modern Warfare 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30378",
+    "title": "Karaoke Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30379",
+    "title": "F1 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30380",
+    "title": "Ninja Gaiden Sigma 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30382",
+    "title": "LEGO Rock Band",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30383",
+    "title": "Kane & Lynch 2: Dog Days",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30385",
+    "title": "FIFA Soccer 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30386",
+    "title": "Borderlands",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30387",
+    "title": "Pinball Hall of Fame: The Williams Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30388",
+    "title": "DreamWorks Madagascar Kartz",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30389",
+    "title": "Chaotic: Shadow Warriors",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30391",
+    "title": "Need for Speed: Shift",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30392",
+    "title": "BlazBlue: Calamity Trigger",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30393",
+    "title": "NBA Live 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30394",
+    "title": "Star Wars: The Clone Wars: Republic Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30395",
+    "title": "Front Mission Evolved",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30396",
+    "title": "Cabela's Big Game Hunter 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30397",
+    "title": "Disney Sing It: Pop Hits",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30398",
+    "title": "Way of the Samurai 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30399",
+    "title": "Afrika",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30400",
+    "title": "Just Cause 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30401",
+    "title": "Prince of Persia: The Forgotten Sands",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30402",
+    "title": "NBA 2K10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30403",
+    "title": "WET",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30404",
+    "title": "PES 2010: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30405",
+    "title": "Dante's Inferno",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30406",
+    "title": "Hunted: The Demon's Forge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30407",
+    "title": "The Saboteur",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30408",
+    "title": "Army of Two: The 40th Day",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30409",
+    "title": "Cabela's Outdoor Adventures",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30410",
+    "title": "Marvel vs. Capcom 3: Fate of Two Worlds",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30411",
+    "title": "Pure Futbol",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30412",
+    "title": "WWE SmackDown vs. Raw 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30415",
+    "title": "Dragon Age: Origins",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30416",
+    "title": "Final Fantasy XIII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30417",
+    "title": "Grand Slam Tennis 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30418",
+    "title": "Red Dead Redemption",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30420",
+    "title": "BioShock 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30421",
+    "title": "The Lord of the Rings: War in the North",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30424",
+    "title": "IL-2 Sturmovik: Birds of Prey",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30425",
+    "title": "LEGO Indiana Jones 2: The Adventure Continues",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30427",
+    "title": "Top Spin 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30428",
+    "title": "Catherine",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30429",
+    "title": "Call of Duty: Modern Warfare 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30431",
+    "title": "Dragon Ball: Raging Blast",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30432",
+    "title": "Warhammer 40,000: Space Marine",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30433",
+    "title": "Dance Dance Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30434",
+    "title": "Lost Planet 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30435",
+    "title": "Jurassic: The Hunted",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30436",
+    "title": "Medal of Honor",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30437",
+    "title": "LEGO Harry Potter: Years 1-4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30438",
+    "title": "NHL 2K10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30439",
+    "title": "Dead Rising 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30441",
+    "title": "Where the Wild Things Are",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30442",
+    "title": "Midnight Club: Los Angeles: Complete Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30443",
+    "title": "Demon's Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30444",
+    "title": "NCAA Basketball 10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30445",
+    "title": "Star Wars: The Force Unleashed: Ultimate Sith Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30447",
+    "title": "Scene It? Bright Lights! Big Screen!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30448",
+    "title": "Scene It? Bright Lights! Big Screen!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30450",
+    "title": "Call of Duty: Modern Warfare 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30451",
+    "title": "Fallout 3: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30453",
+    "title": "Super Street Fighter IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30455",
+    "title": "Fallout 3: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30456",
+    "title": "Fairytale Fights",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30457",
+    "title": "Disney TRON: Evolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30458",
+    "title": "Battlefield: Bad Company 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30460",
+    "title": "Guitar Hero: Van Halen",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30461",
+    "title": "DreamWorks How to Train Your Dragon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30462",
+    "title": "Star Ocean: The Last Hope International",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30463",
+    "title": "Rock Band 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30464",
+    "title": "Skate 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30465",
+    "title": "Atelier Rorona: The Alchemist of Arland",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30466",
+    "title": "El Shaddai: Ascension of the Metatron",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30467",
+    "title": "Prison Break: The Conspiracy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30469",
+    "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30471",
+    "title": "Dynasty Warriors: Strikeforce",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30472",
+    "title": "Majin and the Forsaken Kingdom",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30474",
+    "title": "2010 FIFA World Cup South Africa",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30476",
+    "title": "Deus Ex: Human Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30478",
+    "title": "R.U.S.E.: The Art of Deception",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30480",
+    "title": "Disney/Pixar Toy Story 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30481",
+    "title": "Nier",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30483",
+    "title": "UFC Undisputed 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30484",
+    "title": "Resonance of Fate",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30485",
+    "title": "Rage",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30487",
+    "title": "Guitar Hero: Warriors of Rock",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30488",
+    "title": "Tom Clancy's H.A.W.X. 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30489",
+    "title": "Tiger Woods PGA Tour 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30490",
+    "title": "3D Dot Game Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30491",
+    "title": "Resident Evil 5: Gold Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30492",
+    "title": "Sengoku Basara: Samurai Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30494",
+    "title": "Yakuza 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30495",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30496",
+    "title": "DreamWorks Shrek Forever After",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30499",
+    "title": "Spider-Man: Shattered Dimensions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30500",
+    "title": "Fallout: New Vegas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30501",
+    "title": "Dishonored",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30502",
+    "title": "Warriors: Legends of Troy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30503",
+    "title": "Trinity: Souls of Zill O'll",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30504",
+    "title": "Fist of the North Star: Ken's Rage",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30505",
+    "title": "Clash of the Titans: The Videogame",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30506",
+    "title": "Major League Baseball 2K10",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30507",
+    "title": "Naughty Bear",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30508",
+    "title": "Disney Sing It: Family Hits",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30509",
+    "title": "Dragon Age: Origins: Awakening",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30510",
+    "title": "Dungeon Siege III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30511",
+    "title": "F.E.A.R. 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30512",
+    "title": "Last Rebellion",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30513",
+    "title": "Little League World Series Baseball 2010",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30514",
+    "title": "Iron Man 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30515",
+    "title": "Batman: Arkham Asylum: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30516",
+    "title": "Armored Core V",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30517",
+    "title": "Battlefield: Bad Company 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30518",
+    "title": "DreamWorks Megamind: Ultimate Showdown",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30519",
+    "title": "SBK 09: Superbike World Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30520",
+    "title": "MySims SkyHeroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30521",
+    "title": "Tom Clancy's Ghost Recon: Future Soldier",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30522",
+    "title": "Mortal Kombat",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30524",
+    "title": "Grand Theft Auto: Episodes from Liberty City",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30525",
+    "title": "Marvel Super Hero Squad: The Infinity Gauntlet",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30526",
+    "title": "DJ Hero 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30527",
+    "title": "Test Drive Unlimited 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30528",
+    "title": "Time Crisis: Razing Storm",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30529",
+    "title": "Virtua Tennis 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30530",
+    "title": "Homefront",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30531",
+    "title": "Spec Ops: The Line",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30532",
+    "title": "Brunswick Pro Bowling",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30533",
+    "title": "Monopoly Streets",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30534",
+    "title": "Star Wars: The Force Unleashed II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30535",
+    "title": "Trinity Universe",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30536",
+    "title": "Driver: San Francisco",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30537",
+    "title": "Assassin's Creed: Brotherhood",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30538",
+    "title": "Batman: Arkham City",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30539",
+    "title": "Thor: God of Thunder",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30540",
+    "title": "LEGO Star Wars III: The Clone Wars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30542",
+    "title": "Tony Hawk: Shred",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30543",
+    "title": "Vanquish",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30544",
+    "title": "Nail'd",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30545",
+    "title": "Man vs. Wild with Bear Grylls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30546",
+    "title": "Madden NFL 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30547",
+    "title": "Mindjack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30548",
+    "title": "Saw II: Flesh & Blood",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30549",
+    "title": "CSI: Crime Scene Investigation: Fatal Conspiracy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30550",
+    "title": "Two Worlds II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30551",
+    "title": "Def Jam: Rapstar",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30553",
+    "title": "Truth or Lies",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30554",
+    "title": "L.A. Noire",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30555",
+    "title": "Apache: Air Assault",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30557",
+    "title": "Max Payne 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30558",
+    "title": "Enslaved: Odyssey to the West",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30559",
+    "title": "de Blob 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30560",
+    "title": "NCAA Football 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30561",
+    "title": "Monster Jam: Path of Destruction",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30562",
+    "title": "Bodycount",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30563",
+    "title": "Cabela's Dangerous Hunts 2011",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30564",
+    "title": "Cabela's North American Adventures",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30565",
+    "title": "Silent Hill: Downpour",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30566",
+    "title": "Need for Speed: Hot Pursuit",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30567",
+    "title": "EA Sports MMA",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30568",
+    "title": "NHL 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30569",
+    "title": "You Don't Know Jack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30570",
+    "title": "Rapala Pro Bass Fishing",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30571",
+    "title": "Racquet Sports",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30572",
+    "title": "EA Sports Active 2: Personal Trainer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30573",
+    "title": "Green Day: Rock Band",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30574",
+    "title": "NBA 2K11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30575",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30576",
+    "title": "BlazBlue: Continuum Shift",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30577",
+    "title": "Bakugan: Defenders of the Core",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30578",
+    "title": "Hasbro Family Game Night 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30580",
+    "title": "Shift 2: Unleashed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30581",
+    "title": "Dragon Ball: Raging Blast 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30582",
+    "title": "Knights Contract",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30583",
+    "title": "DC Universe Online",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30585",
+    "title": "Red Faction: Armageddon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30587",
+    "title": "Zumba Fitness",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30588",
+    "title": "WWE All Stars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30591",
+    "title": "Call of Duty: Black Ops",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30592",
+    "title": "NBA Elite 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30593",
+    "title": "The Lord of the Rings: Aragorn's Quest",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30596",
+    "title": "Yoostar 2: In the Movies",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30597",
+    "title": "John Daly's ProStroke Golf",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30602",
+    "title": "Blood Drive",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30603",
+    "title": "Disney Sing It: Party Hits",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30604",
+    "title": "NASCAR 2011: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30606",
+    "title": "Create",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30607",
+    "title": "Alice: Madness Returns",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30608",
+    "title": "Fight Night Champion",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30609",
+    "title": "The Sims 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30610",
+    "title": "PES 2011: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30611",
+    "title": "Final Fantasy XIV Online: A Realm Reborn",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30612",
+    "title": "Sonic Generations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30613",
+    "title": "Ace Combat: Assault Horizon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30614",
+    "title": "Rio",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30615",
+    "title": "Duke Nukem Forever",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30616",
+    "title": "DreamWorks The Penguins of Madagascar: Dr. Blowhole Returns: Again!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30621",
+    "title": "WWE SmackDown vs. Raw 2011",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30622",
+    "title": "Power Gig: Rise of the SixString",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30623",
+    "title": "Rock Band: Country Track Pack 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30624",
+    "title": "Dead Space 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30626",
+    "title": "Fallout: New Vegas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30627",
+    "title": "Fallout: New Vegas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30629",
+    "title": "BioShock Infinite",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30630",
+    "title": "FIFA Soccer 11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30631",
+    "title": "Crysis 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30632",
+    "title": "Anarchy Reigns",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30633",
+    "title": "Deadliest Catch: Sea of Chaos",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30634",
+    "title": "DreamWorks Kung Fu Panda 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30636",
+    "title": "Venetica",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30638",
+    "title": "Call of Duty: Black Ops",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30639",
+    "title": "Ar tonelico Qoga: Knell of Ar Ciel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30640",
+    "title": "Lucha Libre AAA: Héroes del Ring",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30641",
+    "title": "The Cursed Crusade",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30642",
+    "title": "Captain America: Super Soldier",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30643",
+    "title": "Yakuza 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30645",
+    "title": "Dragon Age II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30649",
+    "title": "Dragon Age: Origins: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30650",
+    "title": "Mass Effect 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30651",
+    "title": "Bulletstorm",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30652",
+    "title": "No More Heroes: Heroes' Paradise",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30653",
+    "title": "Shadows of the Damned",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30654",
+    "title": "NeverDead",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30656",
+    "title": "MotoGP 10/11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30658",
+    "title": "Rock of the Dead",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30663",
+    "title": "Ben 10: Ultimate Alien: Cosmic Destruction",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30664",
+    "title": "Get Fit with Mel B",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30665",
+    "title": "Nat Geo Challenge! Wild Life",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30666",
+    "title": "Saints Row: The Third",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30667",
+    "title": "Fit in Six",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30669",
+    "title": "Child of Eden",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30670",
+    "title": "Rocksmith",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30674",
+    "title": "Green Lantern: Rise of the Manhunters",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30678",
+    "title": "Rango",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30681",
+    "title": "Transformers: Fall of Cybertron",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30682",
+    "title": "Grand Theft Auto IV & Episodes from Liberty City",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30683",
+    "title": "SBK X: Superbike World Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30686",
+    "title": "Record of Agarest War Zero",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30687",
+    "title": "Far Cry 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30688",
+    "title": "Earth Defense Force: Insect Armageddon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30689",
+    "title": "NBA 2K11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30690",
+    "title": "Dynasty Warriors 7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30693",
+    "title": "UFC Personal Trainer: The Ultimate Fitness System",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30694",
+    "title": "Mayhem",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30696",
+    "title": "NBA Jam",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30697",
+    "title": "Michael Jackson: The Experience",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30700",
+    "title": "Naughty Bear: Gold Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30701",
+    "title": "Hyperdimension Neptunia",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30703",
+    "title": "Dynasty Warriors: Gundam 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30704",
+    "title": "Operation Flashpoint: Red River",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30705",
+    "title": "Tiger Woods PGA Tour 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30706",
+    "title": "Supremacy MMA",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30707",
+    "title": "MX vs. ATV Alive",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30709",
+    "title": "Transformers: Dark of the Moon",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30710",
+    "title": "Kingdoms of Amalur: Reckoning",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30711",
+    "title": "Red Dead Redemption: Undead Nightmare",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30712",
+    "title": "Mafia II: Director's Cut",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30716",
+    "title": "Days of Thunder: NASCAR Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30717",
+    "title": "Dead Space 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30718",
+    "title": "The Tomb Raider Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30719",
+    "title": "Major League Baseball 2K11",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30720",
+    "title": "Dragon's Dogma",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30721",
+    "title": "Asura's Wrath",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30722",
+    "title": "Street Fighter X Tekken",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30723",
+    "title": "DmC: Devil May Cry",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30724",
+    "title": "DiRT 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30725",
+    "title": "Disney/Pixar Cars 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30726",
+    "title": "Disney Phineas and Ferb: Across the 2nd Dimension",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30727",
+    "title": "Disgaea 4: A Promise Unforgotten",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30728",
+    "title": "London 2012",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30729",
+    "title": "Binary Domain",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30731",
+    "title": "DreamWorks Puss in Boots",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30732",
+    "title": "Portal 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30734",
+    "title": "Dance on Broadway",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30735",
+    "title": "Atelier Totori: The Adventurer of Arland",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30736",
+    "title": "Soulcalibur V",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30738",
+    "title": "UFC Undisputed 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30739",
+    "title": "Top Gun",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30740",
+    "title": "Winter Stars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30743",
+    "title": "The Darkness II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30744",
+    "title": "LEGO Pirates of the Caribbean: The Video Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30745",
+    "title": "NCAA Football 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30746",
+    "title": "X-Men: Destiny",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30747",
+    "title": "The Adventures of Tintin: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30750",
+    "title": "Resident Evil: Operation Raccoon City",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30752",
+    "title": "Tiger Woods PGA Tour 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30753",
+    "title": "Generator Rex: Agent of Providence",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30754",
+    "title": "Prince of Persia Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30755",
+    "title": "GoldenEye 007: Reloaded",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30756",
+    "title": "Prototype 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30757",
+    "title": "Need for Speed: The Run",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30758",
+    "title": "Red Dead Redemption: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30759",
+    "title": "Rune Factory: Tides of Destiny",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30760",
+    "title": "Spider-Man: Edge of Time",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30761",
+    "title": "Tom Clancy's Splinter Cell Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30762",
+    "title": "Battlefield 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30763",
+    "title": "Dead Rising 2: Off the Record",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30764",
+    "title": "Devil May Cry: HD Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30765",
+    "title": "ABC Wipeout 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30766",
+    "title": "Tekken Hybrid",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30767",
+    "title": "Dragon's Crown",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30768",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30769",
+    "title": "Bleach: Soul Resurrección",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30770",
+    "title": "Madden NFL 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30772",
+    "title": "F1 2011",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30773",
+    "title": "Disney Universe",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30774",
+    "title": "The House of the Dead: Overkill: Extended Cut",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30776",
+    "title": "Final Fantasy XIII-2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30777",
+    "title": "Ridge Racer Unbounded",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30778",
+    "title": "The Elder Scrolls V: Skyrim",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30779",
+    "title": "Skylanders: Spyro's Adventure",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30780",
+    "title": "The Bureau: XCOM Declassified",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30782",
+    "title": "Dark Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30784",
+    "title": "White Knight Chronicles II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30785",
+    "title": "Get Up and Dance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30786",
+    "title": "Grease Dance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30787",
+    "title": "Ultimate Marvel vs. Capcom 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30790",
+    "title": "Dead Island",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30791",
+    "title": "NHL 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30792",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm Generations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30793",
+    "title": "Super Street Fighter IV: Arcade Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30794",
+    "title": "LEGO Harry Potter: Years 5-7",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30795",
+    "title": "Call of Juarez: The Cartel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30796",
+    "title": "Sniper: Ghost Warrior",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30798",
+    "title": "Sniper Elite V2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30799",
+    "title": "DreamWorks Super Star Kartz",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30800",
+    "title": "Risen 2: Dark Waters",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30801",
+    "title": "Thief",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30802",
+    "title": "Family Game Night 4: The Game Show",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30803",
+    "title": "The Sims 3: Pets",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30804",
+    "title": "Syndicate",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30805",
+    "title": "PES 2012: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30806",
+    "title": "NASCAR Unleashed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30808",
+    "title": "Assassin's Creed: Revelations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30809",
+    "title": "FIFA Soccer 12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30810",
+    "title": "Silent Hill: HD Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30812",
+    "title": "Motionsports Adrenaline",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30813",
+    "title": "Marvel Super Hero Squad: Comic Combat",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30815",
+    "title": "Adidas miCoach",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30816",
+    "title": "Just Dance Kids 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30819",
+    "title": "Cabela's Survival: Shadows of Katmai",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30821",
+    "title": "uDraw Studio: Instant Artist",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30822",
+    "title": "Ben 10: Galactic Racing",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30823",
+    "title": "Dragon Ball Z: Ultimate Tenkaichi",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30824",
+    "title": "Family Guy: Back to the Multiverse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30825",
+    "title": "Pictionary: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30826",
+    "title": "Yakuza: Dead Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30828",
+    "title": "The Amazing Spider-Man",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30829",
+    "title": "Darksiders II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30830",
+    "title": "NBA 2K12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30831",
+    "title": "Birds of Steel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30832",
+    "title": "Alien: Isolation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30833",
+    "title": "Blades of Time",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30834",
+    "title": "Cartoon Network: Punch Time Explosion XL",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30836",
+    "title": "Rayman Origins",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30837",
+    "title": "LEGO Batman 2: DC Super Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30838",
+    "title": "Call of Duty: Modern Warfare 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30839",
+    "title": "Sonic & All-Stars Racing Transformed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30840",
+    "title": "NCIS: Based on the TV Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30841",
+    "title": "WWE '12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30842",
+    "title": "Test Drive: Ferrari Racing Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30843",
+    "title": "Cabela's Big Game Hunter 2012",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30844",
+    "title": "Cabela's Adventure Camp",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30845",
+    "title": "The King of Fighters XIII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30846",
+    "title": "Happy Feet Two",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30847",
+    "title": "Metal Gear Solid: HD Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30849",
+    "title": "SSX",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30850",
+    "title": "Air Conflicts: Secret Wars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30851",
+    "title": "National Geographic: Challenge!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30852",
+    "title": "Plants vs. Zombies",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30853",
+    "title": "Mass Effect 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30854",
+    "title": "Tiger Woods PGA Tour 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30855",
+    "title": "Resident Evil 6",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30856",
+    "title": "Heavy Fire: Afghanistan",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30858",
+    "title": "Top Gun: Hard Lock",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30862",
+    "title": "Aliens: Colonial Marines",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30863",
+    "title": "Champion Jockey: G1 Jockey & Gallop Racer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30865",
+    "title": "Bejeweled 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30869",
+    "title": "BlazBlue: Continuum Shift Extend",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30871",
+    "title": "Rocksmith",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30873",
+    "title": "Dynasty Warriors 7: Xtreme Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30876",
+    "title": "Sacred 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30881",
+    "title": "Record of Agarest War 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30882",
+    "title": "FIFA Street",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30886",
+    "title": "Back to the Future: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30887",
+    "title": "Call of Duty: Modern Warfare 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30888",
+    "title": "Fallout: New Vegas: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30889",
+    "title": "Fallout: New Vegas: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30891",
+    "title": "Tiger Woods PGA Tour 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30897",
+    "title": "Jimmie Johnson's Anything with an Engine",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30898",
+    "title": "L.A. Noire: The Complete Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30899",
+    "title": "Just Dance 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30901",
+    "title": "Hyperdimension Neptunia mk2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30902",
+    "title": "Mortal Kombat: Komplete Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30903",
+    "title": "Tales of Graces f",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30904",
+    "title": "Order Up!!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30905",
+    "title": "Assassin's Creed: Revelations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30907",
+    "title": "Disney/Pixar Brave",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30908",
+    "title": "Summer Stars 2012",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30911",
+    "title": "Deadliest Warrior: Ancient Combat",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30913",
+    "title": "Battleship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30914",
+    "title": "Just Dance 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30915",
+    "title": "Just Dance 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30916",
+    "title": "Ninja Gaiden 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30917",
+    "title": "Lollipop Chainsaw",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30919",
+    "title": "Sniper: Ghost Warrior 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30922",
+    "title": "MIB: Alien Crisis",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30923",
+    "title": "Wheel of Fortune",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30924",
+    "title": "Jeopardy!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30927",
+    "title": "Sleeping Dogs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30931",
+    "title": "Major League Baseball 2K12",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30932",
+    "title": "NASCAR the Game: Inside Line",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30935",
+    "title": "Star Trek",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30936",
+    "title": "Defiance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30937",
+    "title": "Zone of the Enders HD Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30938",
+    "title": "DiRT Showdown",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30939",
+    "title": "Game of Thrones",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30940",
+    "title": "Port Royale 3: Pirates & Merchants",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30941",
+    "title": "Atelier Meruru: The Apprentice of Arland",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30942",
+    "title": "Hitman HD Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30943",
+    "title": "XCOM: Enemy Unknown",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30944",
+    "title": "NBA 2K12: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30947",
+    "title": "Ni no Kuni: Wrath of the White Witch",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30948",
+    "title": "NCAA Football 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30962",
+    "title": "Disney Epic Mickey 2: The Power of Two",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30963",
+    "title": "LEGO The Lord of the Rings",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30964",
+    "title": "The Witch and the Hundred Knight",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30966",
+    "title": "Dragon Ball Z: Budokai HD Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30971",
+    "title": "Dead or Alive 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30973",
+    "title": "Madden NFL 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30975",
+    "title": "DiRT 3: Complete Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30976",
+    "title": "Crysis 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30977",
+    "title": "Disney Infinity",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30978",
+    "title": "Batman: Arkham City: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30980",
+    "title": "DreamWorks Madagascar 3: The Video Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30982",
+    "title": "Borderlands 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30983",
+    "title": "007 Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30985",
+    "title": "Persona 4 Arena",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30990",
+    "title": "Medal of Honor: Warfighter",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30991",
+    "title": "Assassin's Creed III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30996",
+    "title": "Enemy Front",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30997",
+    "title": "Dragon Age: Inquisition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30998",
+    "title": "FIFA Soccer 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS30999",
+    "title": "Castlevania: Lords of Shadow 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31000",
+    "title": "Heavy Fire: Shattered Spear",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31002",
+    "title": "Tekken Tag Tournament 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31003",
+    "title": "NHL 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31004",
+    "title": "Los Caballeros del Zodiaco: Batalla por el Santuario ~ Os Cavaleiros do Zodíaco: Batalha do Santuário",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31006",
+    "title": "Tales of Xillia",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31007",
+    "title": "Mugen Souls",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31009",
+    "title": "Cabela's Dangerous Hunts 2013",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31010",
+    "title": "Need for Speed: Most Wanted: A Criterion Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31011",
+    "title": "Call of Duty: Black Ops II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31012",
+    "title": "Remember Me",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31014",
+    "title": "F1 2012",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31015",
+    "title": "WWE '13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31017",
+    "title": "Ben 10: Omniverse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31018",
+    "title": "Injustice: Gods Among Us",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31019",
+    "title": "Damage Inc.: Pacific Squadron WWII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31020",
+    "title": "Lost Planet 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31024",
+    "title": "Doom 3: BFG Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31025",
+    "title": "Tom Clancy's Splinter Cell: Blacklist",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31026",
+    "title": "Dead Island: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31027",
+    "title": "F1 Race Stars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31028",
+    "title": "NBA 2K13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31029",
+    "title": "PES 2013: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31030",
+    "title": "Cabela's Hunting Expeditions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31031",
+    "title": "Rocksmith",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31033",
+    "title": "Just Dance 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31036",
+    "title": "Tomb Raider",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31040",
+    "title": "Fuse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31045",
+    "title": "Metal Gear Rising: Revengeance",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31046",
+    "title": "The Testament of Sherlock Holmes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31048",
+    "title": "Disney/Pixar Toy Story Mania!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31049",
+    "title": "Skylanders: Giants",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31050",
+    "title": "FIFA 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31051",
+    "title": "Resident Evil: Revelations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31052",
+    "title": "Dead Island: Riptide",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31053",
+    "title": "Dead Space 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31054",
+    "title": "Angry Birds Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31055",
+    "title": "Grid 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31059",
+    "title": "Middle-Earth: Shadow of Mordor",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31060",
+    "title": "NHL 13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31062",
+    "title": "Saints Row: The Third: The Full Package",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31063",
+    "title": "Tiger Woods PGA Tour 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31064",
+    "title": "Deadly Premonition: The Director's Cut",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31065",
+    "title": "The Walking Dead: Survival Instinct",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31066",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31067",
+    "title": "DreamWorks Rise of the Guardians",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31068",
+    "title": "Battlefield 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31069",
+    "title": "Army of Two: The Devil's Cartel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31075",
+    "title": "Tiger Woods PGA Tour 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31076",
+    "title": "Skylanders: Swap Force",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31077",
+    "title": "Under Defeat HD: Deluxe Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31079",
+    "title": "History Legends of War: Patton",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31083",
+    "title": "Midway Arcade Origins",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31139",
+    "title": "Mass Effect",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31140",
+    "title": "Call of Duty: Black Ops II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31141",
+    "title": "Call of Duty: Black Ops II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31142",
+    "title": "Hitman: Absolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31143",
+    "title": "Naughty Bear: Gold Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31144",
+    "title": "The Walking Dead: A Telltale Games Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31145",
+    "title": "Assassin's Creed: Ezio Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31146",
+    "title": "Deadpool",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31147",
+    "title": "Batman: Arkham Origins",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31148",
+    "title": "BandFuse: Rock Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31149",
+    "title": "BioShock: Ultimate Rapture Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31150",
+    "title": "Hyperdimension Neptunia Victory",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31151",
+    "title": "The Smurfs 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31152",
+    "title": "Atelier Ayesha: The Alchemist of Dusk",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31153",
+    "title": "Fast & Furious: Showdown",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31154",
+    "title": "MUD: FIM Motocross World Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31155",
+    "title": "Dragon's Dogma: Dark Arisen",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31156",
+    "title": "Grand Theft Auto V",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31157",
+    "title": "Borderlands 2: Add-On Content Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31158",
+    "title": "Arcania: The Complete Tale",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31159",
+    "title": "NCAA Football 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31160",
+    "title": "Earth Defense Force 2025",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31161",
+    "title": "LEGO Marvel Super Heroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31162",
+    "title": "Battlefield 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31164",
+    "title": "Lightning Returns: Final Fantasy XIII",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31166",
+    "title": "Murdered: Soul Suspect",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31167",
+    "title": "Major League Baseball 2K13",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31168",
+    "title": "WRC 3: FIA World Rally Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31170",
+    "title": "Young Justice: Legacy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31171",
+    "title": "DreamWorks Turbo: Super Stunt Squad",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31172",
+    "title": "Tales of Symphonia Chronicles",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31173",
+    "title": "Time and Eternity",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31174",
+    "title": "Port Royale 3: Gold Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31175",
+    "title": "Ninja Gaiden 3: Razor's Edge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31176",
+    "title": "Watch_Dogs",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31177",
+    "title": "BioShock Infinite",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31178",
+    "title": "Madden NFL 25",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31179",
+    "title": "NHL 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31180",
+    "title": "XCOM: Enemy Within",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31181",
+    "title": "Destiny",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31182",
+    "title": "Rocksmith: All-New 2014 Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31183",
+    "title": "Rayman Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31184",
+    "title": "Metro: Last Light",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31185",
+    "title": "Dynasty Warriors 8",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31186",
+    "title": "Killer Is Dead",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31187",
+    "title": "Hakuoki: Stories of the Shinsengumi",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31188",
+    "title": "Diablo III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31189",
+    "title": "FIFA 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31190",
+    "title": "FIFA 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31191",
+    "title": "South Park: The Stick of Truth",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31192",
+    "title": "Worms Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31193",
+    "title": "Assassin's Creed IV: Black Flag",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31194",
+    "title": "Armored Core: Verdict Day",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31195",
+    "title": "Falling Skies: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31197",
+    "title": "Drakengard 3",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31198",
+    "title": "El Chavo Kart",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31199",
+    "title": "Tom Clancy's Ghost Recon Anthology",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31200",
+    "title": "Hot Wheels: World's Best Driver",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31201",
+    "title": "Need for Speed: Rivals",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31202",
+    "title": "The Elder Scrolls V: Skyrim: Legendary Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31203",
+    "title": "Yaiba: Ninja Gaiden Z",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31204",
+    "title": "NBA 2K14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31205",
+    "title": "Saints Row IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31206",
+    "title": "Painkiller: Hell & Damnation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31207",
+    "title": "Batman: Arkham Origins",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31208",
+    "title": "F1 2013",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31209",
+    "title": "F1 2013",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31210",
+    "title": "Air Conflicts: Pacific Carriers",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31211",
+    "title": "Final Fantasy X | X-2: HD Remaster",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31212",
+    "title": "Kingdom Hearts: HD 1.5 ReMIX",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31213",
+    "title": "BlazBlue: Chrono Phantasma",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31214",
+    "title": "Adventure Time: Explore the Dungeon Because I Don't Know!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31215",
+    "title": "Ben 10: Omniverse 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31216",
+    "title": "Dead or Alive 5 Ultimate",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31217",
+    "title": "Pac-Man and the Ghostly Adventures",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31218",
+    "title": "Ultra Street Fighter IV",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31219",
+    "title": "Payday 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31220",
+    "title": "Wolfenstein: The New Order",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31221",
+    "title": "Diablo III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31270",
+    "title": "Call of Duty: Ghosts",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31273",
+    "title": "Angry Birds Star Wars",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31274",
+    "title": "Cabela's Big Game Hunter: Pro Hunts",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31275",
+    "title": "Cabela's African Adventures",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31276",
+    "title": "Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31277",
+    "title": "WWE 2K14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31312",
+    "title": "The Guided Fate Paradox",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31313",
+    "title": "Disgaea D2: A Brighter Darkness",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31314",
+    "title": "Dragon Ball Z: Battle of Z",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31315",
+    "title": "Just Dance 2014",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31316",
+    "title": "Final Fantasy XIV Online: A Realm Reborn",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31317",
+    "title": "Deus Ex: Human Revolution: Director's Cut",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31319",
+    "title": "Hatsune Miku: Project Diva F",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31320",
+    "title": "Air Conflicts: Vietnam",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31321",
+    "title": "Aquapazza: Aquaplus Dream Match",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31322",
+    "title": "PES 2014: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31324",
+    "title": "Transformers: Rise of the Dark Spark",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31345",
+    "title": "Madden NFL 25",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31350",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31357",
+    "title": "Os Cavaleiros do Zodíaco: Bravos Soldados",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31364",
+    "title": "Injustice: Gods Among Us: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31367",
+    "title": "XBlaze: Code: Embryo",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31368",
+    "title": "Disney DuckTales: Remastered",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31369",
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31373",
+    "title": "The LEGO Movie: Videogame",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31374",
+    "title": "The Evil Within",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31377",
+    "title": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31378",
+    "title": "NASCAR '14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31381",
+    "title": "Farming Simulator",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31382",
+    "title": "Castlevania: Lords of Shadow",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31385",
+    "title": "Worms: The Revolution Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31386",
+    "title": "Ragnarok Odyssey ACE",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31387",
+    "title": "Rambo: The Video Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31388",
+    "title": "DreamWorks How to Train Your Dragon 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31389",
+    "title": "2014 FIFA World Cup Brazil",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31390",
+    "title": "Copa do Mundo da FIFA Brasil 2014",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31391",
+    "title": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31392",
+    "title": "LEGO The Hobbit",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31393",
+    "title": "Far Cry Compilation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31396",
+    "title": "Deception IV: Blood Ties",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31397",
+    "title": "Tales of Xillia 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31401",
+    "title": "Sniper Elite III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31402",
+    "title": "Dynasty Warriors 8: Xtreme Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31405",
+    "title": "JoJo's Bizarre Adventure: All Star Battle",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31410",
+    "title": "Plants vs. Zombies: Garden Warfare",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31411",
+    "title": "Bound by Flame",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31412",
+    "title": "Sherlock Holmes: Crimes & Punishments",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31416",
+    "title": "Saints Row IV: National Treasure Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31417",
+    "title": "Mugen Souls Z",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31418",
+    "title": "Disney Infinity 2.0 Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31420",
+    "title": "Far Cry 4",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31421",
+    "title": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31423",
+    "title": "Fairy Fencer F",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31424",
+    "title": "Arcana Heart 3: Love Max!!!!!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31425",
+    "title": "Akiba's Trip: Undead & Undressed",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31426",
+    "title": "Minecraft: PlayStation 3 Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31427",
+    "title": "One Piece: Unlimited World Red",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31428",
+    "title": "Madden NFL 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31429",
+    "title": "Syberia Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31431",
+    "title": "Hatsune Miku: Project Diva F 2nd",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31432",
+    "title": "Risen 3: Titan Lords",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31433",
+    "title": "Escape Dead Island",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31434",
+    "title": "LEGO Batman 3: Beyond Gotham",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31435",
+    "title": "Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31436",
+    "title": "NHL 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31437",
+    "title": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31438",
+    "title": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31440",
+    "title": "Battlefield Hardline",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31441",
+    "title": "Digimon All-Star Rumble",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31442",
+    "title": "Skylanders: Trap Team",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31443",
+    "title": "FIFA 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31444",
+    "title": "Resident Evil: Revelations 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31445",
+    "title": "Borderlands: The Pre-Sequel!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31447",
+    "title": "Tales of Xillia 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31448",
+    "title": "Duck Dynasty",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31449",
+    "title": "Atelier Rorona Plus: The Alchemist of Arland",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31450",
+    "title": "Adventure Time: The Secret of the Nameless Kingdom",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31452",
+    "title": "Grid Autosport",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31453",
+    "title": "Natural Doctrine",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31454",
+    "title": "Just Dance 2015",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31455",
+    "title": "MX vs. ATV Supercross",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31456",
+    "title": "NBA 2K15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31457",
+    "title": "FIFA 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31458",
+    "title": "Pac-Man and the Ghostly Adventures 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31459",
+    "title": "Terra-Média: Sombras de Mordor",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31460",
+    "title": "Kingdom Hearts: HD 2.5 ReMIX",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31461",
+    "title": "Class of Heroes 2G",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31464",
+    "title": "WWE 2K15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31465",
+    "title": "Assassin's Creed: Rogue",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31466",
+    "title": "Call of Duty: Advanced Warfare",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31467",
+    "title": "Guilty Gear Xrd: Sign",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31468",
+    "title": "The Voice: I Want You",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31469",
+    "title": "Persona 4 Arena Ultimax",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31471",
+    "title": "F1 2014",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31472",
+    "title": "F1 2014",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31473",
+    "title": "LEGO Dimensions",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31474",
+    "title": "Tokyo Twilight Ghost Hunters",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31476",
+    "title": "Tears to Tiara II: Heir of the Overlord",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31478",
+    "title": "Ar nosurge: Ode to an Unborn Star",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31480",
+    "title": "PES 2015: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31483",
+    "title": "Assassin's Creed: The Americas Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31488",
+    "title": "The Walking Dead: Season Two: A Telltale Games Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31489",
+    "title": "The Wolf Among Us: A Telltale Games Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31490",
+    "title": "Under Night In-Birth: Exe:Late",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31491",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31493",
+    "title": "MXGP: The Official Motocross Videogame",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31494",
+    "title": "MotoGP 14",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31496",
+    "title": "Saints Row: Gat out of Hell",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31497",
+    "title": "BioShock Infinite: The Complete Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31498",
+    "title": "Farming Simulator 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31500",
+    "title": "The Awakened Fate Ultimatum",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31505",
+    "title": "Retro City Rampage DX",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31506",
+    "title": "Rugby 15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31507",
+    "title": "Dragon Ball Xenoverse",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31508",
+    "title": "Motorcycle Club",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31509",
+    "title": "WRC 4: FIA World Rally Championship",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31513",
+    "title": "BlazBlue: Chrono Phantasma Extend",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31515",
+    "title": "Dragon Age: Inquisition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31516",
+    "title": "Falling Skies: The Game",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31518",
+    "title": "LEGO Jurassic World",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31519",
+    "title": "J-Stars Victory Vs+",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31520",
+    "title": "Teslagrad",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31521",
+    "title": "Madden NFL 16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31522",
+    "title": "Disney Infinity 3.0 Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31523",
+    "title": "XBlaze: Lost: Memories",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31525",
+    "title": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31526",
+    "title": "Adventure Time: Finn & Jake Investigations",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31527",
+    "title": "Call of Duty: Black Ops III",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31528",
+    "title": "Dark Souls II: Scholar of the First Sin",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31531",
+    "title": "DreamWorks Kung Fu Panda: Showdown of Legendary Legends",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31532",
+    "title": "Sniper Elite III: Ultimate Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31533",
+    "title": "Tales of Zestiria",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31535",
+    "title": "Dengeki Bunko: Fighting Climax",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31536",
+    "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31537",
+    "title": "Terraria",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31538",
+    "title": "Steins;Gate",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31539",
+    "title": "Battlefield Hardline",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31540",
+    "title": "NHL Legacy Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31542",
+    "title": "NBA 2K16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31543",
+    "title": "FIFA 16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31545",
+    "title": "Skylanders: SuperChargers",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31549",
+    "title": "WRC 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31550",
+    "title": "LEGO Marvel Avengers",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31551",
+    "title": "Ultimate Action Triple Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31552",
+    "title": "Ultimate Stealth Triple Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31553",
+    "title": "FIFA 16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31554",
+    "title": "Lost Dimension",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31556",
+    "title": "Guitar Hero Live",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31558",
+    "title": "Just Dance 2016",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31559",
+    "title": "Os Cavaleiros do Zodíaco: Alma dos Soldados",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31560",
+    "title": "NASCAR '15",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31561",
+    "title": "Final Fantasy XIV Online: The Complete Experience",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31562",
+    "title": "Final Fantasy XIV Online: Heavensward",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31563",
+    "title": "Barbie & Her Sisters: Puppy Rescue",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31564",
+    "title": "PES 2016: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31565",
+    "title": "WWE 2K16",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31566",
+    "title": "Transformers: Devastation",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31568",
+    "title": "Tony Hawk's Pro Skater 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31570",
+    "title": "Adam's Venture: Chronicles",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31571",
+    "title": "Monster High: New Ghoul in School",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31572",
+    "title": "The Legend of Heroes: Trails of Cold Steel",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31576",
+    "title": "The Jackbox Party Pack",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31577",
+    "title": "The Disgaea Triple Play Collection",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31578",
+    "title": "LEGO Star Wars: The Force Awakens",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31579",
+    "title": "Minecraft: Story Mode: A Telltale Games Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31580",
+    "title": "NASCAR '15: Victory Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31581",
+    "title": "The Arland Atelier Trilogy",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31582",
+    "title": "Game of Thrones: A Telltale Games Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31584",
+    "title": "Grand Theft Auto: San Andreas",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31586",
+    "title": "Tales from the Borderlands",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31587",
+    "title": "Aegis of Earth: Protonovus Assault",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31588",
+    "title": "Guilty Gear Xrd: Revelator",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31589",
+    "title": "Madden NFL 17",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31591",
+    "title": "BlazBlue: Central Fiction",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31593",
+    "title": "FIFA 17",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31594",
+    "title": "FIFA 17",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31595",
+    "title": "Just Dance 2017",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31597",
+    "title": "The Legend of Heroes: Trails of Cold Steel II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31598",
+    "title": "PES 2017: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31599",
+    "title": "WWE 2K17",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31600",
+    "title": "Skylanders: Imaginators",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31601",
+    "title": "Odin Sphere: Leifthrasir",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31602",
+    "title": "NBA 2K17",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31604",
+    "title": "Persona 5",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31605",
+    "title": "Batman: The Telltale Series",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31606",
+    "title": "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31608",
+    "title": "Disney/Pixar Cars 3: Driven to Win",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31610",
+    "title": "FIFA 18: Legacy Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31611",
+    "title": "FIFA 18",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31612",
+    "title": "PES 2018: Pro Evolution Soccer",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31613",
+    "title": "Just Dance 2018",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31614",
+    "title": "NBA 2K18",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31616",
+    "title": "FIFA 19: Legacy Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31617",
+    "title": "FIFA 19: Legacy Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31620",
+    "title": "Oddworld: Stranger's Wrath HD",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31621",
+    "title": "Oddworld: Abe's Oddysee: New 'n' Tasty!",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS31622",
+    "title": "Shakedown: Hawaii",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41022",
+    "title": "Sniper Elite V2: Silver Star Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41028",
+    "title": "Metal Gear Solid: The Legacy Collection 1987-2012 (Disc 2)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41038",
+    "title": "Dishonored: Game of the Year Edition",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41042",
+    "title": "Magus",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41044",
+    "title": "The Amazing Spider-Man 2",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41045",
+    "title": "Dark Souls II",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS41046",
+    "title": "Borderlands 2: Game of the Year Edition (Add-On Disc)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS82012",
+    "title": "Borderlands Triple Pack (Gameplay Disc)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS82013",
+    "title": "Borderlands Triple Pack (Add-On Installation Disc)",
+    "status": "missing"
+  },
+  {
+    "title_id": "BLUS90262",
+    "title": "GoldenEye 007: Reloaded",
+    "status": "missing"
   }
 ]

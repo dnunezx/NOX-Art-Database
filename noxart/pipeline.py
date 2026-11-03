@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import io
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -31,6 +32,10 @@ def generate(root, database="database/games.json", config_file="config.json", li
         source = (game.get("pending_source") if ident in replacement_ids else None) or game.get("source") or {}
         source_path = safe_path(root / "sources", source["path"]) if source.get("path") else None
         if game.get("artwork_status") == "restricted" and not (source_path and source_path.is_file()):
+            continue
+        if not output.exists() and (not source_path or not source_path.is_file()):
+            # Lookup state reports missing art; don't spend processing slots on
+            # titles for which this runner has no downloaded source.
             continue
         if output.exists() and ident not in replacement_ids:
             validate_png(output, 512, config)
@@ -66,6 +71,17 @@ def generate(root, database="database/games.json", config_file="config.json", li
             info = inspect_source(source_path, config)
             settings = settings_for(config, game)
             image, method = square_image(source_path, settings)
+            encoded = io.BytesIO()
+            image.save(encoded, format="PNG", optimize=True)
+            output_hash = digest(encoded.getvalue())
+            conflict = next((other for other in games if other is not game and not other.get("shared_with")
+                             and other.get("sha256") == output_hash), None)
+            if conflict:
+                # Unverified duplicate content is a per-title review task, never
+                # a reason to discard the progress of an entire catalog batch.
+                game["fetch_state"] = {**game.get("fetch_state", {}), "status": "duplicate_review"}
+                events.append({"title_id": ident, "status": "duplicate_review", "conflicts_with": conflict["title_id"]})
+                continue
             save_png(image, output)
             thumb_path = None
             if config["thumbnails"]:
@@ -96,14 +112,14 @@ def generate(root, database="database/games.json", config_file="config.json", li
         canonical = by_id[game["shared_with"]]
         while canonical.get("shared_with"):
             canonical = by_id[canonical["shared_with"]]
-        if canonical.get("artwork_status") == "generated":
+        if canonical.get("artwork_status") in {"generated", "restricted"}:
             for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256", "source", "source_sha256", "generated_at",
                         "processing_method", "processing_settings", "processing_sha256", "source_dimensions", "quality_warnings",
                         "steamgriddb_game_id", "match_confidence"):
                 game[key] = canonical.get(key)
             if game.get("sha256") != game.get("reviewed_sha256"):
                 game["review_status"] = "pending"
-            game["artwork_status"] = "generated"
+            game["artwork_status"] = canonical["artwork_status"]
     write_json(safe_path(root, database), games)
     if last_attempted:
         advance_queue(root, "generate", last_attempted)
