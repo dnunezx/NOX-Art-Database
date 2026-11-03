@@ -1,5 +1,15 @@
 [
   {
+    "title_id": "BCUS98148",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
     "title_id": "BCUS98153",
     "status": "generated",
     "dimensions": [
@@ -341,6 +351,16 @@
   },
   {
     "title_id": "BLUS30012",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98111",
     "status": "generated",
     "dimensions": [
       512,
