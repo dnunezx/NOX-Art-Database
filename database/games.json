@@ -234,7 +234,7 @@
     "region": "US",
     "release_year": 2010,
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98111",
     "match_confidence": "exact",
     "steamgriddb_game_id": 38217,
@@ -278,7 +278,10 @@
       "fingerprint": "669dfc499cb989bc2d75163b86b937d092612752a9477cf1d27116c573eda413",
       "checked_at": "2026-11-03T04:22:18.573999+00:00"
     },
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "acc827b43a1852de76d71822bb7524719eb65f9e0564e20c658f5baf734ef8e3",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98112",
@@ -371,7 +374,7 @@
     "region": "US",
     "release_year": 2009,
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98123",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5245365,
@@ -415,7 +418,10 @@
       "fingerprint": "f20d998c6c1aa995f5990a05fb71d290365d1b8e1d1b973b4b36eae352472592",
       "checked_at": "2026-11-03T04:22:19.739925+00:00"
     },
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98124",
@@ -592,7 +598,7 @@
     "region": "US",
     "release_year": 2008,
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98148",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5246704,
@@ -636,7 +642,10 @@
       "fingerprint": "eb850f2e888d544e168f0bf9316e12f9f76cf0ffeb59d3ccc59969bfed75556a",
       "checked_at": "2026-11-03T04:22:21.256574+00:00"
     },
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "8e6e210e0f819177112f43b4bbef289abb530cf59bcafb8f49a00bcc78d83a5b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98151",
@@ -685,7 +694,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98153",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98153",
@@ -730,7 +739,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "819f37eb307ea5e4869d4c0377bde20a1dbf5f8d285b62784bc8960c03982983",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98155",
@@ -739,7 +751,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98155",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98155",
@@ -784,7 +796,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "15eefa149cfde037605d86b59750359600745f45e1768383c164012daf06f383",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98158",
@@ -793,7 +808,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98158",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98158",
@@ -838,7 +853,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3be87f9a0ec2c183f14d865ee4aec333df74d9bab461e349c136d419719f5367",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98161",
@@ -884,7 +902,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98164",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98164",
@@ -929,7 +947,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "4282f47e8c5f4127f16010a38ec117662aa4d77cdf5ecd26312fc7322a0b9fe5",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98165",
@@ -958,7 +979,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98167",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98167",
@@ -1003,7 +1024,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f455bd0d3f72d5ad2a436683e65011d85225d6a64b9a6730d5f0f70c76314789",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98169",
@@ -1029,7 +1053,7 @@
     "region": "US",
     "release_year": 2013,
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98174",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5103049,
@@ -1073,7 +1097,10 @@
       "fingerprint": "fe052d734fd3d3021204ef97f5f613cd612d4faca13a43d73c16aee06a749f32",
       "checked_at": "2026-11-03T04:22:27.037099+00:00"
     },
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c7617aa06998993f289426bddbffb476416f7b7f788b6eeb9bd35704b43d5e45",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98175",
@@ -1082,7 +1109,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98175",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98175",
@@ -1127,7 +1154,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3ab8246f833b68fff231dd1f120deccf462d6b4f913517908c7d32a0eb39021a",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98176",
@@ -1136,7 +1166,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98176",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98176",
@@ -1181,7 +1211,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "e914d3b59a3b2288d4ea1b0f61518bf0ee7f927e8656de174ccf1b0cef8c0af6",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98177",
@@ -1281,7 +1314,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98190",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98190",
@@ -1326,7 +1359,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98192",
@@ -1409,7 +1445,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98207",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98207",
@@ -1454,7 +1490,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "268564fbcbf80da26c04a711a6691fc4dc574e2c5ee170fcff5467af92b36758",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98208",
@@ -1605,7 +1644,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98229",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98229",
@@ -1650,7 +1689,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "909ac381bf9fddc6c5cbe224d0fc4f431905b2ff9533ccf4f1e042ef7cfb167b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98232",
@@ -1659,7 +1701,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98232",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98232",
@@ -1704,7 +1746,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "bec42bf260459091fc191b91ca7245f88ae85d2bdf9d8a896205b9738e3d55e6",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98233",
@@ -1729,7 +1774,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98234",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98234",
@@ -1774,7 +1819,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "699434de8fe97f3e45acd4677ff293318d6d79c1781977f2a1a6be822d5db225",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98235",
@@ -1800,7 +1848,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98242",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98242",
@@ -1845,7 +1893,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "53c722375d98a6b9431cb961a6aae70b329ec71c5497ed562eac79bbe6f26365",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98245",
@@ -1854,7 +1905,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98245",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98245",
@@ -1899,7 +1950,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c64e3e032a6598fb9d331069387d60052a3fd3a3223d5f85ebb9212b797f196d",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98246",
@@ -1908,7 +1962,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98246",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98246",
@@ -1953,7 +2007,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "059dd9129a4d428ab218af30c499d8325e6e4e2008f20e44842e052e2e3e50a8",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98247",
@@ -1962,7 +2019,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98247",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98247",
@@ -2007,7 +2064,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "682a1aa0d55b8e9f22dd808c99e042da2b5090d6ff100c38a88ffaf8b2b18c68",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98248",
@@ -2036,7 +2096,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98251",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98251",
@@ -2081,7 +2141,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "5186ffd70df2f7a416637bb1a1469be1eeb16430d57ebfb725b0e25c858e8ce5",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98253",
@@ -2090,7 +2153,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98253",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98253",
@@ -2137,7 +2200,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "909ac381bf9fddc6c5cbe224d0fc4f431905b2ff9533ccf4f1e042ef7cfb167b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98254",
@@ -2146,7 +2212,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98254",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98254",
@@ -2191,7 +2257,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "991fb747e0c60e4ae7b320c72bf7240706ae81128ef5cb0dbd1767cb184bb1ad",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98255",
@@ -2220,7 +2289,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98257",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98257",
@@ -2266,7 +2335,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98259",
@@ -2440,7 +2512,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98281",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98281",
@@ -2485,7 +2557,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f6fc3d6ad8aa2b46d04b419b556916b5bf5268d287f0192c20fec9519485c357",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98282",
@@ -2511,7 +2586,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98286",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98286",
@@ -2557,7 +2632,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "699434de8fe97f3e45acd4677ff293318d6d79c1781977f2a1a6be822d5db225",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98289",
@@ -2566,7 +2644,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98289",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98289",
@@ -2611,7 +2689,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f86d3937d6f4c1ad655c2a76e12c503bdd95481c63574a6488c40be9847a1064",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98295",
@@ -2640,7 +2721,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98296",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98296",
@@ -2685,7 +2766,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "39c3adff25c5d5321f92becf975955877f6d0a4f4a66a5fee094e80bb12a6284",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98298",
@@ -2694,7 +2778,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98298",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98298",
@@ -2739,7 +2823,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "8eb55317e229c2d1b1e4d00b1b902f57164a3af9d733051e29063c4c920f26dd",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98359",
@@ -2765,7 +2852,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98362",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98362",
@@ -2810,7 +2897,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f7ac79d4c9900dacf496a4a19666e6dd0f0d017826bfd8d4b13eac9cab2f6905",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98365",
@@ -2904,7 +2994,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98379",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98379",
@@ -2949,7 +3039,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "92c3341d8aac4e91a8745530a4555b791b0ea2ad7ed6fe89ea74fd61d1d3367f",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98380",
@@ -2958,7 +3051,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98380",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98380",
@@ -3003,7 +3096,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "b2ae9f46319365ffc02fdc6769719d48a74d70d95e5ce98b13aeaeca25dc786e",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98394",
@@ -3047,7 +3143,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98472",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98472",
@@ -3092,7 +3188,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a383bc02c2644cd4abcf4dbfbd68e2b88226fdf45a577ac54fe154db833f747b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS98473",
@@ -3155,7 +3254,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99089",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99089",
@@ -3201,7 +3300,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "991fb747e0c60e4ae7b320c72bf7240706ae81128ef5cb0dbd1767cb184bb1ad",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS99134",
@@ -3210,7 +3312,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99134",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99134",
@@ -3256,7 +3358,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "8eb55317e229c2d1b1e4d00b1b902f57164a3af9d733051e29063c4c920f26dd",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS99189",
@@ -3320,7 +3425,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99198",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99198",
@@ -3366,7 +3471,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c7617aa06998993f289426bddbffb476416f7b7f788b6eeb9bd35704b43d5e45",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS99205",
@@ -3392,7 +3500,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99245",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99245",
@@ -3437,7 +3545,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "b32f48a4bf96c975e902945839fe806755206a87fb0c49b039eb725f800eb973",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS99247",
@@ -3446,7 +3557,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99247",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99247",
@@ -3491,7 +3602,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "d5b03e7842c7c3f4b3b0645d597bdbb9cab3fdd9353601c06999793a2e082386",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BCUS99277",
@@ -3518,7 +3632,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30001",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30001",
@@ -3563,7 +3677,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "5d4705f7875d574caa1cd2806747fa663b2df5426371411fa9f794eb9d110497",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30002",
@@ -3669,7 +3786,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30007",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30007",
@@ -3714,7 +3831,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "955dfeaea29f3453ffcda6b91354ff7bab06077cada8cec883bf9e873b89eeae",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30008",
@@ -3740,7 +3860,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30009",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30009",
@@ -3785,7 +3905,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "e6fe73b33915cfd27db6b7050fbb2d7964f0711d1fc2f5b22fea62cf73318c05",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30010",
@@ -3794,7 +3917,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30010",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30010",
@@ -3839,7 +3962,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "7b9fb666243313a4e56826922ebd2a065dcf76b8ca6248dc77ec873929fb31d3",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30011",
@@ -3848,7 +3974,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30011",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30011",
@@ -3893,7 +4019,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "53232d473ddfd3b8206528f868bd0d851fceff6fab15995a4fd573430d3d618d",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30012",
@@ -3902,7 +4031,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30012",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30012",
@@ -3947,7 +4076,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f78e0cf92ac96e4b71c2791def7fb54300ed4f41d2e67aa6c79a4a96a9c46903",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30013",
@@ -3976,7 +4108,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30014",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30014",
@@ -4021,7 +4153,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "768d5e60f40e237cf84726263e3bb65c1547c7c638bb765dd6f7496497d96313",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30016",
@@ -4030,7 +4165,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30016",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30016",
@@ -4075,7 +4210,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "ee8b509e7655d49c1e4cd21faed6ae0abca05cbc81e88d502afdd7d99889458b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30017",
@@ -4101,7 +4239,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30018",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30018",
@@ -4146,7 +4284,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c5ccdf307b181acc40f1d43d49c46adad3b4485516f2ad5cbb87a23d7137245b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30019",
@@ -4155,7 +4296,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30019",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30019",
@@ -4200,7 +4341,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3f19fe55c974832de1f87fb434e2aaa2ce278d75b7de90167ab65dfe2ef99d65",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30020",
@@ -4209,7 +4353,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30020",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30020",
@@ -4254,7 +4398,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "5ab4aed00bd4067774002fd663db6f198717172504a0ae0b6c118d61e16c870b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30021",
@@ -4323,7 +4470,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30024",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30024",
@@ -4368,7 +4515,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "bf4879f37298b0e856728d78f45f499aea4fff79e3924b0de992e6aea462ed79",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30025",
@@ -4417,7 +4567,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30027",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30027",
@@ -4462,7 +4612,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a371da0a2d5594f06016df311432e8390cc671b421412e5a21b508b440b47064",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30028",
@@ -4508,7 +4661,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30030",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30030",
@@ -4553,7 +4706,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3a05d4006a91b6f441977523f6848318eb9228976c84ebf28c13925bb9676793",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30031",
@@ -4562,7 +4718,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30031",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30031",
@@ -4608,7 +4764,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3a05d4006a91b6f441977523f6848318eb9228976c84ebf28c13925bb9676793",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30032",
@@ -4617,7 +4776,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30032",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30032",
@@ -4662,7 +4821,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3963fd352c11041f277a7681bf446d5ba2e359f33f5e7b1d6990e84d681cf897",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30033",
@@ -4691,7 +4853,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30034",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30034",
@@ -4736,7 +4898,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "e5543f280d5437193aad232a65d293738bd45c7d5c47be1932bc781800bea922",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30035",
@@ -4762,7 +4927,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30036",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30036",
@@ -4807,7 +4972,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a9d5591d3ea9775cc705caeeb4d5ef8389be8992dfdea18f541e23c84030a10d",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30037",
@@ -4816,7 +4984,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30037",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30037",
@@ -4861,7 +5029,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "546694c5a74b5d20b6e612b16b2e8fc44e79dad73114e211b69989a1488964cd",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30038",
@@ -4984,7 +5155,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30045",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30045",
@@ -5029,7 +5200,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "057ecd198497597572e377a4c3a27fcf38e660694c7345f1e9bd3bbc276cc19d",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30046",
@@ -5038,7 +5212,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30046",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30046",
@@ -5083,7 +5257,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "81a70e79408f8a5c520f743e1c3a2e0b198d1cde5fbfc43af6ce3a21fb71baff",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30047",
@@ -5092,7 +5269,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30047",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30047",
@@ -5137,7 +5314,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c1286af7b0730863edd51401d34e2bb135960ab4ae5bdc2a289dbec40295e91a",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30048",
@@ -5186,7 +5366,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30050",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30050",
@@ -5231,7 +5411,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "d6b478f1692106dd32710fdecf346a1e70c6f9f4f64f60f07970d89a6f127313",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30052",
@@ -5280,7 +5463,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30055",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30055",
@@ -5325,7 +5508,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c1cdeab06eb2a559cdfc4ee0e8c9e6c3314b995adeb3e7d19f78403e6c6748b5",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30056",
@@ -5334,7 +5520,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30056",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30056",
@@ -5379,7 +5565,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "99899c336f4297ab1259a719c097460643410411a3bd3cf51401957127138ceb",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30057",
@@ -5388,7 +5577,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30057",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30057",
@@ -5433,7 +5622,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3f703341bb8682805a54a6d8d97cc1bb7f7502e2e79964c6f8f9e4d4e59529c3",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30058",
@@ -5499,7 +5691,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30061",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30061",
@@ -5544,7 +5736,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "2f18f6b383232a37fb0310380fefa0cb185d51b9a26a823b6c8488378da76cd6",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30062",
@@ -5593,7 +5788,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30064",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30064",
@@ -5638,7 +5833,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "91cfab936f84b626ee7f4db4768d7367e12e423b4d57f75636880bcc066d331c",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30065",
@@ -5647,7 +5845,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30065",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30065",
@@ -5692,7 +5890,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "42acb282ead9e4fd3dff1dbfd438c6b749088ffb41de25acd30589e796ef3fef",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30066",
@@ -5701,7 +5902,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30066",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30066",
@@ -5746,7 +5947,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "b3c7cb4d15c9725d80d165af8dc5aa4d161da93a29010989e00f6aeba670212d",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30067",
@@ -5755,7 +5959,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30067",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30067",
@@ -5800,7 +6004,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "359ce5956ccc9469447dae529ca2ac1f1173e20e88baffceb8ba7f381675e976",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30068",
@@ -5809,7 +6016,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30068",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30068",
@@ -5854,7 +6061,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3dbc97bb76ad6a53a77f6a471945fdd56d92a689703c9a63b506ee55a143b2c8",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30069",
@@ -5900,7 +6110,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30071",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30071",
@@ -5945,7 +6155,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "e77a6b1f7cf2c2932fb2a14f43b24a1831842fc504bfc49bcf31d402ff82b698",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30072",
@@ -5954,7 +6167,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30072",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30072",
@@ -5999,7 +6212,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "ea598cd115f8a1181791039d9fa4fd0f7bf2db029775f69965ae2d5db760cbb4",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30073",
@@ -6008,7 +6224,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30073",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30073",
@@ -6053,7 +6269,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "d8574ad7420f45e2baa9cbffd8dee7dcba89edc53bd73ac6d8977b54ad934125",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30074",
@@ -6062,7 +6281,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30074",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30074",
@@ -6107,7 +6326,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "c011899ce53bce35ecb17b5c0e6b919f4dc26c016bebe72b51f73008299a8940",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30075",
@@ -6173,7 +6395,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30078",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30078",
@@ -6218,7 +6440,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "37ee73cb1faa9847054f6699edb5d044f472621595c42cf5556eea45f843b551",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30079",
@@ -6227,7 +6452,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30079",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30079",
@@ -6272,7 +6497,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "7319cdbc69732c154f521ec109c3a56da08b23391422afcf45ca20751f60889a",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30080",
@@ -6321,7 +6549,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30082",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30082",
@@ -6366,7 +6594,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f835a2118e5a15b0c73053db9e441c57e3cd53ddc6fe50359a50639f34250d7e",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30083",
@@ -6395,7 +6626,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30084",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30084",
@@ -6440,7 +6671,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "85d38f8c8d77af6c66611a2673c804cbfb7056c4f2bb4f12eeb6038464648801",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30086",
@@ -6449,7 +6683,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30086",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30086",
@@ -6494,7 +6728,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "0cc8f5aa15823240915faf797586d72b7b89c463cdea11d439add5915474a769",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30087",
@@ -6503,7 +6740,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30087",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30087",
@@ -6548,7 +6785,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "81d4003d7dab534ba007f16a76822e5c53636799be2e524d6b110a764d43f18a",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30088",
@@ -6574,7 +6814,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30089",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30089",
@@ -6619,7 +6859,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "450bbad03ccdf79df7b47a114f2462377d92b9a5f77c668eadbda7e90aee0564",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30090",
@@ -6665,7 +6908,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30092",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30092",
@@ -6710,7 +6953,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "215acdfb59e0dd4d224906fe12688a79083bbcd866379bdd9026fb4c6552a7c0",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30093",
@@ -6756,7 +7002,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30097",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30097",
@@ -6801,7 +7047,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "123642758f3632a0791793b5ef10caa15c9a44374434f9e3f6de234c63243f2b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30098",
@@ -6827,7 +7076,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30099",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30099",
@@ -6872,7 +7121,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "d603a344cd761478c7e16008a5d1fb952454277706fa0201628837da4bfd51e3",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30100",
@@ -6918,7 +7170,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30102",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30102",
@@ -6963,7 +7215,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "4c4eb8ac3b11f74ab752cec6ebb29a77dc3e3861fe772e9ba7c3622971124d73",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30103",
@@ -7046,7 +7301,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30107",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30107",
@@ -7091,7 +7346,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3e76d0657db061f525181a99bcefa5bfb467822ef11c2f121f1eb21daa0239eb",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30108",
@@ -7117,7 +7375,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30109",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30109",
@@ -7162,7 +7420,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "fd75d2e19ed415ec7081328b6cc27ad95d911565191cd0bfac8b7e29cb97d8cc",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30110",
@@ -7171,7 +7432,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30110",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30110",
@@ -7216,7 +7477,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "0d5ccbb33b52fa4500adc2efc220e472191e5fc487d9fb1b5b088ad643baa27f",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30111",
@@ -7262,7 +7526,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30113",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30113",
@@ -7307,7 +7571,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3d6484c1f72a780073a800fe2f3b2df5eab9e199e9eeefb42c6626be3c45df17",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30114",
@@ -7333,7 +7600,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30115",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30115",
@@ -7378,7 +7645,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a2e23991ae8e6064a35786c3007be8342a48cf322dbd1c0953f03d45c961ac15",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30116",
@@ -7387,7 +7657,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30116",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30116",
@@ -7432,7 +7702,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "a6d661a65e2383588f644c5541342165018c0a9d4f919e0785b7642da7ce9560",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30117",
@@ -7441,7 +7714,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30117",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30117",
@@ -7486,7 +7759,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "f5b9f6f04d0e611a9e8d11aa8a9536d86f79c0981d33d15ea87367aefedeb08b",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30118",
@@ -7495,7 +7771,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30118",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30118",
@@ -7540,7 +7816,10 @@
       1024
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "2b6067c11a4c29549901456a59070d69490beda8bdfd2566a5934f563e7fcf36",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30119",
@@ -7569,7 +7848,7 @@
     "region": "US",
     "distribution": "disc",
     "artwork_status": "generated",
-    "review_status": "pending",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30120",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30120",
@@ -7614,7 +7893,10 @@
       512
     ],
     "quality_warnings": [],
-    "publication_status": "validated-with-attribution"
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "26656b4b3b5908e95764c290826d16b58b415fc61d568c1e1f4b51566e16468e",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30121",
