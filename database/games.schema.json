@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NOX PS3 game database",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["title_id", "title"],
+    "properties": {
+      "title_id": {"type": "string", "pattern": "^[A-Z]{4}[0-9]{5}$"},
+      "title": {"type": "string", "minLength": 1},
+      "platform": {"const": "PS3"},
+      "region": {"type": "string"},
+      "artwork_status": {"enum": ["missing", "generated", "restricted"]},
+      "review_status": {"enum": ["pending", "approved", "rejected"]},
+      "shared_with": {"type": "string", "pattern": "^[A-Z]{4}[0-9]{5}$"},
+      "steamgriddb_game_id": {"type": "integer", "minimum": 1},
+      "artwork": {"type": ["string", "null"]},
+      "thumbnail": {"type": ["string", "null"]},
+      "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "reviewed_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "source": {"anyOf": [{"type": "null"}, {"$ref": "#/$defs/source"}]},
+      "pending_source": {"$ref": "#/$defs/source"},
+      "provider_permissions": {"type": "object", "additionalProperties": {"$ref": "#/$defs/source"}},
+      "processing_settings": {"type": "object"},
+      "generated_at": {"type": "string", "format": "date-time"}
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "properties": {
+        "provider": {"type": "string"},
+        "path": {"type": "string"},
+        "url": {"type": "string", "format": "uri"},
+        "download_approved": {"type": "boolean"},
+        "download_permission_evidence": {"type": "string"},
+        "redistribution": {"enum": ["approved", "unverified", "denied"]},
+        "license": {"type": "string"},
+        "attribution": {"type": "string"},
+        "permission_evidence": {"type": "string"}
+      }
+    }
+  }
+}

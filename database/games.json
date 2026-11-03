@@ -1,0 +1,166 @@
+[
+  {
+    "title_id": "NOXS00001",
+    "title": "NOX synthetic square demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "generated",
+    "review_status": "approved",
+    "source": {
+      "provider": "local",
+      "path": "samples/square.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    },
+    "artwork": "PS3/NOXS00001.png",
+    "thumbnail": "PS3/NOXS00001.png",
+    "source_sha256": "1a8b171f794ad1b1399a0391b6ba1f894f0150ccd614c9037bcf97d09d93ecf3",
+    "sha256": "bd22059c563d3d88089fab1818bce4e4a1b92eab52aefd334b8694ebabe5c68c",
+    "thumbnail_sha256": "56c6675a258d95ee93aff6976511054a5bbb98c766654f6b746d6fb72411e439",
+    "generated_at": "2026-11-03T02:05:53.101640+00:00",
+    "processing_method": "crop",
+    "processing_settings": {
+      "method": "auto",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1,
+      "rotation": 0,
+      "background": "blur",
+      "preserve_full": false
+    },
+    "processing_sha256": "936724a6080ad32dcb34349c5e8b4a4101663f081cada13724a25b02cde491ad",
+    "source_dimensions": [
+      640,
+      640
+    ],
+    "quality_warnings": [],
+    "reviewed_sha256": "bd22059c563d3d88089fab1818bce4e4a1b92eab52aefd334b8694ebabe5c68c"
+  },
+  {
+    "title_id": "NOXS00002",
+    "title": "NOX synthetic portrait demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "generated",
+    "review_status": "approved",
+    "source": {
+      "provider": "local",
+      "path": "samples/portrait.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    },
+    "artwork": "PS3/NOXS00002.png",
+    "thumbnail": "PS3/NOXS00002.png",
+    "source_sha256": "b26b19af55e5f412831c4c2defa9febb87e45bcaf047cdc4f62c5bc2feee521c",
+    "sha256": "1844695280cd410c32831f344e80b597ce8cd2c0f1841aa04bb917e2ff29fa80",
+    "thumbnail_sha256": "4a81af1170bf2afbaa3b3c910906584b494ac68bdc815ce164167017baf1af81",
+    "generated_at": "2026-11-03T02:05:53.176062+00:00",
+    "processing_method": "fit",
+    "processing_settings": {
+      "method": "auto",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1,
+      "rotation": 0,
+      "background": "blur",
+      "preserve_full": false
+    },
+    "processing_sha256": "936724a6080ad32dcb34349c5e8b4a4101663f081cada13724a25b02cde491ad",
+    "source_dimensions": [
+      480,
+      800
+    ],
+    "quality_warnings": [],
+    "reviewed_sha256": "1844695280cd410c32831f344e80b597ce8cd2c0f1841aa04bb917e2ff29fa80"
+  },
+  {
+    "title_id": "NOXS00003",
+    "title": "NOX synthetic landscape demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "generated",
+    "review_status": "approved",
+    "source": {
+      "provider": "local",
+      "path": "samples/landscape.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    },
+    "artwork": "PS3/NOXS00003.png",
+    "thumbnail": "PS3/NOXS00003.png",
+    "source_sha256": "1fa20a0a350c3cc58610cdb0a9503dd233f0bc07c13f5e56e3fc45e3d0dddd3e",
+    "sha256": "f72dd946b85173ca1507d09222e2efa4c679d7a816ce94ba6093bed358ed61bb",
+    "thumbnail_sha256": "e17e6fc6f41f4dc6d49fc3dd74b5e4c7f16e44efd393af4b94223e30c0d17a44",
+    "generated_at": "2026-11-03T02:05:53.256819+00:00",
+    "processing_method": "fit",
+    "processing_settings": {
+      "method": "auto",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1,
+      "rotation": 0,
+      "background": "blur",
+      "preserve_full": false
+    },
+    "processing_sha256": "936724a6080ad32dcb34349c5e8b4a4101663f081cada13724a25b02cde491ad",
+    "source_dimensions": [
+      960,
+      540
+    ],
+    "quality_warnings": [],
+    "reviewed_sha256": "f72dd946b85173ca1507d09222e2efa4c679d7a816ce94ba6093bed358ed61bb"
+  },
+  {
+    "title_id": "NOXS00004",
+    "title": "NOX synthetic transparent demo",
+    "platform": "PS3",
+    "region": "DEMO",
+    "artwork_status": "generated",
+    "review_status": "approved",
+    "source": {
+      "provider": "local",
+      "path": "samples/transparent.png",
+      "attribution": "NOX Art Database original geometric demo",
+      "license": "CC0-1.0",
+      "permission_evidence": "sources/samples/LICENSE.txt",
+      "redistribution": "approved"
+    },
+    "artwork": "PS3/NOXS00004.png",
+    "thumbnail": "PS3/NOXS00004.png",
+    "source_sha256": "1fc307d42cf63118b0aaa6b4987d9d8ae3f68f69777891998f9f1c99f57f1fb6",
+    "sha256": "36071aa884bc94bd6d2462238ea14ef84469df4eff9c5e5d5f71a7970ff26162",
+    "thumbnail_sha256": "62b7414d7a5c7d7cff5ece08fe1fa5108e1c023b51a1b134638d85e3f509704e",
+    "generated_at": "2026-11-03T02:05:53.458990+00:00",
+    "processing_method": "fit",
+    "processing_settings": {
+      "method": "auto",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "zoom": 1,
+      "rotation": 0,
+      "background": "blur",
+      "preserve_full": false
+    },
+    "processing_sha256": "936724a6080ad32dcb34349c5e8b4a4101663f081cada13724a25b02cde491ad",
+    "source_dimensions": [
+      640,
+      360
+    ],
+    "quality_warnings": [],
+    "reviewed_sha256": "36071aa884bc94bd6d2462238ea14ef84469df4eff9c5e5d5f71a7970ff26162"
+  }
+]

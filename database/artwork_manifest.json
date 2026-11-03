@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "platform": "PS3",
+  "artwork_size": 512,
+  "thumbnail_size": 256,
+  "artwork_root": "artwork/",
+  "thumbnail_root": "thumbnails/",
+  "games": {
+    "NOXS00001": {
+      "artwork": "PS3/NOXS00001.png",
+      "thumbnail": "PS3/NOXS00001.png",
+      "sha256": "bd22059c563d3d88089fab1818bce4e4a1b92eab52aefd334b8694ebabe5c68c",
+      "thumbnail_sha256": "56c6675a258d95ee93aff6976511054a5bbb98c766654f6b746d6fb72411e439"
+    },
+    "NOXS00002": {
+      "artwork": "PS3/NOXS00002.png",
+      "thumbnail": "PS3/NOXS00002.png",
+      "sha256": "1844695280cd410c32831f344e80b597ce8cd2c0f1841aa04bb917e2ff29fa80",
+      "thumbnail_sha256": "4a81af1170bf2afbaa3b3c910906584b494ac68bdc815ce164167017baf1af81"
+    },
+    "NOXS00003": {
+      "artwork": "PS3/NOXS00003.png",
+      "thumbnail": "PS3/NOXS00003.png",
+      "sha256": "f72dd946b85173ca1507d09222e2efa4c679d7a816ce94ba6093bed358ed61bb",
+      "thumbnail_sha256": "e17e6fc6f41f4dc6d49fc3dd74b5e4c7f16e44efd393af4b94223e30c0d17a44"
+    },
+    "NOXS00004": {
+      "artwork": "PS3/NOXS00004.png",
+      "thumbnail": "PS3/NOXS00004.png",
+      "sha256": "36071aa884bc94bd6d2462238ea14ef84469df4eff9c5e5d5f71a7970ff26162",
+      "thumbnail_sha256": "62b7414d7a5c7d7cff5ece08fe1fa5108e1c023b51a1b134638d85e3f509704e"
+    }
+  }
+}
