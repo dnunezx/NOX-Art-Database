@@ -145,7 +145,10 @@ def prepare_public(root, database="database/games.json"):
         if not redistribution_allowed(canonical) or canonical.get("review_status") == "rejected" or game.get("review_status") == "rejected":
             for directory, key in (("art", "artwork"), ("thumbnails", "thumbnail")):
                 if game.get(key):
-                    safe_path(root / directory, game[key]).unlink(missing_ok=True)
+                    # Rejecting one regional alias must not delete a canonical
+                    # image still used by another approved or pending entry.
+                    if not game.get("shared_with") or not redistribution_allowed(canonical) or canonical.get("review_status") == "rejected":
+                        safe_path(root / directory, game[key]).unlink(missing_ok=True)
                     game[key] = None
             if game.get("artwork_status") == "generated":
                 game["artwork_status"] = "restricted"

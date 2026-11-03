@@ -48,6 +48,14 @@ Follow [progress](reports/progress.md), [matching review](reports/ambiguous_matc
 and [download results](reports/download_results.json). Workflow review artifacts contain
 `reports/contact-sheet.html`. Scheduled runs avoid repeated artifact uploads.
 
+Browse the [artwork review gallery](reports/artwork-review.md) directly on GitHub.
+It separates pending, approved and rejected selections, with thumbnails, full-size
+images and creator/source links. To save your decisions, open **Actions → NOX —
+Review Artwork → Run workflow**, enter the reviewed Title IDs and choose approve
+or reject. Approved selections stay in place; rejection removes that entry from
+delivery while retaining its source metadata. The [matching review page](reports/matching-review.md)
+lists candidate game identities separately.
+
 ## Setup and use
 
 1. Add `STEAMGRIDDB_API_KEY` to **Settings → Secrets and variables → Actions**.

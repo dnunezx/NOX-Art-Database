@@ -1,4 +1,5 @@
 import html
+import os
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -6,11 +7,57 @@ from .common import load_games, read_json, safe_path, write_json
 from .queue import eligible
 
 
+def review_gallery(root, games, destination):
+    def clean(value):
+        return html.escape(str(value)).replace("|", "&#124;").replace("\n", " ").replace("\r", " ")
+    repo = os.environ.get("GITHUB_REPOSITORY", "dnunezx/NOX-Art-Database")
+    lines = ["# Artwork review gallery", "", "Click a thumbnail to open the full-size PNG. Creator credits and source links are saved with every image.", "",
+             f"[Record approval or rejection in GitHub Actions](https://github.com/{repo}/actions/workflows/review-artwork.yml)", "",
+             "Open **Run workflow**, enter the Title IDs you reviewed, and choose approve or reject. Approved images are kept and are never replaced automatically.", "",
+             "[Games needing an identity match](matching-review.md) · [Progress](progress.md) · [All credits](../CREDITS.md)", ""]
+    for status, heading in (("pending", "Pending visual review"), ("approved", "Approved artwork"), ("rejected", "Rejected artwork")):
+        selected = [g for g in games if g.get("review_status", "pending") == status and
+                    (g.get("artwork_status") == "generated" or (status == "rejected" and g.get("source")))]
+        lines.extend([f"## {heading} ({len(selected)})", ""])
+        if not selected:
+            lines.extend(["No entries in this section yet.", ""])
+            continue
+        lines.extend(["| Preview | Game | Title ID | Contributor / source |", "|---|---|---|---|"])
+        for game in sorted(selected, key=lambda g: (g["title"].casefold(), g["title_id"])):
+            source = game.get("source") or {}
+            preview = "Image removed; source retained for reference"
+            if game.get("artwork"):
+                artwork = safe_path(root / "art", game["artwork"])
+                thumb = game.get("thumbnail")
+                if artwork.exists():
+                    image_path = "../thumbnails/" + thumb if thumb else "../art/" + game["artwork"]
+                    preview = f"[![{game['title_id']}]({image_path})](../art/{game['artwork']})"
+            creator = clean(source.get("attribution", "Unknown contributor"))
+            page = source.get("source_page", "")
+            source_link = f"[asset #{source.get('provider_artwork_id')}]({page})" if page.startswith("https://www.steamgriddb.com/grid/") else "Source not supplied"
+            lines.append(f"| {preview} | {clean(game['title'])} | `{game['title_id']}` | {creator}<br>{source_link} |")
+        lines.append("")
+    (destination / "artwork-review.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    pending_path = destination / "ambiguous_matches.json"
+    pending = read_json(pending_path) if pending_path.exists() else []
+    match_lines = ["# Game matching review", "", "These titles have not been assigned artwork automatically. Compare the original game and its release with the candidate SteamGridDB pages.", "",
+                   "[Back to artwork gallery](artwork-review.md)", ""]
+    for row in pending:
+        match_lines.extend([f"## {clean(row['title'])} — {row['title_id']}", ""])
+        for candidate in row.get("candidates", []):
+            ident = candidate.get("id")
+            if type(ident) is int:
+                match_lines.append(f"- [{clean(candidate.get('name', 'Unnamed game'))}](https://www.steamgriddb.com/game/{ident}) — game ID `{ident}`")
+        match_lines.append("")
+    (destination / "matching-review.md").write_text("\n".join(match_lines).rstrip() + "\n", encoding="utf-8")
+
+
 def reports(root, database="database/games.json"):
     root = Path(root)
     games = load_games(safe_path(root, database))
     destination = root / "reports"
     destination.mkdir(parents=True, exist_ok=True)
+    review_gallery(root, games, destination)
     events_path = destination / "download_results.json"
     events = read_json(events_path) if events_path.exists() else []
     results = {e["title_id"]: e for e in events}

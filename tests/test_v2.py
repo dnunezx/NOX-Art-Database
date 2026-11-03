@@ -411,6 +411,35 @@ class AttributionPublicationTests(Fixture):
         prepare_public(self.root)
         self.assertFalse((self.root / "art/BCUS98111.png").exists())
 
+    def test_review_gallery_keeps_thumbnail_source_and_approval_sections(self):
+        self.enable()
+        self.build()
+        prepare_public(self.root)
+        reports(self.root)
+        gallery = (self.root / "reports/artwork-review.md").read_text()
+        self.assertIn("Pending visual review (1)", gallery)
+        self.assertIn("../thumbnails/BCUS98111.png", gallery)
+        self.assertIn("../art/BCUS98111.png", gallery)
+        self.assertIn("Test artist", gallery)
+        approve(self.root, ["BCUS98111"])
+        reports(self.root)
+        self.assertIn("Approved artwork (1)", (self.root / "reports/artwork-review.md").read_text())
+
+    def test_rejecting_regional_alias_preserves_canonical_file(self):
+        from scripts.review_artwork import review
+        self.enable()
+        write_json(self.root / "database/games.json", [GAME, {"title_id": "BCES00510", "title": "God of War III", "shared_with": "BCUS98111"}])
+        self.fetch()
+        generate(self.root)
+        prepare_public(self.root)
+        review(self.root, ["BCES00510"], "reject")
+        prepare_public(self.root)
+        validate(self.root)
+        self.assertTrue((self.root / "art/BCUS98111.png").exists())
+        index = individual_index(self.root)
+        self.assertEqual(index["games"]["BCUS98111"]["status"], "available")
+        self.assertIsNone(index["games"]["BCES00510"]["download_url"])
+
 
 class QueueTests(Fixture):
     def test_finished_title_is_not_downloaded_on_next_run(self):
