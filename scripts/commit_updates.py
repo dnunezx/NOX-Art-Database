@@ -18,7 +18,7 @@ if __name__ == "__main__":
     check(Path.cwd())
     run("git", "config", "user.name", "github-actions[bot]")
     run("git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
-    run("git", "add", "--", "art", "thumbnails", "database", "reports")
+    run("git", "add", "--", "art", "thumbnails", "database", "reports", "CREDITS.md")
     result = subprocess.run(["git", "diff", "--cached", "--quiet"])
     if result.returncode == 0:
         print("Individual artwork database is already up to date")

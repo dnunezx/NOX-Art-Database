@@ -6,6 +6,7 @@ from pathlib import Path
 
 from .common import file_hash, load_games, publishable, read_json, redistribution_allowed, safe_path, write_json
 from .imaging import validate_png
+from .publication import apply_policy, write_credits
 
 
 def canonical_id(game, by_id):
@@ -101,6 +102,9 @@ def package(root, database="database/games.json", config_file="config.json", ver
         report = root / "reports" / name
         if report.is_file():
             payloads["reports/" + name] = report.read_bytes()
+    for name in ("CREDITS.md", "database/artwork_credits.json", "docs/ARTWORK-POLICY.md"):
+        if (root / name).is_file():
+            payloads[name] = (root / name).read_bytes()
     import re
     if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]{0,63}", version):
         raise ValueError("Unsafe package version")
@@ -118,7 +122,7 @@ def package(root, database="database/games.json", config_file="config.json", ver
     thumbs = destination.parent / f"NOX-PS3-Thumbnails-{version}.zip"
     with zipfile.ZipFile(thumbs, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
         for name, data in sorted(payloads.items()):
-            if name.startswith("thumbnails/") or name.startswith("database/"):
+            if name.startswith("thumbnails/") or name.startswith("database/") or name in {"CREDITS.md", "docs/ARTWORK-POLICY.md"}:
                 info = zipfile.ZipInfo(name, date_time=(2020, 1, 1, 0, 0, 0))
                 info.compress_type = zipfile.ZIP_DEFLATED
                 archive.writestr(info, data)
@@ -130,13 +134,15 @@ def package(root, database="database/games.json", config_file="config.json", ver
 
 
 def prepare_public(root, database="database/games.json"):
-    """Remove restricted images before creating a public PR or uploading reports."""
+    """Apply the owner's attributed publication policy and prepare public files."""
     root = Path(root)
     games = load_games(safe_path(root, database))
+    config = read_json(root / "config.json")
+    apply_policy(root, games, config)
     by_id = {g["title_id"]: g for g in games}
     for game in games:
         canonical = by_id[canonical_id(game, by_id)]
-        if not redistribution_allowed(canonical):
+        if not redistribution_allowed(canonical) or canonical.get("review_status") == "rejected" or game.get("review_status") == "rejected":
             for directory, key in (("art", "artwork"), ("thumbnails", "thumbnail")):
                 if game.get(key):
                     safe_path(root / directory, game[key]).unlink(missing_ok=True)
@@ -144,3 +150,4 @@ def prepare_public(root, database="database/games.json"):
             if game.get("artwork_status") == "generated":
                 game["artwork_status"] = "restricted"
     write_json(safe_path(root, database), games)
+    write_credits(root, games)

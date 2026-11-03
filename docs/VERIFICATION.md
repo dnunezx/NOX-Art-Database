@@ -7,9 +7,11 @@ SteamGridDB live test, 2026-11-02 (client date):
 - Uncharted 3 was queued for manual identity review because SteamGridDB did not supply its expected release date. No remastered edition was silently substituted.
 - [Validation](https://github.com/dnunezx/NOX-Art-Database/actions/runs/41573547555) and [optional packaging](https://github.com/dnunezx/NOX-Art-Database/actions/runs/41573732180) passed. All three downloaded ZIP checksums and archive integrity were independently verified.
 
-The selected artwork still requires visual approval and redistribution evidence
-before it is hosted publicly as a PNG. The source links and actual generated
-checksums are retained in the per-title metadata. No public release was created.
+Those initial runs used an overly restrictive publication setting that removed
+images while retaining source links and generated checksums. The repository owner
+subsequently authorized publication with attribution. The current policy restores
+those images and publishes validated matches with contributor/source credits;
+pending visual review no longer blocks downloads. No public release was created.
 
 The subsequent individual-file layout is verified by dedicated path/link tests and
 its own live workflow. It replaces default ZIP delivery with `art/TITLEID.png`,

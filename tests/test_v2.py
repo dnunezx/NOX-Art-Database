@@ -46,6 +46,8 @@ class Fixture(unittest.TestCase):
         self.root = Path(self.temp.name)
         shutil.copy(REPO / "config.json", self.root / "config.json")
         self.config = read_json(self.root / "config.json")
+        self.config["publication"] = {"steamgriddb_with_attribution": False}
+        write_json(self.root / "config.json", self.config)
         write_json(self.root / "database/games.json", [GAME])
         self.image = Image.new("RGB", (512, 512), (30, 40, 70))
         ImageDraw.Draw(self.image).rectangle((20, 100, 400, 300), fill=(180, 100, 20))
@@ -341,6 +343,73 @@ class ImageTests(Fixture):
         image.save(path)
         inspect_source(path, self.config)
         self.assertEqual(square_image(path)[0].mode, "RGB")
+
+
+class AttributionPublicationTests(Fixture):
+    def enable(self):
+        self.config["publication"] = {"steamgriddb_with_attribution": True}
+        write_json(self.root / "config.json", self.config)
+
+    def test_validated_image_published_with_credit_without_fake_visual_approval(self):
+        from scripts.check_public import check
+        self.enable()
+        self.build()
+        prepare_public(self.root)
+        check(self.root)
+        game = read_json(self.root / "database/games.json")[0]
+        self.assertTrue((self.root / "art/BCUS98111.png").is_file())
+        self.assertEqual(game["review_status"], "pending")
+        self.assertEqual(game["publication_status"], "validated-with-attribution")
+        entry = individual_index(self.root)["games"]["BCUS98111"]
+        self.assertTrue(entry["download_url"].endswith("/art/BCUS98111.png"))
+        credit = read_json(self.root / "database/artwork_credits.json")["games"]["BCUS98111"]
+        self.assertEqual(credit["creator"], "Test artist")
+        self.assertIn("steamgriddb.com/grid/100", credit["source_page"])
+        self.assertIn("Test artist", (self.root / "CREDITS.md").read_text())
+        with zipfile.ZipFile(package(self.root)) as archive:
+            self.assertIn("art/BCUS98111.png", archive.namelist())
+            self.assertIn("CREDITS.md", archive.namelist())
+
+    def test_removed_images_restored_from_recorded_source_without_new_game_search(self):
+        self.build()
+        prepare_public(self.root)  # Legacy behavior, with publication disabled.
+        self.enable()
+        api = self.api()
+        result, _ = self.fetch(api)
+        self.assertEqual(result[0]["status"], "restored")
+        api.search.assert_not_called()
+        api.grids.assert_not_called()
+        generate(self.root)
+        prepare_public(self.root)
+        self.assertTrue((self.root / "art/BCUS98111.png").exists())
+
+    def test_denied_and_rejected_images_are_not_auto_published(self):
+        self.enable()
+        self.build()
+        games = read_json(self.root / "database/games.json")
+        games[0]["source"]["redistribution"] = "denied"
+        write_json(self.root / "database/games.json", games)
+        prepare_public(self.root)
+        self.assertFalse((self.root / "art/BCUS98111.png").exists())
+
+    def test_credit_is_required(self):
+        self.enable()
+        self.build()
+        games = read_json(self.root / "database/games.json")
+        games[0]["source"]["attribution"] = ""
+        write_json(self.root / "database/games.json", games)
+        with self.assertRaisesRegex(ValueError, "credit"):
+            prepare_public(self.root)
+
+    def test_explicit_rejection_removes_previously_published_image(self):
+        self.enable()
+        self.build()
+        prepare_public(self.root)
+        games = read_json(self.root / "database/games.json")
+        games[0]["review_status"] = "rejected"
+        write_json(self.root / "database/games.json", games)
+        prepare_public(self.root)
+        self.assertFalse((self.root / "art/BCUS98111.png").exists())
 
 
 class QueueTests(Fixture):

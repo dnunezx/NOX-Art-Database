@@ -33,5 +33,6 @@ jobs:
             thumbnails/
             reports/
             database/
+            CREDITS.md
           if-no-files-found: error
           retention-days: 14

@@ -3,6 +3,7 @@ import json
 from datetime import datetime, timedelta, timezone
 
 from .common import digest
+from .publication import enabled
 
 
 def fingerprint(game, config):
@@ -16,6 +17,11 @@ def eligible(game, config, now=None, refresh=False, replace=()):
     now = now or datetime.now(timezone.utc)
     if game.get("shared_with"):
         return False
+    if (game.get("artwork_status") == "restricted" and enabled(config)
+            and (game.get("source") or {}).get("provider") == "steamgriddb"
+            and (game.get("source") or {}).get("redistribution") != "denied"
+            and game.get("review_status") != "rejected"):
+        return True
     if refresh or game["title_id"] in replace:
         return True
     state = game.get("fetch_state") or {}

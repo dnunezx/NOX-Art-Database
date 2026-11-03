@@ -11,5 +11,6 @@
   "request_interval_seconds": 1,
   "cache_hours": 168,
   "allowed_hosts": ["cdn2.steamgriddb.com", "cdn.steamgriddb.com"],
+  "publication": {"steamgriddb_with_attribution": true},
   "overrides": {}
 }

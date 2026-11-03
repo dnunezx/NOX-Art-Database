@@ -5,5 +5,5 @@
 - hosted pngs: 0
 - awaiting review: 37
 - missing retry: 24
-- ready for next batch: 1133
+- ready for next batch: 1171
 - batch size: 100

@@ -102,7 +102,8 @@ def redistribution_allowed(game):
 
 def publishable(game):
     return (game.get("artwork_status") == "generated"
-            and game.get("review_status") == "approved"
+            and game.get("review_status") != "rejected"
+            and (game.get("review_status") == "approved" or game.get("publication_status") == "validated-with-attribution")
             and redistribution_allowed(game))
 
 

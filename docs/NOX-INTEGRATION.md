@@ -13,7 +13,7 @@ The launcher should read the installed game's exact Title ID, check its local ca
 and display a bundled fallback when no image exists. Online artwork is optional and
 must default to off. Offline use must remain fully functional.
 
-Public delivery should use this repository's rights-approved packs or another trusted
+Public delivery should use this repository's attributed individual artwork or another trusted
 authorized host. Individual artwork follows CosmicScale's layout: `art/TITLEID.png`
 on the repository's main branch, with `thumbnails/TITLEID.png` separately. Download
 one matching game at a time using its raw GitHub URL; no ZIP is required.

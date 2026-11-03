@@ -10,6 +10,31 @@ from .imaging import inspect_source
 from .matching import resolve
 from .selection import ranked, score
 from .queue import eligible, record
+from .publication import enabled
+
+
+def needs_restore(game, config):
+    return (enabled(config) and game.get("artwork_status") == "restricted" and not game.get("shared_with")
+            and (game.get("source") or {}).get("provider") == "steamgriddb"
+            and (game.get("source") or {}).get("redistribution") != "denied" and game.get("review_status") != "rejected"
+            and bool(game.get("source_sha256")))
+
+
+def restore_source(game, root, client, config):
+    """Rehydrate a previously validated selection without choosing a new asset."""
+    source = game["source"]
+    data = client.get(source["url"], config["allowed_hosts"])
+    checksum = digest(data)
+    if checksum != game["source_sha256"]:
+        raise ValueError("Recorded source has changed; fresh API selection required")
+    relative = "downloads/" + checksum + ".image"
+    path = safe_path(root / "sources", relative)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(data)
+    info = inspect_source(path, config)
+    source.update(path=relative, format=info["format"], dimensions=info["dimensions"])
+    return {"title_id": game["title_id"], "status": "restored", "asset_id": source["provider_artwork_id"],
+            "dimensions": info["dimensions"], "source_sha256": checksum}
 
 
 def fetch(root, limit=None, refresh=False, client=None, replace=()):
@@ -33,7 +58,11 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
     started = time.monotonic()
     previous_ambiguous = root / "reports/ambiguous_matches.json"
     review_by_id = {row["title_id"]: row for row in read_json(previous_ambiguous)} if previous_ambiguous.exists() else {}
-    for game in queued_games(root, games, "fetch"):
+    ordered = queued_games(root, games, "fetch")
+    restoration_batch = any(needs_restore(game, config) for game in ordered)
+    if restoration_batch:
+        ordered = [game for game in ordered if needs_restore(game, config)]
+    for game in ordered:
         ident = game["title_id"]
         if game.get("artwork_status") == "generated" and ident not in replace and not refresh:
             continue
@@ -44,6 +73,17 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
         count += 1
         last_attempted = ident
         try:
+            if needs_restore(game, config):
+                try:
+                    event = restore_source(game, root, client, config)
+                    record(game, config, {"status": "selected"})
+                    events.append(event)
+                    continue
+                except RateLimitError:
+                    raise
+                except (DownloadError, ValueError, OSError):
+                    # Fall through to the official API if the old URL changed.
+                    pass
             mapping, suggestions = resolve(game, api, mappings.get(ident))
             if not mapping:
                 review_by_id[ident] = {"title_id": ident, "title": game["title"], "candidates": suggestions,
