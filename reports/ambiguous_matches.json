@@ -6334,5 +6334,1171 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30255",
+    "title": "Bionic Commando",
+    "candidates": [
+      {
+        "id": 2174,
+        "name": "Bionic Commando",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1248764400
+      },
+      {
+        "id": 5258263,
+        "name": "Bionic Commando",
+        "verified": true,
+        "types": [],
+        "release_date": 585327600
+      },
+      {
+        "id": 5285105,
+        "name": "Bionic Commando",
+        "verified": true,
+        "types": [],
+        "release_date": 716860800
+      },
+      {
+        "id": 2175,
+        "name": "Bionic Commando Rearmed",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1218697200
+      },
+      {
+        "id": 37281,
+        "name": "Bionic Commando: Elite Forces",
+        "verified": true,
+        "types": [],
+        "release_date": 948844800
+      },
+      {
+        "id": 5259186,
+        "name": "Bionic Commando Rearmed 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1296518400
+      },
+      {
+        "id": 2708,
+        "name": "Bionic Dues",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1381250936
+      },
+      {
+        "id": 5114,
+        "name": "Bionic Heart",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1246950000
+      },
+      {
+        "id": 5234,
+        "name": "Bionic Heart 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1364799600
+      },
+      {
+        "id": 18023,
+        "name": "Bionic Battle Mutants",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1508851058
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30268",
+    "title": "X-Men Origins: Wolverine: Uncaged Edition",
+    "candidates": [
+      {
+        "id": 5247686,
+        "name": "X-Men Origins: Wolverine",
+        "verified": true,
+        "types": [],
+        "release_date": 1241136000
+      },
+      {
+        "id": 33777,
+        "name": "X-Men: Mutant Academy 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1000771200
+      },
+      {
+        "id": 34318,
+        "name": "X-Men: The Official Game",
+        "verified": true,
+        "types": [],
+        "release_date": 1147737600
+      },
+      {
+        "id": 34785,
+        "name": "X-Men (Genesis)",
+        "verified": true,
+        "types": [],
+        "release_date": 733622400
+      },
+      {
+        "id": 35068,
+        "name": "X-Men (Arcade)",
+        "verified": true,
+        "types": [],
+        "release_date": 696816000
+      },
+      {
+        "id": 35997,
+        "name": "X-Men: Mutant Apocalypse",
+        "verified": true,
+        "types": [],
+        "release_date": 783648000
+      },
+      {
+        "id": 37036,
+        "name": "X-Men: Mutant Academy",
+        "verified": true,
+        "types": [],
+        "release_date": 963532800
+      },
+      {
+        "id": 37112,
+        "name": "X-Men: Reign of Apocalypse",
+        "verified": true,
+        "types": [],
+        "release_date": 1001376000
+      },
+      {
+        "id": 37789,
+        "name": "X-Men: Mutant Wars",
+        "verified": true,
+        "types": [],
+        "release_date": 973641600
+      },
+      {
+        "id": 38069,
+        "name": "X-Men 2: Clone Wars",
+        "verified": true,
+        "types": [],
+        "release_date": 791596800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30273",
+    "title": "DreamWorks Monsters vs. Aliens",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30274",
+    "title": "Disney Sing It: High School Musical 3: Senior Year",
+    "candidates": [
+      {
+        "id": 5336426,
+        "name": "Disney Sing It",
+        "verified": true,
+        "types": [],
+        "release_date": 1224547200
+      },
+      {
+        "id": 5275962,
+        "name": "Disney Sing It: Party Hits",
+        "verified": true,
+        "types": [],
+        "release_date": 1285286400
+      },
+      {
+        "id": 5336428,
+        "name": "Disney Sing It: Pop Hits",
+        "verified": true,
+        "types": [],
+        "release_date": 1254787200
+      },
+      {
+        "id": 5343287,
+        "name": "Disney Sing It: Family Hits",
+        "verified": true,
+        "types": [],
+        "release_date": 1280793600
+      },
+      {
+        "id": 5336427,
+        "name": "Disney Sing It! High School Musical 3: Senior Year",
+        "verified": true,
+        "types": [],
+        "release_date": 1203206400
+      },
+      {
+        "id": 5448896,
+        "name": "Disney Sing It! High School Musical 3: Senior Year",
+        "verified": true,
+        "types": [],
+        "release_date": 1227830400
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30283",
+    "title": "Command & Conquer: Red Alert 3: Ultimate Edition",
+    "candidates": [
+      {
+        "id": 5446171,
+        "name": "Command & Conquer: Red Alert 2 and Yuri’s Revenge",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1709837418
+      },
+      {
+        "id": 5446170,
+        "name": "Command & Conquer: Red Alert, Counterstrike and The Aftermath",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1709835567
+      },
+      {
+        "id": 5446169,
+        "name": "Command & Conquer and The Covert Operations",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 820454400
+      },
+      {
+        "id": 5446173,
+        "name": "Command & Conquer: Tiberian Sun and Firestorm",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 978307200
+      },
+      {
+        "id": 5332635,
+        "name": "Command and Destroy",
+        "verified": true,
+        "types": [],
+        "release_date": 1203033600
+      },
+      {
+        "id": 1161,
+        "name": "Command: Desert Storm",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1553782948
+      },
+      {
+        "id": 1560,
+        "name": "Command & Conquer: Red Alert 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1225152000
+      },
+      {
+        "id": 2936,
+        "name": "Command & Conquer 3: Tiberium Wars",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1175040000
+      },
+      {
+        "id": 2940,
+        "name": "Command & Conquer: Red Alert 3 - Uprising",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1236816000
+      },
+      {
+        "id": 2941,
+        "name": "Command & Conquer 3: Kane's Wrath",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1258070400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30289",
+    "title": "007: Blood Stone",
+    "candidates": [
+      {
+        "id": 373,
+        "name": "007: Quantum of Solace",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1225785600
+      },
+      {
+        "id": 2042,
+        "name": "007 Legends",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1351875600
+      },
+      {
+        "id": 4563,
+        "name": "007: Tomorrow Never Dies",
+        "verified": true,
+        "types": [],
+        "release_date": 942710400
+      },
+      {
+        "id": 12863,
+        "name": "007: Nightfire",
+        "verified": true,
+        "types": [],
+        "release_date": 1037577600
+      },
+      {
+        "id": 34277,
+        "name": "007: From Russia with Love",
+        "verified": true,
+        "types": [],
+        "release_date": 1130803200
+      },
+      {
+        "id": 34459,
+        "name": "007 James Bond: The Stealth Affair",
+        "verified": true,
+        "types": [],
+        "release_date": 631152000
+      },
+      {
+        "id": 35380,
+        "name": "007: The World Is Not Enough",
+        "verified": true,
+        "types": [],
+        "release_date": 971740800
+      },
+      {
+        "id": 37559,
+        "name": "007: Agent Under Fire",
+        "verified": true,
+        "types": [],
+        "release_date": 1005609600
+      },
+      {
+        "id": 38844,
+        "name": "007: Everything or Nothing",
+        "verified": true,
+        "types": [],
+        "release_date": 1076976000
+      },
+      {
+        "id": 5257951,
+        "name": "007 Racing",
+        "verified": true,
+        "types": [],
+        "release_date": 974764800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30296",
+    "title": "Singularity",
+    "candidates": [
+      {
+        "id": 10026,
+        "name": "Singularity",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1277944020
+      },
+      {
+        "id": 5272822,
+        "name": "Singularity",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1608249600
+      },
+      {
+        "id": 5361155,
+        "name": "SINGULARITY",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 5502994,
+        "name": "Singularity",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5525433,
+        "name": "Singularity",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 20444,
+        "name": "Singularity Roller",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1502611535
+      },
+      {
+        "id": 31249,
+        "name": "Singularity Shooter",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1545668488
+      },
+      {
+        "id": 32222,
+        "name": "Singularity: Tactics Arena",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1576605703
+      },
+      {
+        "id": 33143,
+        "name": "Singularity 5",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1545379200
+      },
+      {
+        "id": 5288887,
+        "name": "SINGULARITY WORLD",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1626134400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30304",
+    "title": "Damnation",
+    "candidates": [
+      {
+        "id": 1408,
+        "name": "Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1242975600
+      },
+      {
+        "id": 5426590,
+        "name": "Damnation",
+        "verified": true,
+        "types": [],
+        "release_date": 1613260800
+      },
+      {
+        "id": 6557,
+        "name": "Damnation City of Death",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1425405663
+      },
+      {
+        "id": 5320713,
+        "name": "Death Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1646611200
+      },
+      {
+        "id": 5346244,
+        "name": "Double Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1661472000
+      },
+      {
+        "id": 5426231,
+        "name": "Eternal Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1721001600
+      },
+      {
+        "id": 2123,
+        "name": "Painkiller Hell & Damnation",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1351641600
+      },
+      {
+        "id": 2130,
+        "name": "Painkiller Hell & Damnation Beta",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 6050,
+        "name": "Bosch's Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1394780400
+      },
+      {
+        "id": 4993050,
+        "name": "Six Degrees of Damnation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1571965929
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30319",
+    "title": "Disney/Pixar Cars: Race-O-Rama",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30333",
+    "title": "JASF: Jane's Advanced Strike Fighters",
+    "candidates": [],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30335",
+    "title": "Splatterhouse",
+    "candidates": [
+      {
+        "id": 35479,
+        "name": "Splatterhouse",
+        "verified": true,
+        "types": [],
+        "release_date": 594345600
+      },
+      {
+        "id": 5285933,
+        "name": "Splatterhouse",
+        "verified": true,
+        "types": [],
+        "release_date": 1290470400
+      },
+      {
+        "id": 29413,
+        "name": "Splatterhouse 2",
+        "verified": true,
+        "types": [],
+        "release_date": 712886400
+      },
+      {
+        "id": 37478,
+        "name": "Splatterhouse 3",
+        "verified": true,
+        "types": [],
+        "release_date": 732412800
+      },
+      {
+        "id": 5266416,
+        "name": "Splatterhouse: Wanpaku Graffiti",
+        "verified": true,
+        "types": [],
+        "release_date": 617846400
+      },
+      {
+        "id": 5434771,
+        "name": "Splatterhouse 3D",
+        "verified": true,
+        "types": [],
+        "release_date": 1486857600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30344",
+    "title": "Vancouver 2010",
+    "candidates": [
+      {
+        "id": 6307,
+        "name": "Vancouver 2010: The Official Video Game of the Olympic Winter Games",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1266519600
+      },
+      {
+        "id": 5515061,
+        "name": "101 Cats Hidden in Vancouver",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1769904000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30354",
+    "title": "Disney G-Force",
+    "candidates": [
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      },
+      {
+        "id": 5298,
+        "name": "Disney Tangled",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1290153600
+      },
+      {
+        "id": 5302,
+        "name": "Disney Princess :  My Fairytale Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1337929200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30358",
+    "title": "Saw",
+    "candidates": [
+      {
+        "id": 3707,
+        "name": "Saw",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1256253780
+      },
+      {
+        "id": 5260643,
+        "name": "Saw",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1108425600
+      },
+      {
+        "id": 5263550,
+        "name": "Saw II: Flesh & Blood",
+        "verified": true,
+        "types": [],
+        "release_date": 1287446400
+      },
+      {
+        "id": 5263731,
+        "name": "Saw 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5263732,
+        "name": "Saw 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5263733,
+        "name": "Saw 4",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5263734,
+        "name": "Saw 5",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5263735,
+        "name": "Saw 6",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5263736,
+        "name": "Saw: The Final Chapter",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5277262,
+        "name": "SAW HELL",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1614038400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30360",
+    "title": "Inversion",
+    "candidates": [
+      {
+        "id": 2066,
+        "name": "Inversion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1343343600
+      },
+      {
+        "id": 5275046,
+        "name": "Inversion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1610409600
+      },
+      {
+        "id": 5352237,
+        "name": "Inversion Institute",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664582400
+      },
+      {
+        "id": 5531300,
+        "name": "Inversion Day",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 5268739,
+        "name": "Newtonian Inversion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1583107200
+      },
+      {
+        "id": 5488150,
+        "name": "Catastrophic Inversion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1746057600
+      },
+      {
+        "id": 252,
+        "name": "Invasion Zero",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1545120000
+      },
+      {
+        "id": 8820,
+        "name": "Inventioneers",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1444046303
+      },
+      {
+        "id": 8947,
+        "name": "Invasion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1442620562
+      },
+      {
+        "id": 9935,
+        "name": "Invasion: Brain Craving",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1466626890
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

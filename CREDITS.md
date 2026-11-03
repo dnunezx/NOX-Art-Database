@@ -148,3 +148,61 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30234 | Fallout 3 | TheKersalMassive | [#193696](https://www.steamgriddb.com/grid/193696) |
 | BLUS30236 | SBK: Superbike World Championship | Mentos0723 | [#733741](https://www.steamgriddb.com/grid/733741) |
 | BLUS30241 | X-Blades | flamepanther | [#150052](https://www.steamgriddb.com/grid/150052) |
+| BLUS30242 | Harry Potter and the Half-Blood Prince | ZazaMastro | [#480389](https://www.steamgriddb.com/grid/480389) |
+| BLUS30244 | Sonic Unleashed | mahougomi | [#140678](https://www.steamgriddb.com/grid/140678) |
+| BLUS30246 | Mortal Kombat vs. DC Universe | Shiios42 | [#340803](https://www.steamgriddb.com/grid/340803) |
+| BLUS30248 | Need for Speed: Undercover | FrostWolf | [#153997](https://www.steamgriddb.com/grid/153997) |
+| BLUS30251 | F.E.A.R. 2: Project Origin | Neuropod | [#384755](https://www.steamgriddb.com/grid/384755) |
+| BLUS30253 | Skate 2 | PlayingKarrde | [#616175](https://www.steamgriddb.com/grid/616175) |
+| BLUS30256 | 50 Cent: Blood on the Sand | kurkobein | [#173166](https://www.steamgriddb.com/grid/173166) |
+| BLUS30259 | Sonic's Ultimate Genesis Collection | StarDontMiss | [#396640](https://www.steamgriddb.com/grid/396640) |
+| BLUS30261 | The Godfather II | ZazaMastro | [#480377](https://www.steamgriddb.com/grid/480377) |
+| BLUS30262 | Wheelman | Shiios42 | [#347557](https://www.steamgriddb.com/grid/347557) |
+| BLUS30264 | Afro Samurai | Shiios42 | [#340806](https://www.steamgriddb.com/grid/340806) |
+| BLUS30265 | Street Fighter IV | CriticalComposer | [#172260](https://www.steamgriddb.com/grid/172260) |
+| BLUS30269 | WWE Legends of WrestleMania | Mentos0723 | [#733809](https://www.steamgriddb.com/grid/733809) |
+| BLUS30270 | Resident Evil 5 | TUFKAC | [#136314](https://www.steamgriddb.com/grid/136314) |
+| BLUS30275 | Wanted: Weapons of Fate | FrostWolf | [#174422](https://www.steamgriddb.com/grid/174422) |
+| BLUS30278 | Dead to Rights: Retribution | thatRdude | [#775058](https://www.steamgriddb.com/grid/775058) |
+| BLUS30279 | Batman: Arkham Asylum | TheKersalMassive | [#193703](https://www.steamgriddb.com/grid/193703) |
+| BLUS30280 | The Bigs 2 | disabled241 | [#757388](https://www.steamgriddb.com/grid/757388) |
+| BLUS30281 | Mafia II | anteR | [#385614](https://www.steamgriddb.com/grid/385614) |
+| BLUS30282 | The Beatles: Rock Band | GabrielXZLIVE | [#774940](https://www.steamgriddb.com/grid/774940) |
+| BLUS30284 | Mini Ninjas | MoonLight | [#158571](https://www.steamgriddb.com/grid/158571) |
+| BLUS30285 | Fight Night Round 4 | Shiios42 | [#340810](https://www.steamgriddb.com/grid/340810) |
+| BLUS30288 | Dynasty Warriors: Gundam 2 | BoogiePunk | [#807937](https://www.steamgriddb.com/grid/807937) |
+| BLUS30291 | Guitar Hero: Van Halen | ZazaMastro | [#480494](https://www.steamgriddb.com/grid/480494) |
+| BLUS30292 | Guitar Hero 5 | Imatination | [#378600](https://www.steamgriddb.com/grid/378600) |
+| BLUS30293 | Ice Age: Dawn of the Dinosaurs | fraiak | [#257082](https://www.steamgriddb.com/grid/257082) |
+| BLUS30294 | Marvel: Ultimate Alliance 2 | CriticalComposer | [#139066](https://www.steamgriddb.com/grid/139066) |
+| BLUS30295 | Blur | fia | [#567661](https://www.steamgriddb.com/grid/567661) |
+| BLUS30298 | Wolfenstein | FrostWolf | [#146870](https://www.steamgriddb.com/grid/146870) |
+| BLUS30300 | Split/Second | SeeDborg | [#540719](https://www.steamgriddb.com/grid/540719) |
+| BLUS30303 | Shaun White Skateboarding | HQv2 | [#592590](https://www.steamgriddb.com/grid/592590) |
+| BLUS30305 | Disney/Pixar Up | Ekmeian | [#741166](https://www.steamgriddb.com/grid/741166) |
+| BLUS30307 | Ghostbusters: The Video Game | Neuropod | [#376027](https://www.steamgriddb.com/grid/376027) |
+| BLUS30310 | Brink | CriticalComposer | [#137095](https://www.steamgriddb.com/grid/137095) |
+| BLUS30311 | Rogue Warrior | Neuropod | [#455460](https://www.steamgriddb.com/grid/455460) |
+| BLUS30312 | Sacred 2: Fallen Angel | flamepanther | [#156438](https://www.steamgriddb.com/grid/156438) |
+| BLUS30313 | DiRT 2 | WeaponPC | [#183847](https://www.steamgriddb.com/grid/183847) |
+| BLUS30314 | Fuel | tema_keks | [#844049](https://www.steamgriddb.com/grid/844049) |
+| BLUS30316 | Operation Flashpoint: Dragon Rising | Devin | [#140735](https://www.steamgriddb.com/grid/140735) |
+| BLUS30317 | Overlord II | Neuropod | [#430928](https://www.steamgriddb.com/grid/430928) |
+| BLUS30320 | Darksiders | TytusV2 | [#679163](https://www.steamgriddb.com/grid/679163) |
+| BLUS30321 | MX vs. ATV Reflex | Neuropod | [#407591](https://www.steamgriddb.com/grid/407591) |
+| BLUS30323 | Dark Void | flamepanther | [#150092](https://www.steamgriddb.com/grid/150092) |
+| BLUS30324 | Ride to Hell: Retribution | Coolence | [#210061](https://www.steamgriddb.com/grid/210061) |
+| BLUS30326 | G.I. Joe: The Rise of Cobra | Arikado1476 | [#356580](https://www.steamgriddb.com/grid/356580) |
+| BLUS30330 | Brütal Legend | jesus_dod138 | [#818715](https://www.steamgriddb.com/grid/818715) |
+| BLUS30336 | Katamari Forever | fia | [#559134](https://www.steamgriddb.com/grid/559134) |
+| BLUS30339 | Castlevania: Lords of Shadow | fycher_ | [#193986](https://www.steamgriddb.com/grid/193986) |
+| BLUS30340 | Aliens vs. Predator | flamepanther | [#141936](https://www.steamgriddb.com/grid/141936) |
+| BLUS30341 | Alpha Protocol | Timberfang | [#137233](https://www.steamgriddb.com/grid/137233) |
+| BLUS30342 | Sonic & Sega All-Stars Racing | Tyra64 | [#199613](https://www.steamgriddb.com/grid/199613) |
+| BLUS30343 | Virtua Tennis 2009 | Mentos0723 | [#733558](https://www.steamgriddb.com/grid/733558) |
+| BLUS30347 | Call of Juarez: Bound in Blood | Devin | [#139882](https://www.steamgriddb.com/grid/139882) |
+| BLUS30350 | Green Day: Rock Band | GabrielXZLIVE | [#774942](https://www.steamgriddb.com/grid/774942) |
+| BLUS30353 | The King of Fighters XII | Kaede Monthmore | [#137516](https://www.steamgriddb.com/grid/137516) |
+| BLUS30356 | Bakugan: Battle Brawlers | Iltsu | [#705715](https://www.steamgriddb.com/grid/705715) |
+| BLUS30357 | Transformers: War for Cybertron | Elke1131 | [#136647](https://www.steamgriddb.com/grid/136647) |
+| BLUS30359 | Tekken 6 | Shiios42 | [#255274](https://www.steamgriddb.com/grid/255274) |

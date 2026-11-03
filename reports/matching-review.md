@@ -979,3 +979,176 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [Alone in the Dark 3](https://www.steamgriddb.com/game/38182) — game ID `38182`
 - [Alone in the Dark Prologue](https://www.steamgriddb.com/game/5403829) — game ID `5403829`
 - [Alone In The Forest VR](https://www.steamgriddb.com/game/27796) — game ID `27796`
+
+## Bionic Commando — BLUS30255
+
+- [Bionic Commando](https://www.steamgriddb.com/game/2174) — game ID `2174`
+- [Bionic Commando](https://www.steamgriddb.com/game/5258263) — game ID `5258263`
+- [Bionic Commando](https://www.steamgriddb.com/game/5285105) — game ID `5285105`
+- [Bionic Commando Rearmed](https://www.steamgriddb.com/game/2175) — game ID `2175`
+- [Bionic Commando: Elite Forces](https://www.steamgriddb.com/game/37281) — game ID `37281`
+- [Bionic Commando Rearmed 2](https://www.steamgriddb.com/game/5259186) — game ID `5259186`
+- [Bionic Dues](https://www.steamgriddb.com/game/2708) — game ID `2708`
+- [Bionic Heart](https://www.steamgriddb.com/game/5114) — game ID `5114`
+- [Bionic Heart 2](https://www.steamgriddb.com/game/5234) — game ID `5234`
+- [Bionic Battle Mutants](https://www.steamgriddb.com/game/18023) — game ID `18023`
+
+## X-Men Origins: Wolverine: Uncaged Edition — BLUS30268
+
+- [X-Men Origins: Wolverine](https://www.steamgriddb.com/game/5247686) — game ID `5247686`
+- [X-Men: Mutant Academy 2](https://www.steamgriddb.com/game/33777) — game ID `33777`
+- [X-Men: The Official Game](https://www.steamgriddb.com/game/34318) — game ID `34318`
+- [X-Men (Genesis)](https://www.steamgriddb.com/game/34785) — game ID `34785`
+- [X-Men (Arcade)](https://www.steamgriddb.com/game/35068) — game ID `35068`
+- [X-Men: Mutant Apocalypse](https://www.steamgriddb.com/game/35997) — game ID `35997`
+- [X-Men: Mutant Academy](https://www.steamgriddb.com/game/37036) — game ID `37036`
+- [X-Men: Reign of Apocalypse](https://www.steamgriddb.com/game/37112) — game ID `37112`
+- [X-Men: Mutant Wars](https://www.steamgriddb.com/game/37789) — game ID `37789`
+- [X-Men 2: Clone Wars](https://www.steamgriddb.com/game/38069) — game ID `38069`
+
+## DreamWorks Monsters vs. Aliens — BLUS30273
+
+- [DreamWorks Voltron VR Chronicles](https://www.steamgriddb.com/game/20963) — game ID `20963`
+- [DreamWorks Dragons: Dawn of New Riders](https://www.steamgriddb.com/game/29702) — game ID `29702`
+- [DreamWorks Spirit: Lucky&#x27;s Big Adventure](https://www.steamgriddb.com/game/5280241) — game ID `5280241`
+- [DreamWorks Dragons: Legends of The Nine Realms](https://www.steamgriddb.com/game/5329387) — game ID `5329387`
+- [DreamWorks Super Star Kartz](https://www.steamgriddb.com/game/5333829) — game ID `5333829`
+- [DreamWorks Trolls Remix Rescue](https://www.steamgriddb.com/game/5433032) — game ID `5433032`
+- [DreamWorks All-Star Kart Racing](https://www.steamgriddb.com/game/5433525) — game ID `5433525`
+- [DreamWorks Dragons: Wild Skies](https://www.steamgriddb.com/game/5475509) — game ID `5475509`
+- [DreamWorks Gabby’s Dollhouse: Ready to Party](https://www.steamgriddb.com/game/5495915) — game ID `5495915`
+- [KILLING DREAMWORKS](https://www.steamgriddb.com/game/5413295) — game ID `5413295`
+
+## Disney Sing It: High School Musical 3: Senior Year — BLUS30274
+
+- [Disney Sing It](https://www.steamgriddb.com/game/5336426) — game ID `5336426`
+- [Disney Sing It: Party Hits](https://www.steamgriddb.com/game/5275962) — game ID `5275962`
+- [Disney Sing It: Pop Hits](https://www.steamgriddb.com/game/5336428) — game ID `5336428`
+- [Disney Sing It: Family Hits](https://www.steamgriddb.com/game/5343287) — game ID `5343287`
+- [Disney Sing It! High School Musical 3: Senior Year](https://www.steamgriddb.com/game/5336427) — game ID `5336427`
+- [Disney Sing It! High School Musical 3: Senior Year](https://www.steamgriddb.com/game/5448896) — game ID `5448896`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+
+## Command &amp; Conquer: Red Alert 3: Ultimate Edition — BLUS30283
+
+- [Command &amp; Conquer: Red Alert 2 and Yuri’s Revenge](https://www.steamgriddb.com/game/5446171) — game ID `5446171`
+- [Command &amp; Conquer: Red Alert, Counterstrike and The Aftermath](https://www.steamgriddb.com/game/5446170) — game ID `5446170`
+- [Command &amp; Conquer and The Covert Operations](https://www.steamgriddb.com/game/5446169) — game ID `5446169`
+- [Command &amp; Conquer: Tiberian Sun and Firestorm](https://www.steamgriddb.com/game/5446173) — game ID `5446173`
+- [Command and Destroy](https://www.steamgriddb.com/game/5332635) — game ID `5332635`
+- [Command: Desert Storm](https://www.steamgriddb.com/game/1161) — game ID `1161`
+- [Command &amp; Conquer: Red Alert 3](https://www.steamgriddb.com/game/1560) — game ID `1560`
+- [Command &amp; Conquer 3: Tiberium Wars](https://www.steamgriddb.com/game/2936) — game ID `2936`
+- [Command &amp; Conquer: Red Alert 3 - Uprising](https://www.steamgriddb.com/game/2940) — game ID `2940`
+- [Command &amp; Conquer 3: Kane&#x27;s Wrath](https://www.steamgriddb.com/game/2941) — game ID `2941`
+
+## 007: Blood Stone — BLUS30289
+
+- [007: Quantum of Solace](https://www.steamgriddb.com/game/373) — game ID `373`
+- [007 Legends](https://www.steamgriddb.com/game/2042) — game ID `2042`
+- [007: Tomorrow Never Dies](https://www.steamgriddb.com/game/4563) — game ID `4563`
+- [007: Nightfire](https://www.steamgriddb.com/game/12863) — game ID `12863`
+- [007: From Russia with Love](https://www.steamgriddb.com/game/34277) — game ID `34277`
+- [007 James Bond: The Stealth Affair](https://www.steamgriddb.com/game/34459) — game ID `34459`
+- [007: The World Is Not Enough](https://www.steamgriddb.com/game/35380) — game ID `35380`
+- [007: Agent Under Fire](https://www.steamgriddb.com/game/37559) — game ID `37559`
+- [007: Everything or Nothing](https://www.steamgriddb.com/game/38844) — game ID `38844`
+- [007 Racing](https://www.steamgriddb.com/game/5257951) — game ID `5257951`
+
+## Singularity — BLUS30296
+
+- [Singularity](https://www.steamgriddb.com/game/10026) — game ID `10026`
+- [Singularity](https://www.steamgriddb.com/game/5272822) — game ID `5272822`
+- [SINGULARITY](https://www.steamgriddb.com/game/5361155) — game ID `5361155`
+- [Singularity](https://www.steamgriddb.com/game/5502994) — game ID `5502994`
+- [Singularity](https://www.steamgriddb.com/game/5525433) — game ID `5525433`
+- [Singularity Roller](https://www.steamgriddb.com/game/20444) — game ID `20444`
+- [Singularity Shooter](https://www.steamgriddb.com/game/31249) — game ID `31249`
+- [Singularity: Tactics Arena](https://www.steamgriddb.com/game/32222) — game ID `32222`
+- [Singularity 5](https://www.steamgriddb.com/game/33143) — game ID `33143`
+- [SINGULARITY WORLD](https://www.steamgriddb.com/game/5288887) — game ID `5288887`
+
+## Damnation — BLUS30304
+
+- [Damnation](https://www.steamgriddb.com/game/1408) — game ID `1408`
+- [Damnation](https://www.steamgriddb.com/game/5426590) — game ID `5426590`
+- [Damnation City of Death](https://www.steamgriddb.com/game/6557) — game ID `6557`
+- [Death Damnation](https://www.steamgriddb.com/game/5320713) — game ID `5320713`
+- [Double Damnation](https://www.steamgriddb.com/game/5346244) — game ID `5346244`
+- [Eternal Damnation](https://www.steamgriddb.com/game/5426231) — game ID `5426231`
+- [Painkiller Hell &amp; Damnation](https://www.steamgriddb.com/game/2123) — game ID `2123`
+- [Painkiller Hell &amp; Damnation Beta](https://www.steamgriddb.com/game/2130) — game ID `2130`
+- [Bosch&#x27;s Damnation](https://www.steamgriddb.com/game/6050) — game ID `6050`
+- [Six Degrees of Damnation](https://www.steamgriddb.com/game/4993050) — game ID `4993050`
+
+## Disney/Pixar Cars: Race-O-Rama — BLUS30319
+
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney-Pixar Up](https://www.steamgriddb.com/game/5329555) — game ID `5329555`
+- [RUSH: A Disney • PIXAR Adventure](https://www.steamgriddb.com/game/16249) — game ID `16249`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+
+## JASF: Jane&#x27;s Advanced Strike Fighters — BLUS30333
+
+
+## Splatterhouse — BLUS30335
+
+- [Splatterhouse](https://www.steamgriddb.com/game/35479) — game ID `35479`
+- [Splatterhouse](https://www.steamgriddb.com/game/5285933) — game ID `5285933`
+- [Splatterhouse 2](https://www.steamgriddb.com/game/29413) — game ID `29413`
+- [Splatterhouse 3](https://www.steamgriddb.com/game/37478) — game ID `37478`
+- [Splatterhouse: Wanpaku Graffiti](https://www.steamgriddb.com/game/5266416) — game ID `5266416`
+- [Splatterhouse 3D](https://www.steamgriddb.com/game/5434771) — game ID `5434771`
+
+## Vancouver 2010 — BLUS30344
+
+- [Vancouver 2010: The Official Video Game of the Olympic Winter Games](https://www.steamgriddb.com/game/6307) — game ID `6307`
+- [101 Cats Hidden in Vancouver](https://www.steamgriddb.com/game/5515061) — game ID `5515061`
+
+## Disney G-Force — BLUS30354
+
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+- [Disney Tangled](https://www.steamgriddb.com/game/5298) — game ID `5298`
+- [Disney Princess :  My Fairytale Adventure](https://www.steamgriddb.com/game/5302) — game ID `5302`
+
+## Saw — BLUS30358
+
+- [Saw](https://www.steamgriddb.com/game/3707) — game ID `3707`
+- [Saw](https://www.steamgriddb.com/game/5260643) — game ID `5260643`
+- [Saw II: Flesh &amp; Blood](https://www.steamgriddb.com/game/5263550) — game ID `5263550`
+- [Saw 2](https://www.steamgriddb.com/game/5263731) — game ID `5263731`
+- [Saw 3](https://www.steamgriddb.com/game/5263732) — game ID `5263732`
+- [Saw 4](https://www.steamgriddb.com/game/5263733) — game ID `5263733`
+- [Saw 5](https://www.steamgriddb.com/game/5263734) — game ID `5263734`
+- [Saw 6](https://www.steamgriddb.com/game/5263735) — game ID `5263735`
+- [Saw: The Final Chapter](https://www.steamgriddb.com/game/5263736) — game ID `5263736`
+- [SAW HELL](https://www.steamgriddb.com/game/5277262) — game ID `5277262`
+
+## Inversion — BLUS30360
+
+- [Inversion](https://www.steamgriddb.com/game/2066) — game ID `2066`
+- [Inversion](https://www.steamgriddb.com/game/5275046) — game ID `5275046`
+- [Inversion Institute](https://www.steamgriddb.com/game/5352237) — game ID `5352237`
+- [Inversion Day](https://www.steamgriddb.com/game/5531300) — game ID `5531300`
+- [Newtonian Inversion](https://www.steamgriddb.com/game/5268739) — game ID `5268739`
+- [Catastrophic Inversion](https://www.steamgriddb.com/game/5488150) — game ID `5488150`
+- [Invasion Zero](https://www.steamgriddb.com/game/252) — game ID `252`
+- [Inventioneers](https://www.steamgriddb.com/game/8820) — game ID `8820`
+- [Invasion](https://www.steamgriddb.com/game/8947) — game ID `8947`
+- [Invasion: Brain Craving](https://www.steamgriddb.com/game/9935) — game ID `9935`
