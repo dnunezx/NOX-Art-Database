@@ -3975,11 +3975,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30014",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30014"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30014",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 34869,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/475986e38625253babb40e7590458c60.jpg",
+      "provider_artwork_id": 724662,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/82d8a4ba2128b71c12d948ca144d7246115dc9fedf1f2be535ee6ae465f9c9ec.image",
+      "source_page": "https://www.steamgriddb.com/grid/724662",
+      "attribution": "Mentos0723",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "69ee4265c69231a05210ba02d44cdd8c9cc6e4803c8e0fc2e2ff2222bc5bc248",
+      "checked_at": "2026-11-03T04:28:50.596359+00:00"
+    },
+    "artwork": "BLUS30014.png",
+    "thumbnail": "BLUS30014.png",
+    "source_sha256": "82d8a4ba2128b71c12d948ca144d7246115dc9fedf1f2be535ee6ae465f9c9ec",
+    "sha256": "768d5e60f40e237cf84726263e3bb65c1547c7c638bb765dd6f7496497d96313",
+    "thumbnail_sha256": "6b67c67986d9f3cd6a281fce68367e46fc3029f90a725d6d0b8274aa6ae53ccd",
+    "generated_at": "2026-11-03T04:42:32.488856+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30016",
@@ -3987,11 +4029,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30016",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30016"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30016",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 34648,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/a0d052a39c2a32f9ed1c6e1ddc8f17b9.png",
+      "provider_artwork_id": 453093,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/0450693617a4d2ec821f8db6eb576baadefe612723a1abf3957db72c70e910fe.image",
+      "source_page": "https://www.steamgriddb.com/grid/453093",
+      "attribution": "clam.buttocks",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "bdb6be371970aa8069ee3870a9fd8a0f3e5ffeaa0c7f792afba4025da2ce1002",
+      "checked_at": "2026-11-03T04:28:54.781698+00:00"
+    },
+    "artwork": "BLUS30016.png",
+    "thumbnail": "BLUS30016.png",
+    "source_sha256": "0450693617a4d2ec821f8db6eb576baadefe612723a1abf3957db72c70e910fe",
+    "sha256": "ee8b509e7655d49c1e4cd21faed6ae0abca05cbc81e88d502afdd7d99889458b",
+    "thumbnail_sha256": "0467a1fe62213d89970de587366e308bd1c84a99b6ebf3ab05c089b24ca4a72e",
+    "generated_at": "2026-11-03T04:42:33.421539+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30017",
@@ -4003,7 +4087,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30017",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30017"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30017",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "8f3552ba5924b2d2419cb2e6cb6ad7c891d86975a18644e124490268c633c4e5",
+      "checked_at": "2026-11-03T04:28:55.630823+00:00"
+    }
   },
   {
     "title_id": "BLUS30018",
@@ -4011,11 +4100,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30018",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30018"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30018",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1434,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/c18be23e9556b9a7d61504adb40d609a.png",
+      "provider_artwork_id": 145861,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/019ee406df7c82faa8e4d245866264f815131e24794e5af984bee65f6beddc80.image",
+      "source_page": "https://www.steamgriddb.com/grid/145861",
+      "attribution": "FrostWolf",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ba51ffb4984d1963ea50b1f88cbf90ffd4cb6a895b5ef07c3a1041f78c4105a8",
+      "checked_at": "2026-11-03T04:29:00.611025+00:00"
+    },
+    "artwork": "BLUS30018.png",
+    "thumbnail": "BLUS30018.png",
+    "source_sha256": "019ee406df7c82faa8e4d245866264f815131e24794e5af984bee65f6beddc80",
+    "sha256": "c5ccdf307b181acc40f1d43d49c46adad3b4485516f2ad5cbb87a23d7137245b",
+    "thumbnail_sha256": "7eb9035f6bd77f03e8287881acba1ebcf1d96625e42ab2f73c228ad0c890a96f",
+    "generated_at": "2026-11-03T04:42:33.827475+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30019",
@@ -4023,11 +4154,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30019",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30019"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30019",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258760,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/78909698261578ff60bd83df33750b9f.png",
+      "provider_artwork_id": 241014,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/f06a99c12b4295e13fab463f8f3a3bfde626be10e922c06463284713e959a58a.image",
+      "source_page": "https://www.steamgriddb.com/grid/241014",
+      "attribution": "kurkobein",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "15c399f1c171f92a6ca781407e0bb4e6bb5d5f8d0ff0898bcf95a8638d50291a",
+      "checked_at": "2026-11-03T04:29:05.589486+00:00"
+    },
+    "artwork": "BLUS30019.png",
+    "thumbnail": "BLUS30019.png",
+    "source_sha256": "f06a99c12b4295e13fab463f8f3a3bfde626be10e922c06463284713e959a58a",
+    "sha256": "3f19fe55c974832de1f87fb434e2aaa2ce278d75b7de90167ab65dfe2ef99d65",
+    "thumbnail_sha256": "9e5785b76c15621d09932f77fe73be94c606c87e47833330d7d8f236717be728",
+    "generated_at": "2026-11-03T04:42:34.456272+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30020",
@@ -4035,11 +4208,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30020",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30020"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30020",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5275321,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/fdfa3ba511c3c3a6d5f33d4cb1df5f16.png",
+      "provider_artwork_id": 255275,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/c746c2bed3dab0e838a20a1462ded4d86af6cd71547099e4742527f42dfa5c37.image",
+      "source_page": "https://www.steamgriddb.com/grid/255275",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ce3c6743e23250c9ca261b3813f4dfb10f53ea62d9cce740a22d154dae3ce62a",
+      "checked_at": "2026-11-03T04:29:10.051639+00:00"
+    },
+    "artwork": "BLUS30020.png",
+    "thumbnail": "BLUS30020.png",
+    "source_sha256": "c746c2bed3dab0e838a20a1462ded4d86af6cd71547099e4742527f42dfa5c37",
+    "sha256": "5ab4aed00bd4067774002fd663db6f198717172504a0ae0b6c118d61e16c870b",
+    "thumbnail_sha256": "a1dc053374b6b6d0803a0728007a1f906532e0af93138d27f6388f20a31316aa",
+    "generated_at": "2026-11-03T04:42:34.681780+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30021",
@@ -4051,7 +4266,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30021",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30021"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30021",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5316404,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "70a374becc64d0e7f085a29e563859aef8ddf69cf42698025a26531218a9b96c",
+      "checked_at": "2026-11-03T04:29:13.606511+00:00",
+      "retry_after": "2026-11-10T04:29:13.606511+00:00"
+    }
   },
   {
     "title_id": "BLUS30022",
@@ -4063,7 +4286,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30022",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30022"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30022",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5264648,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "d2772cd65970d6b1e92f1538a01eb1b4acd31caa95a09e885d8a976184055b8c",
+      "checked_at": "2026-11-03T04:29:17.603271+00:00",
+      "retry_after": "2026-11-10T04:29:17.603271+00:00"
+    }
   },
   {
     "title_id": "BLUS30023",
@@ -4075,7 +4306,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30023",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30023"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30023",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5334360,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "2c29c4a558ee3c4f35e67891411e2012743529a5e5185153660688cca1a90d1d",
+      "checked_at": "2026-11-03T04:29:21.611523+00:00",
+      "retry_after": "2026-11-10T04:29:21.611523+00:00"
+    }
   },
   {
     "title_id": "BLUS30024",
@@ -4083,11 +4322,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30024",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30024"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30024",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5259697,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/e50f27a099d48734d5b34c205adbcb98.png",
+      "provider_artwork_id": 616168,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/7b26332d5571d00cf65a12f86036b0277857a2dfe17a0bf9897decdbda769435.image",
+      "source_page": "https://www.steamgriddb.com/grid/616168",
+      "attribution": "PlayingKarrde",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a8767d7aa59e7eb93662d5fce167c91bc7d0ecc3493435baac8405ecb479a6f0",
+      "checked_at": "2026-11-03T04:29:26.596069+00:00"
+    },
+    "artwork": "BLUS30024.png",
+    "thumbnail": "BLUS30024.png",
+    "source_sha256": "7b26332d5571d00cf65a12f86036b0277857a2dfe17a0bf9897decdbda769435",
+    "sha256": "bf4879f37298b0e856728d78f45f499aea4fff79e3924b0de992e6aea462ed79",
+    "thumbnail_sha256": "696d5469a1cc7369d649dbd3724d710d416e65d3bdb5456c1b83befdea646f8b",
+    "generated_at": "2026-11-03T04:42:35.223772+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30025",
@@ -4099,7 +4380,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30025",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30025"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30025",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 12857,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "abb24d6b91bfa0f627d36012854d0b4435836c039edf7c5656741b1fb42cfc31",
+      "checked_at": "2026-11-03T04:29:30.638387+00:00",
+      "retry_after": "2026-11-10T04:29:30.638387+00:00"
+    }
   },
   {
     "title_id": "BLUS30026",
@@ -4111,7 +4400,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30026",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30026"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30026",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346423,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "7d336a29cbbc6fc462a2cf72bc619d869651306a97867c2f138021839845227d",
+      "checked_at": "2026-11-03T04:29:34.618070+00:00",
+      "retry_after": "2026-11-10T04:29:34.618070+00:00"
+    }
   },
   {
     "title_id": "BLUS30027",
@@ -4119,11 +4416,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30027",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30027"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30027",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258123,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/fad29fcf3aebf03f52965880656478b2.png",
+      "provider_artwork_id": 562997,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/9f6fa167979fd3c558cad5ab75fd6470979917996090c8b96cf565594d213150.image",
+      "source_page": "https://www.steamgriddb.com/grid/562997",
+      "attribution": "GigaGoji",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "88de732b6112511979dda32cd50139643234c77a5bd4acb0c142a7dc233f8020",
+      "checked_at": "2026-11-03T04:29:40.259747+00:00"
+    },
+    "artwork": "BLUS30027.png",
+    "thumbnail": "BLUS30027.png",
+    "source_sha256": "9f6fa167979fd3c558cad5ab75fd6470979917996090c8b96cf565594d213150",
+    "sha256": "a371da0a2d5594f06016df311432e8390cc671b421412e5a21b508b440b47064",
+    "thumbnail_sha256": "e20520ed166baf243b5962c04b17662c5f63fded070080142be6bf4c168e318d",
+    "generated_at": "2026-11-03T04:42:35.620494+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30028",
@@ -4135,7 +4474,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30028",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30028"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30028",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5262751,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "e79d64458cf9f2caef715e2ce297a3af7dff9b572153451f5c24826ae11bcd80",
+      "checked_at": "2026-11-03T04:29:43.609658+00:00",
+      "retry_after": "2026-11-10T04:29:43.609658+00:00"
+    }
   },
   {
     "title_id": "BLUS30029",
@@ -4147,7 +4494,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30029",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30029"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30029",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "021385bc626e8276f321581cc165e04454f192d29779d9887509ef5ef4f03f1d",
+      "checked_at": "2026-11-03T04:29:44.619490+00:00"
+    }
   },
   {
     "title_id": "BLUS30030",
@@ -4155,11 +4507,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30030",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30030"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30030",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 33788,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/050a0ada2d0d75cb58d7efcd384c2731.png",
+      "provider_artwork_id": 296974,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749.image",
+      "source_page": "https://www.steamgriddb.com/grid/296974",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8517277168d9c8bf3847b21092e183641b7d69166425dd4bd8c08f3c3e3e2c86",
+      "checked_at": "2026-11-03T04:30:33.233985+00:00"
+    },
+    "artwork": "BLUS30030.png",
+    "thumbnail": "BLUS30030.png",
+    "source_sha256": "9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749",
+    "sha256": "3a05d4006a91b6f441977523f6848318eb9228976c84ebf28c13925bb9676793",
+    "thumbnail_sha256": "1cf5b31ff7aaefab132828c31bf527424e9691f2d7dc42c41a49a58d5400448b",
+    "generated_at": "2026-11-03T04:42:35.858760+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30031",
@@ -4167,11 +4561,54 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30031",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30031"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30031",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 33788,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/050a0ada2d0d75cb58d7efcd384c2731.png",
+      "provider_artwork_id": 296974,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749.image",
+      "source_page": "https://www.steamgriddb.com/grid/296974",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "shared_with": "BLUS30030",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8517277168d9c8bf3847b21092e183641b7d69166425dd4bd8c08f3c3e3e2c86",
+      "checked_at": "2026-11-03T04:30:33.246547+00:00"
+    },
+    "artwork": "BLUS30030.png",
+    "thumbnail": "BLUS30030.png",
+    "sha256": "3a05d4006a91b6f441977523f6848318eb9228976c84ebf28c13925bb9676793",
+    "thumbnail_sha256": "1cf5b31ff7aaefab132828c31bf527424e9691f2d7dc42c41a49a58d5400448b",
+    "source_sha256": "9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749",
+    "generated_at": "2026-11-03T04:42:35.858760+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30032",
@@ -4179,11 +4616,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30032",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30032"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30032",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1437,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/d5372af557d3e9016048ce24acd8b4cb.jpg",
+      "provider_artwork_id": 227005,
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/0f5817ad84b8cccaa8d951032b3a9c1a277e57c6a767df250bb498f99b6d102b.image",
+      "source_page": "https://www.steamgriddb.com/grid/227005",
+      "attribution": "TheKersalMassive",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "01a5417a2cf2610ce68195703e70b83c5e339942969e2bf00aa725153c7e07a2",
+      "checked_at": "2026-11-03T04:30:44.354698+00:00"
+    },
+    "artwork": "BLUS30032.png",
+    "thumbnail": "BLUS30032.png",
+    "source_sha256": "0f5817ad84b8cccaa8d951032b3a9c1a277e57c6a767df250bb498f99b6d102b",
+    "sha256": "3963fd352c11041f277a7681bf446d5ba2e359f33f5e7b1d6990e84d681cf897",
+    "thumbnail_sha256": "e190278b74c17bc4548320dfe81ab5b387486327bcbf25cd8385779410a2dbe2",
+    "generated_at": "2026-11-03T04:42:36.499042+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30033",
@@ -4195,7 +4674,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30033",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30033"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30033",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5339326,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "0e1f5498f5924e4157b87b04b869d55e1f68219ae8f29e72d2d35e0fc7eecfb0",
+      "checked_at": "2026-11-03T04:30:47.443968+00:00",
+      "retry_after": "2026-11-10T04:30:47.443968+00:00"
+    }
   },
   {
     "title_id": "BLUS30034",
@@ -4203,11 +4690,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30034",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30034"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30034",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1431,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/13cddc948caffdf563fc0d0fffd6a545.png",
+      "provider_artwork_id": 149685,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/788378e03fdc9736f7247f0b9cd6d1d2fde3be7c35934b321db6e30ee443378e.image",
+      "source_page": "https://www.steamgriddb.com/grid/149685",
+      "attribution": "FrostWolf",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a2b7c934ade44703b1157b8b2d2e527a720b27754a1cc72daa6a161a4fafe078",
+      "checked_at": "2026-11-03T04:30:52.469919+00:00"
+    },
+    "artwork": "BLUS30034.png",
+    "thumbnail": "BLUS30034.png",
+    "source_sha256": "788378e03fdc9736f7247f0b9cd6d1d2fde3be7c35934b321db6e30ee443378e",
+    "sha256": "e5543f280d5437193aad232a65d293738bd45c7d5c47be1932bc781800bea922",
+    "thumbnail_sha256": "175331995ca9ce3778adc50d86479f16360791fa71a62708c65c490d47134d15",
+    "generated_at": "2026-11-03T04:42:36.935629+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30035",
@@ -4219,7 +4748,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30035",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30035"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30035",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b215ed02e5edd4f5425cde0d627181998cb3063a56141b40d72e29175738a1c9",
+      "checked_at": "2026-11-03T04:30:55.454226+00:00"
+    }
   },
   {
     "title_id": "BLUS30036",
@@ -4227,11 +4761,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30036",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30036"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30036",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 33789,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/3dac2c5b190f4b9122938fe289611deb.png",
+      "provider_artwork_id": 452996,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/d09d3d44686fc4da232dfa3ae11187133ab00a48142ca1e851c35523d54b67fe.image",
+      "source_page": "https://www.steamgriddb.com/grid/452996",
+      "attribution": "clam.buttocks",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "694102ff9e9edb33134212041eafdbe52b64b90b482d6a3141d4a8bdca20ccb7",
+      "checked_at": "2026-11-03T04:31:00.086807+00:00"
+    },
+    "artwork": "BLUS30036.png",
+    "thumbnail": "BLUS30036.png",
+    "source_sha256": "d09d3d44686fc4da232dfa3ae11187133ab00a48142ca1e851c35523d54b67fe",
+    "sha256": "a9d5591d3ea9775cc705caeeb4d5ef8389be8992dfdea18f541e23c84030a10d",
+    "thumbnail_sha256": "62072c83351031ab0719d5481d63434878cd21d8b86b681eebe24fae1a67669b",
+    "generated_at": "2026-11-03T04:42:37.177273+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30037",
@@ -4239,11 +4815,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30037",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30037"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30037",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 38887,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/27b9bd35da52d50e4a000d05754b03dd.jpg",
+      "provider_artwork_id": 724663,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/e1cb79c169ed6059343d50d11e8f8c27eec3e1461cc8ff8301596167900831f8.image",
+      "source_page": "https://www.steamgriddb.com/grid/724663",
+      "attribution": "Mentos0723",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "04fe1770731399a4d8d88288aa333a32444308fe03c63a45a8717a061099966b",
+      "checked_at": "2026-11-03T04:31:04.441028+00:00"
+    },
+    "artwork": "BLUS30037.png",
+    "thumbnail": "BLUS30037.png",
+    "source_sha256": "e1cb79c169ed6059343d50d11e8f8c27eec3e1461cc8ff8301596167900831f8",
+    "sha256": "546694c5a74b5d20b6e612b16b2e8fc44e79dad73114e211b69989a1488964cd",
+    "thumbnail_sha256": "44a56c5fa9b09976da179e68204eb3d4fbb96a7f3d5152d1b22d7386d565d012",
+    "generated_at": "2026-11-03T04:42:37.432080+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30038",
@@ -4255,7 +4873,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30038",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30038"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30038",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "2720d9464a573f2da12301df317218a153f7d3e04e65305469c3475113d20e59",
+      "checked_at": "2026-11-03T04:31:05.462432+00:00"
+    }
   },
   {
     "title_id": "BLUS30039",
@@ -4267,7 +4890,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30039",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30039"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30039",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5271023,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "144cbe595b7ecba2d5d359d884589641e442bc691713009a5e498d0d0f16ade4",
+      "checked_at": "2026-11-03T04:31:09.451508+00:00",
+      "retry_after": "2026-11-10T04:31:09.451508+00:00"
+    }
   },
   {
     "title_id": "BLUS30040",
@@ -4279,7 +4910,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30040",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30040"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30040",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5262210,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "4b791c4a49304ba10d31fb65ec02f42ed3515668984464e47ca99fca7da2ba59",
+      "checked_at": "2026-11-03T04:31:13.467744+00:00",
+      "retry_after": "2026-11-10T04:31:13.467744+00:00"
+    }
   },
   {
     "title_id": "BLUS30042",
@@ -4291,7 +4930,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30042",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30042"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30042",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5331498,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "ac9819695af09170a6f6d1abe0976f73305512bcbb10ad7e6f6a9cb2ce33213b",
+      "checked_at": "2026-11-03T04:31:17.465899+00:00",
+      "retry_after": "2026-11-10T04:31:17.465899+00:00"
+    }
   },
   {
     "title_id": "BLUS30043",
@@ -4303,7 +4950,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30043",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30043"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30043",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b4c21c46549ed83d2b832be4114524ef7edada275ecd5ce8825bcff8a8c3fe54",
+      "checked_at": "2026-11-03T04:31:18.470299+00:00"
+    }
   },
   {
     "title_id": "BLUS30044",
@@ -4315,7 +4967,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30044",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30044"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30044",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346641,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "348e2f7de1b270075686cb30c30989eae2cffa801197e11fc9e09f2bd681e989",
+      "checked_at": "2026-11-03T04:31:22.462318+00:00",
+      "retry_after": "2026-11-10T04:31:22.462318+00:00"
+    }
   },
   {
     "title_id": "BLUS30045",
@@ -4323,11 +4983,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30045",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30045"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30045",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 33692,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ec297d8f733e0d545a7d74d93696d6ab.png",
+      "provider_artwork_id": 146210,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/347c9fea9d64efb0bf4a4d8abd5549c13e4541b327a5b8fa8ff4a6bc8e59ee94.image",
+      "source_page": "https://www.steamgriddb.com/grid/146210",
+      "attribution": "Hamano",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "670a426bd9e360e40ba12147ee2aa4cb1f147e0df0d0f0dbf20254e1170e400b",
+      "checked_at": "2026-11-03T04:31:28.053717+00:00"
+    },
+    "artwork": "BLUS30045.png",
+    "thumbnail": "BLUS30045.png",
+    "source_sha256": "347c9fea9d64efb0bf4a4d8abd5549c13e4541b327a5b8fa8ff4a6bc8e59ee94",
+    "sha256": "057ecd198497597572e377a4c3a27fcf38e660694c7345f1e9bd3bbc276cc19d",
+    "thumbnail_sha256": "4d76db3aad54b745fee90350f0e5d9bd088fbf5daa52c221c892eaf278e8880c",
+    "generated_at": "2026-11-03T04:42:37.853591+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30046",
@@ -4335,11 +5037,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30046",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30046"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30046",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 36272,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/16858a0bc363922d47140df10b9a4de5.jpg",
+      "provider_artwork_id": 730802,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/46e220a6f0810d32b72c0650341d676ca8757fefd350f210d888c963b7d05361.image",
+      "source_page": "https://www.steamgriddb.com/grid/730802",
+      "attribution": "Mentos0723",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "630cddb480714945b0ca7059a9684542b5a73cf5cebdef30b72ff25e60d9b0ea",
+      "checked_at": "2026-11-03T04:31:32.430023+00:00"
+    },
+    "artwork": "BLUS30046.png",
+    "thumbnail": "BLUS30046.png",
+    "source_sha256": "46e220a6f0810d32b72c0650341d676ca8757fefd350f210d888c963b7d05361",
+    "sha256": "81a70e79408f8a5c520f743e1c3a2e0b198d1cde5fbfc43af6ce3a21fb71baff",
+    "thumbnail_sha256": "da1e0b5d3361eacb13ae4f153cd6c701ab5c43608f18ebfb08c824b2b35700b0",
+    "generated_at": "2026-11-03T04:42:38.151017+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30047",
@@ -4347,11 +5091,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30047",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30047"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30047",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5253063,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ad47ca7d36b8fd6d6fe090e52acb38e2.png",
+      "provider_artwork_id": 263641,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/c01c13b1a4b3e7d85cd5ad1b954983ccd8063bf181d5ad4c987d41550922599b.image",
+      "source_page": "https://www.steamgriddb.com/grid/263641",
+      "attribution": "Prabhjot19",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "2f43e47a211a71cda648eeeda440a50d78703087debc984df36b92cf5c3ef7c3",
+      "checked_at": "2026-11-03T04:31:37.135650+00:00"
+    },
+    "artwork": "BLUS30047.png",
+    "thumbnail": "BLUS30047.png",
+    "source_sha256": "c01c13b1a4b3e7d85cd5ad1b954983ccd8063bf181d5ad4c987d41550922599b",
+    "sha256": "c1286af7b0730863edd51401d34e2bb135960ab4ae5bdc2a289dbec40295e91a",
+    "thumbnail_sha256": "025bc09c97daed04188d9b0948578e321179f88104ece30c5720c48f71a4a4ca",
+    "generated_at": "2026-11-03T04:42:38.837820+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30048",
@@ -4363,7 +5149,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30048",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30048"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30048",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5276099,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "649b79b4436ff4ae1e24703d3aa230d4ecec16ccc310a21c3a13b80c0cf2631c",
+      "checked_at": "2026-11-03T04:31:40.455392+00:00",
+      "retry_after": "2026-11-10T04:31:40.455392+00:00"
+    }
   },
   {
     "title_id": "BLUS30049",
@@ -4375,7 +5169,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30049",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30049"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30049",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5410964,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "84ea99481633cb2cc186f643f0ec3f245371b96b53c655ab390fad8a5389a5f9",
+      "checked_at": "2026-11-03T04:31:44.459369+00:00",
+      "retry_after": "2026-11-10T04:31:44.459369+00:00"
+    }
   },
   {
     "title_id": "BLUS30050",
@@ -4383,11 +5185,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30050",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30050"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30050",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277883,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/05b060970d48be5f5bf1f98219bb0b1c.png",
+      "provider_artwork_id": 147624,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/8ccfccb3ab071d5f56702f9eb7267d5a82d45d24dfe90981be2dd7ad4308a047.image",
+      "source_page": "https://www.steamgriddb.com/grid/147624",
+      "attribution": "sleepbelts",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "83eec8e898f7149cd43730244a8cde9a52734f442d3ee6e70c0bcbd6339057bd",
+      "checked_at": "2026-11-03T04:31:49.463486+00:00"
+    },
+    "artwork": "BLUS30050.png",
+    "thumbnail": "BLUS30050.png",
+    "source_sha256": "8ccfccb3ab071d5f56702f9eb7267d5a82d45d24dfe90981be2dd7ad4308a047",
+    "sha256": "d6b478f1692106dd32710fdecf346a1e70c6f9f4f64f60f07970d89a6f127313",
+    "thumbnail_sha256": "99a198ce69977d95a5bc23bb7abe565ed12268ba6c374fa3c30b5659a0893dcd",
+    "generated_at": "2026-11-03T04:42:39.579330+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30052",
@@ -4399,7 +5243,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30052",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30052"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30052",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1463,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "67ca7f61815d11d8bf90ab4f515c0d6c27b49c764dd556bcf705ecf025d7983d",
+      "checked_at": "2026-11-03T04:31:53.463107+00:00",
+      "retry_after": "2026-11-10T04:31:53.463107+00:00"
+    }
   },
   {
     "title_id": "BLUS30053",
@@ -4411,7 +5263,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30053",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30053"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30053",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 38747,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "92850f8525c591dc56e743a26dbed72ecc574f644ebe2ffb3b1d82352a669710",
+      "checked_at": "2026-11-03T04:31:57.467961+00:00",
+      "retry_after": "2026-11-10T04:31:57.467961+00:00"
+    }
   },
   {
     "title_id": "BLUS30055",
@@ -4419,11 +5279,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30055",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30055"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30055",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5296627,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/83eb360eea65e236b18384b4abed93ee.jpg",
+      "provider_artwork_id": 488959,
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/ce17d37b57cf90123cf7a5f138ad72287b3bf093f3aeaa767c3bfd9ce473aa3d.image",
+      "source_page": "https://www.steamgriddb.com/grid/488959",
+      "attribution": "Godblessica",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "575cd836a8c32af373c07895ae414aa25dd2e9a6d62b073edb680dd804d0d461",
+      "checked_at": "2026-11-03T04:32:01.413668+00:00"
+    },
+    "artwork": "BLUS30055.png",
+    "thumbnail": "BLUS30055.png",
+    "source_sha256": "ce17d37b57cf90123cf7a5f138ad72287b3bf093f3aeaa767c3bfd9ce473aa3d",
+    "sha256": "c1cdeab06eb2a559cdfc4ee0e8c9e6c3314b995adeb3e7d19f78403e6c6748b5",
+    "thumbnail_sha256": "3b1a67994aa4457bb10790b467da70a0f8d057c5bed33f1a74fa50117aa3a109",
+    "generated_at": "2026-11-03T04:42:40.359627+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30056",
@@ -4431,11 +5333,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30056",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30056"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30056",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5252750,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/3198c575fa55ab947fd6054e3d522126.png",
+      "provider_artwork_id": 854446,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/62d54d5f44b316fce4112d25fbd4fc64519cf6498bab401e4696c6934efd1a4c.image",
+      "source_page": "https://www.steamgriddb.com/grid/854446",
+      "attribution": "mr.empacotado",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "db75beddefb5d311be93df412543c85ca4ecfab48aca508beb094f63b440bf53",
+      "checked_at": "2026-11-03T04:32:06.881643+00:00"
+    },
+    "artwork": "BLUS30056.png",
+    "thumbnail": "BLUS30056.png",
+    "source_sha256": "62d54d5f44b316fce4112d25fbd4fc64519cf6498bab401e4696c6934efd1a4c",
+    "sha256": "99899c336f4297ab1259a719c097460643410411a3bd3cf51401957127138ceb",
+    "thumbnail_sha256": "c7a1750bb2ea55eac99f891fb02464e9107c5eefbefb8276ba1ca480a2ecb382",
+    "generated_at": "2026-11-03T04:42:40.716804+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30057",
@@ -4443,11 +5387,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30057",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30057"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30057",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258444,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/e68a64749e77bddc845f3aa9eb3fc2cd.png",
+      "provider_artwork_id": 207033,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/c7e895d5a0392632f18dcf23614d9363d8cf64d34225850b55d178021ca16d0d.image",
+      "source_page": "https://www.steamgriddb.com/grid/207033",
+      "attribution": "Imatination",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ba6f3cd3026d61d3a65a34da5e8b3773582fdd2975dcfca465e7bcda6eaf1b1a",
+      "checked_at": "2026-11-03T04:32:11.467442+00:00"
+    },
+    "artwork": "BLUS30057.png",
+    "thumbnail": "BLUS30057.png",
+    "source_sha256": "c7e895d5a0392632f18dcf23614d9363d8cf64d34225850b55d178021ca16d0d",
+    "sha256": "3f703341bb8682805a54a6d8d97cc1bb7f7502e2e79964c6f8f9e4d4e59529c3",
+    "thumbnail_sha256": "19a8fc0bcff1bbc1911d64418cc4845cb0889abce3080fac40a390236fed2438",
+    "generated_at": "2026-11-03T04:42:41.015247+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30058",
@@ -4459,7 +5445,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30058",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30058"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30058",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258651,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "5805a787b25586fb928f3eadbb40417febe0ea337a7083f1c35ee89797e1f4c7",
+      "checked_at": "2026-11-03T04:32:15.504024+00:00",
+      "retry_after": "2026-11-10T04:32:15.504024+00:00"
+    }
   },
   {
     "title_id": "BLUS30059",
@@ -4471,7 +5465,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30059",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30059"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30059",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "088d7cec878ba9f1b1dd7fa1e210d05709a74d397484c9e747fa7f5935670757",
+      "checked_at": "2026-11-03T04:32:18.465638+00:00"
+    }
   },
   {
     "title_id": "BLUS30060",
@@ -4483,7 +5482,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30060",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30060"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30060",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5259773,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "c6737f0a615bb89fbeec0893e493f001e3b4023d70de37753d94b1a1985ee8b8",
+      "checked_at": "2026-11-03T04:32:22.475107+00:00",
+      "retry_after": "2026-11-10T04:32:22.475107+00:00"
+    }
   },
   {
     "title_id": "BLUS30061",
@@ -4491,11 +5498,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30061",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30061"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30061",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37894,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/4d2314772caf64e124aac4419ab692fd.png",
+      "provider_artwork_id": 567814,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/fbd6665a622be8feaa0ccbeda20e0bebe51490f4182c5c60257a95ddbb2fcd8d.image",
+      "source_page": "https://www.steamgriddb.com/grid/567814",
+      "attribution": "fia",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a6d7d4bc4e8146f8ab2ba0a0c2a749e82112b512a1f3bd393baf5f16a8436717",
+      "checked_at": "2026-11-03T04:32:26.722962+00:00"
+    },
+    "artwork": "BLUS30061.png",
+    "thumbnail": "BLUS30061.png",
+    "source_sha256": "fbd6665a622be8feaa0ccbeda20e0bebe51490f4182c5c60257a95ddbb2fcd8d",
+    "sha256": "2f18f6b383232a37fb0310380fefa0cb185d51b9a26a823b6c8488378da76cd6",
+    "thumbnail_sha256": "966db80bcfe296dae7f0bf5d7f78c307c28b9b32c0941f118ae1deaf67dbf1f7",
+    "generated_at": "2026-11-03T04:42:41.486857+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30062",
@@ -4507,7 +5556,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30062",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30062"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30062",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5254846,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "0c01bfdf67d4f0430ee399d3f784a83ff3dd83c477edf6f98f22f5b6bdf6371f",
+      "checked_at": "2026-11-03T04:32:30.493601+00:00",
+      "retry_after": "2026-11-10T04:32:30.493601+00:00"
+    }
   },
   {
     "title_id": "BLUS30063",
@@ -4519,7 +5576,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30063",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30063"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30063",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1317,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "d082a5a0beaf46852179ffc30f15cb0d913a54aa51156ee6de80388b25b1279b",
+      "checked_at": "2026-11-03T04:33:31.935325+00:00",
+      "retry_after": "2026-11-10T04:33:31.935325+00:00"
+    }
   },
   {
     "title_id": "BLUS30064",
@@ -4527,11 +5592,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30064",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30064"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30064",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1318,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/12a416384f1d39753d14a392c9f9081c.jpg",
+      "provider_artwork_id": 667949,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/555fd1419d5456d5cf99399c2cde5e2f936676ffce579c9e96647e345d7b0f12.image",
+      "source_page": "https://www.steamgriddb.com/grid/667949",
+      "attribution": "leburn98",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "afe148d5f1a948db44a788a6aa90d62c99934e1beced2995be989a7a719a08e8",
+      "checked_at": "2026-11-03T04:33:36.155342+00:00"
+    },
+    "artwork": "BLUS30064.png",
+    "thumbnail": "BLUS30064.png",
+    "source_sha256": "555fd1419d5456d5cf99399c2cde5e2f936676ffce579c9e96647e345d7b0f12",
+    "sha256": "91cfab936f84b626ee7f4db4768d7367e12e423b4d57f75636880bcc066d331c",
+    "thumbnail_sha256": "e719849360917e433a93c92b8d706a2e0120270100d9a5fbf66fd66a2494402a",
+    "generated_at": "2026-11-03T04:42:42.087456+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30065",
@@ -4539,11 +5646,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30065",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30065"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30065",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 35540,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/a9bc2b113fb78e00a2ce7f64253a90d1.png",
+      "provider_artwork_id": 349034,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/239a237d843017c3c1f8b7e9d19b0d0506e8b9023d33533f8bc9f701cc646963.image",
+      "source_page": "https://www.steamgriddb.com/grid/349034",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "2548ecc073c3daa09115071a1076488f8a1a1703dda0050a8b425dc11e803694",
+      "checked_at": "2026-11-03T04:33:39.992618+00:00"
+    },
+    "artwork": "BLUS30065.png",
+    "thumbnail": "BLUS30065.png",
+    "source_sha256": "239a237d843017c3c1f8b7e9d19b0d0506e8b9023d33533f8bc9f701cc646963",
+    "sha256": "42acb282ead9e4fd3dff1dbfd438c6b749088ffb41de25acd30589e796ef3fef",
+    "thumbnail_sha256": "f51366efa85ad621da206eafc5c1ad9031883985f6bbdc148b860a31b208b54c",
+    "generated_at": "2026-11-03T04:42:42.831964+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30066",
@@ -4551,11 +5700,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30066",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30066"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30066",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 38528,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ae99c72c2aa276672dc58a4413ef4c60.png",
+      "provider_artwork_id": 153996,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/8b0a5ccd9da574fba7da07d2d214fa9ddcc0efd8bb1e04212e312e20dbe43ea0.image",
+      "source_page": "https://www.steamgriddb.com/grid/153996",
+      "attribution": "FrostWolf",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "d1e2dbcd3af241bcb8e400264f3536309ce5596fe9d920448f0dfa80767573e1",
+      "checked_at": "2026-11-03T04:33:45.022990+00:00"
+    },
+    "artwork": "BLUS30066.png",
+    "thumbnail": "BLUS30066.png",
+    "source_sha256": "8b0a5ccd9da574fba7da07d2d214fa9ddcc0efd8bb1e04212e312e20dbe43ea0",
+    "sha256": "b3c7cb4d15c9725d80d165af8dc5aa4d161da93a29010989e00f6aeba670212d",
+    "thumbnail_sha256": "5789e5a61c2b4dce9855b946dd2cfd583e05a0f338b5d83e0ca059923f16dc38",
+    "generated_at": "2026-11-03T04:42:43.568795+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30067",
@@ -4563,11 +5754,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30067",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30067"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30067",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 2952,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/859572019b407ff88f049016a2481938.png",
+      "provider_artwork_id": 262455,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/2a57fe3148e70eef1b3df8b86d91d1b2008639a1981b269b1cd5bf0767d7b1db.image",
+      "source_page": "https://www.steamgriddb.com/grid/262455",
+      "attribution": "CriticalComposer",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8dad5c1e939da4828dd9f42b757e34c02aa40e50e758ee428c2f2ce6a479d5e9",
+      "checked_at": "2026-11-03T04:34:30.391662+00:00"
+    },
+    "artwork": "BLUS30067.png",
+    "thumbnail": "BLUS30067.png",
+    "source_sha256": "2a57fe3148e70eef1b3df8b86d91d1b2008639a1981b269b1cd5bf0767d7b1db",
+    "sha256": "359ce5956ccc9469447dae529ca2ac1f1173e20e88baffceb8ba7f381675e976",
+    "thumbnail_sha256": "7238330c01246c6595453adc425c91f3ee400ee7b112e73c7f087295e89988c8",
+    "generated_at": "2026-11-03T04:42:44.009926+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30068",
@@ -4575,11 +5808,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30068",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30068"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30068",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 12108,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/89345eb73e423a9d939aeba436c2179f.png",
+      "provider_artwork_id": 195080,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/bc5397542fb91d341b5d8114036482e587cc001bf65ca69e194669d924baeacb.image",
+      "source_page": "https://www.steamgriddb.com/grid/195080",
+      "attribution": "dontblush",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "407f4007e7582e615ea14cb0456a4d8e1e2d0a9d460d828c97649e0ab53e9a54",
+      "checked_at": "2026-11-03T04:34:45.124930+00:00"
+    },
+    "artwork": "BLUS30068.png",
+    "thumbnail": "BLUS30068.png",
+    "source_sha256": "bc5397542fb91d341b5d8114036482e587cc001bf65ca69e194669d924baeacb",
+    "sha256": "3dbc97bb76ad6a53a77f6a471945fdd56d92a689703c9a63b506ee55a143b2c8",
+    "thumbnail_sha256": "56184dbddd368ed588a6bcf88a7f9631e09864f9d00288466a263c5409c7aa96",
+    "generated_at": "2026-11-03T04:42:44.452466+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30069",
@@ -4591,7 +5866,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30069",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30069"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30069",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "84a92549fbf076c3e24a7950ff25b1be3c3b7fe2d0e3295b5c6faf08e04cd820",
+      "checked_at": "2026-11-03T04:34:48.220990+00:00"
+    }
   },
   {
     "title_id": "BLUS30070",
@@ -4603,7 +5883,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30070",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30070"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30070",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5347860,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "41bc8f3d07a884b7b5658d13733f0d4c7bba5929c8a9367d29a45fa91d44a61a",
+      "checked_at": "2026-11-03T04:34:52.252641+00:00",
+      "retry_after": "2026-11-10T04:34:52.252641+00:00"
+    }
   },
   {
     "title_id": "BLUS30071",
@@ -4611,11 +5899,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30071",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30071"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30071",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 36370,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/8f21a1878e9244a430f91a70e81b8a0c.png",
+      "provider_artwork_id": 439383,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/cb4fff2c461ab53b1934ea008d67f214aacada8d7102272ca5bb7a6228a7323f.image",
+      "source_page": "https://www.steamgriddb.com/grid/439383",
+      "attribution": "Goof14",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "4949e24331bcdeb416f08b43fc9576eb31b9a0ae2d658dada227bd1e894df3f4",
+      "checked_at": "2026-11-03T04:34:56.604259+00:00"
+    },
+    "artwork": "BLUS30071.png",
+    "thumbnail": "BLUS30071.png",
+    "source_sha256": "cb4fff2c461ab53b1934ea008d67f214aacada8d7102272ca5bb7a6228a7323f",
+    "sha256": "e77a6b1f7cf2c2932fb2a14f43b24a1831842fc504bfc49bcf31d402ff82b698",
+    "thumbnail_sha256": "526fc23e5daebe0a869c2b902730b7e1e69bf6a82529390c2c394cd1bd971b7f",
+    "generated_at": "2026-11-03T04:42:44.723107+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30072",
@@ -4623,11 +5953,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30072",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30072"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30072",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 25316,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/c1d9f2386d00415b5677f9de918032c1.jpg",
+      "provider_artwork_id": 367937,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/f137bb75529a803abdef7999ebcb49f5bb63b27288ecbcb075c70a3001c76dc8.image",
+      "source_page": "https://www.steamgriddb.com/grid/367937",
+      "attribution": "ParsaMON",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "aa07103ed2e68d91a5acac4aae5bec5a8dec27e9372b375458d2746ad6d0ac9c",
+      "checked_at": "2026-11-03T04:35:55.725280+00:00"
+    },
+    "artwork": "BLUS30072.png",
+    "thumbnail": "BLUS30072.png",
+    "source_sha256": "f137bb75529a803abdef7999ebcb49f5bb63b27288ecbcb075c70a3001c76dc8",
+    "sha256": "ea598cd115f8a1181791039d9fa4fd0f7bf2db029775f69965ae2d5db760cbb4",
+    "thumbnail_sha256": "6ca89bea81fea40d3be916de8c359048755c87721cfba4355e3f191de5a7fa0b",
+    "generated_at": "2026-11-03T04:42:45.346665+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30073",
@@ -4635,11 +6007,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30073",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30073"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30073",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37960,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/1e0fa00b9ae77888d25917b92b17d91e.png",
+      "provider_artwork_id": 233256,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/338e3ef028bdcd4d05ea218965af4e86110e34c458ff3396e139d15fc9dce8f8.image",
+      "source_page": "https://www.steamgriddb.com/grid/233256",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "db6fd43d125766da0a47fc62a46327fbaf0554a87e3246d6a843f5d305dad7a9",
+      "checked_at": "2026-11-03T04:35:59.693492+00:00"
+    },
+    "artwork": "BLUS30073.png",
+    "thumbnail": "BLUS30073.png",
+    "source_sha256": "338e3ef028bdcd4d05ea218965af4e86110e34c458ff3396e139d15fc9dce8f8",
+    "sha256": "d8574ad7420f45e2baa9cbffd8dee7dcba89edc53bd73ac6d8977b54ad934125",
+    "thumbnail_sha256": "fb97303da914cda8db5caab3021a65523add65a059c3187120a0631627624311",
+    "generated_at": "2026-11-03T04:42:46.007194+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30074",
@@ -4647,11 +6061,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30074",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30074"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30074",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5247285,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/41a17dcef85a04e347590546665f07d5.png",
+      "provider_artwork_id": 258030,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/76aae7fbaceb235753f3e204436589d30d6147592d0942ac611e3c1bf5ff1d4b.image",
+      "source_page": "https://www.steamgriddb.com/grid/258030",
+      "attribution": "SolarisTM",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "fde843abdfb556b26dd32ce5c3b65981163dc55d2cc6d845b384d52d024bdd66",
+      "checked_at": "2026-11-03T04:36:14.013034+00:00"
+    },
+    "artwork": "BLUS30074.png",
+    "thumbnail": "BLUS30074.png",
+    "source_sha256": "76aae7fbaceb235753f3e204436589d30d6147592d0942ac611e3c1bf5ff1d4b",
+    "sha256": "c011899ce53bce35ecb17b5c0e6b919f4dc26c016bebe72b51f73008299a8940",
+    "thumbnail_sha256": "9d82a085d453c8d41256f283094f25bb4ee96e6d857c827411b90dd17c936631",
+    "generated_at": "2026-11-03T04:42:46.524141+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30075",
@@ -4663,7 +6119,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30075",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30075"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30075",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5333763,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "180127f00adf95bf763a326976c1acacf77e978edf0bda4605c4d6e77ed17752",
+      "checked_at": "2026-11-03T04:36:17.109918+00:00",
+      "retry_after": "2026-11-10T04:36:17.109918+00:00"
+    }
   },
   {
     "title_id": "BLUS30076",
@@ -4675,7 +6139,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30076",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30076"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30076",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "dc842dd5e2ec3aa146a5cd5d67b0ed685a38312c23cc53e6c63c7a0907ab0d9f",
+      "checked_at": "2026-11-03T04:36:18.111225+00:00"
+    }
   },
   {
     "title_id": "BLUS30077",
@@ -4687,7 +6156,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30077",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30077"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30077",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346623,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "1ea02dd5273c49051b5e1361ad7f1e5253c9d5da0b85b1f9cfd72ebe3b8c9cb2",
+      "checked_at": "2026-11-03T04:36:22.120054+00:00",
+      "retry_after": "2026-11-10T04:36:22.120054+00:00"
+    }
   },
   {
     "title_id": "BLUS30078",
@@ -4695,11 +6172,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30078",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30078"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30078",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5323627,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/9f04799a1e5a3b7b20d26fe11c35df9a.jpg",
+      "provider_artwork_id": 315383,
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/324b50a23ff2648a559c0b2c3d129b1ecab3b9bbb5ca8e2f9f260c5d1a57987f.image",
+      "source_page": "https://www.steamgriddb.com/grid/315383",
+      "attribution": "Nardokrazy",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8a1725cd8e4f31f95e416fb144237af3310b444662b334551e08a32ecf503fff",
+      "checked_at": "2026-11-03T04:36:26.307643+00:00"
+    },
+    "artwork": "BLUS30078.png",
+    "thumbnail": "BLUS30078.png",
+    "source_sha256": "324b50a23ff2648a559c0b2c3d129b1ecab3b9bbb5ca8e2f9f260c5d1a57987f",
+    "sha256": "37ee73cb1faa9847054f6699edb5d044f472621595c42cf5556eea45f843b551",
+    "thumbnail_sha256": "11683b46416d053b0addc76f79da7d96f3a0ec0be66b514902cf95f3598cae80",
+    "generated_at": "2026-11-03T04:42:47.052301+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30079",
@@ -4707,11 +6226,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30079",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30079"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30079",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5517,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/f13899db61e0b99964fc0a5da16d36ac.jpg",
+      "provider_artwork_id": 336872,
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/1edb6194bfba0fc90206ebc3c01540ec07708b275a19a5e98b0ea6fac83caf59.image",
+      "source_page": "https://www.steamgriddb.com/grid/336872",
+      "attribution": "cking",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "08fb65d6fe63eedc24942f4aee7c46f3e37606200b4eb1b2b9b871169c79d7b1",
+      "checked_at": "2026-11-03T04:36:50.406961+00:00"
+    },
+    "artwork": "BLUS30079.png",
+    "thumbnail": "BLUS30079.png",
+    "source_sha256": "1edb6194bfba0fc90206ebc3c01540ec07708b275a19a5e98b0ea6fac83caf59",
+    "sha256": "7319cdbc69732c154f521ec109c3a56da08b23391422afcf45ca20751f60889a",
+    "thumbnail_sha256": "37ba6de04853ec9d1b39d4f546e837f3605e2d1348619b3d3856597f8db6e65d",
+    "generated_at": "2026-11-03T04:42:47.299174+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30080",
@@ -4723,7 +6284,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30080",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30080"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30080",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5249079,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "b3778d33354ada0b33520faad23487c7054647f36e176b756f1284418ca8cc48",
+      "checked_at": "2026-11-03T04:37:42.491488+00:00",
+      "retry_after": "2026-11-10T04:37:42.491488+00:00"
+    }
   },
   {
     "title_id": "BLUS30081",
@@ -4735,7 +6304,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30081",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30081"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30081",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5249079,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "b3778d33354ada0b33520faad23487c7054647f36e176b756f1284418ca8cc48",
+      "checked_at": "2026-11-03T04:38:32.057721+00:00",
+      "retry_after": "2026-11-10T04:38:32.057721+00:00"
+    }
   },
   {
     "title_id": "BLUS30082",
@@ -4743,11 +6320,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30082",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30082"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30082",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5264778,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/e6c16d2f1b9d0ebdca33f222ceabeb18.png",
+      "provider_artwork_id": 254562,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/c1c4b8ef9208f47951e1119e418d4d8fd4f554423831db4a6061124c6c1aa76e.image",
+      "source_page": "https://www.steamgriddb.com/grid/254562",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "e5bf7474da61a8c84bf21543996141e58b83f3a3737248f7be90828cbcec64c0",
+      "checked_at": "2026-11-03T04:38:35.112230+00:00"
+    },
+    "artwork": "BLUS30082.png",
+    "thumbnail": "BLUS30082.png",
+    "source_sha256": "c1c4b8ef9208f47951e1119e418d4d8fd4f554423831db4a6061124c6c1aa76e",
+    "sha256": "f835a2118e5a15b0c73053db9e441c57e3cd53ddc6fe50359a50639f34250d7e",
+    "thumbnail_sha256": "c01def12df01354c0963cad1bef9c2b1ddb2a7b0c95385403870ae5efaad7239",
+    "generated_at": "2026-11-03T04:42:47.510927+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30083",
@@ -4759,7 +6378,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30083",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30083"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30083",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1204,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "16a7a4b891094961633fd16592b1da6c2d17e41af996dd313d1212337c78a570",
+      "checked_at": "2026-11-03T04:38:39.154336+00:00",
+      "retry_after": "2026-11-10T04:38:39.154336+00:00"
+    }
   },
   {
     "title_id": "BLUS30084",
@@ -4767,11 +6394,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30084",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30084"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30084",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 31394,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/fe85c9d9d9800424c1451fc753a21534.png",
+      "provider_artwork_id": 772934,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/9166a97f8d978b1b6c901b48dcc48e865702a631eb3312e9a55de3b3b7c469dd.image",
+      "source_page": "https://www.steamgriddb.com/grid/772934",
+      "attribution": "thatRdude",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "5c9f9f1e23afbc7b9af0f58712004e5a824de21a27f27baac9b0abbae0182b17",
+      "checked_at": "2026-11-03T04:39:31.242734+00:00"
+    },
+    "artwork": "BLUS30084.png",
+    "thumbnail": "BLUS30084.png",
+    "source_sha256": "9166a97f8d978b1b6c901b48dcc48e865702a631eb3312e9a55de3b3b7c469dd",
+    "sha256": "85d38f8c8d77af6c66611a2673c804cbfb7056c4f2bb4f12eeb6038464648801",
+    "thumbnail_sha256": "335985006281d4305e6ef17f1999190ae7a4413e42d64423ec2340b4022cdda2",
+    "generated_at": "2026-11-03T04:42:47.848160+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30086",
@@ -4779,11 +6448,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30086",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30086"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30086",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37274,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/932454425c1bf7bd4c1396764f5fd403.png",
+      "provider_artwork_id": 337967,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/2083ee9090edc889e04d11a8c3cca1a03baa52e4cfc88c64872c02c06bd8ccef.image",
+      "source_page": "https://www.steamgriddb.com/grid/337967",
+      "attribution": "CriticalComposer",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "d80acba3b1ff1bfa7d18645f92543852c5cb677807c5228e211b2be4c0178e0c",
+      "checked_at": "2026-11-03T04:39:37.313248+00:00"
+    },
+    "artwork": "BLUS30086.png",
+    "thumbnail": "BLUS30086.png",
+    "source_sha256": "2083ee9090edc889e04d11a8c3cca1a03baa52e4cfc88c64872c02c06bd8ccef",
+    "sha256": "0cc8f5aa15823240915faf797586d72b7b89c463cdea11d439add5915474a769",
+    "thumbnail_sha256": "5c2e8969f3f482e1dd33cf6d3a7b09058c298c513d3c1e87627e6808b46beb48",
+    "generated_at": "2026-11-03T04:42:48.315923+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30087",
@@ -4791,11 +6502,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30087",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30087"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30087",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5440047,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/0b4b0932f85b147e9c52c42bda9b1762.png",
+      "provider_artwork_id": 206695,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/49951ad8a27c2e6a479a8f805f662bf537ede8b9ab1ff1ce1a5202aa6e1e86fd.image",
+      "source_page": "https://www.steamgriddb.com/grid/206695",
+      "attribution": "Maxine",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "cbe107b235afcc3eac5ab4f33b9fd4b7331c67b22daf0c7556f563968141fb70",
+      "checked_at": "2026-11-03T04:39:41.869990+00:00"
+    },
+    "artwork": "BLUS30087.png",
+    "thumbnail": "BLUS30087.png",
+    "source_sha256": "49951ad8a27c2e6a479a8f805f662bf537ede8b9ab1ff1ce1a5202aa6e1e86fd",
+    "sha256": "81d4003d7dab534ba007f16a76822e5c53636799be2e524d6b110a764d43f18a",
+    "thumbnail_sha256": "8864b25ae5008ca3675006ad95c6eb3869a478d6f09b795adfe3a6203a2a3208",
+    "generated_at": "2026-11-03T04:42:48.528738+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30088",
@@ -4807,7 +6560,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30088",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30088"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30088",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "8b47d41b6286f466f844adcf462d84621e70469b8b5bf394205e6038b8333455",
+      "checked_at": "2026-11-03T04:39:42.420156+00:00"
+    }
   },
   {
     "title_id": "BLUS30089",
@@ -4815,11 +6573,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30089",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30089"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30089",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1451,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/5ff0489ace7cb7d3717e67231ce1db0b.png",
+      "provider_artwork_id": 227527,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/7a671f1b25d37a0075563f736a5f89c786a5c26e52b563317d43843f0d440fe7.image",
+      "source_page": "https://www.steamgriddb.com/grid/227527",
+      "attribution": "Squareboi",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "d28cdacebb41f1cf375a8d5559f569831d63913b6446896d0c34b349de261c66",
+      "checked_at": "2026-11-03T04:39:57.585007+00:00"
+    },
+    "artwork": "BLUS30089.png",
+    "thumbnail": "BLUS30089.png",
+    "source_sha256": "7a671f1b25d37a0075563f736a5f89c786a5c26e52b563317d43843f0d440fe7",
+    "sha256": "450bbad03ccdf79df7b47a114f2462377d92b9a5f77c668eadbda7e90aee0564",
+    "thumbnail_sha256": "4b65bd9d9fa4a4db999deec3d30fa011527f7737596ec3ad5448e0c6c7400cba",
+    "generated_at": "2026-11-03T04:42:49.334953+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30090",
@@ -4831,7 +6631,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30090",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30090"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30090",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "1bcc936d2a7e99143b1036abfbd96b8c0923daa681b228f3038107fd7bd730ab",
+      "checked_at": "2026-11-03T04:39:59.728827+00:00"
+    }
   },
   {
     "title_id": "BLUS30091",
@@ -4843,7 +6648,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30091",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30091"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30091",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258573,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "7ddab86f6df4162bcf1dcdce510d288a4000f5a706c62e549878a090dce8b2bf",
+      "checked_at": "2026-11-03T04:40:03.685934+00:00",
+      "retry_after": "2026-11-10T04:40:03.685934+00:00"
+    }
   },
   {
     "title_id": "BLUS30092",
@@ -4851,11 +6664,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30092",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30092"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30092",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 11303,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/bf7de597c2f7fb917200635c3ffae2fa.png",
+      "provider_artwork_id": 138263,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/a1bb21849b32a0c0085d52ec8336e8ba993b138c0b591636a628aed86edf3223.image",
+      "source_page": "https://www.steamgriddb.com/grid/138263",
+      "attribution": "CriticalComposer",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "0ea9543c8a3cb1d1150fa9537d3c3d170607f5ccfa47c00ac03cb82d68276498",
+      "checked_at": "2026-11-03T04:40:24.290153+00:00"
+    },
+    "artwork": "BLUS30092.png",
+    "thumbnail": "BLUS30092.png",
+    "source_sha256": "a1bb21849b32a0c0085d52ec8336e8ba993b138c0b591636a628aed86edf3223",
+    "sha256": "215acdfb59e0dd4d224906fe12688a79083bbcd866379bdd9026fb4c6552a7c0",
+    "thumbnail_sha256": "31dc37908f6f17d6bea890e81872dac9f9a580f9c2f57d0a603690eed1b2377e",
+    "generated_at": "2026-11-03T04:42:49.709021+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30093",
@@ -4867,7 +6722,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30093",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30093"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30093",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5376024,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "70bc7f17df89954bbe2e7a7099243e1cf7f436842bced3e0ce7db5c278406904",
+      "checked_at": "2026-11-03T04:40:27.393478+00:00",
+      "retry_after": "2026-11-10T04:40:27.393478+00:00"
+    }
   },
   {
     "title_id": "BLUS30094",
@@ -4879,7 +6742,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30094",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30094"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30094",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "85b63134f065500ec20dad1b99990df6f067b2e934a211b8d42f6f4c0b972bec",
+      "checked_at": "2026-11-03T04:40:32.392271+00:00"
+    }
   },
   {
     "title_id": "BLUS30097",
@@ -4887,11 +6755,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30097",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30097"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30097",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5255211,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/889e556904c106265ef19dd2447c096e.jpg",
+      "provider_artwork_id": 723087,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/b3d5fdfe3597ad602f82921c5867a530ae6528bf260c9cbb52731cd4397fe963.image",
+      "source_page": "https://www.steamgriddb.com/grid/723087",
+      "attribution": "Mentos0723",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "4c0f29771807d8199d4ba9a0ebcdea7691b1353e779c1028cb426668c1eb5dbb",
+      "checked_at": "2026-11-03T04:40:37.369778+00:00"
+    },
+    "artwork": "BLUS30097.png",
+    "thumbnail": "BLUS30097.png",
+    "source_sha256": "b3d5fdfe3597ad602f82921c5867a530ae6528bf260c9cbb52731cd4397fe963",
+    "sha256": "123642758f3632a0791793b5ef10caa15c9a44374434f9e3f6de234c63243f2b",
+    "thumbnail_sha256": "f7e622630c43a3d3e0d3431e5f1ac143f9d777c699fe85d16a655fd4ece62d84",
+    "generated_at": "2026-11-03T04:42:49.953585+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30098",
@@ -4903,7 +6813,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30098",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30098"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30098",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b6e6e7716b04909c1a2e9d4af5fe9e7324cf9af158d4dde982f7652b3f0b1ec2",
+      "checked_at": "2026-11-03T04:40:38.386578+00:00"
+    }
   },
   {
     "title_id": "BLUS30099",
@@ -4911,11 +6826,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30099",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30099"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30099",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5259703,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/3094c0725da249eaa00918e3333a00d3.jpg",
+      "provider_artwork_id": 480480,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/1adddd08074937c4669d75a523e6bee3c6ab83a2f65ce90017c99da13c1cf731.image",
+      "source_page": "https://www.steamgriddb.com/grid/480480",
+      "attribution": "ZazaMastro",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "fe4724c845b65ec71172e9072aba60eadbfec1ed26274c7bc8f9d1461e6da2e9",
+      "checked_at": "2026-11-03T04:40:43.362018+00:00"
+    },
+    "artwork": "BLUS30099.png",
+    "thumbnail": "BLUS30099.png",
+    "source_sha256": "1adddd08074937c4669d75a523e6bee3c6ab83a2f65ce90017c99da13c1cf731",
+    "sha256": "d603a344cd761478c7e16008a5d1fb952454277706fa0201628837da4bfd51e3",
+    "thumbnail_sha256": "97e6aabf07e07ca297f475833cd6ebaad8e5510757d0493b46e577d0c9592a45",
+    "generated_at": "2026-11-03T04:42:50.672678+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30100",
@@ -4927,7 +6884,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30100",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30100"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30100",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "64fe720f0a2d32bc1951c783423ca225d0df1780053f10f95759f4922e760b9e",
+      "checked_at": "2026-11-03T04:40:44.384488+00:00"
+    }
   },
   {
     "title_id": "BLUS30101",
@@ -4939,7 +6901,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30101",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30101"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30101",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5252580,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "498b392aae713bbba9cf98ebbda62a862514defc0b0486e09495a604473da579",
+      "checked_at": "2026-11-03T04:40:48.400581+00:00",
+      "retry_after": "2026-11-10T04:40:48.400581+00:00"
+    }
   },
   {
     "title_id": "BLUS30102",
@@ -4947,11 +6917,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30102",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30102"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30102",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 26010,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/b833d8df8aac24307f5f473cf2476129.jpg",
+      "provider_artwork_id": 312024,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/784d9de5d8f11fd11decffbccc4c04b48e9436cb3f960ded73534bd49961e9d0.image",
+      "source_page": "https://www.steamgriddb.com/grid/312024",
+      "attribution": "nexhasunleashed",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a014a60d21280eec1033b8e564a85231e269389076ba1283fc607fadbd952358",
+      "checked_at": "2026-11-03T04:40:53.387201+00:00"
+    },
+    "artwork": "BLUS30102.png",
+    "thumbnail": "BLUS30102.png",
+    "source_sha256": "784d9de5d8f11fd11decffbccc4c04b48e9436cb3f960ded73534bd49961e9d0",
+    "sha256": "4c4eb8ac3b11f74ab752cec6ebb29a77dc3e3861fe772e9ba7c3622971124d73",
+    "thumbnail_sha256": "8c7df23f7169e5cbf0aca952c44f777a7052d3b214be9090d9a628824864b162",
+    "generated_at": "2026-11-03T04:42:50.919059+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30103",
@@ -4963,7 +6975,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30103",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30103"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30103",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 254,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "e74809272fcadade222f6709024b9cdc28fd685cf871b0c0a9ab3228dbc51490",
+      "checked_at": "2026-11-03T04:40:57.515521+00:00",
+      "retry_after": "2026-11-10T04:40:57.515521+00:00"
+    }
   },
   {
     "title_id": "BLUS30104",
@@ -4975,7 +6995,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30104",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30104"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30104",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "72107214d32f5f3dcb274ffabdb56731acf036d73184cc92f6be9d547508e27b",
+      "checked_at": "2026-11-03T04:41:00.415653+00:00"
+    }
   },
   {
     "title_id": "BLUS30105",
@@ -4987,7 +7012,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30105",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30105"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30105",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 25488,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "b01661c13521d915f2516117f484427122b7c5f822569e3b5e800278682dde89",
+      "checked_at": "2026-11-03T04:41:04.397445+00:00",
+      "retry_after": "2026-11-10T04:41:04.397445+00:00"
+    }
   },
   {
     "title_id": "BLUS30106",
@@ -4999,7 +7032,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30106",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30106"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30106",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "36b36d1800a8f815899218d8825d7a0be54e0d60cd0fd021dec4548218c45321",
+      "checked_at": "2026-11-03T04:41:05.408207+00:00"
+    }
   },
   {
     "title_id": "BLUS30107",
@@ -5007,11 +7045,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30107",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30107"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30107",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 26097,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/31e49e9a7c100d741687314c1698ac08.png",
+      "provider_artwork_id": 443473,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/5cd68cd6351c76fef43d1f047f477df924a4b3e1fe0b7382984db8341a66aaf1.image",
+      "source_page": "https://www.steamgriddb.com/grid/443473",
+      "attribution": "Neuropod",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ba5e28a5bd08b0880c012eab444711eb2ab69d9c547d85777c95030945cd0d4d",
+      "checked_at": "2026-11-03T04:41:30.288427+00:00"
+    },
+    "artwork": "BLUS30107.png",
+    "thumbnail": "BLUS30107.png",
+    "source_sha256": "5cd68cd6351c76fef43d1f047f477df924a4b3e1fe0b7382984db8341a66aaf1",
+    "sha256": "3e76d0657db061f525181a99bcefa5bfb467822ef11c2f121f1eb21daa0239eb",
+    "thumbnail_sha256": "92183b9efdb60344533b25e360f37c41ce08f1f7e2e1a4c291da4e61e9e9eae7",
+    "generated_at": "2026-11-03T04:42:51.115088+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30108",
@@ -5023,7 +7103,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30108",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30108"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30108",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "bfe9d09c48524d5b1c9d3c2f0ac3183a0f16428725617ad8b61ac4e91de5b28c",
+      "checked_at": "2026-11-03T04:41:32.380554+00:00"
+    }
   },
   {
     "title_id": "BLUS30109",
@@ -5031,11 +7116,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30109",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30109"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30109",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 33935,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/046412d5e0fbc5d1493d24f03454c161.png",
+      "provider_artwork_id": 139121,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/556b2173f0796fe95e416989a211decbc18bd8a85433ab62758746a1791c102f.image",
+      "source_page": "https://www.steamgriddb.com/grid/139121",
+      "attribution": "CriticalComposer",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "00659b68ac17c5fd829a271ccf27c9d8be2e5fd1dd133f7a14286e0970b2563b",
+      "checked_at": "2026-11-03T04:41:37.833516+00:00"
+    },
+    "artwork": "BLUS30109.png",
+    "thumbnail": "BLUS30109.png",
+    "source_sha256": "556b2173f0796fe95e416989a211decbc18bd8a85433ab62758746a1791c102f",
+    "sha256": "fd75d2e19ed415ec7081328b6cc27ad95d911565191cd0bfac8b7e29cb97d8cc",
+    "thumbnail_sha256": "bbcfae6225ff882279d77258e6587d89ee03cecaba6859afeb6ff8857b64d5dc",
+    "generated_at": "2026-11-03T04:42:51.465599+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30110",
@@ -5043,11 +7170,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30110",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30110"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30110",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5253995,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ac204561cc3901f7999979e5d0c1a70b.png",
+      "provider_artwork_id": 350037,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/a28a37e1d8ca303cf900bf0028c74b406d5b02a3b86d1ea7d525f414dc409156.image",
+      "source_page": "https://www.steamgriddb.com/grid/350037",
+      "attribution": "Shiios42",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "2f00f38cc41db46f0895cac247a092f97c36dca2a2547fb1431321e86041c775",
+      "checked_at": "2026-11-03T04:41:41.344392+00:00"
+    },
+    "artwork": "BLUS30110.png",
+    "thumbnail": "BLUS30110.png",
+    "source_sha256": "a28a37e1d8ca303cf900bf0028c74b406d5b02a3b86d1ea7d525f414dc409156",
+    "sha256": "0d5ccbb33b52fa4500adc2efc220e472191e5fc487d9fb1b5b088ad643baa27f",
+    "thumbnail_sha256": "3e353c76ed357c38600f46a992c04b6305f8b0c801745ce453c6741daee1c9ce",
+    "generated_at": "2026-11-03T04:42:51.775509+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30111",
@@ -5059,7 +7228,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30111",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30111"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30111",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "e72498ce6b9547b0982e26468675170ef184d1d4e0d3585bf3eadaea58db1d6d",
+      "checked_at": "2026-11-03T04:41:42.420956+00:00"
+    }
   },
   {
     "title_id": "BLUS30112",
@@ -5071,7 +7245,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30112",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30112"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30112",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5343726,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "636f02ed12b392098c72135e8a82a440e46fa297bfa4df20b284dc1343fbdbb6",
+      "checked_at": "2026-11-03T04:41:46.391132+00:00",
+      "retry_after": "2026-11-10T04:41:46.391132+00:00"
+    }
   },
   {
     "title_id": "BLUS30113",
@@ -5079,11 +7261,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30113",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30113"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30113",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 18813,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/0df4decd39ceef9f9273076a08f8420e.jpg",
+      "provider_artwork_id": 154418,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/a58a88f49035e1c61f859b40daf8cc7a5ff9f98fc330e79b679fb207c0e202a0.image",
+      "source_page": "https://www.steamgriddb.com/grid/154418",
+      "attribution": "flamepanther",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "09b1f1ab20320c4474f0d59e7bc4de8afc6d220d7bb431d77f5fda56fd650269",
+      "checked_at": "2026-11-03T04:41:51.339629+00:00"
+    },
+    "artwork": "BLUS30113.png",
+    "thumbnail": "BLUS30113.png",
+    "source_sha256": "a58a88f49035e1c61f859b40daf8cc7a5ff9f98fc330e79b679fb207c0e202a0",
+    "sha256": "3d6484c1f72a780073a800fe2f3b2df5eab9e199e9eeefb42c6626be3c45df17",
+    "thumbnail_sha256": "0dc355cdd3684e1add91b897b1fa4a279e4cde950817bb88fe4761aeb0c06af7",
+    "generated_at": "2026-11-03T04:42:52.331599+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30114",
@@ -5095,7 +7319,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30114",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30114"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30114",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "938926c7001b4de4cb5e74753dce10b91e601f3edc5a6f05e61cb2baec872967",
+      "checked_at": "2026-11-03T04:41:52.393879+00:00"
+    }
   },
   {
     "title_id": "BLUS30115",
@@ -5103,11 +7332,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30115",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30115"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30115",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5265030,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/1976a4c578e1166ff74f78e5c619c9fd.png",
+      "provider_artwork_id": 832230,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/fcb12384e85402fdf62429e677c0c365f2e2fd25910a5aff838b539af8e558f0.image",
+      "source_page": "https://www.steamgriddb.com/grid/832230",
+      "attribution": "tema_keks",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "287d8aff66f69bf0ae7d19b9d296c58b1e02c3e1ec1ddb2491e4a7049f5071c9",
+      "checked_at": "2026-11-03T04:41:57.904520+00:00"
+    },
+    "artwork": "BLUS30115.png",
+    "thumbnail": "BLUS30115.png",
+    "source_sha256": "fcb12384e85402fdf62429e677c0c365f2e2fd25910a5aff838b539af8e558f0",
+    "sha256": "a2e23991ae8e6064a35786c3007be8342a48cf322dbd1c0953f03d45c961ac15",
+    "thumbnail_sha256": "4702d45504e0f137462a0e7a57437714621b7a45a92bfd31aeb5e9969c80ad7a",
+    "generated_at": "2026-11-03T04:42:52.647528+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30116",
@@ -5115,11 +7386,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30116",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30116"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30116",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 4513,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/06dd6fcdca6a2af8b2c57263a81d7552.jpg",
+      "provider_artwork_id": 150094,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/fac6414b8d1a0f91c613663ddc3abaed03744f57d07864db4a80d176cbcfdcb6.image",
+      "source_page": "https://www.steamgriddb.com/grid/150094",
+      "attribution": "flamepanther",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "40ddc9accc8e5f2c8c9face352b3a082840e3a267e4860b50e592099d21fa715",
+      "checked_at": "2026-11-03T04:42:14.910352+00:00"
+    },
+    "artwork": "BLUS30116.png",
+    "thumbnail": "BLUS30116.png",
+    "source_sha256": "fac6414b8d1a0f91c613663ddc3abaed03744f57d07864db4a80d176cbcfdcb6",
+    "sha256": "a6d661a65e2383588f644c5541342165018c0a9d4f919e0785b7642da7ce9560",
+    "thumbnail_sha256": "483908ffc282169b3876da34ed41076f63ff27d4634bfd21d9ecbe451eb9a5be",
+    "generated_at": "2026-11-03T04:42:52.988071+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30117",
@@ -5127,11 +7440,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30117",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30117"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30117",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5273228,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/fc97506d42adfc0e8b8fe8248767b048.png",
+      "provider_artwork_id": 227293,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/62a3fb06ca872fe730ea7db8c8b51a0dfe7ac0f34ea3975edf11a3cadaf7824f.image",
+      "source_page": "https://www.steamgriddb.com/grid/227293",
+      "attribution": "Kynd",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ae7fe94c285cf0a575bea630bdf39ebbb3c77e5fab5b6bed97598976032fd7f3",
+      "checked_at": "2026-11-03T04:42:18.343377+00:00"
+    },
+    "artwork": "BLUS30117.png",
+    "thumbnail": "BLUS30117.png",
+    "source_sha256": "62a3fb06ca872fe730ea7db8c8b51a0dfe7ac0f34ea3975edf11a3cadaf7824f",
+    "sha256": "f5b9f6f04d0e611a9e8d11aa8a9536d86f79c0981d33d15ea87367aefedeb08b",
+    "thumbnail_sha256": "3fe557be4c4af66fb48b6765af39f52d4cee978d650146feb93fd1f499f6a86d",
+    "generated_at": "2026-11-03T04:42:53.428069+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30118",
@@ -5139,11 +7494,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30118",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30118"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30118",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248469,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/b7e5bca0e807b467d51d451244fbc264.png",
+      "provider_artwork_id": 147047,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/a2555a5daedaa537a0ac78edea79f27208fd127c1be049e4b016e72fe62b1140.image",
+      "source_page": "https://www.steamgriddb.com/grid/147047",
+      "attribution": "FrostWolf",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "08e0e84682c9a9b3764bb176aa575c0adea026948ac94390783494de63acc3f0",
+      "checked_at": "2026-11-03T04:42:23.003933+00:00"
+    },
+    "artwork": "BLUS30118.png",
+    "thumbnail": "BLUS30118.png",
+    "source_sha256": "a2555a5daedaa537a0ac78edea79f27208fd127c1be049e4b016e72fe62b1140",
+    "sha256": "2b6067c11a4c29549901456a59070d69490beda8bdfd2566a5934f563e7fcf36",
+    "thumbnail_sha256": "9269d8544f7026abbacf6639854deaf0d821231f5617fa856fc70e83852a921d",
+    "generated_at": "2026-11-03T04:42:53.876218+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30119",
@@ -5155,7 +7552,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30119",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30119"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30119",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1405,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "afbf867a792567c4719eb4700faef3c0ef0955d2db96f154f9448cbe7f9d545e",
+      "checked_at": "2026-11-03T04:42:27.011224+00:00",
+      "retry_after": "2026-11-10T04:42:27.011224+00:00"
+    }
   },
   {
     "title_id": "BLUS30120",
@@ -5163,11 +7568,53 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "generated",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30120",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30120"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30120",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1469,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/c53ab3bdf450deb7e079cce8e0ff81e1.png",
+      "provider_artwork_id": 342243,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/7f7974deb43764c70b1675c23b7c3954f0580fd3025e814a35f4ea304bb12f3e.image",
+      "source_page": "https://www.steamgriddb.com/grid/342243",
+      "attribution": "effcol",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "3895249b4ce45b9a5068de4876bb2deefe3d530d685ad15abf467b1809b5d597",
+      "checked_at": "2026-11-03T04:42:31.849595+00:00"
+    },
+    "artwork": "BLUS30120.png",
+    "thumbnail": "BLUS30120.png",
+    "source_sha256": "7f7974deb43764c70b1675c23b7c3954f0580fd3025e814a35f4ea304bb12f3e",
+    "sha256": "26656b4b3b5908e95764c290826d16b58b415fc61d568c1e1f4b51566e16468e",
+    "thumbnail_sha256": "94373556aa1973a575756e9de29b3ee4f9319e9b5dc22f9a12c014ee17d20bdd",
+    "generated_at": "2026-11-03T04:42:54.267213+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution"
   },
   {
     "title_id": "BLUS30121",

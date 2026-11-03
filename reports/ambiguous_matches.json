@@ -2705,5 +2705,1466 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30017",
+    "title": "Mobile Suit Gundam: Crossfire",
+    "candidates": [
+      {
+        "id": 5439242,
+        "name": "Mobile Suit Gundam",
+        "verified": true,
+        "types": [],
+        "release_date": 741484800
+      },
+      {
+        "id": 21195,
+        "name": "Mobile Suit Gundam: Federation vs. Zeon",
+        "verified": true,
+        "types": [],
+        "release_date": 1007596800
+      },
+      {
+        "id": 38431,
+        "name": "Mobile Suit Gundam SEED: Battle Assault",
+        "verified": true,
+        "types": [],
+        "release_date": 1072915200
+      },
+      {
+        "id": 5264262,
+        "name": "Mobile Suit Gundam: Extreme Vs. Full Boost",
+        "verified": true,
+        "types": [],
+        "release_date": 1333584000
+      },
+      {
+        "id": 5265399,
+        "name": "Mobile Suit Gundam AGE: Cosmic Drive",
+        "verified": true,
+        "types": [],
+        "release_date": 1346284800
+      },
+      {
+        "id": 5286381,
+        "name": "Mobile Suit Gundam Side Stories",
+        "verified": true,
+        "types": [],
+        "release_date": 1401321600
+      },
+      {
+        "id": 5323826,
+        "name": "Mobile Suit Gundam: Battle Operation 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1685404800
+      },
+      {
+        "id": 5329746,
+        "name": "Mobile Suit Gundam SEED Destiny",
+        "verified": true,
+        "types": [],
+        "release_date": 1101340800
+      },
+      {
+        "id": 5334414,
+        "name": "Mobile Suit Gundam: Gundam vs. Z Gundam",
+        "verified": true,
+        "types": [],
+        "release_date": 1102550400
+      },
+      {
+        "id": 5342319,
+        "name": "Mobile Suit Gundam: Mokuba no Kiseki",
+        "verified": true,
+        "types": [],
+        "release_date": 1327536000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30029",
+    "title": "Disney Pirates of the Caribbean: At World's End",
+    "candidates": [
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      },
+      {
+        "id": 5298,
+        "name": "Disney Tangled",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1290153600
+      },
+      {
+        "id": 5302,
+        "name": "Disney Princess :  My Fairytale Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1337929200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30035",
+    "title": "The Darkness",
+    "candidates": [
+      {
+        "id": 24046,
+        "name": "The Darkness",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1514549102
+      },
+      {
+        "id": 5272254,
+        "name": "The Darkness",
+        "verified": true,
+        "types": [],
+        "release_date": 1182729600
+      },
+      {
+        "id": 19914,
+        "name": "The Darkness II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1328486400
+      },
+      {
+        "id": 5445219,
+        "name": "The Darkness Below",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1710903084
+      },
+      {
+        "id": 5486489,
+        "name": "The Darkness Delivers",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 807,
+        "name": "When the Darkness comes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1551470340
+      },
+      {
+        "id": 6183,
+        "name": "The Church in the Darkness",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1564757245
+      },
+      {
+        "id": 16585,
+        "name": "In the Darkness of the Sea",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1485989993
+      },
+      {
+        "id": 25277,
+        "name": "Escape the Darkness",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1522773963
+      },
+      {
+        "id": 5265327,
+        "name": "The Light of the Darkness",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30038",
+    "title": "FIFA Soccer 08",
+    "candidates": [
+      {
+        "id": 5259700,
+        "name": "FIFA 08 Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 1190851200
+      },
+      {
+        "id": 33725,
+        "name": "FIFA Soccer 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      },
+      {
+        "id": 33787,
+        "name": "FIFA Soccer 2003",
+        "verified": true,
+        "types": [],
+        "release_date": 1036195200
+      },
+      {
+        "id": 34530,
+        "name": "FIFA Soccer 96",
+        "verified": true,
+        "types": [],
+        "release_date": 815961600
+      },
+      {
+        "id": 35472,
+        "name": "FIFA Soccer 64",
+        "verified": true,
+        "types": [],
+        "release_date": 859420800
+      },
+      {
+        "id": 39025,
+        "name": "FIFA Soccer 2005",
+        "verified": true,
+        "types": [],
+        "release_date": 1097539200
+      },
+      {
+        "id": 5254909,
+        "name": "FIFA Soccer 95",
+        "verified": true,
+        "types": [],
+        "release_date": 784425600
+      },
+      {
+        "id": 5331499,
+        "name": "FIFA Soccer 09",
+        "verified": true,
+        "types": [],
+        "release_date": 1223942400
+      },
+      {
+        "id": 5331500,
+        "name": "FIFA Soccer 10",
+        "verified": true,
+        "types": [],
+        "release_date": 1255996800
+      },
+      {
+        "id": 5333834,
+        "name": "FIFA Soccer 12",
+        "verified": true,
+        "types": [],
+        "release_date": 1317081600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30043",
+    "title": "Disney/Pixar Ratatouille",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30059",
+    "title": "Skate.",
+    "candidates": [
+      {
+        "id": 5253546,
+        "name": "skate.",
+        "verified": true,
+        "types": [],
+        "release_date": 1189641600
+      },
+      {
+        "id": 5479288,
+        "name": "skate.",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1735689600
+      },
+      {
+        "id": 21189,
+        "name": "Skate or Die 2: The Search for Double Trouble",
+        "verified": true,
+        "types": [],
+        "release_date": 652147200
+      },
+      {
+        "id": 36053,
+        "name": "Skate or Die: Bad 'N Rad",
+        "verified": true,
+        "types": [],
+        "release_date": 652147200
+      },
+      {
+        "id": 37332,
+        "name": "Skate or Die",
+        "verified": true,
+        "types": [],
+        "release_date": 560044800
+      },
+      {
+        "id": 37485,
+        "name": "Skate Or Die: Tour de Thrash",
+        "verified": true,
+        "types": [],
+        "release_date": 675734400
+      },
+      {
+        "id": 1155408,
+        "name": "Skate & Date",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546300800
+      },
+      {
+        "id": 5249006,
+        "name": "Skate 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1273536000
+      },
+      {
+        "id": 5249408,
+        "name": "Skate 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1232496000
+      },
+      {
+        "id": 5255794,
+        "name": "Skate It",
+        "verified": true,
+        "types": [],
+        "release_date": 1227052800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30069",
+    "title": "Conan",
+    "candidates": [
+      {
+        "id": 5259609,
+        "name": "Conan",
+        "verified": true,
+        "types": [],
+        "release_date": 1081382400
+      },
+      {
+        "id": 5260725,
+        "name": "Conan",
+        "verified": true,
+        "types": [],
+        "release_date": 1190937600
+      },
+      {
+        "id": 5410732,
+        "name": "Conan",
+        "verified": true,
+        "types": [],
+        "release_date": 665366400
+      },
+      {
+        "id": 10642,
+        "name": "Conan Exiles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1525776000
+      },
+      {
+        "id": 12325,
+        "name": "Conan the mighty pig",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1467097200
+      },
+      {
+        "id": 31037,
+        "name": "Conan Exiles - Public Beta Client",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5097859,
+        "name": "Conan Unconquered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1559145376
+      },
+      {
+        "id": 5168417,
+        "name": "Conan Chop Chop",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1582588800
+      },
+      {
+        "id": 5250303,
+        "name": "Conan Exiles Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5251325,
+        "name": "Conan Exiles - Testlive Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30076",
+    "title": "Rapala Fishing Frenzy 2009",
+    "candidates": [
+      {
+        "id": 5343995,
+        "name": "Rapala Fishing Frenzy",
+        "verified": true,
+        "types": [],
+        "release_date": 1220313600
+      },
+      {
+        "id": 5330449,
+        "name": "Rapala Fishing: Pro Series",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38324,
+        "name": "Rapala Pro Fishing",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5256265,
+        "name": "Rapala Pro Bass Fishing",
+        "verified": true,
+        "types": [
+          "eshop"
+        ]
+      },
+      {
+        "id": 5343996,
+        "name": "Rapala Tournament Fishing!",
+        "verified": true,
+        "types": [],
+        "release_date": 1164067200
+      },
+      {
+        "id": 5342437,
+        "name": "Rapala Trophies",
+        "verified": true,
+        "types": [],
+        "release_date": 1157068800
+      },
+      {
+        "id": 5343994,
+        "name": "Rapala: We Fish",
+        "verified": true,
+        "types": []
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30088",
+    "title": "Disney/Pixar Cars: Mater-National Championship",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30090",
+    "title": "TimeShift",
+    "candidates": [
+      {
+        "id": 553,
+        "name": "TimeShift",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1193727600
+      },
+      {
+        "id": 5398920,
+        "name": "Timeshift",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5436044,
+        "name": "Timeshift Detective",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5286779,
+        "name": "TimeShifters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1636502400
+      },
+      {
+        "id": 5406866,
+        "name": "Lysfanga: The Time Shift Warrior",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1707782400
+      },
+      {
+        "id": 5265856,
+        "name": "TinShift",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1596240000
+      },
+      {
+        "id": 5457766,
+        "name": "Timerift Raiders: The Past Awakens",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30094",
+    "title": "Haze",
+    "candidates": [
+      {
+        "id": 5258719,
+        "name": "Haze",
+        "verified": true,
+        "types": [],
+        "release_date": 1211241600
+      },
+      {
+        "id": 5503555,
+        "name": "Haze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758844800
+      },
+      {
+        "id": 5511657,
+        "name": "Haze",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5526053,
+        "name": "Haze",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5478367,
+        "name": "Haze: Carnival Of Horror",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5549127,
+        "name": "Haze There",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1798761600
+      },
+      {
+        "id": 5550129,
+        "name": "Haze of Lucidity (Halu) - The Phoenix",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 10120,
+        "name": "Red Haze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1487005206
+      },
+      {
+        "id": 20239,
+        "name": "All Haze Eve",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1504293062
+      },
+      {
+        "id": 5322564,
+        "name": "Horror haze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1661212800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30098",
+    "title": "NCAA March Madness 08",
+    "candidates": [
+      {
+        "id": 5335813,
+        "name": "NCAA March Madness '98",
+        "verified": true,
+        "types": [],
+        "release_date": 888364800
+      },
+      {
+        "id": 5336138,
+        "name": "NCAA March Madness 99",
+        "verified": true,
+        "types": [],
+        "release_date": 904262400
+      },
+      {
+        "id": 5336139,
+        "name": "NCAA March Madness 2000",
+        "verified": true,
+        "types": [],
+        "release_date": 944006400
+      },
+      {
+        "id": 5336140,
+        "name": "NCAA March Madness 2001",
+        "verified": true,
+        "types": [],
+        "release_date": 976147200
+      },
+      {
+        "id": 5336141,
+        "name": "NCAA March Madness 2002",
+        "verified": true,
+        "types": [],
+        "release_date": 1010534400
+      },
+      {
+        "id": 5336142,
+        "name": "NCAA March Madness 2003",
+        "verified": true,
+        "types": [],
+        "release_date": 1037836800
+      },
+      {
+        "id": 5336143,
+        "name": "NCAA March Madness 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1069027200
+      },
+      {
+        "id": 5346636,
+        "name": "NCAA March Madness 06",
+        "verified": true,
+        "types": [],
+        "release_date": 1129075200
+      },
+      {
+        "id": 5346637,
+        "name": "NCAA March Madness 07",
+        "verified": true,
+        "types": [],
+        "release_date": 1168992000
+      },
+      {
+        "id": 5446802,
+        "name": "NCAA March Madness 2005",
+        "verified": true,
+        "types": [],
+        "release_date": 1100563200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30100",
+    "title": "NFL Tour",
+    "candidates": [
+      {
+        "id": 21139,
+        "name": "NFL",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 21129,
+        "name": "NFL Street 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1103673600
+      },
+      {
+        "id": 21135,
+        "name": "NFL Blitz 2001",
+        "verified": true,
+        "types": [],
+        "release_date": 968889600
+      },
+      {
+        "id": 29837,
+        "name": "NFL Blitz 2003",
+        "verified": true,
+        "types": [],
+        "release_date": 1029110400
+      },
+      {
+        "id": 33747,
+        "name": "NFL Blitz: Special Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1006905600
+      },
+      {
+        "id": 34335,
+        "name": "NFL Quarterback Club 99",
+        "verified": true,
+        "types": [],
+        "release_date": 910656000
+      },
+      {
+        "id": 34623,
+        "name": "NFL Quarterback Club 96",
+        "verified": true,
+        "types": [],
+        "release_date": 814752000
+      },
+      {
+        "id": 35118,
+        "name": "NFL Blitz 2002",
+        "verified": true,
+        "types": [],
+        "release_date": 1000166400
+      },
+      {
+        "id": 35161,
+        "name": "NFL Football",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 35302,
+        "name": "NFL Quarterback Club II",
+        "verified": true,
+        "types": [],
+        "release_date": 795398400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30104",
+    "title": "Turok",
+    "candidates": [
+      {
+        "id": 9263,
+        "name": "Turok",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 880876800
+      },
+      {
+        "id": 5257967,
+        "name": "Turok",
+        "verified": true,
+        "types": [],
+        "release_date": 1201708800
+      },
+      {
+        "id": 1683,
+        "name": "Turok: Dinosaur Hunter",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 9264,
+        "name": "Turok 2: Seeds of Evil",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 913276800
+      },
+      {
+        "id": 34231,
+        "name": "Turok 3: Shadow of Oblivion",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 967680000
+      },
+      {
+        "id": 34574,
+        "name": "Turok: Battle of the Bionosaurs",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 36652,
+        "name": "Turok: Rage Wars",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38259,
+        "name": "Turok: Evolution",
+        "verified": true,
+        "types": [],
+        "release_date": 1030492800
+      },
+      {
+        "id": 5245462,
+        "name": "Turok: Escape from Lost Valley",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1564059873
+      },
+      {
+        "id": 5473444,
+        "name": "Turok: Origins",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30106",
+    "title": "The Elder Scrolls IV: Shivering Isles",
+    "candidates": [
+      {
+        "id": 2331,
+        "name": "The Elder Scrolls IV: Oblivion ",
+        "verified": true,
+        "types": [],
+        "release_date": 1142812800
+      },
+      {
+        "id": 5258102,
+        "name": "The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1245110400
+      },
+      {
+        "id": 5267694,
+        "name": "The Elder Scrolls IV: Oblivion - Construction Set",
+        "verified": true,
+        "types": [],
+        "release_date": 1181001600
+      },
+      {
+        "id": 5440047,
+        "name": "The Elder Scrolls IV: Oblivion - Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1189382400
+      },
+      {
+        "id": 5486082,
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1745280000
+      },
+      {
+        "id": 5486090,
+        "name": "The Elder Scrolls IV: Oblivion Remastered - Digital Artbook",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1745280000
+      },
+      {
+        "id": 2328,
+        "name": "The Elder Scrolls III: Morrowind",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1020063600
+      },
+      {
+        "id": 4849,
+        "name": "The Elder Scrolls Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1396594800
+      },
+      {
+        "id": 7385,
+        "name": "The Elder Scrolls: Legends",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1496253480
+      },
+      {
+        "id": 12404,
+        "name": "The Elder Scrolls V: Skyrim - Special Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1477612800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30108",
+    "title": "The Club",
+    "candidates": [
+      {
+        "id": 1205,
+        "name": "The Club",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1203494400
+      },
+      {
+        "id": 5518027,
+        "name": "The Club",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1772409600
+      },
+      {
+        "id": 5321173,
+        "name": "GOAL! The Club Manager",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1640995200
+      },
+      {
+        "id": 5342618,
+        "name": "Winx Club: Join the Club",
+        "verified": true,
+        "types": [],
+        "release_date": 1166140800
+      },
+      {
+        "id": 3615,
+        "name": "The Golf Club",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1408453500
+      },
+      {
+        "id": 12394,
+        "name": "The Golf Club VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1487951810
+      },
+      {
+        "id": 13901,
+        "name": "The Fishing Club 3D",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1490266320
+      },
+      {
+        "id": 15195,
+        "name": "The Golf Club 2™",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1498579677
+      },
+      {
+        "id": 17006,
+        "name": "The Blackout Club",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1564463056
+      },
+      {
+        "id": 20884,
+        "name": "The Golf Club™ 2019 Featuring PGA TOUR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1535460840
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30111",
+    "title": "PES 2008: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30114",
+    "title": "UEFA Euro 2008: Austria-Switzerland",
+    "candidates": [
+      {
+        "id": 5259711,
+        "name": "UEFA Euro 2008",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5259712,
+        "name": "UEFA Euro 2004 Portugal",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5443829,
+        "name": "UEFA Euro 2000",
+        "verified": true,
+        "types": [],
+        "release_date": 956016000
+      },
+      {
+        "id": 5286238,
+        "name": "UEFA Champions League Season 1999/2000",
+        "verified": true,
+        "types": [],
+        "release_date": 946684800
+      },
+      {
+        "id": 5331099,
+        "name": "UEFA 2000",
+        "verified": true,
+        "types": [],
+        "release_date": 962409600
+      },
+      {
+        "id": 5334444,
+        "name": "UEFA Champions League 2004-2005",
+        "verified": true,
+        "types": [],
+        "release_date": 1107388800
+      },
+      {
+        "id": 5436869,
+        "name": "UEFA Dream Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 976233600
+      },
+      {
+        "id": 5439723,
+        "name": "UEFA Champions League 2006–2007",
+        "verified": true,
+        "types": [],
+        "release_date": 1174521600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

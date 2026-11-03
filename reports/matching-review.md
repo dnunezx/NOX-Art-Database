@@ -434,3 +434,226 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [Sonic the Hedgehog 3](https://www.steamgriddb.com/game/37581) — game ID `37581`
 - [Sonic the Hedgehog (Sega Master System)](https://www.steamgriddb.com/game/5249680) — game ID `5249680`
 - [Sonic the Hedgehog 2 (Sega Master System)](https://www.steamgriddb.com/game/5249683) — game ID `5249683`
+
+## Mobile Suit Gundam: Crossfire — BLUS30017
+
+- [Mobile Suit Gundam](https://www.steamgriddb.com/game/5439242) — game ID `5439242`
+- [Mobile Suit Gundam: Federation vs. Zeon](https://www.steamgriddb.com/game/21195) — game ID `21195`
+- [Mobile Suit Gundam SEED: Battle Assault](https://www.steamgriddb.com/game/38431) — game ID `38431`
+- [Mobile Suit Gundam: Extreme Vs. Full Boost](https://www.steamgriddb.com/game/5264262) — game ID `5264262`
+- [Mobile Suit Gundam AGE: Cosmic Drive](https://www.steamgriddb.com/game/5265399) — game ID `5265399`
+- [Mobile Suit Gundam Side Stories](https://www.steamgriddb.com/game/5286381) — game ID `5286381`
+- [Mobile Suit Gundam: Battle Operation 2](https://www.steamgriddb.com/game/5323826) — game ID `5323826`
+- [Mobile Suit Gundam SEED Destiny](https://www.steamgriddb.com/game/5329746) — game ID `5329746`
+- [Mobile Suit Gundam: Gundam vs. Z Gundam](https://www.steamgriddb.com/game/5334414) — game ID `5334414`
+- [Mobile Suit Gundam: Mokuba no Kiseki](https://www.steamgriddb.com/game/5342319) — game ID `5342319`
+
+## Disney Pirates of the Caribbean: At World&#x27;s End — BLUS30029
+
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+- [Disney Tangled](https://www.steamgriddb.com/game/5298) — game ID `5298`
+- [Disney Princess :  My Fairytale Adventure](https://www.steamgriddb.com/game/5302) — game ID `5302`
+
+## The Darkness — BLUS30035
+
+- [The Darkness](https://www.steamgriddb.com/game/24046) — game ID `24046`
+- [The Darkness](https://www.steamgriddb.com/game/5272254) — game ID `5272254`
+- [The Darkness II](https://www.steamgriddb.com/game/19914) — game ID `19914`
+- [The Darkness Below](https://www.steamgriddb.com/game/5445219) — game ID `5445219`
+- [The Darkness Delivers](https://www.steamgriddb.com/game/5486489) — game ID `5486489`
+- [When the Darkness comes](https://www.steamgriddb.com/game/807) — game ID `807`
+- [The Church in the Darkness](https://www.steamgriddb.com/game/6183) — game ID `6183`
+- [In the Darkness of the Sea](https://www.steamgriddb.com/game/16585) — game ID `16585`
+- [Escape the Darkness](https://www.steamgriddb.com/game/25277) — game ID `25277`
+- [The Light of the Darkness](https://www.steamgriddb.com/game/5265327) — game ID `5265327`
+
+## FIFA Soccer 08 — BLUS30038
+
+- [FIFA 08 Soccer](https://www.steamgriddb.com/game/5259700) — game ID `5259700`
+- [FIFA Soccer 2004](https://www.steamgriddb.com/game/33725) — game ID `33725`
+- [FIFA Soccer 2003](https://www.steamgriddb.com/game/33787) — game ID `33787`
+- [FIFA Soccer 96](https://www.steamgriddb.com/game/34530) — game ID `34530`
+- [FIFA Soccer 64](https://www.steamgriddb.com/game/35472) — game ID `35472`
+- [FIFA Soccer 2005](https://www.steamgriddb.com/game/39025) — game ID `39025`
+- [FIFA Soccer 95](https://www.steamgriddb.com/game/5254909) — game ID `5254909`
+- [FIFA Soccer 09](https://www.steamgriddb.com/game/5331499) — game ID `5331499`
+- [FIFA Soccer 10](https://www.steamgriddb.com/game/5331500) — game ID `5331500`
+- [FIFA Soccer 12](https://www.steamgriddb.com/game/5333834) — game ID `5333834`
+
+## Disney/Pixar Ratatouille — BLUS30043
+
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney-Pixar Up](https://www.steamgriddb.com/game/5329555) — game ID `5329555`
+- [RUSH: A Disney • PIXAR Adventure](https://www.steamgriddb.com/game/16249) — game ID `16249`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+
+## Skate. — BLUS30059
+
+- [skate.](https://www.steamgriddb.com/game/5253546) — game ID `5253546`
+- [skate.](https://www.steamgriddb.com/game/5479288) — game ID `5479288`
+- [Skate or Die 2: The Search for Double Trouble](https://www.steamgriddb.com/game/21189) — game ID `21189`
+- [Skate or Die: Bad &#x27;N Rad](https://www.steamgriddb.com/game/36053) — game ID `36053`
+- [Skate or Die](https://www.steamgriddb.com/game/37332) — game ID `37332`
+- [Skate Or Die: Tour de Thrash](https://www.steamgriddb.com/game/37485) — game ID `37485`
+- [Skate &amp; Date](https://www.steamgriddb.com/game/1155408) — game ID `1155408`
+- [Skate 3](https://www.steamgriddb.com/game/5249006) — game ID `5249006`
+- [Skate 2](https://www.steamgriddb.com/game/5249408) — game ID `5249408`
+- [Skate It](https://www.steamgriddb.com/game/5255794) — game ID `5255794`
+
+## Conan — BLUS30069
+
+- [Conan](https://www.steamgriddb.com/game/5259609) — game ID `5259609`
+- [Conan](https://www.steamgriddb.com/game/5260725) — game ID `5260725`
+- [Conan](https://www.steamgriddb.com/game/5410732) — game ID `5410732`
+- [Conan Exiles](https://www.steamgriddb.com/game/10642) — game ID `10642`
+- [Conan the mighty pig](https://www.steamgriddb.com/game/12325) — game ID `12325`
+- [Conan Exiles - Public Beta Client](https://www.steamgriddb.com/game/31037) — game ID `31037`
+- [Conan Unconquered](https://www.steamgriddb.com/game/5097859) — game ID `5097859`
+- [Conan Chop Chop](https://www.steamgriddb.com/game/5168417) — game ID `5168417`
+- [Conan Exiles Dedicated Server](https://www.steamgriddb.com/game/5250303) — game ID `5250303`
+- [Conan Exiles - Testlive Dedicated Server](https://www.steamgriddb.com/game/5251325) — game ID `5251325`
+
+## Rapala Fishing Frenzy 2009 — BLUS30076
+
+- [Rapala Fishing Frenzy](https://www.steamgriddb.com/game/5343995) — game ID `5343995`
+- [Rapala Fishing: Pro Series](https://www.steamgriddb.com/game/5330449) — game ID `5330449`
+- [Rapala Pro Fishing](https://www.steamgriddb.com/game/38324) — game ID `38324`
+- [Rapala Pro Bass Fishing](https://www.steamgriddb.com/game/5256265) — game ID `5256265`
+- [Rapala Tournament Fishing!](https://www.steamgriddb.com/game/5343996) — game ID `5343996`
+- [Rapala Trophies](https://www.steamgriddb.com/game/5342437) — game ID `5342437`
+- [Rapala: We Fish](https://www.steamgriddb.com/game/5343994) — game ID `5343994`
+
+## Disney/Pixar Cars: Mater-National Championship — BLUS30088
+
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney-Pixar Up](https://www.steamgriddb.com/game/5329555) — game ID `5329555`
+- [RUSH: A Disney • PIXAR Adventure](https://www.steamgriddb.com/game/16249) — game ID `16249`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+
+## TimeShift — BLUS30090
+
+- [TimeShift](https://www.steamgriddb.com/game/553) — game ID `553`
+- [Timeshift](https://www.steamgriddb.com/game/5398920) — game ID `5398920`
+- [Timeshift Detective](https://www.steamgriddb.com/game/5436044) — game ID `5436044`
+- [TimeShifters](https://www.steamgriddb.com/game/5286779) — game ID `5286779`
+- [Lysfanga: The Time Shift Warrior](https://www.steamgriddb.com/game/5406866) — game ID `5406866`
+- [TinShift](https://www.steamgriddb.com/game/5265856) — game ID `5265856`
+- [Timerift Raiders: The Past Awakens](https://www.steamgriddb.com/game/5457766) — game ID `5457766`
+
+## Haze — BLUS30094
+
+- [Haze](https://www.steamgriddb.com/game/5258719) — game ID `5258719`
+- [Haze](https://www.steamgriddb.com/game/5503555) — game ID `5503555`
+- [Haze](https://www.steamgriddb.com/game/5511657) — game ID `5511657`
+- [Haze](https://www.steamgriddb.com/game/5526053) — game ID `5526053`
+- [Haze: Carnival Of Horror](https://www.steamgriddb.com/game/5478367) — game ID `5478367`
+- [Haze There](https://www.steamgriddb.com/game/5549127) — game ID `5549127`
+- [Haze of Lucidity (Halu) - The Phoenix](https://www.steamgriddb.com/game/5550129) — game ID `5550129`
+- [Red Haze](https://www.steamgriddb.com/game/10120) — game ID `10120`
+- [All Haze Eve](https://www.steamgriddb.com/game/20239) — game ID `20239`
+- [Horror haze](https://www.steamgriddb.com/game/5322564) — game ID `5322564`
+
+## NCAA March Madness 08 — BLUS30098
+
+- [NCAA March Madness &#x27;98](https://www.steamgriddb.com/game/5335813) — game ID `5335813`
+- [NCAA March Madness 99](https://www.steamgriddb.com/game/5336138) — game ID `5336138`
+- [NCAA March Madness 2000](https://www.steamgriddb.com/game/5336139) — game ID `5336139`
+- [NCAA March Madness 2001](https://www.steamgriddb.com/game/5336140) — game ID `5336140`
+- [NCAA March Madness 2002](https://www.steamgriddb.com/game/5336141) — game ID `5336141`
+- [NCAA March Madness 2003](https://www.steamgriddb.com/game/5336142) — game ID `5336142`
+- [NCAA March Madness 2004](https://www.steamgriddb.com/game/5336143) — game ID `5336143`
+- [NCAA March Madness 06](https://www.steamgriddb.com/game/5346636) — game ID `5346636`
+- [NCAA March Madness 07](https://www.steamgriddb.com/game/5346637) — game ID `5346637`
+- [NCAA March Madness 2005](https://www.steamgriddb.com/game/5446802) — game ID `5446802`
+
+## NFL Tour — BLUS30100
+
+- [NFL](https://www.steamgriddb.com/game/21139) — game ID `21139`
+- [NFL Street 2](https://www.steamgriddb.com/game/21129) — game ID `21129`
+- [NFL Blitz 2001](https://www.steamgriddb.com/game/21135) — game ID `21135`
+- [NFL Blitz 2003](https://www.steamgriddb.com/game/29837) — game ID `29837`
+- [NFL Blitz: Special Edition](https://www.steamgriddb.com/game/33747) — game ID `33747`
+- [NFL Quarterback Club 99](https://www.steamgriddb.com/game/34335) — game ID `34335`
+- [NFL Quarterback Club 96](https://www.steamgriddb.com/game/34623) — game ID `34623`
+- [NFL Blitz 2002](https://www.steamgriddb.com/game/35118) — game ID `35118`
+- [NFL Football](https://www.steamgriddb.com/game/35161) — game ID `35161`
+- [NFL Quarterback Club II](https://www.steamgriddb.com/game/35302) — game ID `35302`
+
+## Turok — BLUS30104
+
+- [Turok](https://www.steamgriddb.com/game/9263) — game ID `9263`
+- [Turok](https://www.steamgriddb.com/game/5257967) — game ID `5257967`
+- [Turok: Dinosaur Hunter](https://www.steamgriddb.com/game/1683) — game ID `1683`
+- [Turok 2: Seeds of Evil](https://www.steamgriddb.com/game/9264) — game ID `9264`
+- [Turok 3: Shadow of Oblivion](https://www.steamgriddb.com/game/34231) — game ID `34231`
+- [Turok: Battle of the Bionosaurs](https://www.steamgriddb.com/game/34574) — game ID `34574`
+- [Turok: Rage Wars](https://www.steamgriddb.com/game/36652) — game ID `36652`
+- [Turok: Evolution](https://www.steamgriddb.com/game/38259) — game ID `38259`
+- [Turok: Escape from Lost Valley](https://www.steamgriddb.com/game/5245462) — game ID `5245462`
+- [Turok: Origins](https://www.steamgriddb.com/game/5473444) — game ID `5473444`
+
+## The Elder Scrolls IV: Shivering Isles — BLUS30106
+
+- [The Elder Scrolls IV: Oblivion ](https://www.steamgriddb.com/game/2331) — game ID `2331`
+- [The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe](https://www.steamgriddb.com/game/5258102) — game ID `5258102`
+- [The Elder Scrolls IV: Oblivion - Construction Set](https://www.steamgriddb.com/game/5267694) — game ID `5267694`
+- [The Elder Scrolls IV: Oblivion - Game of the Year Edition](https://www.steamgriddb.com/game/5440047) — game ID `5440047`
+- [The Elder Scrolls IV: Oblivion Remastered](https://www.steamgriddb.com/game/5486082) — game ID `5486082`
+- [The Elder Scrolls IV: Oblivion Remastered - Digital Artbook](https://www.steamgriddb.com/game/5486090) — game ID `5486090`
+- [The Elder Scrolls III: Morrowind](https://www.steamgriddb.com/game/2328) — game ID `2328`
+- [The Elder Scrolls Online](https://www.steamgriddb.com/game/4849) — game ID `4849`
+- [The Elder Scrolls: Legends](https://www.steamgriddb.com/game/7385) — game ID `7385`
+- [The Elder Scrolls V: Skyrim - Special Edition](https://www.steamgriddb.com/game/12404) — game ID `12404`
+
+## The Club — BLUS30108
+
+- [The Club](https://www.steamgriddb.com/game/1205) — game ID `1205`
+- [The Club](https://www.steamgriddb.com/game/5518027) — game ID `5518027`
+- [GOAL! The Club Manager](https://www.steamgriddb.com/game/5321173) — game ID `5321173`
+- [Winx Club: Join the Club](https://www.steamgriddb.com/game/5342618) — game ID `5342618`
+- [The Golf Club](https://www.steamgriddb.com/game/3615) — game ID `3615`
+- [The Golf Club VR](https://www.steamgriddb.com/game/12394) — game ID `12394`
+- [The Fishing Club 3D](https://www.steamgriddb.com/game/13901) — game ID `13901`
+- [The Golf Club 2™](https://www.steamgriddb.com/game/15195) — game ID `15195`
+- [The Blackout Club](https://www.steamgriddb.com/game/17006) — game ID `17006`
+- [The Golf Club™ 2019 Featuring PGA TOUR](https://www.steamgriddb.com/game/20884) — game ID `20884`
+
+## PES 2008: Pro Evolution Soccer — BLUS30111
+
+- [PES Dream Patch (Program)](https://www.steamgriddb.com/game/5340249) — game ID `5340249`
+- [PES 6 Infinitty Patch 2025](https://www.steamgriddb.com/game/5470226) — game ID `5470226`
+- [eFootball PES 2020](https://www.steamgriddb.com/game/5168402) — game ID `5168402`
+- [eFootball PES 2021](https://www.steamgriddb.com/game/5263899) — game ID `5263899`
+- [SoundSc@pes](https://www.steamgriddb.com/game/5434525) — game ID `5434525`
+- [ProFootball (PES 2013 Mod)](https://www.steamgriddb.com/game/5457802) — game ID `5457802`
+- [You.T@pes](https://www.steamgriddb.com/game/5533859) — game ID `5533859`
+
+## UEFA Euro 2008: Austria-Switzerland — BLUS30114
+
+- [UEFA Euro 2008](https://www.steamgriddb.com/game/5259711) — game ID `5259711`
+- [UEFA Euro 2004 Portugal](https://www.steamgriddb.com/game/5259712) — game ID `5259712`
+- [UEFA Euro 2000](https://www.steamgriddb.com/game/5443829) — game ID `5443829`
+- [UEFA Champions League Season 1999/2000](https://www.steamgriddb.com/game/5286238) — game ID `5286238`
+- [UEFA 2000](https://www.steamgriddb.com/game/5331099) — game ID `5331099`
+- [UEFA Champions League 2004-2005](https://www.steamgriddb.com/game/5334444) — game ID `5334444`
+- [UEFA Dream Soccer](https://www.steamgriddb.com/game/5436869) — game ID `5436869`
+- [UEFA Champions League 2006–2007](https://www.steamgriddb.com/game/5439723) — game ID `5439723`
