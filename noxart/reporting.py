@@ -13,16 +13,16 @@ def review_gallery(root, games, destination):
     repo = os.environ.get("GITHUB_REPOSITORY", "dnunezx/NOX-Art-Database")
     lines = ["# Artwork review gallery", "", "Click a thumbnail to open the full-size PNG. Creator credits and source links are saved with every image.", "",
              f"[Record approval or rejection in GitHub Actions](https://github.com/{repo}/actions/workflows/review-artwork.yml)", "",
-             "Open **Run workflow**, enter the Title IDs you reviewed, and choose approve or reject. Approved images are kept and are never replaced automatically.", "",
+             "Conclusive matches that pass validation are approved automatically. Only inconclusive cases need your review. Use **Run workflow** to override a decision by Title ID. Approved images are kept and never replaced automatically.", "",
              "[Games needing an identity match](matching-review.md) · [Progress](progress.md) · [All credits](../CREDITS.md)", ""]
-    for status, heading in (("pending", "Pending visual review"), ("approved", "Approved artwork"), ("rejected", "Rejected artwork")):
+    for status, heading in (("pending", "Needs review (inconclusive)"), ("approved", "Approved artwork"), ("rejected", "Rejected artwork")):
         selected = [g for g in games if g.get("review_status", "pending") == status and
                     (g.get("artwork_status") == "generated" or (status == "rejected" and g.get("source")))]
         lines.extend([f"## {heading} ({len(selected)})", ""])
         if not selected:
             lines.extend(["No entries in this section yet.", ""])
             continue
-        lines.extend(["| Preview | Game | Title ID | Contributor / source |", "|---|---|---|---|"])
+        lines.extend(["| Preview | Game | Title ID | Approval | Contributor / source |", "|---|---|---|---|---|"])
         for game in sorted(selected, key=lambda g: (g["title"].casefold(), g["title_id"])):
             source = game.get("source") or {}
             preview = "Image removed; source retained for reference"
@@ -35,7 +35,8 @@ def review_gallery(root, games, destination):
             creator = clean(source.get("attribution", "Unknown contributor"))
             page = source.get("source_page", "")
             source_link = f"[asset #{source.get('provider_artwork_id')}]({page})" if page.startswith("https://www.steamgriddb.com/grid/") else "Source not supplied"
-            lines.append(f"| {preview} | {clean(game['title'])} | `{game['title_id']}` | {creator}<br>{source_link} |")
+            method = game.get("review_method", "manual" if status == "approved" else "needs review")
+            lines.append(f"| {preview} | {clean(game['title'])} | `{game['title_id']}` | {clean(method)} | {creator}<br>{source_link} |")
         lines.append("")
     (destination / "artwork-review.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
     pending_path = destination / "ambiguous_matches.json"
@@ -68,7 +69,10 @@ def reports(root, database="database/games.json"):
     progress = {"total_title_ids": len(games),
                 "processed_artwork": sum(g.get("artwork_status") in {"generated", "restricted"} for g in games),
                 "hosted_pngs": sum(g.get("artwork_status") == "generated" for g in games),
-                "awaiting_review": sum(g.get("fetch_state", {}).get("status") in {"ambiguous_match", "duplicate_review"} for g in games),
+                "awaiting_review": sum(g.get("fetch_state", {}).get("status") in {"ambiguous_match", "duplicate_review"}
+                                       or (g.get("artwork_status") == "generated" and g.get("review_status") == "pending") for g in games),
+                "automatically_approved": sum(g.get("review_status") == "approved" and g.get("review_method") == "automatic" for g in games),
+                "manually_approved": sum(g.get("review_status") == "approved" and g.get("review_method", "manual") == "manual" for g in games),
                 "missing_retry": sum(g.get("fetch_state", {}).get("status") in {"missing_game", "missing_square", "provider_unavailable"} for g in games),
                 "ready_for_next_batch": sum(eligible(g, config) and g.get("artwork_status") != "generated" for g in games),
                 "batch_size": config["batch_size"]}

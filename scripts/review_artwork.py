@@ -18,7 +18,8 @@ def review(root, ids, decision="approve", database="database/games.json"):
             raise ValueError("Only generated artwork can be reviewed")
         if decision not in {"approve", "reject"}:
             raise ValueError("Review decision must be approve or reject")
-        game.update(review_status="approved" if decision == "approve" else "rejected", reviewed_sha256=game["sha256"])
+        game.update(review_status="approved" if decision == "approve" else "rejected",
+                    reviewed_sha256=game["sha256"], review_method="manual", approval_reason="Repository owner review")
     write_json(safe_path(root, database), games)
 
 

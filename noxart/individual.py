@@ -25,7 +25,8 @@ def individual_index(root):
                  "source_url": source.get("url"), "source_page": source.get("source_page"),
                  "source_sha256": game.get("source_sha256"), "source_dimensions": game.get("source_dimensions"),
                  "attribution": source.get("attribution"), "license": source.get("license"),
-                 "review_status": game.get("review_status", "pending"), "redistribution": source.get("redistribution", "unverified")}
+                 "review_status": game.get("review_status", "pending"), "review_method": game.get("review_method"),
+                 "redistribution": source.get("redistribution", "unverified")}
         if ident in public["games"]:
             selected = public["games"][ident]
             entry.update(status="available", artwork="art/" + selected["artwork"],

@@ -165,7 +165,7 @@ def fetch(root, limit=None, refresh=False, client=None, replace=()):
                                 game["shared_with"] = canonical["title_id"]
                                 break
                         mapping["asset_id"] = row["id"]
-                        mapping["asset_selection"] = "manual" if asset_id else "ranked-pending-review"
+                        mapping["asset_selection"] = "manual" if asset_id else "ranked"
                         mapping["previews"] = previews
                         events.append({"title_id": ident, "status": "selected", "asset_id": row["id"],
                                        "game_id": mapping["game_id"], "url": url, "source_sha256": file_hash(path),

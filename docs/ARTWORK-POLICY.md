@@ -15,9 +15,11 @@ claim over the images. Missing contributor names are identified as unknown with 
 source link, never replaced by an invented author. Specific denied or rejected
 assets remain excluded from automatic publication.
 
-Correctly matched static square artwork that passes validation is published
-automatically. `review_status: pending` remains available for visual curation; it
-does not prevent individual downloads. Ambiguous game identities, unsafe content
-flags, invalid images and unrelated duplicates still go to review.
+Conclusive game matches with validated static square artwork are approved and
+published automatically. Automatic approval records the exact output checksum and
+`review_method: automatic`, rather than pretending a person inspected the image.
+Manual approvals and rejections keep `review_method: manual` and are preserved.
+Only inconclusive identities, quality warnings and unrelated duplicates require
+review. Unsafe content and invalid images are rejected by validation.
 
 Provider: [SteamGridDB](https://www.steamgriddb.com/).

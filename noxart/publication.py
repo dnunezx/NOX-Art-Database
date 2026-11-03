@@ -36,6 +36,11 @@ def apply_policy(root, games, config):
         if not source.get("license") or source["license"] == "Third-party artwork; redistribution unverified":
             source["license"] = "Original creator and publisher rights retained; see attribution policy"
         game["publication_status"] = "validated-with-attribution"
+        inconclusive = (bool(game.get("quality_warnings"))
+                        or game.get("fetch_state", {}).get("status") in {"ambiguous_match", "duplicate_review"})
+        if game.get("review_status", "pending") == "pending" and not inconclusive:
+            game.update(review_status="approved", reviewed_sha256=game["sha256"],
+                        review_method="automatic", approval_reason="Confirmed game identity and validated static square artwork")
     write_credits(root, games)
 
 

@@ -24,8 +24,9 @@ contributor name, SteamGridDB asset page, original URL and PS3 Title ID. The rep
 owner has authorized publication with attribution; the [artwork policy](docs/ARTWORK-POLICY.md)
 records this without claiming NOX ownership or inventing a Creative Commons license.
 
-Correctly matched square images that pass validation publish automatically.
-Pending visual review does **not** prevent individual downloads. Rejected assets,
+Conclusive game matches with validated square images are approved and published
+automatically. Only inconclusive matches, quality warnings or duplicate conflicts
+need review. Rejected assets,
 ambiguous identities, unsafe content flags and invalid images remain excluded.
 
 ## Automation
@@ -49,7 +50,7 @@ and [download results](reports/download_results.json). Workflow review artifacts
 `reports/contact-sheet.html`. Scheduled runs avoid repeated artifact uploads.
 
 Browse the [artwork review gallery](reports/artwork-review.md) directly on GitHub.
-It separates pending, approved and rejected selections, with thumbnails, full-size
+It separates inconclusive, approved and rejected selections, with thumbnails, full-size
 images and creator/source links. To save your decisions, open **Actions → NOX —
 Review Artwork → Run workflow**, enter the reviewed Title IDs and choose approve
 or reject. Approved selections stay in place; rejection removes that entry from
@@ -78,7 +79,7 @@ Remaster/edition words are preserved. Use `alternate_titles`, or a verified
 `steamgriddb_game_id` with `mapping_approved: true`, to resolve uncertain matches.
 Choose an image in `config.json` → `overrides` → `TITLEID` → `asset_id`. Existing
 valid artwork is preserved; use the workflow's `replace` field to authorize replacement.
-Visual approval is optional and checksum-bound. Explicitly rejected or denied assets
+Manual review can override automatic approval and is checksum-bound. Explicitly rejected or denied assets
 are not automatically published. Image ranking is based on metadata, not visual AI.
 
 ## Development

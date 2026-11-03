@@ -96,10 +96,13 @@ def generate(root, database="database/games.json", config_file="config.json", li
                         source_dimensions=info["dimensions"], quality_warnings=info["warnings"], review_status="pending")
             game.pop("pending_source", None)
             game.pop("publication_status", None)
+            game.pop("review_method", None)
+            game.pop("approval_reason", None)
             approval = config.get("overrides", {}).get(ident, {})
             if (approval.get("asset_id") == source.get("provider_artwork_id")
                     and approval.get("approved_sha256") == game["sha256"]):
-                game.update(review_status="approved", reviewed_sha256=game["sha256"])
+                game.update(review_status="approved", reviewed_sha256=game["sha256"], review_method="manual",
+                            approval_reason="Explicit asset and checksum override")
             events.append({"title_id": ident, "status": "generated", **info})
         except (ValueError, OSError) as error:
             events.append({"title_id": ident, "status": "missing", "message": str(error)})
@@ -120,6 +123,8 @@ def generate(root, database="database/games.json", config_file="config.json", li
                 game[key] = canonical.get(key)
             if game.get("sha256") != game.get("reviewed_sha256"):
                 game["review_status"] = "pending"
+                game.pop("review_method", None)
+                game.pop("approval_reason", None)
             game["artwork_status"] = canonical["artwork_status"]
     write_json(safe_path(root, database), games)
     if last_attempted:

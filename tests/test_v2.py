@@ -350,7 +350,7 @@ class AttributionPublicationTests(Fixture):
         self.config["publication"] = {"steamgriddb_with_attribution": True}
         write_json(self.root / "config.json", self.config)
 
-    def test_validated_image_published_with_credit_without_fake_visual_approval(self):
+    def test_conclusive_validated_image_automatically_approved_with_credit(self):
         from scripts.check_public import check
         self.enable()
         self.build()
@@ -358,7 +358,9 @@ class AttributionPublicationTests(Fixture):
         check(self.root)
         game = read_json(self.root / "database/games.json")[0]
         self.assertTrue((self.root / "art/BCUS98111.png").is_file())
-        self.assertEqual(game["review_status"], "pending")
+        self.assertEqual(game["review_status"], "approved")
+        self.assertEqual(game["review_method"], "automatic")
+        self.assertEqual(game["reviewed_sha256"], game["sha256"])
         self.assertEqual(game["publication_status"], "validated-with-attribution")
         entry = individual_index(self.root)["games"]["BCUS98111"]
         self.assertTrue(entry["download_url"].endswith("/art/BCUS98111.png"))
@@ -417,13 +419,34 @@ class AttributionPublicationTests(Fixture):
         prepare_public(self.root)
         reports(self.root)
         gallery = (self.root / "reports/artwork-review.md").read_text()
-        self.assertIn("Pending visual review (1)", gallery)
+        self.assertIn("Needs review (inconclusive) (0)", gallery)
+        self.assertIn("Approved artwork (1)", gallery)
         self.assertIn("../thumbnails/BCUS98111.png", gallery)
         self.assertIn("../art/BCUS98111.png", gallery)
         self.assertIn("Test artist", gallery)
         approve(self.root, ["BCUS98111"])
         reports(self.root)
         self.assertIn("Approved artwork (1)", (self.root / "reports/artwork-review.md").read_text())
+
+    def test_quality_warning_stays_in_review_queue(self):
+        self.enable()
+        self.build()
+        games = read_json(self.root / "database/games.json")
+        games[0]["quality_warnings"] = ["Low color variation: inspect for placeholders"]
+        write_json(self.root / "database/games.json", games)
+        prepare_public(self.root)
+        games = read_json(self.root / "database/games.json")
+        self.assertEqual(games[0]["review_status"], "pending")
+        reports(self.root)
+        self.assertIn("Needs review (inconclusive) (1)", (self.root / "reports/artwork-review.md").read_text())
+
+    def test_manual_decisions_are_not_relabeled_by_automatic_approval(self):
+        self.enable()
+        self.build()
+        approve(self.root, ["BCUS98111"])
+        prepare_public(self.root)
+        game = read_json(self.root / "database/games.json")[0]
+        self.assertEqual(game["review_method"], "manual")
 
     def test_rejecting_regional_alias_preserves_canonical_file(self):
         from scripts.review_artwork import review
