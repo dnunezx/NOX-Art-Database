@@ -4166,5 +4166,2173 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30127",
+    "title": "Grand Theft Auto IV",
+    "candidates": [
+      {
+        "id": 1361,
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1228240800
+      },
+      {
+        "id": 1357,
+        "name": "Grand Theft Auto",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 880675200
+      },
+      {
+        "id": 62,
+        "name": "Grand Theft Auto: Chinatown Wars",
+        "verified": true,
+        "types": [],
+        "release_date": 1237248000
+      },
+      {
+        "id": 1350,
+        "name": "Grand Theft Auto III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1003795200
+      },
+      {
+        "id": 1351,
+        "name": "Grand Theft Auto: Vice City",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1035849600
+      },
+      {
+        "id": 1352,
+        "name": "Grand Theft Auto: San Andreas",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1118041200
+      },
+      {
+        "id": 1358,
+        "name": "Grand Theft Auto 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 940550400
+      },
+      {
+        "id": 1362,
+        "name": "Grand Theft Auto: Episodes from Liberty City",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1271131260
+      },
+      {
+        "id": 3674,
+        "name": "Grand Theft Auto V",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1379376000
+      },
+      {
+        "id": 33713,
+        "name": "Grand Theft Auto: Liberty City Stories",
+        "verified": true,
+        "types": [],
+        "release_date": 1130112000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30130",
+    "title": "Sid Meier's Civilization Revolution",
+    "candidates": [
+      {
+        "id": 5307740,
+        "name": "Sid Meier's Civilization Revolution 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1404259200
+      },
+      {
+        "id": 35903,
+        "name": "Sid Meier's Civilization",
+        "verified": true,
+        "types": [],
+        "release_date": 683683200
+      },
+      {
+        "id": 1533,
+        "name": "Sid Meier's Civilization IV: Colonization",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1222153200
+      },
+      {
+        "id": 2631,
+        "name": "Sid Meier's Civilization V: Brave New World",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 4150,
+        "name": "Sid Meier's Civilization VI",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1477022400
+      },
+      {
+        "id": 6433,
+        "name": "Sid Meier's Civilization IV",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1130223600
+      },
+      {
+        "id": 6437,
+        "name": "Sid Meier's Civilization IV: Warlords",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1153724400
+      },
+      {
+        "id": 6439,
+        "name": "Sid Meier's Civilization IV: Beyond the Sword",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1185307200
+      },
+      {
+        "id": 8602,
+        "name": "Sid Meier's Civilization III: Complete",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1004428800
+      },
+      {
+        "id": 19255,
+        "name": "Sid Meier's Civilization: Beyond Earth",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1414134000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30136",
+    "title": "DreamWorks Kung Fu Panda",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30137",
+    "title": "Robert Ludlum's The Bourne Conspiracy",
+    "candidates": [
+      {
+        "id": 11055,
+        "name": "Robert Mensah's Sins Of The Father",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1457567525
+      },
+      {
+        "id": 32549,
+        "name": "Robert Rodriguez’s The Limit: An Immersive Cinema Experience",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1542852000
+      },
+      {
+        "id": 5297616,
+        "name": "Robert Robie and the Idols of Jade",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1640995200
+      },
+      {
+        "id": 5316140,
+        "name": "Robert: Space Stories and Battles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1643846400
+      },
+      {
+        "id": 5275022,
+        "name": "Robot Robert",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1610928000
+      },
+      {
+        "id": 5481200,
+        "name": "DR.ROBERT'S CLINIC",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5453167,
+        "name": "地球上的罗伯特 Robert on Earth",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1755129600
+      },
+      {
+        "id": 5472327,
+        "name": "The Flowers of Robert Mapplethorpe",
+        "verified": true,
+        "types": [],
+        "release_date": 694224000
+      },
+      {
+        "id": 5436813,
+        "name": "Report on the Death of Robert Evergreen",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5535205,
+        "name": "Geolocation Case Files: Road Trip to Robert's Grave",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30140",
+    "title": "Monster Madness: Grave Danger",
+    "candidates": [
+      {
+        "id": 5432501,
+        "name": "Monster Madness: Battle for Suburbia",
+        "verified": true,
+        "types": [],
+        "release_date": 1181606400
+      },
+      {
+        "id": 36525,
+        "name": "Monster Truck Madness",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 36810,
+        "name": "Monster Truck Madness 64",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5252197,
+        "name": "Monster Truck Madness 2",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5502713,
+        "name": "Monster Mage Madness",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1756684800
+      },
+      {
+        "id": 5461441,
+        "name": "Monster Trucks: Unleash The Madness",
+        "verified": true,
+        "types": [],
+        "release_date": 1682294400
+      },
+      {
+        "id": 15660,
+        "name": "Minions, Monsters, and Madness",
+        "verified": true,
+        "types": [
+          "steam",
+          "flashpoint"
+        ],
+        "release_date": 1484035200
+      },
+      {
+        "id": 5319389,
+        "name": "Monster",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1648771200
+      },
+      {
+        "id": 5431827,
+        "name": "Monster",
+        "verified": true,
+        "types": [],
+        "release_date": 1167523200
+      },
+      {
+        "id": 1018,
+        "name": "Monster Hunting... For Love!",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1540969200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30142",
+    "title": "Grid",
+    "candidates": [
+      {
+        "id": 1406,
+        "name": "GRID",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1212562800
+      },
+      {
+        "id": 4983050,
+        "name": "GRID",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1570665600
+      },
+      {
+        "id": 5467287,
+        "name": "GRID",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5512648,
+        "name": "GRID/",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 3180,
+        "name": "GRID Autosport",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1403818860
+      },
+      {
+        "id": 10708,
+        "name": "GRID 2",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1369699200
+      },
+      {
+        "id": 10994,
+        "name": "Grid Masters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1464753489
+      },
+      {
+        "id": 13157,
+        "name": "Grid Legion, Storm",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1552330618
+      },
+      {
+        "id": 28659,
+        "name": "Grid Games: Color Coded",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536203884
+      },
+      {
+        "id": 29759,
+        "name": "Grid Gunner",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1532696880
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30144",
+    "title": "Star Wars: The Force Unleashed",
+    "candidates": [
+      {
+        "id": 5513,
+        "name": "Star Wars: The Force Unleashed - Ultimate Sith Edition",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin"
+        ],
+        "release_date": 1257235200
+      },
+      {
+        "id": 5543,
+        "name": "Star Wars: The Force Unleashed II",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin"
+        ],
+        "release_date": 1288076400
+      },
+      {
+        "id": 10560,
+        "name": "LEGO Star Wars: The Force Awakens",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1467133200
+      },
+      {
+        "id": 39018,
+        "name": "Star Wars Trilogy: Apprentice of the Force",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5508,
+        "name": "Star Wars: The Clone Wars - Republic Heroes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1254812400
+      },
+      {
+        "id": 37183,
+        "name": "Star Wars: The Empire Strikes Back (Atari Games)",
+        "verified": true,
+        "types": [],
+        "release_date": 478483200
+      },
+      {
+        "id": 37365,
+        "name": "Star Wars: The Clone Wars",
+        "verified": true,
+        "types": [],
+        "release_date": 1035849600
+      },
+      {
+        "id": 38072,
+        "name": "Star Wars: The Old Republic",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1324339200
+      },
+      {
+        "id": 38489,
+        "name": "Star Wars: The New Droid Army",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5264978,
+        "name": "Star Wars: The Arcade Game",
+        "verified": true,
+        "types": [],
+        "release_date": 410227200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30145",
+    "title": "Prototype",
+    "candidates": [
+      {
+        "id": 631,
+        "name": "Prototype",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1244617200
+      },
+      {
+        "id": 5352239,
+        "name": "PROTOTYPE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1697414400
+      },
+      {
+        "id": 5554466,
+        "name": "Prototype",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1797379200
+      },
+      {
+        "id": 1329,
+        "name": "Prototype 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1343149200
+      },
+      {
+        "id": 28495,
+        "name": "Prototype Mansion - Used No Cover",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1531983600
+      },
+      {
+        "id": 30916,
+        "name": "Prototype TD",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1537296046
+      },
+      {
+        "id": 4889223,
+        "name": "Prototype-CUBE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1558465734
+      },
+      {
+        "id": 5267135,
+        "name": "Prototype Zordi Mi Lé",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1601164800
+      },
+      {
+        "id": 5300081,
+        "name": "Prototype Blocks",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1635724800
+      },
+      {
+        "id": 5305102,
+        "name": "Prototype Blocks 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1638316800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30151",
+    "title": "Disney/Pixar WALL-E",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30152",
+    "title": "The Incredible Hulk",
+    "candidates": [
+      {
+        "id": 36412,
+        "name": "The Incredible Hulk",
+        "verified": true,
+        "types": [],
+        "release_date": 770428800
+      },
+      {
+        "id": 5419741,
+        "name": "The Incredible Hulk",
+        "verified": true,
+        "types": [],
+        "release_date": 1054080000
+      },
+      {
+        "id": 1214,
+        "name": "The Incredible Hulk: The Official Videogame",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1213081200
+      },
+      {
+        "id": 12856,
+        "name": "The Incredible Hulk: Ultimate Destruction",
+        "verified": true,
+        "types": [],
+        "release_date": 1124755200
+      },
+      {
+        "id": 5295160,
+        "name": "The Incredible Hulk: The Pantheon Saga",
+        "verified": true,
+        "types": [],
+        "release_date": 849398400
+      },
+      {
+        "id": 27,
+        "name": "The Incredible Adventures of Van Helsing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1369236840
+      },
+      {
+        "id": 3697,
+        "name": "The Incredible Adventures of Van Helsing II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1400742000
+      },
+      {
+        "id": 7168,
+        "name": "The Incredible Adventures of Van Helsing III",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1432278000
+      },
+      {
+        "id": 9033,
+        "name": "The Incredible Adventures of Van Helsing: Final Cut",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1446796800
+      },
+      {
+        "id": 10656,
+        "name": "The Incredible Baron",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1464354023
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30153",
+    "title": "Hail to the Chimp",
+    "candidates": [
+      {
+        "id": 5635,
+        "name": "Hail to the King: Deathbat",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1414712928
+      },
+      {
+        "id": 33494,
+        "name": "Hail To The King",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546612125
+      },
+      {
+        "id": 5383973,
+        "name": "Hail to the Rainbow",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1764115200
+      },
+      {
+        "id": 34831,
+        "name": "Evil Dead: Hail to the King",
+        "verified": true,
+        "types": [],
+        "release_date": 977184000
+      },
+      {
+        "id": 5283458,
+        "name": "Robin Hood: Hail to the King",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 988416000
+      },
+      {
+        "id": 5349788,
+        "name": "Hail Dicktator",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5458434,
+        "name": "Hail Britannia",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1730332800
+      },
+      {
+        "id": 5473216,
+        "name": "Hail: UFO Stole My Egg!",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5530016,
+        "name": "Hail of Hexes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 5546164,
+        "name": "Hail Mary",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30158",
+    "title": "FaceBreaker",
+    "candidates": [
+      {
+        "id": 5343469,
+        "name": "FaceBreaker K.O. Party",
+        "verified": true,
+        "types": [],
+        "release_date": 1220400000
+      },
+      {
+        "id": 5506396,
+        "name": "Fatebreaker",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5311217,
+        "name": "Pacebreaker: An Experiment in AI-Perfected Exercise",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1685491200
+      },
+      {
+        "id": 5560625,
+        "name": "FALLBREAKER 水平線防衛戦線",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1798761600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30170",
+    "title": "Madden NFL 09 en Español",
+    "candidates": [
+      {
+        "id": 5259765,
+        "name": "Madden NFL 09",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 34197,
+        "name": "Madden NFL 06",
+        "verified": true,
+        "types": [],
+        "release_date": 1123459200
+      },
+      {
+        "id": 34263,
+        "name": "Madden NFL 96",
+        "verified": true,
+        "types": [],
+        "release_date": 815961600
+      },
+      {
+        "id": 34323,
+        "name": "Madden NFL 97",
+        "verified": true,
+        "types": [],
+        "release_date": 842313600
+      },
+      {
+        "id": 34332,
+        "name": "Madden NFL '94",
+        "verified": true,
+        "types": [],
+        "release_date": 747705600
+      },
+      {
+        "id": 34561,
+        "name": "Madden NFL 2002",
+        "verified": true,
+        "types": [],
+        "release_date": 997660800
+      },
+      {
+        "id": 34590,
+        "name": "Madden NFL 95",
+        "verified": true,
+        "types": [],
+        "release_date": 784771200
+      },
+      {
+        "id": 34835,
+        "name": "Madden NFL 98",
+        "verified": true,
+        "types": [],
+        "release_date": 872553600
+      },
+      {
+        "id": 34869,
+        "name": "Madden NFL 07",
+        "verified": true,
+        "types": [],
+        "release_date": 1156636800
+      },
+      {
+        "id": 35140,
+        "name": "Madden NFL 2001",
+        "verified": true,
+        "types": [],
+        "release_date": 966211200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30174",
+    "title": "TNA Impact! Total Nonstop Action Wrestling",
+    "candidates": [
+      {
+        "id": 5252642,
+        "name": "TNA Impact!",
+        "verified": true,
+        "types": [],
+        "release_date": 1220918400
+      },
+      {
+        "id": 5322306,
+        "name": "TNA Impact!: Cross the Line",
+        "verified": true,
+        "types": [],
+        "release_date": 1277424000
+      },
+      {
+        "id": 5529210,
+        "name": "TNA-Tits n' Assteroids",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30177",
+    "title": "Dead Space",
+    "candidates": [
+      {
+        "id": 1559,
+        "name": "Dead Space",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin"
+        ],
+        "release_date": 1224486000
+      },
+      {
+        "id": 5338378,
+        "name": "Dead Space",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 12088,
+        "name": "Dead Space 2",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1295913600
+      },
+      {
+        "id": 38046,
+        "name": "Dead Space 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1360051200
+      },
+      {
+        "id": 5248491,
+        "name": "Dead Space 3: Awakened",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5249795,
+        "name": "Dead Space: Extraction",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5250185,
+        "name": "Dead Space: Downfall",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5260223,
+        "name": "Dead Space: Aftermath",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5271725,
+        "name": "Dead Space (Mobile)",
+        "verified": true,
+        "types": [],
+        "release_date": 1295913600
+      },
+      {
+        "id": 5281503,
+        "name": "Dead Space Ignition",
+        "verified": true,
+        "types": [],
+        "release_date": 1286841600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30184",
+    "title": "Fracture",
+    "candidates": [
+      {
+        "id": 5254318,
+        "name": "Fracture",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5339428,
+        "name": "FRACTURE",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 8519,
+        "name": "Fracture the Flag",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1481142772
+      },
+      {
+        "id": 5292347,
+        "name": "Fracture Hell",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1629763200
+      },
+      {
+        "id": 5339754,
+        "name": "Fracture: City of Destruction",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1657843200
+      },
+      {
+        "id": 5481645,
+        "name": "Fracture Point",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1735689600
+      },
+      {
+        "id": 5508696,
+        "name": "Fracture Dominion",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5528270,
+        "name": "FRACTURE - Loot or die",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5261907,
+        "name": "Dark Fracture",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 5265161,
+        "name": "Dark Fracture: Prologue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1597795200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30189",
+    "title": "PES 2009: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30191",
+    "title": "Baja: Edge of Control",
+    "candidates": [
+      {
+        "id": 17935,
+        "name": "BAJA: Edge of Control HD",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1505407843
+      },
+      {
+        "id": 38515,
+        "name": "Super Off Road: The Baja",
+        "verified": true,
+        "types": [],
+        "release_date": 746841600
+      },
+      {
+        "id": 5344021,
+        "name": "Score International Baja 1000",
+        "verified": true,
+        "types": [],
+        "release_date": 1225152000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30195",
+    "title": "Rock Band: Track Pack Volume 2",
+    "candidates": [
+      {
+        "id": 5266863,
+        "name": "Rock Band Track Pack Vol. 1",
+        "verified": true,
+        "types": [],
+        "release_date": 1216080000
+      },
+      {
+        "id": 5266864,
+        "name": "Rock Band Track Pack Vol. 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1226880000
+      },
+      {
+        "id": 5344014,
+        "name": "Rock Band: Track Pack - Classic Rock",
+        "verified": true,
+        "types": [],
+        "release_date": 1242691200
+      },
+      {
+        "id": 5258676,
+        "name": "AC/DC Live: Rock Band - Track Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1195516800
+      },
+      {
+        "id": 5344011,
+        "name": "Rock Band: Country Track Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1248134400
+      },
+      {
+        "id": 5344012,
+        "name": "Rock Band: Country Track Pack 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1296518400
+      },
+      {
+        "id": 5344013,
+        "name": "Rock Band: Metal Track Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1253577600
+      },
+      {
+        "id": 5277883,
+        "name": "Rock Band",
+        "verified": true,
+        "types": [],
+        "release_date": 1211500800
+      },
+      {
+        "id": 5254383,
+        "name": "Rock Band Unplugged",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5266955,
+        "name": "Rock Band 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1288051200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30211",
+    "title": "History Civil War: Secret Missions",
+    "candidates": [
+      {
+        "id": 5464229,
+        "name": "The History Channel: Civil War - Secret Missions",
+        "verified": true,
+        "types": [],
+        "release_date": 1225756800
+      },
+      {
+        "id": 3557,
+        "name": "The History Channel: Civil War",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1163491200
+      },
+      {
+        "id": 5291,
+        "name": "History in Letters - The Eternal Alchemist",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1449587237
+      },
+      {
+        "id": 5247937,
+        "name": "History Warriors",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1572190733
+      },
+      {
+        "id": 5251131,
+        "name": "History Table: Lore & Quiz",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550813220
+      },
+      {
+        "id": 5253426,
+        "name": "History Racers 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1577268214
+      },
+      {
+        "id": 5266880,
+        "name": "History of Korea - VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600041600
+      },
+      {
+        "id": 5297078,
+        "name": "History of Football World Cup",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1632960000
+      },
+      {
+        "id": 5333246,
+        "name": "History's Great Empires: Rome",
+        "verified": true,
+        "types": [],
+        "release_date": 1238112000
+      },
+      {
+        "id": 5430925,
+        "name": "History of Space",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698796800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30213",
+    "title": "Monopoly",
+    "candidates": [
+      {
+        "id": 2286,
+        "name": "Monopoly",
+        "verified": true,
+        "types": [
+          "steam",
+          "flashpoint"
+        ],
+        "release_date": 1354233600
+      },
+      {
+        "id": 5274245,
+        "name": "Monopoly",
+        "verified": true,
+        "types": [],
+        "release_date": 915148800
+      },
+      {
+        "id": 5426265,
+        "name": "Monopoly",
+        "verified": true,
+        "types": [],
+        "release_date": 662688000
+      },
+      {
+        "id": 5426284,
+        "name": "Monopoly",
+        "verified": true,
+        "types": [],
+        "release_date": 1224806400
+      },
+      {
+        "id": 15531,
+        "name": "Monopoly Plus",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1504803164
+      },
+      {
+        "id": 5247695,
+        "name": "Monopoly Party",
+        "verified": true,
+        "types": [],
+        "release_date": 1037145600
+      },
+      {
+        "id": 5273595,
+        "name": "Monopoly Poker",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1609459200
+      },
+      {
+        "id": 5275399,
+        "name": "Monopoly Star Wars",
+        "verified": true,
+        "types": [],
+        "release_date": 878256000
+      },
+      {
+        "id": 5304634,
+        "name": "Monopoly City",
+        "verified": true,
+        "types": [],
+        "release_date": 1294790400
+      },
+      {
+        "id": 5309862,
+        "name": "Monopoly Madness",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1639008000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30214",
+    "title": "Prince of Persia",
+    "candidates": [
+      {
+        "id": 1623,
+        "name": "Prince of Persia",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1228896000
+      },
+      {
+        "id": 38972,
+        "name": "Prince of Persia",
+        "verified": true,
+        "types": [],
+        "release_date": 623376000
+      },
+      {
+        "id": 29,
+        "name": "Prince of Persia: The Fallen King",
+        "verified": true,
+        "types": [],
+        "release_date": 1228176000
+      },
+      {
+        "id": 1430,
+        "name": "Prince of Persia: Warrior Within",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1101801600
+      },
+      {
+        "id": 1433,
+        "name": "Prince of Persia: The Two Thrones",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1133942400
+      },
+      {
+        "id": 1438,
+        "name": "Prince of Persia: The Sands of Time",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1070352000
+      },
+      {
+        "id": 5861,
+        "name": "Prince of Persia: The Forgotten Sands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1275955200
+      },
+      {
+        "id": 37955,
+        "name": "Prince of Persia 3D",
+        "verified": true,
+        "types": [],
+        "release_date": 936057600
+      },
+      {
+        "id": 38670,
+        "name": "Prince of Persia 2: The Shadow & The Flame",
+        "verified": true,
+        "types": [],
+        "release_date": 736214400
+      },
+      {
+        "id": 5261912,
+        "name": "Prince of Persia: Revelations",
+        "verified": true,
+        "types": [],
+        "release_date": 1133827200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30219",
+    "title": "DreamWorks Madagascar: Escape 2 Africa",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30229",
+    "title": "Walt Disney Pictures Bolt",
+    "candidates": [
+      {
+        "id": 37145,
+        "name": "Walt Disney World Quest: Magical Racing Tour",
+        "verified": true,
+        "types": [],
+        "release_date": 953769600
+      },
+      {
+        "id": 37497,
+        "name": "Walt Disney's The Jungle Book: Rhythm n' Groove",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5260291,
+        "name": "The Walt Disney World Explorer",
+        "verified": true,
+        "types": [],
+        "release_date": 820454400
+      },
+      {
+        "id": 5260292,
+        "name": "The Walt Disney World Explorer – Second Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 893980800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30230",
+    "title": "Score International Baja 1000: The Official Game",
+    "candidates": [
+      {
+        "id": 5344021,
+        "name": "Score International Baja 1000",
+        "verified": true,
+        "types": [],
+        "release_date": 1225152000
+      },
+      {
+        "id": 10546,
+        "name": "SCORE ",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1467702000
+      },
+      {
+        "id": 15975,
+        "name": "Score a goal (Physical football)",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1482912000
+      },
+      {
+        "id": 26339,
+        "name": "Score a goal 2 (Physical football)",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1520064000
+      },
+      {
+        "id": 5338547,
+        "name": "Score Game 2D",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1657756800
+      },
+      {
+        "id": 5352122,
+        "name": "Score Gun",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663804800
+      },
+      {
+        "id": 5559294,
+        "name": "Score Circuit",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1794182400
+      },
+      {
+        "id": 5262351,
+        "name": "Hi-Score Boi",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1592870400
+      },
+      {
+        "id": 5271520,
+        "name": "Rig Score",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1613088000
+      },
+      {
+        "id": 5278697,
+        "name": "Fore Score",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30231",
+    "title": "NCAA Basketball 09",
+    "candidates": [
+      {
+        "id": 34344,
+        "name": "NCAA Basketball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5336119,
+        "name": "NCAA Basketball Final Four '97",
+        "verified": true,
+        "types": [],
+        "release_date": 857088000
+      },
+      {
+        "id": 5455929,
+        "name": "NCAA Basketball 10",
+        "verified": true,
+        "types": [],
+        "release_date": 1258416000
+      },
+      {
+        "id": 5295510,
+        "name": "NCAA College Basketball 2K3",
+        "verified": true,
+        "types": [],
+        "release_date": 1038787200
+      },
+      {
+        "id": 34758,
+        "name": "NCAA Final Four Basketball",
+        "verified": true,
+        "types": [],
+        "release_date": 791596800
+      },
+      {
+        "id": 5346619,
+        "name": "MVP 06: NCAA Baseball",
+        "verified": true,
+        "types": [],
+        "release_date": 1137024000
+      },
+      {
+        "id": 5346620,
+        "name": "MVP 07: NCAA Baseball",
+        "verified": true,
+        "types": [],
+        "release_date": 1170288000
+      },
+      {
+        "id": 37660,
+        "name": "NCAA Football",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38648,
+        "name": "NCAA Football 06",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5263657,
+        "name": "NCAA Football 09",
+        "verified": true,
+        "types": [],
+        "release_date": 1216080000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30232",
+    "title": "Alone in the Dark: Inferno",
+    "candidates": [
+      {
+        "id": 5259411,
+        "name": "Alone in the Dark",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1226966400
+      },
+      {
+        "id": 5346300,
+        "name": "Alone in the Dark",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698192000
+      },
+      {
+        "id": 3276,
+        "name": "Alone in the Dark 1",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 722044800
+      },
+      {
+        "id": 3277,
+        "name": "Alone in the Dark: The New Nightmare",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 990144000
+      },
+      {
+        "id": 3759,
+        "name": "Alone in the Dark: Illumination",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1434035826
+      },
+      {
+        "id": 29869,
+        "name": "Alone in the Dark 2",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 780476400
+      },
+      {
+        "id": 34129,
+        "name": "Alone in the Dark: One-Eyed Jack's Revenge",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38182,
+        "name": "Alone in the Dark 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 795340800
+      },
+      {
+        "id": 5403829,
+        "name": "Alone in the Dark Prologue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1685059048
+      },
+      {
+        "id": 27796,
+        "name": "Alone In The Forest VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1526540400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

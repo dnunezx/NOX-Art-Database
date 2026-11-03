@@ -2330,5 +2330,1273 @@
         "page": "https://www.steamgriddb.com/grid/342243"
       }
     ]
+  },
+  {
+    "title_id": "BLUS30121",
+    "selected_asset_id": 147047,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 147047,
+        "url": "https://cdn2.steamgriddb.com/grid/b7e5bca0e807b467d51d451244fbc264.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/147047"
+      },
+      {
+        "asset_id": 207009,
+        "url": "https://cdn2.steamgriddb.com/grid/a1323f274f0b46c069ea4ddd4fa56a76.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/207009"
+      },
+      {
+        "asset_id": 207010,
+        "url": "https://cdn2.steamgriddb.com/grid/684e47520197f82d8662d5e13cad9cb1.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/207010"
+      },
+      {
+        "asset_id": 480833,
+        "url": "https://cdn2.steamgriddb.com/grid/62c01900fba8c675329c769b50add593.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/480833"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30122",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30123",
+    "selected_asset_id": 396608,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 396608,
+        "url": "https://cdn2.steamgriddb.com/grid/bf3ad86cc950e305b7315b57c29f3ce0.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/396608"
+      },
+      {
+        "asset_id": 396642,
+        "url": "https://cdn2.steamgriddb.com/grid/59336df88e79656b6003bdbe2da2bf1e.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/396642"
+      },
+      {
+        "asset_id": 586097,
+        "url": "https://cdn2.steamgriddb.com/grid/dbac665824b4cfd0be6b13453a502569.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/586097"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30125",
+    "selected_asset_id": 139196,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 139196,
+        "url": "https://cdn2.steamgriddb.com/grid/9ed3bcbd0b4e26bb2dc883ecae75868d.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/139196"
+      },
+      {
+        "asset_id": 145862,
+        "url": "https://cdn2.steamgriddb.com/grid/bd3f3a79ae59421f9683af4e38123c3c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/145862"
+      },
+      {
+        "asset_id": 149752,
+        "url": "https://cdn2.steamgriddb.com/grid/de8e05bc9ac2991559e76d99fffc5f0a.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/149752"
+      },
+      {
+        "asset_id": 681721,
+        "url": "https://cdn2.steamgriddb.com/grid/c532a15655316c6f80d2921fdd6266f2.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681721"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30126",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30128",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30129",
+    "selected_asset_id": 424613,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 424613,
+        "url": "https://cdn2.steamgriddb.com/grid/d1670ebd1f81a9c1c54b51cbf7438d0b.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/424613"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30131",
+    "selected_asset_id": 139196,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 139196,
+        "url": "https://cdn2.steamgriddb.com/grid/9ed3bcbd0b4e26bb2dc883ecae75868d.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/139196"
+      },
+      {
+        "asset_id": 145862,
+        "url": "https://cdn2.steamgriddb.com/grid/bd3f3a79ae59421f9683af4e38123c3c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/145862"
+      },
+      {
+        "asset_id": 149752,
+        "url": "https://cdn2.steamgriddb.com/grid/de8e05bc9ac2991559e76d99fffc5f0a.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/149752"
+      },
+      {
+        "asset_id": 681721,
+        "url": "https://cdn2.steamgriddb.com/grid/c532a15655316c6f80d2921fdd6266f2.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681721"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30132",
+    "selected_asset_id": 358075,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 147950,
+        "url": "https://cdn2.steamgriddb.com/grid/e907ed75d04dad5c44e80bd795633163.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/147950"
+      },
+      {
+        "asset_id": 358075,
+        "url": "https://cdn2.steamgriddb.com/grid/8aad528da680ccf0e143cb1f7122be80.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/358075"
+      },
+      {
+        "asset_id": 358077,
+        "url": "https://cdn2.steamgriddb.com/grid/b780ebc4176ba17a95d6851fc2ea7255.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/358077"
+      },
+      {
+        "asset_id": 358078,
+        "url": "https://cdn2.steamgriddb.com/grid/214ef4ab81d72d0a6e4a88ea95669ff0.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/358078"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30133",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30134",
+    "selected_asset_id": 723080,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 723080,
+        "url": "https://cdn2.steamgriddb.com/grid/8b4308da893faae59c6e7814182623c6.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/723080"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30135",
+    "selected_asset_id": 345244,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 345244,
+        "url": "https://cdn2.steamgriddb.com/grid/72bcbee797d5cc98758952e75b32aeb8.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/345244"
+      },
+      {
+        "asset_id": 345245,
+        "url": "https://cdn2.steamgriddb.com/grid/4d5def1e4de01e553a3a5dce9830465e.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/345245"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30138",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30139",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30141",
+    "selected_asset_id": 199603,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 158569,
+        "url": "https://cdn2.steamgriddb.com/grid/c32c650e7400106e60950518d09e3a44.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158569"
+      },
+      {
+        "asset_id": 199603,
+        "url": "https://cdn2.steamgriddb.com/grid/64e26a0669fbc8c0f4076f68b76a33ce.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/199603"
+      },
+      {
+        "asset_id": 568610,
+        "url": "https://cdn2.steamgriddb.com/grid/88584a35325d2c127c655913dd542984.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/568610"
+      },
+      {
+        "asset_id": 694021,
+        "url": "https://cdn2.steamgriddb.com/grid/dba75e26e11f2e0bd8072d61306cd3ff.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/694021"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30143",
+    "selected_asset_id": 430929,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 430929,
+        "url": "https://cdn2.steamgriddb.com/grid/c2aeb180413624b43e383934c5536b85.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/430929"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30146",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30147",
+    "selected_asset_id": 733553,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 733553,
+        "url": "https://cdn2.steamgriddb.com/grid/b43e159754a1a0c83230292c3d01c5ac.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733553"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30150",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30154",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30155",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30156",
+    "selected_asset_id": 156433,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 137480,
+        "url": "https://cdn2.steamgriddb.com/grid/de8ec90cf17f628ef08d062e8b34ff62.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/137480"
+      },
+      {
+        "asset_id": 156433,
+        "url": "https://cdn2.steamgriddb.com/grid/e98185568dd17c6117b9b2e8cd68abac.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/156433"
+      },
+      {
+        "asset_id": 681655,
+        "url": "https://cdn2.steamgriddb.com/grid/dccd2fcae071c455d73a5b3272b0a439.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681655"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30157",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30159",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30160",
+    "selected_asset_id": 175792,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 175792,
+        "url": "https://cdn2.steamgriddb.com/grid/72923c3e81a7667d35c4f653367ae1ca.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/175792"
+      },
+      {
+        "asset_id": 219673,
+        "url": "https://cdn2.steamgriddb.com/grid/f5fa944b0ac123ee26e06ba71073c078.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/219673"
+      },
+      {
+        "asset_id": 764680,
+        "url": "https://cdn2.steamgriddb.com/grid/1f1521c4aee4a38151cfab1ead6b5a89.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/764680"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30161",
+    "selected_asset_id": 311299,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 311299,
+        "url": "https://cdn2.steamgriddb.com/grid/4810a1c1324e36e1d9ce3c945423fe9c.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/311299"
+      },
+      {
+        "asset_id": 313643,
+        "url": "https://cdn2.steamgriddb.com/grid/134eb6bd6e3619cb9d8fd894b0846b5e.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/313643"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30162",
+    "selected_asset_id": 343796,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 343796,
+        "url": "https://cdn2.steamgriddb.com/grid/2c30dfe1a172ee71a94a5d7a8c00caba.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/343796"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30164",
+    "selected_asset_id": 792755,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 792755,
+        "url": "https://cdn2.steamgriddb.com/grid/e7c2423adb9733cfc5ccb236d5b7be67.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/792755"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30165",
+    "selected_asset_id": 141285,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 141285,
+        "url": "https://cdn2.steamgriddb.com/grid/2965c89a9f435e21b0c178206d5f81ea.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/141285"
+      },
+      {
+        "asset_id": 442193,
+        "url": "https://cdn2.steamgriddb.com/grid/b92fe718c754ee52883eb9929bf28414.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/442193"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30166",
+    "selected_asset_id": 167707,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 167707,
+        "url": "https://cdn2.steamgriddb.com/grid/d439f5145feb8a5475b3151df489d864.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/167707"
+      },
+      {
+        "asset_id": 227002,
+        "url": "https://cdn2.steamgriddb.com/grid/5ed855d3c796fd3ea796103adc089431.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/227002"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30168",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30169",
+    "selected_asset_id": 788490,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 788490,
+        "url": "https://cdn2.steamgriddb.com/grid/a674272bccf6d684e89b501c8f0bcea7.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/788490"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30173",
+    "selected_asset_id": 733601,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 733601,
+        "url": "https://cdn2.steamgriddb.com/grid/7adb706efcf4bf1b1e20f7704702b05a.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733601"
+      },
+      {
+        "asset_id": 733618,
+        "url": "https://cdn2.steamgriddb.com/grid/26b34a9222ee45a606e593ccfb639947.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733618"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30175",
+    "selected_asset_id": 337069,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 272168,
+        "url": "https://cdn2.steamgriddb.com/grid/e67086c08c7f2f16ca9ea75a6ac750fa.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/272168"
+      },
+      {
+        "asset_id": 337069,
+        "url": "https://cdn2.steamgriddb.com/grid/b1a771d8dcdd7cb36e7f3c1e04eabb82.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/337069"
+      },
+      {
+        "asset_id": 425725,
+        "url": "https://cdn2.steamgriddb.com/grid/3d473fda3fee24e74fd1f1c1fed2f8c0.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/425725"
+      },
+      {
+        "asset_id": 568613,
+        "url": "https://cdn2.steamgriddb.com/grid/8f1893822b8d1f3f548101466786fdcd.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/568613"
+      },
+      {
+        "asset_id": 694013,
+        "url": "https://cdn2.steamgriddb.com/grid/38704a53d823289ec7564f33077246d5.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/694013"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30176",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30178",
+    "selected_asset_id": 417797,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 193678,
+        "url": "https://cdn2.steamgriddb.com/grid/e5dcbefea15731a1e223d1d7e53f6b67.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/193678"
+      },
+      {
+        "asset_id": 417797,
+        "url": "https://cdn2.steamgriddb.com/grid/044e22e2a936fa8dc31d502aab17486f.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/417797"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30179",
+    "selected_asset_id": 559986,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 559986,
+        "url": "https://cdn2.steamgriddb.com/grid/5295ffe1f269e448f5f73400c6bca021.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/559986"
+      },
+      {
+        "asset_id": 684078,
+        "url": "https://cdn2.steamgriddb.com/grid/f67d6cc6ec6680a762d79114a2e4d72e.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/684078"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30180",
+    "selected_asset_id": 149761,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 149761,
+        "url": "https://cdn2.steamgriddb.com/grid/05634cbd86c18f0b08e13d749348a2f6.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/149761"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30181",
+    "selected_asset_id": 144501,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 144501,
+        "url": "https://cdn2.steamgriddb.com/grid/d257856b89c26423cc8cdea681decfaf.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/144501"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30182",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30185",
+    "selected_asset_id": 193696,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 193696,
+        "url": "https://cdn2.steamgriddb.com/grid/a3b921b87cfcde6ee254e094b322e8da.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/193696"
+      },
+      {
+        "asset_id": 383922,
+        "url": "https://cdn2.steamgriddb.com/grid/25e5485c0aa9e73d8ff443dd7f374b03.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/383922"
+      },
+      {
+        "asset_id": 679166,
+        "url": "https://cdn2.steamgriddb.com/grid/07978f84daa62dfbe7eebfc4f92c0bd7.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/679166"
+      },
+      {
+        "asset_id": 848487,
+        "url": "https://cdn2.steamgriddb.com/grid/8177a7d89a41809da02205b21a7b3283.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/848487"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30186",
+    "selected_asset_id": 149753,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 149753,
+        "url": "https://cdn2.steamgriddb.com/grid/d5409be403e67328a4f3ac0db2fd313b.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/149753"
+      },
+      {
+        "asset_id": 681722,
+        "url": "https://cdn2.steamgriddb.com/grid/5eb4e7df2c622f39688481caa1c5b98e.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681722"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30187",
+    "selected_asset_id": 386584,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 386584,
+        "url": "https://cdn2.steamgriddb.com/grid/7d26d6d15fdb65da4a9afa61a16b8f96.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/386584"
+      },
+      {
+        "asset_id": 566508,
+        "url": "https://cdn2.steamgriddb.com/grid/be597d9d3cae376ba6cb4823ebb27ccd.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/566508"
+      },
+      {
+        "asset_id": 628224,
+        "url": "https://cdn2.steamgriddb.com/grid/52dd0953f5a9cb6a623e59b67823d843.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/628224"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30188",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30190",
+    "selected_asset_id": 480382,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 480382,
+        "url": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/480382"
+      },
+      {
+        "asset_id": 778550,
+        "url": "https://cdn2.steamgriddb.com/grid/773e4c9bc185232c0344bbb77aeb1df9.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/778550"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30192",
+    "selected_asset_id": 389041,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 389041,
+        "url": "https://cdn2.steamgriddb.com/grid/27682e20c04d5ce1fd6c7e1f22b5d943.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/389041"
+      },
+      {
+        "asset_id": 417537,
+        "url": "https://cdn2.steamgriddb.com/grid/3ffe73b18fae2cd032f833b6bd29a140.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/417537"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30194",
+    "selected_asset_id": 165086,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 165086,
+        "url": "https://cdn2.steamgriddb.com/grid/8d790bd8cabd6a80619eec4d572679d6.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/165086"
+      },
+      {
+        "asset_id": 180125,
+        "url": "https://cdn2.steamgriddb.com/grid/6aab93cb7fca9d46383719473cb015ac.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/180125"
+      },
+      {
+        "asset_id": 180129,
+        "url": "https://cdn2.steamgriddb.com/grid/f6f2486f88b9d5154108156587648dd3.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/180129"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30196",
+    "selected_asset_id": 140161,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 140161,
+        "url": "https://cdn2.steamgriddb.com/grid/440a3811f049500d58989000bf697bab.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/140161"
+      },
+      {
+        "asset_id": 140162,
+        "url": "https://cdn2.steamgriddb.com/grid/25027d465df25ac3292eb5d0357181fd.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/140162"
+      },
+      {
+        "asset_id": 831292,
+        "url": "https://cdn2.steamgriddb.com/grid/bad84105d672240e53f9bec5dfde8722.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/831292"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30197",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30198",
+    "selected_asset_id": 148190,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 148190,
+        "url": "https://cdn2.steamgriddb.com/grid/3becbd684e7f93eeee400bc32ef140b7.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/148190"
+      },
+      {
+        "asset_id": 806459,
+        "url": "https://cdn2.steamgriddb.com/grid/59c2c90d872f4041973473435b0ba99c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/806459"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30199",
+    "selected_asset_id": 148190,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 148190,
+        "url": "https://cdn2.steamgriddb.com/grid/3becbd684e7f93eeee400bc32ef140b7.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/148190"
+      },
+      {
+        "asset_id": 806459,
+        "url": "https://cdn2.steamgriddb.com/grid/59c2c90d872f4041973473435b0ba99c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/806459"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30200",
+    "selected_asset_id": 139767,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 139767,
+        "url": "https://cdn2.steamgriddb.com/grid/b54eebb7f714441f9553a0fb45bd0ce9.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/139767"
+      },
+      {
+        "asset_id": 228790,
+        "url": "https://cdn2.steamgriddb.com/grid/cd097aa3edea14bb74c9f2646feefc5a.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/228790"
+      },
+      {
+        "asset_id": 518130,
+        "url": "https://cdn2.steamgriddb.com/grid/8d55d44b508df0895db17f9478a28213.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/518130"
+      },
+      {
+        "asset_id": 727335,
+        "url": "https://cdn2.steamgriddb.com/grid/c3d22f7a806e08e171ffd1a2ea113183.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/727335"
+      },
+      {
+        "asset_id": 796908,
+        "url": "https://cdn2.steamgriddb.com/grid/06c93ef3b0201a9ae53cfadc2ba6f3a4.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/796908"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30201",
+    "selected_asset_id": 393747,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 193729,
+        "url": "https://cdn2.steamgriddb.com/grid/f8ac6b6027b06a69d0065c51c8daf33d.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/193729"
+      },
+      {
+        "asset_id": 393747,
+        "url": "https://cdn2.steamgriddb.com/grid/9491cc56c659d7728266d41a11693c54.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/393747"
+      },
+      {
+        "asset_id": 684276,
+        "url": "https://cdn2.steamgriddb.com/grid/425a630ae228dbedf117b8fd310baebb.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/684276"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30203",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30204",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30205",
+    "selected_asset_id": 137891,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 137891,
+        "url": "https://cdn2.steamgriddb.com/grid/2a032727c4e34c82bf718c77e85abe35.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/137891"
+      },
+      {
+        "asset_id": 199619,
+        "url": "https://cdn2.steamgriddb.com/grid/63b0049185433e1f2954367fd64a7047.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/199619"
+      },
+      {
+        "asset_id": 653586,
+        "url": "https://cdn2.steamgriddb.com/grid/fd680885d3556063ac9bb1de9139aabd.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/653586"
+      },
+      {
+        "asset_id": 653587,
+        "url": "https://cdn2.steamgriddb.com/grid/415fba5f6929b8e8a19f5e2c9c6726b9.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/653587"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30209",
+    "selected_asset_id": 158993,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 158993,
+        "url": "https://cdn2.steamgriddb.com/grid/6381d1386a7c3a6536a53b444bbed1c3.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158993"
+      },
+      {
+        "asset_id": 158994,
+        "url": "https://cdn2.steamgriddb.com/grid/35209f041aca848f4c90c6a0d0fcb97e.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158994"
+      },
+      {
+        "asset_id": 158995,
+        "url": "https://cdn2.steamgriddb.com/grid/d961f3b5e0983cbe0eaca60f49d4b946.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158995"
+      },
+      {
+        "asset_id": 158996,
+        "url": "https://cdn2.steamgriddb.com/grid/5ff056fb661e3f6375bdf155111cb391.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158996"
+      },
+      {
+        "asset_id": 158997,
+        "url": "https://cdn2.steamgriddb.com/grid/875a21d0b5e333e535e9ff8ab02229f4.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/158997"
+      },
+      {
+        "asset_id": 786654,
+        "url": "https://cdn2.steamgriddb.com/grid/450ac50e60014202c2be066cc8dbe47d.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/786654"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30210",
+    "selected_asset_id": 150105,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 150105,
+        "url": "https://cdn2.steamgriddb.com/grid/ca504eec9c363347d772f7890b4b2a56.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/150105"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30212",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30215",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30218",
+    "selected_asset_id": 394850,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 394850,
+        "url": "https://cdn2.steamgriddb.com/grid/32444a34bc63f6c4c312335d09f088be.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/394850"
+      },
+      {
+        "asset_id": 681757,
+        "url": "https://cdn2.steamgriddb.com/grid/cd8d5ce1b3555624b07b8a38415f9d51.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681757"
+      },
+      {
+        "asset_id": 682864,
+        "url": "https://cdn2.steamgriddb.com/grid/47e81b3c0d673dfac62d534de6479434.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/682864"
+      },
+      {
+        "asset_id": 793660,
+        "url": "https://cdn2.steamgriddb.com/grid/66b7d415de2e8bf11d761a589e778597.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/793660"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30220",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30221",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30223",
+    "selected_asset_id": 733806,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 733806,
+        "url": "https://cdn2.steamgriddb.com/grid/e107779f9f4cbd6ec19f0557b08fa38c.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733806"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30224",
+    "selected_asset_id": 800711,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 800711,
+        "url": "https://cdn2.steamgriddb.com/grid/38326fb12842f9c0c785cffb6afac2cf.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/800711"
+      },
+      {
+        "asset_id": 800712,
+        "url": "https://cdn2.steamgriddb.com/grid/de77abd35f305e4ef53b90608826ce8d.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/800712"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30225",
+    "selected_asset_id": 853995,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 853995,
+        "url": "https://cdn2.steamgriddb.com/grid/d509001d38e2094f5a9803918cf48fd5.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/853995"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30226",
+    "selected_asset_id": 640042,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 640042,
+        "url": "https://cdn2.steamgriddb.com/grid/679197989039f7ee70655ddc95c72c76.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/640042"
+      },
+      {
+        "asset_id": 681624,
+        "url": "https://cdn2.steamgriddb.com/grid/b889ffb7d63c6ace4f5b293cb07b6252.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/681624"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30228",
+    "selected_asset_id": 454114,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 454114,
+        "url": "https://cdn2.steamgriddb.com/grid/7fc905f2b63dc0deebcaab0b3d5c014b.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/454114"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30233",
+    "selected_asset_id": 733806,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 733806,
+        "url": "https://cdn2.steamgriddb.com/grid/e107779f9f4cbd6ec19f0557b08fa38c.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733806"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30234",
+    "selected_asset_id": 193696,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 193696,
+        "url": "https://cdn2.steamgriddb.com/grid/a3b921b87cfcde6ee254e094b322e8da.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/193696"
+      },
+      {
+        "asset_id": 383922,
+        "url": "https://cdn2.steamgriddb.com/grid/25e5485c0aa9e73d8ff443dd7f374b03.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/383922"
+      },
+      {
+        "asset_id": 679166,
+        "url": "https://cdn2.steamgriddb.com/grid/07978f84daa62dfbe7eebfc4f92c0bd7.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/679166"
+      },
+      {
+        "asset_id": 848487,
+        "url": "https://cdn2.steamgriddb.com/grid/8177a7d89a41809da02205b21a7b3283.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/848487"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30235",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30236",
+    "selected_asset_id": 733741,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 733741,
+        "url": "https://cdn2.steamgriddb.com/grid/547a2955217710fd2a6afd66dd7c0ad8.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/733741"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30241",
+    "selected_asset_id": 150052,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 150052,
+        "url": "https://cdn2.steamgriddb.com/grid/919206858c4dd3f81692a928138ee431.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/150052"
+      },
+      {
+        "asset_id": 425912,
+        "url": "https://cdn2.steamgriddb.com/grid/148a083a0c043d73d56e00afa5afe04f.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/425912"
+      }
+    ]
   }
 ]

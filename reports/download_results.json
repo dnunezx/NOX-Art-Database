@@ -1,1004 +1,6 @@
 [
   {
-    "title_id": "BLUS30014",
-    "status": "selected",
-    "asset_id": 724662,
-    "game_id": 34869,
-    "url": "https://cdn2.steamgriddb.com/grid/475986e38625253babb40e7590458c60.jpg",
-    "source_sha256": "82d8a4ba2128b71c12d948ca144d7246115dc9fedf1f2be535ee6ae465f9c9ec",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30016",
-    "status": "selected",
-    "asset_id": 453093,
-    "game_id": 34648,
-    "url": "https://cdn2.steamgriddb.com/grid/a0d052a39c2a32f9ed1c6e1ddc8f17b9.png",
-    "source_sha256": "0450693617a4d2ec821f8db6eb576baadefe612723a1abf3957db72c70e910fe",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30017",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30018",
-    "status": "selected",
-    "asset_id": 145861,
-    "game_id": 1434,
-    "url": "https://cdn2.steamgriddb.com/grid/c18be23e9556b9a7d61504adb40d609a.png",
-    "source_sha256": "019ee406df7c82faa8e4d245866264f815131e24794e5af984bee65f6beddc80",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30019",
-    "status": "selected",
-    "asset_id": 241014,
-    "game_id": 5258760,
-    "url": "https://cdn2.steamgriddb.com/grid/78909698261578ff60bd83df33750b9f.png",
-    "source_sha256": "f06a99c12b4295e13fab463f8f3a3bfde626be10e922c06463284713e959a58a",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30020",
-    "status": "selected",
-    "asset_id": 255275,
-    "game_id": 5275321,
-    "url": "https://cdn2.steamgriddb.com/grid/fdfa3ba511c3c3a6d5f33d4cb1df5f16.png",
-    "source_sha256": "c746c2bed3dab0e838a20a1462ded4d86af6cd71547099e4742527f42dfa5c37",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30021",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30022",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30023",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30024",
-    "status": "selected",
-    "asset_id": 616168,
-    "game_id": 5259697,
-    "url": "https://cdn2.steamgriddb.com/grid/e50f27a099d48734d5b34c205adbcb98.png",
-    "source_sha256": "7b26332d5571d00cf65a12f86036b0277857a2dfe17a0bf9897decdbda769435",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30025",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30026",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30027",
-    "status": "selected",
-    "asset_id": 562997,
-    "game_id": 5258123,
-    "url": "https://cdn2.steamgriddb.com/grid/fad29fcf3aebf03f52965880656478b2.png",
-    "source_sha256": "9f6fa167979fd3c558cad5ab75fd6470979917996090c8b96cf565594d213150",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30028",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30029",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30030",
-    "status": "selected",
-    "asset_id": 296974,
-    "game_id": 33788,
-    "url": "https://cdn2.steamgriddb.com/grid/050a0ada2d0d75cb58d7efcd384c2731.png",
-    "source_sha256": "9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30031",
-    "status": "selected",
-    "asset_id": 296974,
-    "game_id": 33788,
-    "url": "https://cdn2.steamgriddb.com/grid/050a0ada2d0d75cb58d7efcd384c2731.png",
-    "source_sha256": "9a9df43495f4008828807ffdc1ac0be68e3f4ee4ac3f6457091f1750ef604749",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30032",
-    "status": "selected",
-    "asset_id": 227005,
-    "game_id": 1437,
-    "url": "https://cdn2.steamgriddb.com/grid/d5372af557d3e9016048ce24acd8b4cb.jpg",
-    "source_sha256": "0f5817ad84b8cccaa8d951032b3a9c1a277e57c6a767df250bb498f99b6d102b",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30033",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30034",
-    "status": "selected",
-    "asset_id": 149685,
-    "game_id": 1431,
-    "url": "https://cdn2.steamgriddb.com/grid/13cddc948caffdf563fc0d0fffd6a545.png",
-    "source_sha256": "788378e03fdc9736f7247f0b9cd6d1d2fde3be7c35934b321db6e30ee443378e",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30035",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30036",
-    "status": "selected",
-    "asset_id": 452996,
-    "game_id": 33789,
-    "url": "https://cdn2.steamgriddb.com/grid/3dac2c5b190f4b9122938fe289611deb.png",
-    "source_sha256": "d09d3d44686fc4da232dfa3ae11187133ab00a48142ca1e851c35523d54b67fe",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30037",
-    "status": "selected",
-    "asset_id": 724663,
-    "game_id": 38887,
-    "url": "https://cdn2.steamgriddb.com/grid/27b9bd35da52d50e4a000d05754b03dd.jpg",
-    "source_sha256": "e1cb79c169ed6059343d50d11e8f8c27eec3e1461cc8ff8301596167900831f8",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30038",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30039",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30040",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30042",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30043",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30044",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30045",
-    "status": "selected",
-    "asset_id": 146210,
-    "game_id": 33692,
-    "url": "https://cdn2.steamgriddb.com/grid/ec297d8f733e0d545a7d74d93696d6ab.png",
-    "source_sha256": "347c9fea9d64efb0bf4a4d8abd5549c13e4541b327a5b8fa8ff4a6bc8e59ee94",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30046",
-    "status": "selected",
-    "asset_id": 730802,
-    "game_id": 36272,
-    "url": "https://cdn2.steamgriddb.com/grid/16858a0bc363922d47140df10b9a4de5.jpg",
-    "source_sha256": "46e220a6f0810d32b72c0650341d676ca8757fefd350f210d888c963b7d05361",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30047",
-    "status": "selected",
-    "asset_id": 263641,
-    "game_id": 5253063,
-    "url": "https://cdn2.steamgriddb.com/grid/ad47ca7d36b8fd6d6fe090e52acb38e2.png",
-    "source_sha256": "c01c13b1a4b3e7d85cd5ad1b954983ccd8063bf181d5ad4c987d41550922599b",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30048",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30049",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30050",
-    "status": "selected",
-    "asset_id": 147624,
-    "game_id": 5277883,
-    "url": "https://cdn2.steamgriddb.com/grid/05b060970d48be5f5bf1f98219bb0b1c.png",
-    "source_sha256": "8ccfccb3ab071d5f56702f9eb7267d5a82d45d24dfe90981be2dd7ad4308a047",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30052",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30053",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30055",
-    "status": "selected",
-    "asset_id": 488959,
-    "game_id": 5296627,
-    "url": "https://cdn2.steamgriddb.com/grid/83eb360eea65e236b18384b4abed93ee.jpg",
-    "source_sha256": "ce17d37b57cf90123cf7a5f138ad72287b3bf093f3aeaa767c3bfd9ce473aa3d",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30056",
-    "status": "selected",
-    "asset_id": 854446,
-    "game_id": 5252750,
-    "url": "https://cdn2.steamgriddb.com/grid/3198c575fa55ab947fd6054e3d522126.png",
-    "source_sha256": "62d54d5f44b316fce4112d25fbd4fc64519cf6498bab401e4696c6934efd1a4c",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30057",
-    "status": "selected",
-    "asset_id": 207033,
-    "game_id": 5258444,
-    "url": "https://cdn2.steamgriddb.com/grid/e68a64749e77bddc845f3aa9eb3fc2cd.png",
-    "source_sha256": "c7e895d5a0392632f18dcf23614d9363d8cf64d34225850b55d178021ca16d0d",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30058",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30059",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30060",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30061",
-    "status": "selected",
-    "asset_id": 567814,
-    "game_id": 37894,
-    "url": "https://cdn2.steamgriddb.com/grid/4d2314772caf64e124aac4419ab692fd.png",
-    "source_sha256": "fbd6665a622be8feaa0ccbeda20e0bebe51490f4182c5c60257a95ddbb2fcd8d",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30062",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30063",
-    "status": "candidate_rejected",
-    "asset_id": 157271,
-    "message": "Provider unavailable after bounded retries"
-  },
-  {
-    "title_id": "BLUS30063",
-    "status": "missing_square",
-    "previews": [
-      {
-        "asset_id": 157271,
-        "url": "https://cdn2.steamgriddb.com/grid/d490708eaf8cdca88409acb06e61dbac.png",
-        "score": 0.0,
-        "page": "https://www.steamgriddb.com/grid/157271"
-      }
-    ]
-  },
-  {
-    "title_id": "BLUS30064",
-    "status": "selected",
-    "asset_id": 667949,
-    "game_id": 1318,
-    "url": "https://cdn2.steamgriddb.com/grid/12a416384f1d39753d14a392c9f9081c.jpg",
-    "source_sha256": "555fd1419d5456d5cf99399c2cde5e2f936676ffce579c9e96647e345d7b0f12",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30065",
-    "status": "selected",
-    "asset_id": 349034,
-    "game_id": 35540,
-    "url": "https://cdn2.steamgriddb.com/grid/a9bc2b113fb78e00a2ce7f64253a90d1.png",
-    "source_sha256": "239a237d843017c3c1f8b7e9d19b0d0506e8b9023d33533f8bc9f701cc646963",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30066",
-    "status": "selected",
-    "asset_id": 153996,
-    "game_id": 38528,
-    "url": "https://cdn2.steamgriddb.com/grid/ae99c72c2aa276672dc58a4413ef4c60.png",
-    "source_sha256": "8b0a5ccd9da574fba7da07d2d214fa9ddcc0efd8bb1e04212e312e20dbe43ea0",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30067",
-    "status": "selected",
-    "asset_id": 262455,
-    "game_id": 2952,
-    "url": "https://cdn2.steamgriddb.com/grid/859572019b407ff88f049016a2481938.png",
-    "source_sha256": "2a57fe3148e70eef1b3df8b86d91d1b2008639a1981b269b1cd5bf0767d7b1db",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30068",
-    "status": "selected",
-    "asset_id": 195080,
-    "game_id": 12108,
-    "url": "https://cdn2.steamgriddb.com/grid/89345eb73e423a9d939aeba436c2179f.png",
-    "source_sha256": "bc5397542fb91d341b5d8114036482e587cc001bf65ca69e194669d924baeacb",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30069",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30070",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30071",
-    "status": "selected",
-    "asset_id": 439383,
-    "game_id": 36370,
-    "url": "https://cdn2.steamgriddb.com/grid/8f21a1878e9244a430f91a70e81b8a0c.png",
-    "source_sha256": "cb4fff2c461ab53b1934ea008d67f214aacada8d7102272ca5bb7a6228a7323f",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30072",
-    "status": "candidate_rejected",
-    "asset_id": 417542,
-    "message": "Provider unavailable after bounded retries"
-  },
-  {
-    "title_id": "BLUS30072",
-    "status": "selected",
-    "asset_id": 367937,
-    "game_id": 25316,
-    "url": "https://cdn2.steamgriddb.com/grid/c1d9f2386d00415b5677f9de918032c1.jpg",
-    "source_sha256": "f137bb75529a803abdef7999ebcb49f5bb63b27288ecbcb075c70a3001c76dc8",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30073",
-    "status": "selected",
-    "asset_id": 233256,
-    "game_id": 37960,
-    "url": "https://cdn2.steamgriddb.com/grid/1e0fa00b9ae77888d25917b92b17d91e.png",
-    "source_sha256": "338e3ef028bdcd4d05ea218965af4e86110e34c458ff3396e139d15fc9dce8f8",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30074",
-    "status": "selected",
-    "asset_id": 258030,
-    "game_id": 5247285,
-    "url": "https://cdn2.steamgriddb.com/grid/41a17dcef85a04e347590546665f07d5.png",
-    "source_sha256": "76aae7fbaceb235753f3e204436589d30d6147592d0942ac611e3c1bf5ff1d4b",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30075",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30076",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30077",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30078",
-    "status": "selected",
-    "asset_id": 315383,
-    "game_id": 5323627,
-    "url": "https://cdn2.steamgriddb.com/grid/9f04799a1e5a3b7b20d26fe11c35df9a.jpg",
-    "source_sha256": "324b50a23ff2648a559c0b2c3d129b1ecab3b9bbb5ca8e2f9f260c5d1a57987f",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30079",
-    "status": "selected",
-    "asset_id": 336872,
-    "game_id": 5517,
-    "url": "https://cdn2.steamgriddb.com/grid/f13899db61e0b99964fc0a5da16d36ac.jpg",
-    "source_sha256": "1edb6194bfba0fc90206ebc3c01540ec07708b275a19a5e98b0ea6fac83caf59",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30080",
-    "status": "candidate_rejected",
-    "asset_id": 832462,
-    "message": "Provider unavailable after bounded retries"
-  },
-  {
-    "title_id": "BLUS30080",
-    "status": "missing_square",
-    "previews": [
-      {
-        "asset_id": 832462,
-        "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
-        "score": 0.0,
-        "page": "https://www.steamgriddb.com/grid/832462"
-      }
-    ]
-  },
-  {
-    "title_id": "BLUS30081",
-    "status": "candidate_rejected",
-    "asset_id": 832462,
-    "message": "Provider unavailable after bounded retries"
-  },
-  {
-    "title_id": "BLUS30081",
-    "status": "missing_square",
-    "previews": [
-      {
-        "asset_id": 832462,
-        "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
-        "score": 0.0,
-        "page": "https://www.steamgriddb.com/grid/832462"
-      }
-    ]
-  },
-  {
-    "title_id": "BLUS30082",
-    "status": "selected",
-    "asset_id": 254562,
-    "game_id": 5264778,
-    "url": "https://cdn2.steamgriddb.com/grid/e6c16d2f1b9d0ebdca33f222ceabeb18.png",
-    "source_sha256": "c1c4b8ef9208f47951e1119e418d4d8fd4f554423831db4a6061124c6c1aa76e",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30083",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30084",
-    "status": "candidate_rejected",
-    "asset_id": 358771,
-    "message": "Provider unavailable after bounded retries"
-  },
-  {
-    "title_id": "BLUS30084",
-    "status": "selected",
-    "asset_id": 772934,
-    "game_id": 31394,
-    "url": "https://cdn2.steamgriddb.com/grid/fe85c9d9d9800424c1451fc753a21534.png",
-    "source_sha256": "9166a97f8d978b1b6c901b48dcc48e865702a631eb3312e9a55de3b3b7c469dd",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30086",
-    "status": "selected",
-    "asset_id": 337967,
-    "game_id": 37274,
-    "url": "https://cdn2.steamgriddb.com/grid/932454425c1bf7bd4c1396764f5fd403.png",
-    "source_sha256": "2083ee9090edc889e04d11a8c3cca1a03baa52e4cfc88c64872c02c06bd8ccef",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30087",
-    "status": "selected",
-    "asset_id": 206695,
-    "game_id": 5440047,
-    "url": "https://cdn2.steamgriddb.com/grid/0b4b0932f85b147e9c52c42bda9b1762.png",
-    "source_sha256": "49951ad8a27c2e6a479a8f805f662bf537ede8b9ab1ff1ce1a5202aa6e1e86fd",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30088",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30089",
-    "status": "selected",
-    "asset_id": 227527,
-    "game_id": 1451,
-    "url": "https://cdn2.steamgriddb.com/grid/5ff0489ace7cb7d3717e67231ce1db0b.png",
-    "source_sha256": "7a671f1b25d37a0075563f736a5f89c786a5c26e52b563317d43843f0d440fe7",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30090",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30091",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30092",
-    "status": "selected",
-    "asset_id": 138263,
-    "game_id": 11303,
-    "url": "https://cdn2.steamgriddb.com/grid/bf7de597c2f7fb917200635c3ffae2fa.png",
-    "source_sha256": "a1bb21849b32a0c0085d52ec8336e8ba993b138c0b591636a628aed86edf3223",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30093",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30094",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30097",
-    "status": "selected",
-    "asset_id": 723087,
-    "game_id": 5255211,
-    "url": "https://cdn2.steamgriddb.com/grid/889e556904c106265ef19dd2447c096e.jpg",
-    "source_sha256": "b3d5fdfe3597ad602f82921c5867a530ae6528bf260c9cbb52731cd4397fe963",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30098",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30099",
-    "status": "selected",
-    "asset_id": 480480,
-    "game_id": 5259703,
-    "url": "https://cdn2.steamgriddb.com/grid/3094c0725da249eaa00918e3333a00d3.jpg",
-    "source_sha256": "1adddd08074937c4669d75a523e6bee3c6ab83a2f65ce90017c99da13c1cf731",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30100",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30101",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30102",
-    "status": "selected",
-    "asset_id": 312024,
-    "game_id": 26010,
-    "url": "https://cdn2.steamgriddb.com/grid/b833d8df8aac24307f5f473cf2476129.jpg",
-    "source_sha256": "784d9de5d8f11fd11decffbccc4c04b48e9436cb3f960ded73534bd49961e9d0",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30103",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30104",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30105",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30106",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30107",
-    "status": "selected",
-    "asset_id": 443473,
-    "game_id": 26097,
-    "url": "https://cdn2.steamgriddb.com/grid/31e49e9a7c100d741687314c1698ac08.png",
-    "source_sha256": "5cd68cd6351c76fef43d1f047f477df924a4b3e1fe0b7382984db8341a66aaf1",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30108",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30109",
-    "status": "selected",
-    "asset_id": 139121,
-    "game_id": 33935,
-    "url": "https://cdn2.steamgriddb.com/grid/046412d5e0fbc5d1493d24f03454c161.png",
-    "source_sha256": "556b2173f0796fe95e416989a211decbc18bd8a85433ab62758746a1791c102f",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30110",
-    "status": "selected",
-    "asset_id": 350037,
-    "game_id": 5253995,
-    "url": "https://cdn2.steamgriddb.com/grid/ac204561cc3901f7999979e5d0c1a70b.png",
-    "source_sha256": "a28a37e1d8ca303cf900bf0028c74b406d5b02a3b86d1ea7d525f414dc409156",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30111",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30112",
-    "status": "missing_square",
-    "previews": []
-  },
-  {
-    "title_id": "BLUS30113",
-    "status": "selected",
-    "asset_id": 154418,
-    "game_id": 18813,
-    "url": "https://cdn2.steamgriddb.com/grid/0df4decd39ceef9f9273076a08f8420e.jpg",
-    "source_sha256": "a58a88f49035e1c61f859b40daf8cc7a5ff9f98fc330e79b679fb207c0e202a0",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30114",
-    "status": "ambiguous_match"
-  },
-  {
-    "title_id": "BLUS30115",
-    "status": "selected",
-    "asset_id": 832230,
-    "game_id": 5265030,
-    "url": "https://cdn2.steamgriddb.com/grid/1976a4c578e1166ff74f78e5c619c9fd.png",
-    "source_sha256": "fcb12384e85402fdf62429e677c0c365f2e2fd25910a5aff838b539af8e558f0",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30116",
-    "status": "selected",
-    "asset_id": 150094,
-    "game_id": 4513,
-    "url": "https://cdn2.steamgriddb.com/grid/06dd6fcdca6a2af8b2c57263a81d7552.jpg",
-    "source_sha256": "fac6414b8d1a0f91c613663ddc3abaed03744f57d07864db4a80d176cbcfdcb6",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30117",
-    "status": "selected",
-    "asset_id": 227293,
-    "game_id": 5273228,
-    "url": "https://cdn2.steamgriddb.com/grid/fc97506d42adfc0e8b8fe8248767b048.png",
-    "source_sha256": "62a3fb06ca872fe730ea7db8c8b51a0dfe7ac0f34ea3975edf11a3cadaf7824f",
-    "dimensions": [
-      512,
-      512
-    ],
-    "match_confidence": "exact",
-    "selection": "ranked-pending-review",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS30118",
+    "title_id": "BLUS30121",
     "status": "selected",
     "asset_id": 147047,
     "game_id": 5248469,
@@ -1009,27 +11,1017 @@
       1024
     ],
     "match_confidence": "exact",
-    "selection": "ranked-pending-review",
+    "selection": "ranked",
     "warnings": []
   },
   {
-    "title_id": "BLUS30119",
+    "title_id": "BLUS30122",
     "status": "missing_square",
     "previews": []
   },
   {
-    "title_id": "BLUS30120",
+    "title_id": "BLUS30123",
     "status": "selected",
-    "asset_id": 342243,
-    "game_id": 1469,
-    "url": "https://cdn2.steamgriddb.com/grid/c53ab3bdf450deb7e079cce8e0ff81e1.png",
-    "source_sha256": "7f7974deb43764c70b1675c23b7c3954f0580fd3025e814a35f4ea304bb12f3e",
+    "asset_id": 396608,
+    "game_id": 5248634,
+    "url": "https://cdn2.steamgriddb.com/grid/bf3ad86cc950e305b7315b57c29f3ce0.png",
+    "source_sha256": "ec6b6347490a770c43962f4239031dabe0688957cb65e7cca795a959163e7596",
     "dimensions": [
       512,
       512
     ],
     "match_confidence": "exact",
-    "selection": "ranked-pending-review",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30125",
+    "status": "selected",
+    "asset_id": 139196,
+    "game_id": 1452,
+    "url": "https://cdn2.steamgriddb.com/grid/9ed3bcbd0b4e26bb2dc883ecae75868d.png",
+    "source_sha256": "71448d3bd941887b09ded971c5eb2bf202d1568388e922bd0049ea09583b17dc",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30126",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30127",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30128",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30129",
+    "status": "selected",
+    "asset_id": 424613,
+    "game_id": 2025,
+    "url": "https://cdn2.steamgriddb.com/grid/d1670ebd1f81a9c1c54b51cbf7438d0b.png",
+    "source_sha256": "9f0630d42fff1898d57b20776383eba1f0e568d5ce23cedcfc977e1f19603bfb",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30130",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30131",
+    "status": "selected",
+    "asset_id": 139196,
+    "game_id": 1452,
+    "url": "https://cdn2.steamgriddb.com/grid/9ed3bcbd0b4e26bb2dc883ecae75868d.png",
+    "source_sha256": "71448d3bd941887b09ded971c5eb2bf202d1568388e922bd0049ea09583b17dc",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30132",
+    "status": "candidate_rejected",
+    "asset_id": 147950,
+    "message": "Corrupt or unsafe source image"
+  },
+  {
+    "title_id": "BLUS30132",
+    "status": "selected",
+    "asset_id": 358075,
+    "game_id": 121,
+    "url": "https://cdn2.steamgriddb.com/grid/8aad528da680ccf0e143cb1f7122be80.png",
+    "source_sha256": "0428b537771e2fa51ab948153db9694f7d15ea267922abccc1d4da9728d00d19",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30133",
+    "status": "candidate_rejected",
+    "asset_id": 378601,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30133",
+    "status": "missing_square",
+    "previews": [
+      {
+        "asset_id": 378601,
+        "url": "https://cdn2.steamgriddb.com/grid/86d742ac9b8bfe2759a2764a25cc7e71.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/378601"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30134",
+    "status": "selected",
+    "asset_id": 723080,
+    "game_id": 1210,
+    "url": "https://cdn2.steamgriddb.com/grid/8b4308da893faae59c6e7814182623c6.jpg",
+    "source_sha256": "6f08068e28a1da49a36a8b138e71aadc0aa7191f5e42c5320a528153e2360ed0",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30135",
+    "status": "selected",
+    "asset_id": 345244,
+    "game_id": 5412717,
+    "url": "https://cdn2.steamgriddb.com/grid/72bcbee797d5cc98758952e75b32aeb8.png",
+    "source_sha256": "b257a72a0533ce805630f8a0f6c7cd1e103b136e64acfb60ce7474aa186705bd",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30136",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30137",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30138",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30139",
+    "status": "candidate_rejected",
+    "asset_id": 503284,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30139",
+    "status": "missing_square",
+    "previews": [
+      {
+        "asset_id": 503284,
+        "url": "https://cdn2.steamgriddb.com/grid/0e39811be62b7e230f5116e5aa29ffc2.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/503284"
+      }
+    ]
+  },
+  {
+    "title_id": "BLUS30140",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30141",
+    "status": "candidate_rejected",
+    "asset_id": 158569,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30141",
+    "status": "selected",
+    "asset_id": 199603,
+    "game_id": 5470,
+    "url": "https://cdn2.steamgriddb.com/grid/64e26a0669fbc8c0f4076f68b76a33ce.png",
+    "source_sha256": "354942aeffca6a3e5ed5bf121cfef8c71f03b56f1a637d87c94aaa637ea94f20",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30142",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30143",
+    "status": "selected",
+    "asset_id": 430929,
+    "game_id": 1404,
+    "url": "https://cdn2.steamgriddb.com/grid/c2aeb180413624b43e383934c5536b85.png",
+    "source_sha256": "57fa753d616097f06d4c1018b4b84391056e1ddf07d66c0156579b10694ea13d",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30144",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30145",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30146",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30147",
+    "status": "selected",
+    "asset_id": 733553,
+    "game_id": 5277900,
+    "url": "https://cdn2.steamgriddb.com/grid/b43e159754a1a0c83230292c3d01c5ac.jpg",
+    "source_sha256": "8694d3dc69f4738c79d9035796d4a8a0ba0a2cff04baf929b01e64f5af210973",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30150",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30151",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30152",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30153",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30154",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30155",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30156",
+    "status": "candidate_rejected",
+    "asset_id": 137480,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30156",
+    "status": "selected",
+    "asset_id": 156433,
+    "game_id": 33093,
+    "url": "https://cdn2.steamgriddb.com/grid/e98185568dd17c6117b9b2e8cd68abac.jpg",
+    "source_sha256": "d4ee4ad9767debf5e5eb0055a9ba54f97c52fdacefe80ab0bf1d565f76c093cb",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30157",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30158",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30159",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30160",
+    "status": "selected",
+    "asset_id": 175792,
+    "game_id": 35012,
+    "url": "https://cdn2.steamgriddb.com/grid/72923c3e81a7667d35c4f653367ae1ca.png",
+    "source_sha256": "fe8f75699efbf7d0fcddd3507e2f9739df33c8b8c21f1d7ce8b51fe68d27a51a",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30161",
+    "status": "selected",
+    "asset_id": 311299,
+    "game_id": 33606,
+    "url": "https://cdn2.steamgriddb.com/grid/4810a1c1324e36e1d9ce3c945423fe9c.jpg",
+    "source_sha256": "45e901b10fbf36bd162c5ecf53422794c9158a1ec14baa69f497d613bca90c88",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30162",
+    "status": "selected",
+    "asset_id": 343796,
+    "game_id": 5332945,
+    "url": "https://cdn2.steamgriddb.com/grid/2c30dfe1a172ee71a94a5d7a8c00caba.png",
+    "source_sha256": "0e04508b80e87b239fe1a513090ef0e749d04d2ab6612e4ac84c3812b7234c29",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30164",
+    "status": "selected",
+    "asset_id": 792755,
+    "game_id": 38678,
+    "url": "https://cdn2.steamgriddb.com/grid/e7c2423adb9733cfc5ccb236d5b7be67.png",
+    "source_sha256": "2001c7c6df1fb0035ed89eaf76d11da357a9ab23067745e83088e4bd637319b2",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30165",
+    "status": "selected",
+    "asset_id": 141285,
+    "game_id": 1479,
+    "url": "https://cdn2.steamgriddb.com/grid/2965c89a9f435e21b0c178206d5f81ea.jpg",
+    "source_sha256": "c67c33a3971f75dc7299bd8076aee39b34bfb4004eb40a424aac9cba53ad2d0d",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30166",
+    "status": "selected",
+    "asset_id": 167707,
+    "game_id": 24116,
+    "url": "https://cdn2.steamgriddb.com/grid/d439f5145feb8a5475b3151df489d864.jpg",
+    "source_sha256": "d5f9dd1152f667e0d4bb963cceee20d87443e4caadf20ead6f55514a84a652aa",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30168",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30169",
+    "status": "selected",
+    "asset_id": 788490,
+    "game_id": 1605,
+    "url": "https://cdn2.steamgriddb.com/grid/a674272bccf6d684e89b501c8f0bcea7.png",
+    "source_sha256": "dd611e6c20dbb95a2a309fcb011601a1dfe035baa2d3809ffd62af6ccd103ab2",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30170",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30173",
+    "status": "selected",
+    "asset_id": 733601,
+    "game_id": 5259772,
+    "url": "https://cdn2.steamgriddb.com/grid/7adb706efcf4bf1b1e20f7704702b05a.jpg",
+    "source_sha256": "da2341bfbf601ab9348e8aabab7c061261f31bd06e779594f9d50a1a473ba4bd",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30174",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30175",
+    "status": "candidate_rejected",
+    "asset_id": 272168,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30175",
+    "status": "selected",
+    "asset_id": 337069,
+    "game_id": 1996,
+    "url": "https://cdn2.steamgriddb.com/grid/b1a771d8dcdd7cb36e7f3c1e04eabb82.jpg",
+    "source_sha256": "cd909851e4ec957552d1496a1e3d9e9df1004a0c0a3b32e69f99cc0b6cae3d90",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30176",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30177",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30178",
+    "status": "candidate_rejected",
+    "asset_id": 193678,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30178",
+    "status": "selected",
+    "asset_id": 417797,
+    "game_id": 1620,
+    "url": "https://cdn2.steamgriddb.com/grid/044e22e2a936fa8dc31d502aab17486f.png",
+    "source_sha256": "8e60421b283ffa7e36751f7ab9f94281bf68f56e9140f1f8169067f7e8ab920b",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30179",
+    "status": "selected",
+    "asset_id": 559986,
+    "game_id": 1553,
+    "url": "https://cdn2.steamgriddb.com/grid/5295ffe1f269e448f5f73400c6bca021.png",
+    "source_sha256": "5dd9bce7e7dc62e83ea335efb4b80912ba155e927d14a2288f684f458b2b59d2",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30180",
+    "status": "selected",
+    "asset_id": 149761,
+    "game_id": 2201,
+    "url": "https://cdn2.steamgriddb.com/grid/05634cbd86c18f0b08e13d749348a2f6.png",
+    "source_sha256": "17c30eed6f5201fec204c32170bfcae8469f25691de3ab95eb083f3f1ab0cd87",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30181",
+    "status": "selected",
+    "asset_id": 144501,
+    "game_id": 5250410,
+    "url": "https://cdn2.steamgriddb.com/grid/d257856b89c26423cc8cdea681decfaf.png",
+    "source_sha256": "ed10099d44286eddcb3f6078a993f425d7b78d8c07897b28a810297adf5d3645",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30182",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30184",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30185",
+    "status": "selected",
+    "asset_id": 193696,
+    "game_id": 2322,
+    "url": "https://cdn2.steamgriddb.com/grid/a3b921b87cfcde6ee254e094b322e8da.jpg",
+    "source_sha256": "3433b813cc62804fffc8ddd67ee87e6f35cdf42462854d159881b831ed4158cd",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30186",
+    "status": "selected",
+    "asset_id": 149753,
+    "game_id": 2225,
+    "url": "https://cdn2.steamgriddb.com/grid/d5409be403e67328a4f3ac0db2fd313b.png",
+    "source_sha256": "bbee421034df09386096f70908f0edac6b5362de02dc065bedb3999bc5bec44b",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30187",
+    "status": "selected",
+    "asset_id": 386584,
+    "game_id": 5258124,
+    "url": "https://cdn2.steamgriddb.com/grid/7d26d6d15fdb65da4a9afa61a16b8f96.png",
+    "source_sha256": "b977c3126ac94cae7e06c1fd6fa61bbd34baa82bb8f94f4a310a1450fbee22b5",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30188",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30189",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30190",
+    "status": "selected",
+    "asset_id": 480382,
+    "game_id": 5253393,
+    "url": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+    "source_sha256": "2aad0283cf8880794828b88087270567a6467c4f4b2a1b88fcf9aafd46627fbb",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30191",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30192",
+    "status": "selected",
+    "asset_id": 389041,
+    "game_id": 406,
+    "url": "https://cdn2.steamgriddb.com/grid/27682e20c04d5ce1fd6c7e1f22b5d943.jpg",
+    "source_sha256": "a054393bc687b4c43007f8a07f27aedc2a08cd09607140b6b2cf0b09bfa604a3",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30194",
+    "status": "selected",
+    "asset_id": 165086,
+    "game_id": 5252477,
+    "url": "https://cdn2.steamgriddb.com/grid/8d790bd8cabd6a80619eec4d572679d6.png",
+    "source_sha256": "5051ac8c73224372d725e8b99f1cbfc1da59d8bb10ebd0a59b1b693fe0c536aa",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30195",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30196",
+    "status": "selected",
+    "asset_id": 140161,
+    "game_id": 4378,
+    "url": "https://cdn2.steamgriddb.com/grid/440a3811f049500d58989000bf697bab.jpg",
+    "source_sha256": "0e0025844f3b4f76a088263fa74d1eb9869a5eae433dc8843dee3d2e2a187bdc",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30197",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30198",
+    "status": "selected",
+    "asset_id": 148190,
+    "game_id": 373,
+    "url": "https://cdn2.steamgriddb.com/grid/3becbd684e7f93eeee400bc32ef140b7.png",
+    "source_sha256": "4dddef7d5e0204a4c91b13505e4f6c3aa0a9543f911728d82d3960cd67fc4263",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30199",
+    "status": "selected",
+    "asset_id": 148190,
+    "game_id": 373,
+    "url": "https://cdn2.steamgriddb.com/grid/3becbd684e7f93eeee400bc32ef140b7.png",
+    "source_sha256": "4dddef7d5e0204a4c91b13505e4f6c3aa0a9543f911728d82d3960cd67fc4263",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30200",
+    "status": "selected",
+    "asset_id": 139767,
+    "game_id": 12626,
+    "url": "https://cdn2.steamgriddb.com/grid/b54eebb7f714441f9553a0fb45bd0ce9.png",
+    "source_sha256": "034e705d9bf872f56022a9012fe6e0e7757e81d07386ee09dcfbd839abca6f2e",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30201",
+    "status": "candidate_rejected",
+    "asset_id": 193729,
+    "message": "Provider unavailable after bounded retries"
+  },
+  {
+    "title_id": "BLUS30201",
+    "status": "selected",
+    "asset_id": 393747,
+    "game_id": 31693,
+    "url": "https://cdn2.steamgriddb.com/grid/9491cc56c659d7728266d41a11693c54.jpg",
+    "source_sha256": "dc9c1534d2c7e519bf93e913c4c33fbdfd9e95b095bc9411435a6fd066f6c2f7",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30203",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30204",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30205",
+    "status": "selected",
+    "asset_id": 137891,
+    "game_id": 35679,
+    "url": "https://cdn2.steamgriddb.com/grid/2a032727c4e34c82bf718c77e85abe35.png",
+    "source_sha256": "cf08990fd8cf77b5cf083b7b3364eeb2a6410d96c0f5f8bf858b8a4e8a1766da",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30209",
+    "status": "selected",
+    "asset_id": 158993,
+    "game_id": 5274747,
+    "url": "https://cdn2.steamgriddb.com/grid/6381d1386a7c3a6536a53b444bbed1c3.png",
+    "source_sha256": "5458469f0d0cb798d1e0edcd7184e335f24236abd3f136ef6f9d6f2a59d889c2",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30210",
+    "status": "selected",
+    "asset_id": 150105,
+    "game_id": 1532,
+    "url": "https://cdn2.steamgriddb.com/grid/ca504eec9c363347d772f7890b4b2a56.jpg",
+    "source_sha256": "8e3603a977ec1eb5fc09d7597997b2e8f2848cc0bce7674962993113555328d2",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30211",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30212",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30213",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30214",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30215",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30218",
+    "status": "selected",
+    "asset_id": 394850,
+    "game_id": 5248600,
+    "url": "https://cdn2.steamgriddb.com/grid/32444a34bc63f6c4c312335d09f088be.png",
+    "source_sha256": "1ba93dc825e2cdaf7c0648a20eedb856374b1b8a16513251775a64cc5c995c10",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30219",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30220",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30221",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30223",
+    "status": "selected",
+    "asset_id": 733806,
+    "game_id": 1624,
+    "url": "https://cdn2.steamgriddb.com/grid/e107779f9f4cbd6ec19f0557b08fa38c.jpg",
+    "source_sha256": "ccc5a98ba4660d581c697548b9dd4ca6c1db097aa8308f1f7bc46119f1460c82",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30224",
+    "status": "selected",
+    "asset_id": 800711,
+    "game_id": 26243,
+    "url": "https://cdn2.steamgriddb.com/grid/38326fb12842f9c0c785cffb6afac2cf.png",
+    "source_sha256": "04a92f1093a712521f81196d44d057ee7563164bdb3398369014dd585053c729",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30225",
+    "status": "selected",
+    "asset_id": 853995,
+    "game_id": 26329,
+    "url": "https://cdn2.steamgriddb.com/grid/d509001d38e2094f5a9803918cf48fd5.png",
+    "source_sha256": "87a3770525e6cb9056dedc5eeb523b3ce2916e2f57bdc478b00d96ad11a0db1d",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30226",
+    "status": "selected",
+    "asset_id": 640042,
+    "game_id": 34246,
+    "url": "https://cdn2.steamgriddb.com/grid/679197989039f7ee70655ddc95c72c76.jpg",
+    "source_sha256": "baaa2bd0b7a77f37db5a127f42143b93363f15cf58c1661464634ce0c1372fba",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30228",
+    "status": "selected",
+    "asset_id": 454114,
+    "game_id": 1407,
+    "url": "https://cdn2.steamgriddb.com/grid/7fc905f2b63dc0deebcaab0b3d5c014b.png",
+    "source_sha256": "e355fc208213d49c99f5a62bf46d384fc35e62b24193158cff315a89a754a9c6",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30229",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30230",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30231",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30232",
+    "status": "ambiguous_match"
+  },
+  {
+    "title_id": "BLUS30233",
+    "status": "selected",
+    "asset_id": 733806,
+    "game_id": 1624,
+    "url": "https://cdn2.steamgriddb.com/grid/e107779f9f4cbd6ec19f0557b08fa38c.jpg",
+    "source_sha256": "ccc5a98ba4660d581c697548b9dd4ca6c1db097aa8308f1f7bc46119f1460c82",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30234",
+    "status": "selected",
+    "asset_id": 193696,
+    "game_id": 2322,
+    "url": "https://cdn2.steamgriddb.com/grid/a3b921b87cfcde6ee254e094b322e8da.jpg",
+    "source_sha256": "3433b813cc62804fffc8ddd67ee87e6f35cdf42462854d159881b831ed4158cd",
+    "dimensions": [
+      512,
+      512
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30235",
+    "status": "missing_square",
+    "previews": []
+  },
+  {
+    "title_id": "BLUS30236",
+    "status": "selected",
+    "asset_id": 733741,
+    "game_id": 5342505,
+    "url": "https://cdn2.steamgriddb.com/grid/547a2955217710fd2a6afd66dd7c0ad8.jpg",
+    "source_sha256": "50d75318f73e2f746fa7a8c7e1e5c6a29fb241539f12adaf9e76af88535e82e1",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
+    "warnings": []
+  },
+  {
+    "title_id": "BLUS30241",
+    "status": "selected",
+    "asset_id": 150052,
+    "game_id": 23415,
+    "url": "https://cdn2.steamgriddb.com/grid/919206858c4dd3f81692a928138ee431.jpg",
+    "source_sha256": "bc33e57256dc0d3efe0543390638408e8bd1692569e10f9436b307b63f7cdd2f",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "match_confidence": "exact",
+    "selection": "ranked",
     "warnings": []
   }
 ]
