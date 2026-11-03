@@ -392,7 +392,7 @@
     "source_sha256": "3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641",
     "sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa",
     "thumbnail_sha256": "33bcd66a87ddd0d6dc5879c312ccb0be3cd99264c07d4c06143b4d37ea7693df",
-    "generated_at": "2026-11-03T03:47:02.203080+00:00",
+    "generated_at": "2026-11-03T04:10:39.507484+00:00",
     "processing_method": "native-square",
     "processing_settings": {
       "method": "native-square",
@@ -639,7 +639,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98151",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98151"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98151",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5261859,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "ce7f1c70d5061c1531f2339edc373faf9954abb1a94698cc0062bf0b6bec7a32",
+      "checked_at": "2026-11-03T03:55:31.891023+00:00",
+      "retry_after": "2026-11-10T03:55:31.891023+00:00"
+    }
   },
   {
     "title_id": "BCUS98152",
@@ -651,7 +659,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98152",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98152"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98152",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5283445,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "26223b5903274f1256473b32adc095bc0a0005aeaa81f78a0329f4708487fc3b",
+      "checked_at": "2026-11-03T03:55:35.884812+00:00",
+      "retry_after": "2026-11-10T03:55:35.884812+00:00"
+    }
   },
   {
     "title_id": "BCUS98153",
@@ -659,11 +675,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98153",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98153"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98153",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 12885,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ff73092f4ad4fab5fb77b18062b4e2a8.jpg",
+      "provider_artwork_id": 354884,
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/fe0b3f57830f6f5cc7fbdbb6ecbada4f4a2f4e4869a615ab6f1a5b0332c78b08.image",
+      "source_page": "https://www.steamgriddb.com/grid/354884",
+      "attribution": "FloydWarshall",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "42bcffc643bd9586c6014cd2753c85ffe1a774b1b006f2b3d08286f5c6f2c00f",
+      "checked_at": "2026-11-03T03:55:40.502579+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "fe0b3f57830f6f5cc7fbdbb6ecbada4f4a2f4e4869a615ab6f1a5b0332c78b08",
+    "sha256": "819f37eb307ea5e4869d4c0377bde20a1dbf5f8d285b62784bc8960c03982983",
+    "thumbnail_sha256": "3cc0e3b6ebc3c90e7f35b3cc21dd406196e69e560f3095a38f925c2fe1e22c7f",
+    "generated_at": "2026-11-03T04:10:22.161320+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98155",
@@ -671,11 +726,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98155",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98155"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98155",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5255887,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/8565f0a5c29e3931801f7ce0e04db77c.jpg",
+      "provider_artwork_id": 209979,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/031a1b6f78601639268c290a7c3a575f89a691ecf18992bb93a5793753116919.image",
+      "source_page": "https://www.steamgriddb.com/grid/209979",
+      "attribution": "reTokyo",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "686fcacdb7a6a0fea67fe4c156cb964676bd4224f88d2ca9ae9687b3a6abd819",
+      "checked_at": "2026-11-03T03:55:45.179705+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "031a1b6f78601639268c290a7c3a575f89a691ecf18992bb93a5793753116919",
+    "sha256": "15eefa149cfde037605d86b59750359600745f45e1768383c164012daf06f383",
+    "thumbnail_sha256": "0791552ba7cfa4e0862226e8c89fdd6bfdff2a6751b0fb980afa0bf17024465a",
+    "generated_at": "2026-11-03T04:10:22.384274+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98158",
@@ -683,11 +777,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98158",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98158"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98158",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5253541,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/723a4811e0b33f20b79529312e27fbf6.png",
+      "provider_artwork_id": 682335,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/a04a6dfab51cb090d8bef84acab7e02d0edec079e6ad68ab6fce3bbe034bf9d9.image",
+      "source_page": "https://www.steamgriddb.com/grid/682335",
+      "attribution": "Greenbill",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "219847724da06e790008067a4d3f6a2862be651f22af68a20f6a1c912d24dbc5",
+      "checked_at": "2026-11-03T03:56:30.496838+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "a04a6dfab51cb090d8bef84acab7e02d0edec079e6ad68ab6fce3bbe034bf9d9",
+    "sha256": "3be87f9a0ec2c183f14d865ee4aec333df74d9bab461e349c136d419719f5367",
+    "thumbnail_sha256": "439bce11006c6d44bda54e2f899044a100e268ebde97830e9ba1b69dd12c0672",
+    "generated_at": "2026-11-03T04:10:23.385102+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98161",
@@ -699,7 +832,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98161",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98161"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98161",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5261859,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "ce7f1c70d5061c1531f2339edc373faf9954abb1a94698cc0062bf0b6bec7a32",
+      "checked_at": "2026-11-03T03:56:30.497369+00:00",
+      "retry_after": "2026-11-10T03:56:30.497369+00:00"
+    }
   },
   {
     "title_id": "BCUS98162",
@@ -711,7 +852,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98162",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98162"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98162",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "2ce7500f0fa939473283dc33a6d3d9dfeeef52ffd8cbe9ae8ac64e23f7e5682b",
+      "checked_at": "2026-11-03T03:56:33.629205+00:00"
+    }
   },
   {
     "title_id": "BCUS98164",
@@ -719,11 +865,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98164",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98164"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98164",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 38262,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/65fae32de39a43a759b74f9ec358169d.png",
+      "provider_artwork_id": 165239,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/b13c94bc165969570bc183baf9e864140cbc495533e32ea36c0c26af73d019b1.image",
+      "source_page": "https://www.steamgriddb.com/grid/165239",
+      "attribution": "Varimarthas",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "634c536ea6854fb4fcf80ae81cf06b37aeeebb24e6ece7cf0e3a7a38c27f171e",
+      "checked_at": "2026-11-03T03:56:37.539980+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "b13c94bc165969570bc183baf9e864140cbc495533e32ea36c0c26af73d019b1",
+    "sha256": "4282f47e8c5f4127f16010a38ec117662aa4d77cdf5ecd26312fc7322a0b9fe5",
+    "thumbnail_sha256": "4f2882daa27c061af593ebacee37460506e56080787d1b9545d6fd18ce76d01d",
+    "generated_at": "2026-11-03T04:10:24.084960+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98165",
@@ -735,7 +920,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98165",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98165"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98165",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5342380,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "8fa4fb3a04ecb5bddfef3007c891c68e1719df502317983e7bd6aca6626fc6bd",
+      "checked_at": "2026-11-03T03:56:41.625929+00:00",
+      "retry_after": "2026-11-10T03:56:41.625929+00:00"
+    }
   },
   {
     "title_id": "BCUS98167",
@@ -743,11 +936,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98167",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98167"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98167",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 36052,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/c73eb8cf8f2b22a702b1dd72977eb77d.jpg",
+      "provider_artwork_id": 209723,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/2665c4aa1cc790cb6518f672e40a6b4aa7b6b27585f62e8840d9a59ed9663e9c.image",
+      "source_page": "https://www.steamgriddb.com/grid/209723",
+      "attribution": "reTokyo",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "2500df2d2325cd2bf238ac7259aff7e75bc237c395ef7ca9775768c3298ced5d",
+      "checked_at": "2026-11-03T03:56:46.566428+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "2665c4aa1cc790cb6518f672e40a6b4aa7b6b27585f62e8840d9a59ed9663e9c",
+    "sha256": "f455bd0d3f72d5ad2a436683e65011d85225d6a64b9a6730d5f0f70c76314789",
+    "thumbnail_sha256": "b82fc589e64b8f5dd772e6f5e0850c814008afe7890d8eef6020019707048c10",
+    "generated_at": "2026-11-03T04:10:24.534649+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98169",
@@ -759,7 +991,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98169",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98169"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98169",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "90d489b444000f1b7fe2ca5a5429b18940f4c182a6d9f0e2a4f083b22b1ccd04",
+      "checked_at": "2026-11-03T03:56:47.628637+00:00"
+    }
   },
   {
     "title_id": "BCUS98174",
@@ -792,7 +1029,7 @@
     "source_sha256": "8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd",
     "sha256": "c7617aa06998993f289426bddbffb476416f7b7f788b6eeb9bd35704b43d5e45",
     "thumbnail_sha256": "05606e7fef0c067bc6ef357e59dee6d3ec101eac81255d7d1d7fd38027259999",
-    "generated_at": "2026-11-03T03:47:02.364422+00:00",
+    "generated_at": "2026-11-03T04:10:24.865189+00:00",
     "processing_method": "downscale-square",
     "processing_settings": {
       "method": "native-square",
@@ -817,11 +1054,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98175",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98175"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98175",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37293,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/5c68cbbf85b0520835ac4d4588a99df1.jpg",
+      "provider_artwork_id": 241869,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/42020ee1fb366b29bd8ba19969ff0f07bc2b377afcca7baccab6c69fc5469df2.image",
+      "source_page": "https://www.steamgriddb.com/grid/241869",
+      "attribution": "fraiak",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "dd92a3c74ce6c60148d24ec16a75dc5e7e3fd87eec6ee2107d7b142c791567b3",
+      "checked_at": "2026-11-03T03:56:52.896847+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "42020ee1fb366b29bd8ba19969ff0f07bc2b377afcca7baccab6c69fc5469df2",
+    "sha256": "3ab8246f833b68fff231dd1f120deccf462d6b4f913517908c7d32a0eb39021a",
+    "thumbnail_sha256": "8ad3268efcbb54a1132b137008f86f7415105a3c23ba0b49bc2f5bd0f9255288",
+    "generated_at": "2026-11-03T04:10:25.191521+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98176",
@@ -829,11 +1105,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98176",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98176"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98176",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5259377,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/8a477534c70cc5a94e4dbe1ff5421185.png",
+      "provider_artwork_id": 146558,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/bae3881e31343734076d0e0b38da9773024f2a4c43ae67f473edd37d2f9723cb.image",
+      "source_page": "https://www.steamgriddb.com/grid/146558",
+      "attribution": "FrostWolf",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a3d795e66ce8b4e7816989c8ee3958b0e0219d160b472b0c9693114b1b30f6a0",
+      "checked_at": "2026-11-03T03:57:46.106119+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "bae3881e31343734076d0e0b38da9773024f2a4c43ae67f473edd37d2f9723cb",
+    "sha256": "e914d3b59a3b2288d4ea1b0f61518bf0ee7f927e8656de174ccf1b0cef8c0af6",
+    "thumbnail_sha256": "65e3876f4e2676f31265fa9031247e1b9b9f8ba3b6e6e00c3f6407dcb34d40ef",
+    "generated_at": "2026-11-03T04:10:25.534614+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98177",
@@ -845,7 +1160,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98177",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98177"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98177",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "db4d400633e2bb6b263fb61acc8e21ea3a804e47c65dc52e3e12fed050c78949",
+      "checked_at": "2026-11-03T03:57:46.727487+00:00"
+    }
   },
   {
     "title_id": "BCUS98180",
@@ -857,7 +1177,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98180",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98180"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98180",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277426,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "84222bf5798ca295cfbc552879735ff410fd5bf0358819f9212ccbe11b435835",
+      "checked_at": "2026-11-03T03:57:50.709579+00:00",
+      "retry_after": "2026-11-10T03:57:50.709579+00:00"
+    }
   },
   {
     "title_id": "BCUS98181",
@@ -869,7 +1197,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98181",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98181"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98181",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "2e1fe08553f330b89b4dbb662c6350fb69ad3a14e2c9bb62117bd67f34b8c46c",
+      "checked_at": "2026-11-03T03:57:53.706398+00:00"
+    }
   },
   {
     "title_id": "BCUS98183",
@@ -881,7 +1214,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98183",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98183"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98183",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5283445,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "26223b5903274f1256473b32adc095bc0a0005aeaa81f78a0329f4708487fc3b",
+      "checked_at": "2026-11-03T03:57:53.706946+00:00",
+      "retry_after": "2026-11-10T03:57:53.706946+00:00"
+    }
   },
   {
     "title_id": "BCUS98186",
@@ -893,7 +1234,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98186",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98186"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98186",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "13f13ee4dd9ca573a297939eabaa8eebe0072dfba5969f71c3776da0ddda8711",
+      "checked_at": "2026-11-03T03:57:54.712188+00:00"
+    }
   },
   {
     "title_id": "BCUS98190",
@@ -901,11 +1247,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98190",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98190"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98190",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5263262,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/cf62cfeb3796c44845f303785e4bb88c.png",
+      "provider_artwork_id": 146534,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/830a72d8d19acb6a103867bb9caf7fbcc32e49015b61b3dd1dd1723281b83be6.image",
+      "source_page": "https://www.steamgriddb.com/grid/146534",
+      "attribution": "Cyrene",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "13fa9b7e34f0dc1b1045b18c0b8e5acb7ff02909a4fd480cdb8545ef0eb4972e",
+      "checked_at": "2026-11-03T03:58:00.706665+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "830a72d8d19acb6a103867bb9caf7fbcc32e49015b61b3dd1dd1723281b83be6",
+    "sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead",
+    "thumbnail_sha256": "358df8efdba360bcdf95907e7d5245cda5ef556edf0f9f09fc7ccfe11d288a72",
+    "generated_at": "2026-11-03T04:10:26.393742+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98192",
@@ -917,7 +1302,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98192",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98192"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98192",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "4ff11eaa785ef0777a594181e34fdb5f80cde0734a7e91642a5b498a9b259a29",
+      "checked_at": "2026-11-03T03:58:00.857927+00:00"
+    }
   },
   {
     "title_id": "BCUS98199",
@@ -929,7 +1319,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98199",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98199"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98199",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "6b71fe7e449d2911321889e0cef3cefa0240dd43c3ffa950f97e71f9d5faa71d",
+      "checked_at": "2026-11-03T03:58:00.858304+00:00"
+    }
   },
   {
     "title_id": "BCUS98203",
@@ -941,7 +1336,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98203",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98203"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98203",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246713,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "f14378d07ec5d2cbee8427ef6cf77d1dd54ac88b7446794fa749e1de7cb2c43d",
+      "checked_at": "2026-11-03T03:58:04.813386+00:00",
+      "retry_after": "2026-11-10T03:58:04.813386+00:00"
+    }
   },
   {
     "title_id": "BCUS98206",
@@ -953,7 +1356,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98206",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98206"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98206",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346736,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "11b7552203e59da599d296251710cc11008d49144c7f1178147fbc5fda00f189",
+      "checked_at": "2026-11-03T03:58:08.823082+00:00",
+      "retry_after": "2026-11-10T03:58:08.823082+00:00"
+    }
   },
   {
     "title_id": "BCUS98207",
@@ -961,11 +1372,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98207",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98207"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98207",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277427,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/4dcebaa47be9cbc90f6a77a67e30d732.jpg",
+      "provider_artwork_id": 733662,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/03c04656da5ba8719d3c898a9a64a6d347485df6dd3343d5a7c0f8f5052ae5ed.image",
+      "source_page": "https://www.steamgriddb.com/grid/733662",
+      "attribution": "Mentos0723",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "f6dd868417bd541b8e4fd8a548c10c1592570f11abddbbfe0bacdc71faa54ce3",
+      "checked_at": "2026-11-03T03:58:54.285333+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "03c04656da5ba8719d3c898a9a64a6d347485df6dd3343d5a7c0f8f5052ae5ed",
+    "sha256": "268564fbcbf80da26c04a711a6691fc4dc574e2c5ee170fcff5467af92b36758",
+    "thumbnail_sha256": "ed3378ec8f796887d42731685b7f742295fe5d4d32dd5815b9d4627202e8b8a4",
+    "generated_at": "2026-11-03T04:10:26.709876+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98208",
@@ -977,7 +1427,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98208",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98208"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98208",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "5fe487f1c3456790b7334a11ba5c45a66014eb606fb4c2e9454d14c9e73d30c6",
+      "checked_at": "2026-11-03T03:58:54.421245+00:00"
+    }
   },
   {
     "title_id": "BCUS98209",
@@ -989,7 +1444,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98209",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98209"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98209",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b03cd51b8c82421dee4c4b21f2b8cd0f635467d16ed90fc35786f82d54eb558e",
+      "checked_at": "2026-11-03T03:58:55.405521+00:00"
+    }
   },
   {
     "title_id": "BCUS98214",
@@ -1001,7 +1461,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98214",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98214"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98214",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248797,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "da3d654fb27c2ff62846ca6abb3ee6e18be8d23fe7ec647a281e06557abe77df",
+      "checked_at": "2026-11-03T03:58:59.402749+00:00",
+      "retry_after": "2026-11-10T03:58:59.402749+00:00"
+    }
   },
   {
     "title_id": "BCUS98215",
@@ -1013,7 +1481,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98215",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98215"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98215",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b03cd51b8c82421dee4c4b21f2b8cd0f635467d16ed90fc35786f82d54eb558e",
+      "checked_at": "2026-11-03T03:58:59.403040+00:00"
+    }
   },
   {
     "title_id": "BCUS98220",
@@ -1025,7 +1498,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98220",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98220"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98220",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "38fac59ad47db57a2def0ae47518fdef3acc351736d8cd79db0a114694d0d5ac",
+      "checked_at": "2026-11-03T03:59:00.403711+00:00"
+    }
   },
   {
     "title_id": "BCUS98222",
@@ -1037,7 +1515,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98222",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98222"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98222",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246664,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "83a23704cb0e7ed57fc7367eec7b60c218eb4930a20d992bbe6d53b882cd36c0",
+      "checked_at": "2026-11-03T03:59:04.410283+00:00",
+      "retry_after": "2026-11-10T03:59:04.410283+00:00"
+    }
   },
   {
     "title_id": "BCUS98224",
@@ -1049,7 +1535,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98224",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98224"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98224",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "ff385d4e6b75eb4a26548da9480f4f97cc6bc6f3a24f20cf687ae34bb7a06a8f",
+      "checked_at": "2026-11-03T03:59:05.424145+00:00"
+    }
   },
   {
     "title_id": "BCUS98227",
@@ -1061,7 +1552,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98227",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98227"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98227",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "433f3dc4cd0f7fd6ef7a582ad41654bb15d272688288ff50f84f3efb78ce5745",
+      "checked_at": "2026-11-03T03:59:08.404017+00:00"
+    }
   },
   {
     "title_id": "BCUS98229",
@@ -1069,11 +1565,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98229",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98229"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98229",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248520,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/f0488a9868564c681a7505f428fc9caf.png",
+      "provider_artwork_id": 267289,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/ec4c3babd4c4f38fc5fb1ab0bcf8d7fe7a2d6d35e6a3d4fc12f848be57a8aa96.image",
+      "source_page": "https://www.steamgriddb.com/grid/267289",
+      "attribution": "SolarisTM",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "6407a4e865d0617e6b1fa61072b4f955f0d085c52ef61e5d4ef64692ccb9ce7c",
+      "checked_at": "2026-11-03T03:59:12.673111+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "ec4c3babd4c4f38fc5fb1ab0bcf8d7fe7a2d6d35e6a3d4fc12f848be57a8aa96",
+    "sha256": "909ac381bf9fddc6c5cbe224d0fc4f431905b2ff9533ccf4f1e042ef7cfb167b",
+    "thumbnail_sha256": "3680c947e43bfd79a81d68d521e36514e6ab72912d643a0d3e52464ad938aee5",
+    "generated_at": "2026-11-03T04:10:26.892213+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98232",
@@ -1081,11 +1616,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98232",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98232"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98232",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248417,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/4967304e483aa9f706f83a4f45dafe17.png",
+      "provider_artwork_id": 148297,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/16cf1fa774932d03d66e0e704d189b6663d2556675199a09dc3a0d8e4ea67263.image",
+      "source_page": "https://www.steamgriddb.com/grid/148297",
+      "attribution": "regehman",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "73399dfdb6af98b334ea02b65ad82281f80fbc293c824f2b61cf412f892fc0ad",
+      "checked_at": "2026-11-03T03:59:18.258128+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "16cf1fa774932d03d66e0e704d189b6663d2556675199a09dc3a0d8e4ea67263",
+    "sha256": "bec42bf260459091fc191b91ca7245f88ae85d2bdf9d8a896205b9738e3d55e6",
+    "thumbnail_sha256": "1327734a44eae4249d920878d1ac22a83587b2fccdd99c86c6ca8e493c9ec939",
+    "generated_at": "2026-11-03T04:10:27.209097+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98233",
@@ -1109,11 +1683,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98234",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98234"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98234",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258911,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/0458163dff514ed38e3f0a46204509f2.png",
+      "provider_artwork_id": 146522,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/b3579907c4594bb5c8167325a5f45b134e66cf70c0726e89c21b3926a0db5591.image",
+      "source_page": "https://www.steamgriddb.com/grid/146522",
+      "attribution": "FrostWolf",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "eaacd5246506f1f6a4b4848b4552901e44854914ccf226db539efccdbca1f415",
+      "checked_at": "2026-11-03T03:59:22.918955+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "b3579907c4594bb5c8167325a5f45b134e66cf70c0726e89c21b3926a0db5591",
+    "sha256": "699434de8fe97f3e45acd4677ff293318d6d79c1781977f2a1a6be822d5db225",
+    "thumbnail_sha256": "17c72ce033d4eb06f5442c7fd671b3c2e7af6932938b6dba062cb177ad05050c",
+    "generated_at": "2026-11-03T04:10:27.660571+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98235",
@@ -1125,7 +1738,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98235",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98235"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98235",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "ad24ec069b73d2ea120fd5b242197c0b81a203a0804d326ed7ead888bbf1ad22",
+      "checked_at": "2026-11-03T03:59:23.403703+00:00"
+    }
   },
   {
     "title_id": "BCUS98242",
@@ -1133,11 +1751,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98242",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98242"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98242",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5261911,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/713113a267265b81425b88dbe4cbae5b.png",
+      "provider_artwork_id": 278227,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/00d7a44bad41dcd257f190ca2c99712f1b7b2e3e5b53688a5fdfda513c3bb119.image",
+      "source_page": "https://www.steamgriddb.com/grid/278227",
+      "attribution": "Purgenta",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "c92ca1da2adaec532605a3606e7963cb97445514e4645bac1a1c5c67a740a8c6",
+      "checked_at": "2026-11-03T03:59:27.824992+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "00d7a44bad41dcd257f190ca2c99712f1b7b2e3e5b53688a5fdfda513c3bb119",
+    "sha256": "53c722375d98a6b9431cb961a6aae70b329ec71c5497ed562eac79bbe6f26365",
+    "thumbnail_sha256": "0398ae8eff647cd1780819b49d636b5d2e566f02b7c4c53116be5db8384d70f6",
+    "generated_at": "2026-11-03T04:10:27.884190+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98245",
@@ -1145,11 +1802,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98245",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98245"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98245",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5249655,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/694107a71c443501ce45073ae0903beb.png",
+      "provider_artwork_id": 208100,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/7b3d10cc76d23ad15a84e97e51b639e34f79b1ae4ff93fe6d7fca62a3c8ef3a5.image",
+      "source_page": "https://www.steamgriddb.com/grid/208100",
+      "attribution": "Maxine",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "4cfb1ea594de7a553561a3b4fa4c117323dabd642b08b8d566e5c1a8c0009bd3",
+      "checked_at": "2026-11-03T03:59:32.952973+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "7b3d10cc76d23ad15a84e97e51b639e34f79b1ae4ff93fe6d7fca62a3c8ef3a5",
+    "sha256": "c64e3e032a6598fb9d331069387d60052a3fd3a3223d5f85ebb9212b797f196d",
+    "thumbnail_sha256": "fecfc24160194e2f2b4dfe494aa855fe91ccc6beac3d176420111208f4145ad9",
+    "generated_at": "2026-11-03T04:10:28.308517+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98246",
@@ -1157,11 +1853,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98246",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98246"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98246",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5358727,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/4d394ba69fcbecd7e86cab0dec1e2e0f.png",
+      "provider_artwork_id": 238017,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/008c58438b97029251cb6adcec0f688ce3dc7b786e9c1d3ce225d1455349d35d.image",
+      "source_page": "https://www.steamgriddb.com/grid/238017",
+      "attribution": "Shiios42",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8def9865a1e8e45a1a8e03305118f5d0660304b7910ee5987720cdbf92ed9fd8",
+      "checked_at": "2026-11-03T03:59:36.346752+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "008c58438b97029251cb6adcec0f688ce3dc7b786e9c1d3ce225d1455349d35d",
+    "sha256": "059dd9129a4d428ab218af30c499d8325e6e4e2008f20e44842e052e2e3e50a8",
+    "thumbnail_sha256": "053b28784d931dc4dfbca3a89bc4acfb1177b21616473955b86ccc45e3d2f593",
+    "generated_at": "2026-11-03T04:10:29.670557+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98247",
@@ -1169,11 +1904,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98247",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98247"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98247",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 35240,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/42195fdc69b4ba211ca30da3d0459c39.png",
+      "provider_artwork_id": 144857,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/8c2f02141d710fcb5358d593ba63aa8c5c842ea3a24c0cf2b408eb219757434f.image",
+      "source_page": "https://www.steamgriddb.com/grid/144857",
+      "attribution": "Gray Mess",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8bf6bc49dae73b17b0ed0e7d2fc3da83b8bc02527ee6ab8c048fc29b8811568f",
+      "checked_at": "2026-11-03T03:59:41.410874+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "8c2f02141d710fcb5358d593ba63aa8c5c842ea3a24c0cf2b408eb219757434f",
+    "sha256": "682a1aa0d55b8e9f22dd808c99e042da2b5090d6ff100c38a88ffaf8b2b18c68",
+    "thumbnail_sha256": "42e1adb6d85a6c2ec818e3afa5eedf134927990d9f54f35d33014d616fd27734",
+    "generated_at": "2026-11-03T04:10:30.268918+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98248",
@@ -1185,7 +1959,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98248",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98248"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98248",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246731,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "ff6d44efc722d70815b89044d4df217e14ddb211f3036a0344b314c608e99b76",
+      "checked_at": "2026-11-03T03:59:45.415594+00:00",
+      "retry_after": "2026-11-10T03:59:45.415594+00:00"
+    }
   },
   {
     "title_id": "BCUS98251",
@@ -1193,11 +1975,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98251",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98251"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98251",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277428,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/b8108ca47cbc35b028951c2c1a35ff54.jpg",
+      "provider_artwork_id": 641172,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/62d44db54f034eb9883f25dcefc92ecceadd6e2deb08c5ea0738da8517ead4e1.image",
+      "source_page": "https://www.steamgriddb.com/grid/641172",
+      "attribution": "Mentos0723",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "6746845501931bc0e7b78f75251e309187f4fbcd77905705ce65cccfa4252693",
+      "checked_at": "2026-11-03T03:59:50.381246+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "62d44db54f034eb9883f25dcefc92ecceadd6e2deb08c5ea0738da8517ead4e1",
+    "sha256": "5186ffd70df2f7a416637bb1a1469be1eeb16430d57ebfb725b0e25c858e8ce5",
+    "thumbnail_sha256": "2cacefd9f9aa73548802561a300699385821faee4bebe54f6d12f8da3c3e499c",
+    "generated_at": "2026-11-03T04:10:30.528514+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98253",
@@ -1205,12 +2026,52 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98253",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98253",
-    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248520,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/f0488a9868564c681a7505f428fc9caf.png",
+      "provider_artwork_id": 267289,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/ec4c3babd4c4f38fc5fb1ab0bcf8d7fe7a2d6d35e6a3d4fc12f848be57a8aa96.image",
+      "source_page": "https://www.steamgriddb.com/grid/267289",
+      "attribution": "SolarisTM",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98229",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "6407a4e865d0617e6b1fa61072b4f955f0d085c52ef61e5d4ef64692ccb9ce7c",
+      "checked_at": "2026-11-03T03:59:50.394865+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "909ac381bf9fddc6c5cbe224d0fc4f431905b2ff9533ccf4f1e042ef7cfb167b",
+    "thumbnail_sha256": "3680c947e43bfd79a81d68d521e36514e6ab72912d643a0d3e52464ad938aee5",
+    "source_sha256": "ec4c3babd4c4f38fc5fb1ab0bcf8d7fe7a2d6d35e6a3d4fc12f848be57a8aa96",
+    "generated_at": "2026-11-03T04:10:26.892213+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98254",
@@ -1218,11 +2079,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98254",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98254"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98254",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5271733,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/12917275fbdf68d981e8934e93cc81da.png",
+      "provider_artwork_id": 224769,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/96f6868fdaaa533e20e5f5abae212cde8f35acf2c3045dadf81d352cb91a1e13.image",
+      "source_page": "https://www.steamgriddb.com/grid/224769",
+      "attribution": "Kynd",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ac300036b23222adceb0c5423ee921c02734913982a62fe63dcccce110a80843",
+      "checked_at": "2026-11-03T03:59:55.836558+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "96f6868fdaaa533e20e5f5abae212cde8f35acf2c3045dadf81d352cb91a1e13",
+    "sha256": "991fb747e0c60e4ae7b320c72bf7240706ae81128ef5cb0dbd1767cb184bb1ad",
+    "thumbnail_sha256": "9ab2c32321c25072c9b83fa547624f935956a9558509ba2a2227a0898cd8a25c",
+    "generated_at": "2026-11-03T04:10:31.009383+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98255",
@@ -1234,7 +2134,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98255",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98255"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98255",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246728,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "d31f9d5e8efc31f0dae6ec7f67c8b56efef04a67b1ade147841dec3c7e86460f",
+      "checked_at": "2026-11-03T03:59:59.418923+00:00",
+      "retry_after": "2026-11-10T03:59:59.418923+00:00"
+    }
   },
   {
     "title_id": "BCUS98257",
@@ -1242,11 +2150,51 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98257",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98257"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98257",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5245365,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/3c5c893d0214c89fdfa50e1af885b0d5.png",
+      "provider_artwork_id": 137325,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641.image",
+      "source_page": "https://www.steamgriddb.com/grid/137325",
+      "attribution": "Timberfang",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98123",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "a2bdf30020619c6df448d0531be7351e4c31b9e17d777feefc8aeeec8d5f46e1",
+      "checked_at": "2026-11-03T04:00:20.595560+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa",
+    "thumbnail_sha256": "33bcd66a87ddd0d6dc5879c312ccb0be3cd99264c07d4c06143b4d37ea7693df",
+    "source_sha256": "3cd8d3282732d0c5888d201443a3f23060209f32a651c1c74da578a172e78641",
+    "generated_at": "2026-11-03T04:10:39.507484+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98259",
@@ -1258,7 +2206,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98259",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98259"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98259",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "5e83793168d773a58b45cf7c961e16cd8abe64add76e1a93e1fc96b42ecde57f",
+      "checked_at": "2026-11-03T04:00:20.737214+00:00"
+    }
   },
   {
     "title_id": "BCUS98261",
@@ -1270,7 +2223,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98261",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98261"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98261",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5356437,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "16c2afaedb545520b01f78c38014999dfba4d6e93b1ddd0b9fae156ada7f8783",
+      "checked_at": "2026-11-03T04:00:24.715453+00:00",
+      "retry_after": "2026-11-10T04:00:24.715453+00:00"
+    }
   },
   {
     "title_id": "BCUS98266",
@@ -1282,7 +2243,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98266",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98266"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98266",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "c93a691f5ba2b635c011408bdc8696cbf23e60a44b86d39cf75b282a74cc57cc",
+      "checked_at": "2026-11-03T04:00:25.758156+00:00"
+    }
   },
   {
     "title_id": "BCUS98269",
@@ -1294,7 +2260,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98269",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98269"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98269",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5246733,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "3998799f7bb0fdbd7859259d9abb1b63f59fe0b6af8c1f00f015a2fac1d6e101",
+      "checked_at": "2026-11-03T04:00:29.755194+00:00",
+      "retry_after": "2026-11-10T04:00:29.755194+00:00"
+    }
   },
   {
     "title_id": "BCUS98270",
@@ -1306,7 +2280,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98270",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98270"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98270",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5285927,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "2ec4ae4b8f14468f8e4c74fb129dc2600d54765e10b9af05df0a1c88d8fd5512",
+      "checked_at": "2026-11-03T04:00:33.728975+00:00",
+      "retry_after": "2026-11-10T04:00:33.728975+00:00"
+    }
   },
   {
     "title_id": "BCUS98271",
@@ -1318,7 +2300,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98271",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98271"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98271",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "ab29059b122a0e9ba6330871c99e5edc58c3216a7afffd846cffaf8a00e289ad",
+      "checked_at": "2026-11-03T04:00:34.715645+00:00"
+    }
   },
   {
     "title_id": "BCUS98278",
@@ -1330,7 +2317,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98278",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98278"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98278",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5273779,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "8ed64719cec061d25e056815ccd2aa5bb355dd0c6873d1f38e1d51d0a100431d",
+      "checked_at": "2026-11-03T04:00:38.716920+00:00",
+      "retry_after": "2026-11-10T04:00:38.716920+00:00"
+    }
   },
   {
     "title_id": "BCUS98279",
@@ -1342,7 +2337,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98279",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98279"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98279",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "3298f2cd717c5f191481c186bcaf84cacf4aac8b30dbb1d4ff0f0d9fb0094b9e",
+      "checked_at": "2026-11-03T04:00:39.722869+00:00"
+    }
   },
   {
     "title_id": "BCUS98280",
@@ -1354,7 +2354,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98280",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98280"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98280",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "c4aed6540ec7d772a0cacd9f01e1a36e8af196d61541e666e27aba0e942eac34",
+      "checked_at": "2026-11-03T04:00:40.720252+00:00"
+    }
   },
   {
     "title_id": "BCUS98281",
@@ -1362,11 +2367,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98281",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98281"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98281",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5285926,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/523451319295f9937986e552f13e640e.png",
+      "provider_artwork_id": 559173,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/e46619588091984c7b5eb5b43828158ef3ea33dd3869b812f9bc9473abe7b2a5.image",
+      "source_page": "https://www.steamgriddb.com/grid/559173",
+      "attribution": "fia",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "3de6f92237fa9868c3fc4a34da42aaf92febe6ecfb9e83f23261114ed3641d65",
+      "checked_at": "2026-11-03T04:00:45.264544+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "e46619588091984c7b5eb5b43828158ef3ea33dd3869b812f9bc9473abe7b2a5",
+    "sha256": "f6fc3d6ad8aa2b46d04b419b556916b5bf5268d287f0192c20fec9519485c357",
+    "thumbnail_sha256": "b338852f2c3aaea742a05bc64214625035e4626995007e844a2b42c3137ced9d",
+    "generated_at": "2026-11-03T04:10:32.878068+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98282",
@@ -1378,7 +2422,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98282",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98282"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98282",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "38b5acd9f569a3a05d825823ce399609d8020c60fd3497f8b408a846a9e53d61",
+      "checked_at": "2026-11-03T04:00:45.724339+00:00"
+    }
   },
   {
     "title_id": "BCUS98286",
@@ -1386,11 +2435,51 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98286",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98286"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98286",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258911,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/0458163dff514ed38e3f0a46204509f2.png",
+      "provider_artwork_id": 146522,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/b3579907c4594bb5c8167325a5f45b134e66cf70c0726e89c21b3926a0db5591.image",
+      "source_page": "https://www.steamgriddb.com/grid/146522",
+      "attribution": "FrostWolf",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98234",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "eaacd5246506f1f6a4b4848b4552901e44854914ccf226db539efccdbca1f415",
+      "checked_at": "2026-11-03T04:00:45.763300+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "699434de8fe97f3e45acd4677ff293318d6d79c1781977f2a1a6be822d5db225",
+    "thumbnail_sha256": "17c72ce033d4eb06f5442c7fd671b3c2e7af6932938b6dba062cb177ad05050c",
+    "source_sha256": "b3579907c4594bb5c8167325a5f45b134e66cf70c0726e89c21b3926a0db5591",
+    "generated_at": "2026-11-03T04:10:27.660571+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98289",
@@ -1398,11 +2487,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98289",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98289"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98289",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37146,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/160b2a3b897c66464fd1c76ebe47d63d.jpg",
+      "provider_artwork_id": 563289,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/cd22223c82bd548dc84226ca7e80f5fca6b28ce74d2ef46cec7a22b0e18a2e2d.image",
+      "source_page": "https://www.steamgriddb.com/grid/563289",
+      "attribution": "Crayzn",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "296534ec4e450b380a3dbb9801b0e6ab5126b36ce5fdf4863b17174086a5bb17",
+      "checked_at": "2026-11-03T04:03:24.322180+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "cd22223c82bd548dc84226ca7e80f5fca6b28ce74d2ef46cec7a22b0e18a2e2d",
+    "sha256": "f86d3937d6f4c1ad655c2a76e12c503bdd95481c63574a6488c40be9847a1064",
+    "thumbnail_sha256": "c29b187a2dc7f6495b6c9201b66f9c9a43563a88f6dde31c39c7221f992506a6",
+    "generated_at": "2026-11-03T04:10:33.399472+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98295",
@@ -1414,7 +2542,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98295",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98295"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98295",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277429,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "1e4d949e41129265ce4c113ed8dcf555de5097f8cc277b6fe3e0df2424fc2714",
+      "checked_at": "2026-11-03T04:03:27.991848+00:00",
+      "retry_after": "2026-11-10T04:03:27.991848+00:00"
+    }
   },
   {
     "title_id": "BCUS98296",
@@ -1422,11 +2558,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98296",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98296"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98296",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5253540,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/015192df5af859dfc39e1e06dd3c7aad.jpg",
+      "provider_artwork_id": 336514,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/6f38453cacec77fe2b01e13718dcf23851e8500913226165916ff797dc9d3836.image",
+      "source_page": "https://www.steamgriddb.com/grid/336514",
+      "attribution": "reTokyo",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "f4cba7894fbfcc1cc6691cc91ff862a5ffce47e63227ad65aa718c2f0d53c91b",
+      "checked_at": "2026-11-03T04:05:02.395522+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "6f38453cacec77fe2b01e13718dcf23851e8500913226165916ff797dc9d3836",
+    "sha256": "39c3adff25c5d5321f92becf975955877f6d0a4f4a66a5fee094e80bb12a6284",
+    "thumbnail_sha256": "55e2fd4074bd7ab5e9e4bf4290d1b0d6cabd598a07d7cafb0436af3eb5c575c4",
+    "generated_at": "2026-11-03T04:10:34.026975+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98298",
@@ -1434,11 +2609,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98298",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98298"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98298",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 4963037,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/db80af59c3b415e17d14cf3c3b8dd11d.png",
+      "provider_artwork_id": 165597,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/4020cb95c06f236ae88c5ef4352a78dd085b4e95d537b9873aaf5fdb7c7370f8.image",
+      "source_page": "https://www.steamgriddb.com/grid/165597",
+      "attribution": "Varimarthas",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "9f9875e14fdfe748237a64bccc16dc0813105637fb0c190e375cf1f3b8bc7b78",
+      "checked_at": "2026-11-03T04:05:05.694893+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "4020cb95c06f236ae88c5ef4352a78dd085b4e95d537b9873aaf5fdb7c7370f8",
+    "sha256": "8eb55317e229c2d1b1e4d00b1b902f57164a3af9d733051e29063c4c920f26dd",
+    "thumbnail_sha256": "f649207191b95bfdac3c57220b882ea6ec12ab40384482b155ca60878da660be",
+    "generated_at": "2026-11-03T04:10:34.709364+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98359",
@@ -1450,7 +2664,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98359",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98359"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98359",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "aed59f99bf85f0f2a9e9ba090a632045b0181ce8884e2700b3f4b88bbde3e52f",
+      "checked_at": "2026-11-03T04:05:06.544922+00:00"
+    }
   },
   {
     "title_id": "BCUS98362",
@@ -1458,11 +2677,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98362",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98362"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98362",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5249323,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/466892d569e6f45e0443e7022497e461.png",
+      "provider_artwork_id": 165200,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/a5df7a74a82ee72d155b8633131b91c932ebba6dc1c6e992ddfad870189ce58c.image",
+      "source_page": "https://www.steamgriddb.com/grid/165200",
+      "attribution": "Varimarthas",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "15ee37d83a294199982df34bbecedc690eececaac8c0018cbe3de9bcfa45740e",
+      "checked_at": "2026-11-03T04:05:11.197885+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "a5df7a74a82ee72d155b8633131b91c932ebba6dc1c6e992ddfad870189ce58c",
+    "sha256": "f7ac79d4c9900dacf496a4a19666e6dd0f0d017826bfd8d4b13eac9cab2f6905",
+    "thumbnail_sha256": "918523bc7c47fc7fab931da949f09a817021670a9b1eed6a50b79b5adb1c8230",
+    "generated_at": "2026-11-03T04:10:34.928454+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98365",
@@ -1474,7 +2732,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98365",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98365"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98365",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "42a70d6aa5a2a28cb8a24f9359a637168e1284655dfb1b8f213c2c9a7d24cb1f",
+      "checked_at": "2026-11-03T04:05:11.609157+00:00"
+    }
   },
   {
     "title_id": "BCUS98368",
@@ -1486,7 +2749,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98368",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98368"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98368",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "73e3a2653277b87823a7f8d541184e839baefb366824d2e71115a8e796f40d14",
+      "checked_at": "2026-11-03T04:05:12.536444+00:00"
+    }
   },
   {
     "title_id": "BCUS98369",
@@ -1498,7 +2766,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98369",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98369"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98369",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "1657901ce0db3b146cf5823c97159642ece1dd965b3fc57ea0afbdf1fddc9b73",
+      "checked_at": "2026-11-03T04:05:13.666802+00:00"
+    }
   },
   {
     "title_id": "BCUS98372",
@@ -1510,7 +2783,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98372",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98372"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98372",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "bc091fbda80b32af9665e2a4b58d6ec54368337b76f975245d944fb97396f14f",
+      "checked_at": "2026-11-03T04:05:14.526059+00:00"
+    }
   },
   {
     "title_id": "BCUS98377",
@@ -1522,7 +2800,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98377",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98377"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98377",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "c51c57e5bf90d13f11cc65ce54819e52bb6ec097a056413285cf94eb6606a660",
+      "checked_at": "2026-11-03T04:05:15.559615+00:00"
+    }
   },
   {
     "title_id": "BCUS98379",
@@ -1530,11 +2813,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98379",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98379"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98379",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5245366,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/813f5e2092b190d1de1b2eace43e1895.png",
+      "provider_artwork_id": 357778,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/d69b5f4b80d3aff43cacb0241ce504243c6298a21e4f8f3153d1004c5d3b2ef6.image",
+      "source_page": "https://www.steamgriddb.com/grid/357778",
+      "attribution": "Shiios42",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "e4dd41f2c65c3c2b56f0943226901708ad077b84970bfbf108b3f6c4d62288fd",
+      "checked_at": "2026-11-03T04:05:18.188240+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "d69b5f4b80d3aff43cacb0241ce504243c6298a21e4f8f3153d1004c5d3b2ef6",
+    "sha256": "92c3341d8aac4e91a8745530a4555b791b0ea2ad7ed6fe89ea74fd61d1d3367f",
+    "thumbnail_sha256": "7514542227a94cf267d58d40622c2eb4f1e994ce0f8ce5055a95e43f0fcfa66c",
+    "generated_at": "2026-11-03T04:10:35.235589+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98380",
@@ -1542,11 +2864,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98380",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98380"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98380",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 37283,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/fdd679ce34d947305208f9b7de616757.jpg",
+      "provider_artwork_id": 719630,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/2ab3e0d9b093754abaeace381fb1a4dc8758bfd509a7ad8b8f4486181d7264b3.image",
+      "source_page": "https://www.steamgriddb.com/grid/719630",
+      "attribution": "Kokasgui",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "c19e88b577e255f562408a10878553cea066a80896d03f97fa366477a6c7065a",
+      "checked_at": "2026-11-03T04:06:41.940134+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "2ab3e0d9b093754abaeace381fb1a4dc8758bfd509a7ad8b8f4486181d7264b3",
+    "sha256": "b2ae9f46319365ffc02fdc6769719d48a74d70d95e5ce98b13aeaeca25dc786e",
+    "thumbnail_sha256": "5c70fbc66ee30cff40007f49a0df510efe921a5806865ea2fe73baa00daae3be",
+    "generated_at": "2026-11-03T04:10:35.501030+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98394",
@@ -1558,7 +2919,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98394",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98394"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98394",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "3e4af5ac32dbadba76ccfc727094e1700b2c33020f21b1d6b653771be78e0bcf",
+      "checked_at": "2026-11-03T04:06:42.486660+00:00"
+    }
   },
   {
     "title_id": "BCUS98466",
@@ -1571,7 +2937,12 @@
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98466",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98466",
-    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "1edd0bf0c8c9c25efba790052c5f53049ab8738fd96f5ee730751a587a6bdf54",
+      "checked_at": "2026-11-03T04:06:43.487502+00:00"
+    }
   },
   {
     "title_id": "BCUS98472",
@@ -1579,11 +2950,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98472",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98472"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98472",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5258287,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/a4fee69eb4b3ae4097c7ed6fb2fa7456.jpg",
+      "provider_artwork_id": 136274,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/27f2126425c5c853809a24979433cd9148f516d586a7ff4e3ff8084e4ee7feb5.image",
+      "source_page": "https://www.steamgriddb.com/grid/136274",
+      "attribution": "CluckenDip",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "5baf58c94c69e92e084ab9859ea0ec2a32e26c5f8c58090054e991cb980f4c57",
+      "checked_at": "2026-11-03T04:06:49.090001+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "27f2126425c5c853809a24979433cd9148f516d586a7ff4e3ff8084e4ee7feb5",
+    "sha256": "a383bc02c2644cd4abcf4dbfbd68e2b88226fdf45a577ac54fe154db833f747b",
+    "thumbnail_sha256": "50b96f9223894a1dc2af3a66d39eb3596f15f9b22491c4fec8ba42ed33776739",
+    "generated_at": "2026-11-03T04:10:35.904605+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS98473",
@@ -1595,7 +3005,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-98473",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98473"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-98473",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277430,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "1f2a7dafe325ff40e07f8bfad69ed0f5f94d37a8ac8f4c1ff2f2a71e55331f61",
+      "checked_at": "2026-11-03T04:06:52.508923+00:00",
+      "retry_after": "2026-11-10T04:06:52.508923+00:00"
+    }
   },
   {
     "title_id": "BCUS99075",
@@ -1607,7 +3025,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99075",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99075"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99075",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "211bc42d9fd72ffd90f5fb0536869101c8db274364cf23adb83bee1a911d3c30",
+      "checked_at": "2026-11-03T04:06:53.476145+00:00"
+    }
   },
   {
     "title_id": "BCUS99086",
@@ -1619,7 +3042,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99086",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99086"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99086",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "755c6f47209ddf94a4e41b7d8eea39680ac07e7eaff7cfa83e9c7acff84a6cf9",
+      "checked_at": "2026-11-03T04:06:54.496267+00:00"
+    }
   },
   {
     "title_id": "BCUS99089",
@@ -1627,11 +3055,51 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99089",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99089"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99089",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5271733,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/12917275fbdf68d981e8934e93cc81da.png",
+      "provider_artwork_id": 224769,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/96f6868fdaaa533e20e5f5abae212cde8f35acf2c3045dadf81d352cb91a1e13.image",
+      "source_page": "https://www.steamgriddb.com/grid/224769",
+      "attribution": "Kynd",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98254",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "ac300036b23222adceb0c5423ee921c02734913982a62fe63dcccce110a80843",
+      "checked_at": "2026-11-03T04:06:54.547810+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "991fb747e0c60e4ae7b320c72bf7240706ae81128ef5cb0dbd1767cb184bb1ad",
+    "thumbnail_sha256": "9ab2c32321c25072c9b83fa547624f935956a9558509ba2a2227a0898cd8a25c",
+    "source_sha256": "96f6868fdaaa533e20e5f5abae212cde8f35acf2c3045dadf81d352cb91a1e13",
+    "generated_at": "2026-11-03T04:10:31.009383+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS99134",
@@ -1639,11 +3107,51 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99134",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99134"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99134",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 4963037,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/db80af59c3b415e17d14cf3c3b8dd11d.png",
+      "provider_artwork_id": 165597,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/4020cb95c06f236ae88c5ef4352a78dd085b4e95d537b9873aaf5fdb7c7370f8.image",
+      "source_page": "https://www.steamgriddb.com/grid/165597",
+      "attribution": "Varimarthas",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98298",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "9f9875e14fdfe748237a64bccc16dc0813105637fb0c190e375cf1f3b8bc7b78",
+      "checked_at": "2026-11-03T04:06:54.562230+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "8eb55317e229c2d1b1e4d00b1b902f57164a3af9d733051e29063c4c920f26dd",
+    "thumbnail_sha256": "f649207191b95bfdac3c57220b882ea6ec12ab40384482b155ca60878da660be",
+    "source_sha256": "4020cb95c06f236ae88c5ef4352a78dd085b4e95d537b9873aaf5fdb7c7370f8",
+    "generated_at": "2026-11-03T04:10:34.709364+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS99189",
@@ -1655,7 +3163,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99189",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99189"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99189",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "80eae71f6fbf49254770c8e670c58e1322efbfe3abb999077814fb3d077caefb",
+      "checked_at": "2026-11-03T04:06:55.494968+00:00"
+    }
   },
   {
     "title_id": "BCUS99192",
@@ -1668,7 +3181,12 @@
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99192",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99192",
-    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "4cce77e49a1dc8b796cb2a7e82c8a9710a142bafaf1fc4fd82040cd3768408b6",
+      "checked_at": "2026-11-03T04:06:56.494469+00:00"
+    }
   },
   {
     "title_id": "BCUS99195",
@@ -1680,7 +3198,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99195",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99195"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99195",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5277431,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "edba19c57f49c5bcc90d5cd5d633c92316316c5866331d9830603454935d76ee",
+      "checked_at": "2026-11-03T04:07:00.483142+00:00",
+      "retry_after": "2026-11-10T04:07:00.483142+00:00"
+    }
   },
   {
     "title_id": "BCUS99198",
@@ -1688,11 +3214,51 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99198",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99198"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99198",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5103049,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/992c2f0d2905f7c730f85a8a4f98e460.png",
+      "provider_artwork_id": 144045,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd.image",
+      "source_page": "https://www.steamgriddb.com/grid/144045",
+      "attribution": "ABH20",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "shared_with": "BCUS98174",
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "8b9d5a13252e3eb7d6bd71f3a48f349bea1b2a839f5485cba02987f70d21ec84",
+      "checked_at": "2026-11-03T04:07:01.902109+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "sha256": "c7617aa06998993f289426bddbffb476416f7b7f788b6eeb9bd35704b43d5e45",
+    "thumbnail_sha256": "05606e7fef0c067bc6ef357e59dee6d3ec101eac81255d7d1d7fd38027259999",
+    "source_sha256": "8ce9d6cd283e108a203005088661ac5fd24909722607c0c486c5562613b043fd",
+    "generated_at": "2026-11-03T04:10:24.865189+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS99205",
@@ -1704,7 +3270,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99205",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99205"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99205",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "8110ca7c3dbb10b7d4bff05d43cdc3ac9059f69a99f5b9af9d97f16e95922b1b",
+      "checked_at": "2026-11-03T04:07:02.484480+00:00"
+    }
   },
   {
     "title_id": "BCUS99245",
@@ -1712,11 +3283,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99245",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99245"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99245",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 34269,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/7c69ceb58a4402afbb3927bcbf24e7b3.png",
+      "provider_artwork_id": 342424,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/c2184496972e54b1a2cec22e489f6eb8db402fd4bca73041313b41ceb6ce1e80.image",
+      "source_page": "https://www.steamgriddb.com/grid/342424",
+      "attribution": "Shiios42",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "547da11da80c2cda1cd28e132e071ba312f794f1bda4e49fc9234c07c352d03a",
+      "checked_at": "2026-11-03T04:07:06.952186+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "c2184496972e54b1a2cec22e489f6eb8db402fd4bca73041313b41ceb6ce1e80",
+    "sha256": "b32f48a4bf96c975e902945839fe806755206a87fb0c49b039eb725f800eb973",
+    "thumbnail_sha256": "57cfb7af80cb49c4c38706367f94a5b307bfb4356a84b6d6633adabd4559a530",
+    "generated_at": "2026-11-03T04:10:36.321192+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS99247",
@@ -1724,11 +3334,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99247",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99247"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99247",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5253540,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/9ebcbf098bb7a44b3b2e052ecd97ce7d.jpg",
+      "provider_artwork_id": 324570,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/153eaa74698d7f1e326f84cfa659a6a3e481eb6134ab48315341452717c54841.image",
+      "source_page": "https://www.steamgriddb.com/grid/324570",
+      "attribution": "darkregal040",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "f4cba7894fbfcc1cc6691cc91ff862a5ffce47e63227ad65aa718c2f0d53c91b",
+      "checked_at": "2026-11-03T04:07:08.064169+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "153eaa74698d7f1e326f84cfa659a6a3e481eb6134ab48315341452717c54841",
+    "sha256": "d5b03e7842c7c3f4b3b0645d597bdbb9cab3fdd9353601c06999793a2e082386",
+    "thumbnail_sha256": "57843c5360e100133780fb2dec2e94e728d3eca90cbdd8779201055d2cd062c9",
+    "generated_at": "2026-11-03T04:10:37.162109+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BCUS99277",
@@ -1741,7 +3390,12 @@
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BCUS-99277",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BCUS-99277",
-    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata"
+    "catalog_warning": "US disc serial but upstream region is 'PAL'; verify catalog metadata",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "881a9c8455ab02a93d3058e0115fc37246b4011314ab8b198131e9b0941f9611",
+      "checked_at": "2026-11-03T04:07:08.495333+00:00"
+    }
   },
   {
     "title_id": "BLUS30001",
@@ -1749,11 +3403,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30001",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30001"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30001",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5259378,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/d3a8a65bc4271aaffc677f6ecbd70b41.png",
+      "provider_artwork_id": 487023,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/fcf690f3606da0e042f3a8dbad15ba7c2c67e02378fdd053db62a6588435f471.image",
+      "source_page": "https://www.steamgriddb.com/grid/487023",
+      "attribution": "thatRdude",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "816d37b9a9feda4abb0656936035380d09bf728227444d19e86d2de5c4b2d957",
+      "checked_at": "2026-11-03T04:07:52.848552+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "fcf690f3606da0e042f3a8dbad15ba7c2c67e02378fdd053db62a6588435f471",
+    "sha256": "5d4705f7875d574caa1cd2806747fa663b2df5426371411fa9f794eb9d110497",
+    "thumbnail_sha256": "c0c092d778a0ce7a5c6ddb83adbc208168e12ca43f1e2bc7d10c9f37e3dc4ecf",
+    "generated_at": "2026-11-03T04:10:37.526005+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30002",
@@ -1765,7 +3458,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30002",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30002"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30002",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5472376,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "21818772ff942519e56fcb986156b46b85c2c9dd1ada0afe2bd32f2896b5984f",
+      "checked_at": "2026-11-03T04:07:55.960343+00:00",
+      "retry_after": "2026-11-10T04:07:55.960343+00:00"
+    }
   },
   {
     "title_id": "BLUS30003",
@@ -1777,7 +3478,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30003",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30003"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30003",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "a60dbc54799e623ffc752a88a21be0f9da07796f56d53fc03e5ad4bd96d18a21",
+      "checked_at": "2026-11-03T04:07:56.979241+00:00"
+    }
   },
   {
     "title_id": "BLUS30004",
@@ -1789,7 +3495,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30004",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30004"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30004",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346622,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "aaf0c1f9e17fcd594b830da9d879bca29a677358e0673769e0f83c08ad033e79",
+      "checked_at": "2026-11-03T04:08:00.964717+00:00",
+      "retry_after": "2026-11-10T04:08:00.964717+00:00"
+    }
   },
   {
     "title_id": "BLUS30005",
@@ -1801,7 +3515,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30005",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30005"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30005",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5346640,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "0ccf0abd2b5cc58b08390681b7ce2e417da7be0cf60ab99e9c2301b56fbb9ed6",
+      "checked_at": "2026-11-03T04:08:04.961988+00:00",
+      "retry_after": "2026-11-10T04:08:04.961988+00:00"
+    }
   },
   {
     "title_id": "BLUS30006",
@@ -1813,7 +3535,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30006",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30006"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30006",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 1462,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "d1930f9df17752fbf1efbd5c7846bb8af4581499abb7f23a17922fc71e886a0d",
+      "checked_at": "2026-11-03T04:08:08.974099+00:00",
+      "retry_after": "2026-11-10T04:08:08.974099+00:00"
+    }
   },
   {
     "title_id": "BLUS30007",
@@ -1821,11 +3551,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30007",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30007"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30007",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 2331,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/bced66f13fafad6384c635c56d8e3e0d.png",
+      "provider_artwork_id": 679919,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/7da15031b8a42f593553873199f8b8a027c57fa87bb9aff2a98ec3d30bed8ca5.image",
+      "source_page": "https://www.steamgriddb.com/grid/679919",
+      "attribution": "TytusV2",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "e3d71a3b5a0924449441db06f3b32ed986e913f3685e9bc3f122a613a01c8c10",
+      "checked_at": "2026-11-03T04:09:16.880190+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "7da15031b8a42f593553873199f8b8a027c57fa87bb9aff2a98ec3d30bed8ca5",
+    "sha256": "955dfeaea29f3453ffcda6b91354ff7bab06077cada8cec883bf9e873b89eeae",
+    "thumbnail_sha256": "93558d578637b24513ce1c733c8af2aaaaf07fce1e2633eb89576d5fd507bdd5",
+    "generated_at": "2026-11-03T04:10:37.832379+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30008",
@@ -1837,7 +3606,12 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30008",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30008"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30008",
+    "fetch_state": {
+      "status": "ambiguous_match",
+      "fingerprint": "b52af4c977cd5d79f0609125bec80f02405c343de6465b9ec4f816afb5fd0178",
+      "checked_at": "2026-11-03T04:09:19.738204+00:00"
+    }
   },
   {
     "title_id": "BLUS30009",
@@ -1845,11 +3619,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30009",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30009"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30009",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5264745,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/cf01a804d001b0792293985a86b0eb50.jpg",
+      "provider_artwork_id": 733651,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/88ef4fc49f90bfce67a85d9a66e0251e3ed7c1c6a805aa5f75604b4fb007379e.image",
+      "source_page": "https://www.steamgriddb.com/grid/733651",
+      "attribution": "Mentos0723",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "164fb58ff3207d9db86a079bf74a2365eec2112bacc10e283bb35431b1464684",
+      "checked_at": "2026-11-03T04:10:04.511579+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "88ef4fc49f90bfce67a85d9a66e0251e3ed7c1c6a805aa5f75604b4fb007379e",
+    "sha256": "e6fe73b33915cfd27db6b7050fbb2d7964f0711d1fc2f5b22fea62cf73318c05",
+    "thumbnail_sha256": "284b63f76e1e32b1e72ce553ed3965a5e2e28f8ef03aeef67ee9c1a3b226b982",
+    "generated_at": "2026-11-03T04:10:38.219803+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30010",
@@ -1857,11 +3670,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30010",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30010"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30010",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 10313,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/6676f2743072225574d21e55ea816170.png",
+      "provider_artwork_id": 139065,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/331aee2b91eb635ae8bb6271dc1fe28fed281ca43cdc3b3ea35dd17009fcb075.image",
+      "source_page": "https://www.steamgriddb.com/grid/139065",
+      "attribution": "CriticalComposer",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "233f5b927d83418f93324764a5a280baefcfdc4521ddcbcf423f48e3144c4433",
+      "checked_at": "2026-11-03T04:10:08.603479+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "331aee2b91eb635ae8bb6271dc1fe28fed281ca43cdc3b3ea35dd17009fcb075",
+    "sha256": "7b9fb666243313a4e56826922ebd2a065dcf76b8ca6248dc77ec873929fb31d3",
+    "thumbnail_sha256": "74fb36b7692875d4d21d6e4e3fb70d3833829fec7278620bb261b33fcc4f6aa3",
+    "generated_at": "2026-11-03T04:10:38.525484+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30011",
@@ -1869,11 +3721,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30011",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30011"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30011",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 34809,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/5b8279fe66d88093f05795e8cf019c25.jpg",
+      "provider_artwork_id": 156811,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/b902780161103d9b7f62848f2b8a708a623d9af04ed6e618f74fd17466472723.image",
+      "source_page": "https://www.steamgriddb.com/grid/156811",
+      "attribution": "skyaos",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "cffa779ff02cfd815ea26b33164c886e21b49e0bc992c44525b25505ed09a52c",
+      "checked_at": "2026-11-03T04:10:13.580537+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "b902780161103d9b7f62848f2b8a708a623d9af04ed6e618f74fd17466472723",
+    "sha256": "53232d473ddfd3b8206528f868bd0d851fceff6fab15995a4fd573430d3d618d",
+    "thumbnail_sha256": "7c9f78d9ddff17572d21e5fa3f16eed36b8a56d3ebf92a3d2a3430f134aa4bbc",
+    "generated_at": "2026-11-03T04:10:38.842736+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30012",
@@ -1881,11 +3772,50 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
+    "artwork_status": "restricted",
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30012",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30012"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30012",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 5248470,
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/ad7caa0bd7647e0374220c01ad83b8b2.png",
+      "provider_artwork_id": 417546,
+      "format": "PNG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "path": "downloads/cbf74bbc6bdb767578e298a0cc16c8dece7962a26fad866f0402d7ad2a83c5db.image",
+      "source_page": "https://www.steamgriddb.com/grid/417546",
+      "attribution": "Mingebag",
+      "license": "Third-party artwork; redistribution unverified",
+      "redistribution": "unverified"
+    },
+    "fetch_state": {
+      "status": "selected",
+      "fingerprint": "c4f698228190d9bf8d19f2dc829d05d8e67ecd9bab6ed693900f1474fef2977e",
+      "checked_at": "2026-11-03T04:10:18.093317+00:00"
+    },
+    "artwork": null,
+    "thumbnail": null,
+    "source_sha256": "cbf74bbc6bdb767578e298a0cc16c8dece7962a26fad866f0402d7ad2a83c5db",
+    "sha256": "f78e0cf92ac96e4b71c2791def7fb54300ed4f41d2e67aa6c79a4a96a9c46903",
+    "thumbnail_sha256": "c79e27b8af38d6d734ff0c83ac819ea17adf3511837bd48faafcc1dea5b42609",
+    "generated_at": "2026-11-03T04:10:39.123341+00:00",
+    "processing_method": "native-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      512,
+      512
+    ],
+    "quality_warnings": []
   },
   {
     "title_id": "BLUS30013",
@@ -1897,7 +3827,15 @@
     "review_status": "pending",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30013",
-    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30013"
+    "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30013",
+    "match_confidence": "exact",
+    "steamgriddb_game_id": 34368,
+    "fetch_state": {
+      "status": "missing_square",
+      "fingerprint": "b99c96c644f76b127dd6b2308c5df848ee5575240d6a0fb42064115be5e46e53",
+      "checked_at": "2026-11-03T04:10:21.637502+00:00",
+      "retry_after": "2026-11-10T04:10:21.637502+00:00"
+    }
   },
   {
     "title_id": "BLUS30014",

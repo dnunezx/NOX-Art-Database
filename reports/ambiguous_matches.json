@@ -85,5 +85,2625 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98162",
+    "title": "Warhawk",
+    "candidates": [
+      {
+        "id": 5245243,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [],
+        "release_date": 815961600
+      },
+      {
+        "id": 5273706,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [],
+        "release_date": 1188259200
+      },
+      {
+        "id": 5470864,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1734048000
+      },
+      {
+        "id": 8119,
+        "name": "Warhawks",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1594394151
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98169",
+    "title": "PlayStation 3 System Software Update (Version 2.0)",
+    "candidates": [
+      {
+        "id": 5459217,
+        "name": "Linux for Playstation 2 (Operating System)",
+        "verified": true,
+        "types": [],
+        "release_date": 1009843200
+      },
+      {
+        "id": 5260080,
+        "name": "Tetris (PlayStation 3)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5268164,
+        "name": "Minecraft: PlayStation 3 Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1387238400
+      },
+      {
+        "id": 5327253,
+        "name": "Sony PlayStation 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1163203200
+      },
+      {
+        "id": 5495937,
+        "name": "Five Night at Freddy's 3 on The Playstation 1",
+        "verified": true,
+        "types": [],
+        "release_date": 1738454400
+      },
+      {
+        "id": 36198,
+        "name": "PlayStation Now",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246701,
+        "name": "PlayStation Move: Ape Escape",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246731,
+        "name": "PlayStation Move Heroes",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246738,
+        "name": "PlayStation VR Worlds",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5258287,
+        "name": "PlayStation All-Stars Battle Royale",
+        "verified": true,
+        "types": [],
+        "release_date": 1353369600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98177",
+    "title": "Sports Champions",
+    "candidates": [
+      {
+        "id": 5273779,
+        "name": "Sports Champions 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1351555200
+      },
+      {
+        "id": 35368,
+        "name": "Sports Illustrated: Championship Football & Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 34181,
+        "name": "Sports Illustrated: Golf Classic",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 34454,
+        "name": "Sports Illustrated for Kids Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 35429,
+        "name": "Sports Illustrated: Football & Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 37222,
+        "name": "Sports Illustrated for Kids: The Ultimate Triple Dare",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 37435,
+        "name": "Sports Illustrated for Kids: Football",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5256019,
+        "name": "Sports Connection",
+        "verified": true,
+        "types": [
+          "eshop"
+        ],
+        "release_date": 1352764800
+      },
+      {
+        "id": 5276819,
+        "name": "Sports Paradise VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1613606400
+      },
+      {
+        "id": 5293437,
+        "name": "Sports Heads: Tennis",
+        "verified": true,
+        "types": [
+          "flashpoint"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98181",
+    "title": "Starhawk",
+    "candidates": [
+      {
+        "id": 5246670,
+        "name": "Starhawk",
+        "verified": true,
+        "types": [],
+        "release_date": 1356998400
+      },
+      {
+        "id": 5451942,
+        "name": "StarHawk",
+        "verified": true,
+        "types": [],
+        "release_date": 725846400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98186",
+    "title": "SingStar Vol. 2",
+    "candidates": [
+      {
+        "id": 5261859,
+        "name": "Singstar",
+        "verified": true,
+        "types": [],
+        "release_date": 1414108800
+      },
+      {
+        "id": 5343097,
+        "name": "SingStar '80s",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346734,
+        "name": "SingStar Amped",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346735,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1115942400
+      },
+      {
+        "id": 5346736,
+        "name": "SingStar Queen",
+        "verified": true,
+        "types": [],
+        "release_date": 1237420800
+      },
+      {
+        "id": 5441301,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1116374400
+      },
+      {
+        "id": 5441302,
+        "name": "SingStar Rocks!",
+        "verified": true,
+        "types": [],
+        "release_date": 1150416000
+      },
+      {
+        "id": 5441303,
+        "name": "SingStar La Edad de Oro del Pop Español",
+        "verified": true,
+        "types": [],
+        "release_date": 1163548800
+      },
+      {
+        "id": 5441304,
+        "name": "SingStar Pop Hits 40",
+        "verified": true,
+        "types": [],
+        "release_date": 1181692800
+      },
+      {
+        "id": 5435887,
+        "name": "Friday Night Funkin' SingStar Challenge",
+        "verified": true,
+        "types": [],
+        "release_date": 1658534400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98192",
+    "title": "SingStar ABBA",
+    "candidates": [
+      {
+        "id": 5261859,
+        "name": "Singstar",
+        "verified": true,
+        "types": [],
+        "release_date": 1414108800
+      },
+      {
+        "id": 5343097,
+        "name": "SingStar '80s",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346734,
+        "name": "SingStar Amped",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346735,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1115942400
+      },
+      {
+        "id": 5346736,
+        "name": "SingStar Queen",
+        "verified": true,
+        "types": [],
+        "release_date": 1237420800
+      },
+      {
+        "id": 5441301,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1116374400
+      },
+      {
+        "id": 5441302,
+        "name": "SingStar Rocks!",
+        "verified": true,
+        "types": [],
+        "release_date": 1150416000
+      },
+      {
+        "id": 5441303,
+        "name": "SingStar La Edad de Oro del Pop Español",
+        "verified": true,
+        "types": [],
+        "release_date": 1163548800
+      },
+      {
+        "id": 5441304,
+        "name": "SingStar Pop Hits 40",
+        "verified": true,
+        "types": [],
+        "release_date": 1181692800
+      },
+      {
+        "id": 5435887,
+        "name": "Friday Night Funkin' SingStar Challenge",
+        "verified": true,
+        "types": [],
+        "release_date": 1658534400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98199",
+    "title": "LittleBigPlanet",
+    "candidates": [
+      {
+        "id": 5246704,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1224547200
+      },
+      {
+        "id": 5267797,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1258416000
+      },
+      {
+        "id": 5249323,
+        "name": "LittleBigPlanet 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1416268800
+      },
+      {
+        "id": 5249655,
+        "name": "LittleBigPlanet 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1295308800
+      },
+      {
+        "id": 5271733,
+        "name": "LittleBigPlanet Karting",
+        "verified": true,
+        "types": [],
+        "release_date": 1349481600
+      },
+      {
+        "id": 5273011,
+        "name": "LittleBigPlanet PS Vita",
+        "verified": true,
+        "types": [],
+        "release_date": 1348012800
+      },
+      {
+        "id": 5446339,
+        "name": "LittleBigPlanet™ HUB - Internal Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1386633600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98208",
+    "title": "LittleBigPlanet: Game of the Year Edition",
+    "candidates": [
+      {
+        "id": 5246704,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1224547200
+      },
+      {
+        "id": 5267797,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1258416000
+      },
+      {
+        "id": 5249323,
+        "name": "LittleBigPlanet 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1416268800
+      },
+      {
+        "id": 5249655,
+        "name": "LittleBigPlanet 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1295308800
+      },
+      {
+        "id": 5271733,
+        "name": "LittleBigPlanet Karting",
+        "verified": true,
+        "types": [],
+        "release_date": 1349481600
+      },
+      {
+        "id": 5273011,
+        "name": "LittleBigPlanet PS Vita",
+        "verified": true,
+        "types": [],
+        "release_date": 1348012800
+      },
+      {
+        "id": 5446339,
+        "name": "LittleBigPlanet™ HUB - Internal Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1386633600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98209",
+    "title": "Buzz! Quiz World",
+    "candidates": [
+      {
+        "id": 5432197,
+        "name": "BUZZ",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704931200
+      },
+      {
+        "id": 4917,
+        "name": "Buzz Aldrin's Space Program Manager",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1414753119
+      },
+      {
+        "id": 34653,
+        "name": "Buzz Lightyear of Star Command",
+        "verified": true,
+        "types": [],
+        "release_date": 970617600
+      },
+      {
+        "id": 5246119,
+        "name": "Buzz Kill Zero",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573804800
+      },
+      {
+        "id": 5251638,
+        "name": "Buzz Aldrin: Cycling Pathways to Mars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1489734000
+      },
+      {
+        "id": 5436699,
+        "name": "Buzz Cut Simulation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1701043200
+      },
+      {
+        "id": 5448279,
+        "name": "BUZZ or DIE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5478904,
+        "name": "Buzz Off",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1741219200
+      },
+      {
+        "id": 5494574,
+        "name": "Buzz Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5533240,
+        "name": "Buzz Buddies",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98215",
+    "title": "Buzz! Quiz World",
+    "candidates": [
+      {
+        "id": 5432197,
+        "name": "BUZZ",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704931200
+      },
+      {
+        "id": 4917,
+        "name": "Buzz Aldrin's Space Program Manager",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1414753119
+      },
+      {
+        "id": 34653,
+        "name": "Buzz Lightyear of Star Command",
+        "verified": true,
+        "types": [],
+        "release_date": 970617600
+      },
+      {
+        "id": 5246119,
+        "name": "Buzz Kill Zero",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573804800
+      },
+      {
+        "id": 5251638,
+        "name": "Buzz Aldrin: Cycling Pathways to Mars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1489734000
+      },
+      {
+        "id": 5436699,
+        "name": "Buzz Cut Simulation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1701043200
+      },
+      {
+        "id": 5448279,
+        "name": "BUZZ or DIE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5478904,
+        "name": "Buzz Off",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1741219200
+      },
+      {
+        "id": 5494574,
+        "name": "Buzz Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5533240,
+        "name": "Buzz Buddies",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98220",
+    "title": "Start the Party!",
+    "candidates": [
+      {
+        "id": 5500127,
+        "name": "Let's Start Managing the Sexual Relief Department!",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1735689600
+      },
+      {
+        "id": 38014,
+        "name": "Parasol Stars: The Story of Bubble Bobble III",
+        "verified": true,
+        "types": [],
+        "release_date": 666576000
+      },
+      {
+        "id": 5296687,
+        "name": "Infinite Stars - The Visual Novel",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664480172
+      },
+      {
+        "id": 5352677,
+        "name": "Rising Star - The Horse Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1669852800
+      },
+      {
+        "id": 5434561,
+        "name": "Free Stars: The Ur-Quan Masters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1708300800
+      },
+      {
+        "id": 5467450,
+        "name": "Tetra Star: The Fighter",
+        "verified": true,
+        "types": [],
+        "release_date": 675043200
+      },
+      {
+        "id": 5542249,
+        "name": "Sea Star: The Diaries of Anne Bonny",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 2576,
+        "name": "Sword of the Stars: The Pit",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1361433600
+      },
+      {
+        "id": 5298595,
+        "name": "Sword of the Stars: The Pit 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1635465600
+      },
+      {
+        "id": 5377765,
+        "name": "Way In The Stars: The Threat",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98224",
+    "title": "TV Superstars",
+    "candidates": [
+      {
+        "id": 14550,
+        "name": "TV Trouble",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1477346763
+      },
+      {
+        "id": 35969,
+        "name": "TV Show King Party",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5276987,
+        "name": "TV Show King",
+        "verified": true,
+        "types": [],
+        "release_date": 1210550400
+      },
+      {
+        "id": 5276988,
+        "name": "TV Show King 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1261353600
+      },
+      {
+        "id": 5288876,
+        "name": "TV Kid",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1625097600
+      },
+      {
+        "id": 5316203,
+        "name": "TV Thief",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1645056000
+      },
+      {
+        "id": 5371942,
+        "name": "TV Sports: Hockey",
+        "verified": true,
+        "types": [],
+        "release_date": 662688000
+      },
+      {
+        "id": 5371943,
+        "name": "TV Sports: Football",
+        "verified": true,
+        "types": [],
+        "release_date": 596937600
+      },
+      {
+        "id": 5371944,
+        "name": "TV Sports: Basketball",
+        "verified": true,
+        "types": [],
+        "release_date": 599616000
+      },
+      {
+        "id": 5384199,
+        "name": "TV Station",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1677715200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98227",
+    "title": "Puppeteer",
+    "candidates": [
+      {
+        "id": 35986,
+        "name": "Puppeteer",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5337815,
+        "name": "Puppeteer",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5419887,
+        "name": "Puppeteer : Control",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1693526400
+      },
+      {
+        "id": 5439461,
+        "name": "Puppeteer's Curse",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5207,
+        "name": "Shadow Puppeteer",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1411974000
+      },
+      {
+        "id": 5263083,
+        "name": "Nightmare Puppeteer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1596412800
+      },
+      {
+        "id": 5402465,
+        "name": "The Puppeteer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 26972,
+        "name": "Art of Murder - Hunt for the Puppeteer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1234857600
+      },
+      {
+        "id": 5294933,
+        "name": "PUPPETEERS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1640995200
+      },
+      {
+        "id": 28443,
+        "name": "Shadow Council: The Puppeteers",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1529592260
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98235",
+    "title": "EyePet & Friends",
+    "candidates": [
+      {
+        "id": 5248797,
+        "name": "EyePet",
+        "verified": true,
+        "types": []
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98259",
+    "title": "The Ico & Shadow of the Colossus Collection",
+    "candidates": [
+      {
+        "id": 5253594,
+        "name": "Ico and Shadow of the Colossus Classics HD",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5437587,
+        "name": "'the",
+        "verified": true,
+        "types": [],
+        "release_date": 1451952000
+      },
+      {
+        "id": 27,
+        "name": "The Incredible Adventures of Van Helsing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1369236840
+      },
+      {
+        "id": 35,
+        "name": "The Last Story",
+        "verified": true,
+        "types": [],
+        "release_date": 1296086400
+      },
+      {
+        "id": 47,
+        "name": "The Final Fantasy Legend",
+        "verified": true,
+        "types": [],
+        "release_date": 629683200
+      },
+      {
+        "id": 54,
+        "name": "The Movies",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1131436800
+      },
+      {
+        "id": 136,
+        "name": "The ScreaMaze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543824000
+      },
+      {
+        "id": 162,
+        "name": "The Town",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1548151236
+      },
+      {
+        "id": 193,
+        "name": "The Far Kingdoms: Elements",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546596407
+      },
+      {
+        "id": 197,
+        "name": "The Five Cores Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1564471615
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98266",
+    "title": "SingStar Dance",
+    "candidates": [
+      {
+        "id": 5261859,
+        "name": "Singstar",
+        "verified": true,
+        "types": [],
+        "release_date": 1414108800
+      },
+      {
+        "id": 5343097,
+        "name": "SingStar '80s",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346734,
+        "name": "SingStar Amped",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346735,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1115942400
+      },
+      {
+        "id": 5346736,
+        "name": "SingStar Queen",
+        "verified": true,
+        "types": [],
+        "release_date": 1237420800
+      },
+      {
+        "id": 5441301,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1116374400
+      },
+      {
+        "id": 5441302,
+        "name": "SingStar Rocks!",
+        "verified": true,
+        "types": [],
+        "release_date": 1150416000
+      },
+      {
+        "id": 5441303,
+        "name": "SingStar La Edad de Oro del Pop Español",
+        "verified": true,
+        "types": [],
+        "release_date": 1163548800
+      },
+      {
+        "id": 5441304,
+        "name": "SingStar Pop Hits 40",
+        "verified": true,
+        "types": [],
+        "release_date": 1181692800
+      },
+      {
+        "id": 5435887,
+        "name": "Friday Night Funkin' SingStar Challenge",
+        "verified": true,
+        "types": [],
+        "release_date": 1658534400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98271",
+    "title": "Carnival Island",
+    "candidates": [
+      {
+        "id": 5362128,
+        "name": "Carnival",
+        "verified": true,
+        "types": [],
+        "release_date": 328665600
+      },
+      {
+        "id": 5448751,
+        "name": "Carnival",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5466614,
+        "name": "Carnival",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Carnival Games",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 11388,
+        "name": "Carnival Games® VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1477627094
+      },
+      {
+        "id": 25616,
+        "name": "Carnival Games Mini Golf",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5250095,
+        "name": "Carnival Hunt",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 5271450,
+        "name": "Carnival Games",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1605809004
+      },
+      {
+        "id": 5280006,
+        "name": "Carnival and Girls",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1616976000
+      },
+      {
+        "id": 5333811,
+        "name": "Carnival Games: Wild West 3D",
+        "verified": true,
+        "types": [],
+        "release_date": 1321833600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98279",
+    "title": "Medieval Moves: Deadmund's Quest",
+    "candidates": [
+      {
+        "id": 5899,
+        "name": "Medieval Engineers",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1424368744
+      },
+      {
+        "id": 6473,
+        "name": "Medieval: Total War - Collection",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1029826800
+      },
+      {
+        "id": 10427,
+        "name": "Medieval Playground",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1454058637
+      },
+      {
+        "id": 11396,
+        "name": "Medieval Battlefields",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1464886576
+      },
+      {
+        "id": 12843,
+        "name": "Medieval Kingdom Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546542757
+      },
+      {
+        "id": 13896,
+        "name": "Medieval Defenders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1478870160
+      },
+      {
+        "id": 14715,
+        "name": "Medieval Story",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1501864886
+      },
+      {
+        "id": 19096,
+        "name": "Medieval Steve",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1537426800
+      },
+      {
+        "id": 19232,
+        "name": "Medieval Mystery Match",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1501570800
+      },
+      {
+        "id": 20098,
+        "name": "Medieval Shopkeeper Simulator",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1526052151
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98280",
+    "title": "Heavy Rain: Director's Cut",
+    "candidates": [
+      {
+        "id": 38262,
+        "name": "Heavy Rain",
+        "verified": true,
+        "types": [
+          "steam",
+          "egs"
+        ],
+        "release_date": 1266883200
+      },
+      {
+        "id": 4454,
+        "name": "Heavy Bullets",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1411056840
+      },
+      {
+        "id": 4616,
+        "name": "Heavy Barrel",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 4845,
+        "name": "Heavy Fire: Afghanistan",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1408122038
+      },
+      {
+        "id": 5780,
+        "name": "Heavy Metal Machines",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1537362519
+      },
+      {
+        "id": 6261,
+        "name": "Heavy Weapon Deluxe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1156921200
+      },
+      {
+        "id": 8370,
+        "name": "Heavy Fire: Shattered Spear",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1445634077
+      },
+      {
+        "id": 9667,
+        "name": "Heavy Gear Assault",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1486751220
+      },
+      {
+        "id": 15303,
+        "name": "Heavy Impact",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1482283517
+      },
+      {
+        "id": 17621,
+        "name": "Heavy Bleakness",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1493017200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98282",
+    "title": "Ratchet & Clank Collection",
+    "candidates": [
+      {
+        "id": 12885,
+        "name": "Ratchet & Clank Future: Tools of Destruction",
+        "verified": true,
+        "types": [],
+        "release_date": 1193097600
+      },
+      {
+        "id": 33953,
+        "name": "Ratchet & Clank: Size Matters",
+        "verified": true,
+        "types": [],
+        "release_date": 1171324800
+      },
+      {
+        "id": 34269,
+        "name": "Ratchet & Clank: Into the Nexus",
+        "verified": true,
+        "types": [],
+        "release_date": 1383696000
+      },
+      {
+        "id": 34441,
+        "name": "Ratchet & Clank: Going Commando",
+        "verified": true,
+        "types": [],
+        "release_date": 1068508800
+      },
+      {
+        "id": 34509,
+        "name": "Ratchet & Clank Future: Quest for Booty",
+        "verified": true,
+        "types": [],
+        "release_date": 1219276800
+      },
+      {
+        "id": 34743,
+        "name": "Ratchet & Clank",
+        "verified": true,
+        "types": [],
+        "release_date": 1036540800
+      },
+      {
+        "id": 35945,
+        "name": "Ratchet & Clank: Up Your Arsenal",
+        "verified": true,
+        "types": [],
+        "release_date": 1099353600
+      },
+      {
+        "id": 37142,
+        "name": "Ratchet & Clank Future: A Crack in Time",
+        "verified": true,
+        "types": [],
+        "release_date": 1256601600
+      },
+      {
+        "id": 37283,
+        "name": "Ratchet & Clank: Full Frontal Assault",
+        "verified": true,
+        "types": [],
+        "release_date": 1353974400
+      },
+      {
+        "id": 37293,
+        "name": "Ratchet & Clank: All 4 One",
+        "verified": true,
+        "types": [],
+        "release_date": 1318896000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98359",
+    "title": "Wonderbook: Book of Spells",
+    "candidates": [
+      {
+        "id": 5246733,
+        "name": "Wonderbook: Walking with Dinosaurs",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5548516,
+        "name": "Wonderboy in Monster Land",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1790553600
+      },
+      {
+        "id": 5555429,
+        "name": "MiniHero: Wonderbound",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98365",
+    "title": "Everybody Dance",
+    "candidates": [
+      {
+        "id": 5489919,
+        "name": "My Girlfriend Advanced to the Dancer Class and She Buffs Everybody",
+        "verified": true,
+        "types": [],
+        "release_date": 1723852800
+      },
+      {
+        "id": 9743,
+        "name": "Everybody's Gone to the Rapture",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1460649660
+      },
+      {
+        "id": 29754,
+        "name": "everybody's sad",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1549397819
+      },
+      {
+        "id": 5246526,
+        "name": "Everybody Loves Skeletons",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1567753200
+      },
+      {
+        "id": 5254042,
+        "name": "Everybody Got Mad!",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5270657,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 1503964800
+      },
+      {
+        "id": 5270658,
+        "name": "Everybody's Golf VR",
+        "verified": true,
+        "types": [],
+        "release_date": 1558396800
+      },
+      {
+        "id": 5274509,
+        "name": "Everybody Wham Wham",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1611878400
+      },
+      {
+        "id": 5276346,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 896659200
+      },
+      {
+        "id": 5283357,
+        "name": "Everybody's Tennis (Hot Shots Tennis)",
+        "verified": true,
+        "types": [],
+        "release_date": 1158192000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98368",
+    "title": "PlayStation Move Puzzle Collection",
+    "candidates": [
+      {
+        "id": 5246701,
+        "name": "PlayStation Move: Ape Escape",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246731,
+        "name": "PlayStation Move Heroes",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 36198,
+        "name": "PlayStation Now",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246738,
+        "name": "PlayStation VR Worlds",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5258287,
+        "name": "PlayStation All-Stars Battle Royale",
+        "verified": true,
+        "types": [],
+        "release_date": 1353369600
+      },
+      {
+        "id": 5301915,
+        "name": "PlayStation Vita Pets",
+        "verified": true,
+        "types": [],
+        "release_date": 1401753600
+      },
+      {
+        "id": 5303735,
+        "name": "Playstation Home",
+        "verified": true,
+        "types": [],
+        "release_date": 1544486400
+      },
+      {
+        "id": 5305150,
+        "name": "PlayStation 2 Welcome Pack",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5338380,
+        "name": "PlayStation Plus",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5342431,
+        "name": "PlayStation Network Collection: Puzzle Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1224806400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98369",
+    "title": "PlayStation Move Indoor Sports Collection",
+    "candidates": [
+      {
+        "id": 5246701,
+        "name": "PlayStation Move: Ape Escape",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246731,
+        "name": "PlayStation Move Heroes",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 36198,
+        "name": "PlayStation Now",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246738,
+        "name": "PlayStation VR Worlds",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5258287,
+        "name": "PlayStation All-Stars Battle Royale",
+        "verified": true,
+        "types": [],
+        "release_date": 1353369600
+      },
+      {
+        "id": 5301915,
+        "name": "PlayStation Vita Pets",
+        "verified": true,
+        "types": [],
+        "release_date": 1401753600
+      },
+      {
+        "id": 5303735,
+        "name": "Playstation Home",
+        "verified": true,
+        "types": [],
+        "release_date": 1544486400
+      },
+      {
+        "id": 5305150,
+        "name": "PlayStation 2 Welcome Pack",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5338380,
+        "name": "PlayStation Plus",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5342431,
+        "name": "PlayStation Network Collection: Puzzle Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1224806400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98372",
+    "title": "LittleBigPlanet 2: Special Edition",
+    "candidates": [
+      {
+        "id": 5249655,
+        "name": "LittleBigPlanet 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1295308800
+      },
+      {
+        "id": 5246704,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1224547200
+      },
+      {
+        "id": 5249323,
+        "name": "LittleBigPlanet 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1416268800
+      },
+      {
+        "id": 5267797,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1258416000
+      },
+      {
+        "id": 5271733,
+        "name": "LittleBigPlanet Karting",
+        "verified": true,
+        "types": [],
+        "release_date": 1349481600
+      },
+      {
+        "id": 5273011,
+        "name": "LittleBigPlanet PS Vita",
+        "verified": true,
+        "types": [],
+        "release_date": 1348012800
+      },
+      {
+        "id": 5446339,
+        "name": "LittleBigPlanet™ HUB - Internal Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1386633600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98377",
+    "title": "Journey Collector's Edition",
+    "candidates": [
+      {
+        "id": 5492195,
+        "name": "City of Stories: Stephan's Journey Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1749771428
+      },
+      {
+        "id": 5490867,
+        "name": "Festival Journey: Venetian Masquerade Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5510416,
+        "name": "Festival Journey: Highland Dreams Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5510556,
+        "name": "Hunter's Journey: Nightmare Hunting Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5273327,
+        "name": "The Christmas Spirit: Journey Before Christmas Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1606780800
+      },
+      {
+        "id": 5502168,
+        "name": "Festival Journey: Secrets of Rio Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5489180,
+        "name": "Hunter's Journey: Tears of the Lake Collector's Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5254135,
+        "name": "Our Journeys ~ A Collection of Visual Novels",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1579902032
+      },
+      {
+        "id": 5256588,
+        "name": "Our Journeys 2 ~ A Collection of Visual Novels",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1584921600
+      },
+      {
+        "id": 5257654,
+        "name": "Our Journeys 3 ~ A Collection of Visual Novels",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1585699200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98394",
+    "title": "Gran Turismo 5: XL Edition",
+    "candidates": [
+      {
+        "id": 5253538,
+        "name": "Gran Turismo 5",
+        "verified": true,
+        "types": [],
+        "release_date": 1290556800
+      },
+      {
+        "id": 5253541,
+        "name": "Gran Turismo 5 Prologue",
+        "verified": true,
+        "types": [],
+        "release_date": 1197504000
+      },
+      {
+        "id": 38203,
+        "name": "Gran Turismo",
+        "verified": true,
+        "types": [],
+        "release_date": 882835200
+      },
+      {
+        "id": 35696,
+        "name": "Gran Turismo 3: A-Spec",
+        "verified": true,
+        "types": [],
+        "release_date": 988416000
+      },
+      {
+        "id": 36111,
+        "name": "Gran Turismo 2",
+        "verified": true,
+        "types": [],
+        "release_date": 944870400
+      },
+      {
+        "id": 36712,
+        "name": "Gran Turismo 4",
+        "verified": true,
+        "types": [],
+        "release_date": 1104192000
+      },
+      {
+        "id": 5253515,
+        "name": "Gran Turismo HD Concept",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5253540,
+        "name": "Gran Turismo 6",
+        "verified": true,
+        "types": [],
+        "release_date": 1372723200
+      },
+      {
+        "id": 5254104,
+        "name": "Gran Turismo Sport",
+        "verified": true,
+        "types": [],
+        "release_date": 1489708800
+      },
+      {
+        "id": 5268685,
+        "name": "Gran Turismo Concept: 2002 Tokyo-Geneva",
+        "verified": true,
+        "types": [],
+        "release_date": 1026864000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98466",
+    "title": "Everybody Dance 2",
+    "candidates": [
+      {
+        "id": 5489919,
+        "name": "My Girlfriend Advanced to the Dancer Class and She Buffs Everybody",
+        "verified": true,
+        "types": [],
+        "release_date": 1723852800
+      },
+      {
+        "id": 9743,
+        "name": "Everybody's Gone to the Rapture",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1460649660
+      },
+      {
+        "id": 29754,
+        "name": "everybody's sad",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1549397819
+      },
+      {
+        "id": 5246526,
+        "name": "Everybody Loves Skeletons",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1567753200
+      },
+      {
+        "id": 5254042,
+        "name": "Everybody Got Mad!",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5270657,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 1503964800
+      },
+      {
+        "id": 5270658,
+        "name": "Everybody's Golf VR",
+        "verified": true,
+        "types": [],
+        "release_date": 1558396800
+      },
+      {
+        "id": 5274509,
+        "name": "Everybody Wham Wham",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1611878400
+      },
+      {
+        "id": 5276346,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 896659200
+      },
+      {
+        "id": 5283357,
+        "name": "Everybody's Tennis (Hot Shots Tennis)",
+        "verified": true,
+        "types": [],
+        "release_date": 1158192000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99075",
+    "title": "Killzone Trilogy (Killzone | Killzone 2)",
+    "candidates": [
+      {
+        "id": 5290097,
+        "name": "Killzone Trilogy",
+        "verified": true,
+        "types": [],
+        "release_date": 1350950400
+      },
+      {
+        "id": 36818,
+        "name": "Killzone",
+        "verified": true,
+        "types": [],
+        "release_date": 1099353600
+      },
+      {
+        "id": 5246679,
+        "name": "Killzone: Shadow Fall",
+        "verified": true,
+        "types": [],
+        "release_date": 1384473600
+      },
+      {
+        "id": 5246680,
+        "name": "Killzone: Mercenary",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5258910,
+        "name": "Killzone 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1235692800
+      },
+      {
+        "id": 5258911,
+        "name": "Killzone 3",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5265809,
+        "name": "Killzone: Liberation",
+        "verified": true,
+        "types": [],
+        "release_date": 1162252800
+      },
+      {
+        "id": 5276568,
+        "name": "Across Killzone",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1613001600
+      },
+      {
+        "id": 5523426,
+        "name": "Kawaii Killzone",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5369011,
+        "name": "The Kill Zone",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1703462400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99086",
+    "title": "Uncharted 3: Drake's Deception: Game of the Year Edition",
+    "candidates": [
+      {
+        "id": 5245366,
+        "name": "Uncharted 3: Drake's Deception",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5325996,
+        "name": "Uncharted™ 3: Drake’s Deception Remastered",
+        "verified": true,
+        "types": [],
+        "release_date": 1479254400
+      },
+      {
+        "id": 5209428,
+        "name": "Uncharted: Drake's Fortune",
+        "verified": true,
+        "types": [],
+        "release_date": 1195430400
+      },
+      {
+        "id": 5325994,
+        "name": "Uncharted™: Drake's Fortune Remastered",
+        "verified": true,
+        "types": [],
+        "release_date": 1479254400
+      },
+      {
+        "id": 5246715,
+        "name": "Uncharted: The Nathan Drake Collection",
+        "verified": true,
+        "types": [],
+        "release_date": 1444176000
+      },
+      {
+        "id": 2363,
+        "name": "Uncharted Waters Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1363974840
+      },
+      {
+        "id": 5230,
+        "name": "Uncharted Waters Online: Episode Atlantis",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412369220
+      },
+      {
+        "id": 13872,
+        "name": "Uncharted Waters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 642988800
+      },
+      {
+        "id": 18091,
+        "name": "Uncharted Waters II (Daikoukai Jidai II)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 729302400
+      },
+      {
+        "id": 29425,
+        "name": "Uncharted Waters Online - Steam",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1545254929
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99189",
+    "title": "Wonderbook: Book of Potions",
+    "candidates": [
+      {
+        "id": 5246733,
+        "name": "Wonderbook: Walking with Dinosaurs",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5548516,
+        "name": "Wonderboy in Monster Land",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1790553600
+      },
+      {
+        "id": 5555429,
+        "name": "MiniHero: Wonderbound",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99192",
+    "title": "Invizimals: El Reino Escondido",
+    "candidates": [
+      {
+        "id": 5342309,
+        "name": "Invizimals",
+        "verified": true,
+        "types": [],
+        "release_date": 1257897600
+      },
+      {
+        "id": 5261412,
+        "name": "Invizimals: The Resistance",
+        "verified": true,
+        "types": [],
+        "release_date": 1414540800
+      },
+      {
+        "id": 5301418,
+        "name": "Invizimals: The Alliance",
+        "verified": true,
+        "types": [],
+        "release_date": 1383091200
+      },
+      {
+        "id": 5301999,
+        "name": "Invizimals: The Lost Kingdom",
+        "verified": true,
+        "types": [],
+        "release_date": 1383091200
+      },
+      {
+        "id": 5342308,
+        "name": "Invizimals: Shadow Zone",
+        "verified": true,
+        "types": [],
+        "release_date": 1289520000
+      },
+      {
+        "id": 5342310,
+        "name": "Invizimals: The Lost Tribes",
+        "verified": true,
+        "types": [],
+        "release_date": 1320364800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99205",
+    "title": "Best of PlayStation Network Vol. 1",
+    "candidates": [
+      {
+        "id": 11651,
+        "name": "Best of Us",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1461339415
+      },
+      {
+        "id": 32233,
+        "name": "Best Of Fight",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1540893778
+      },
+      {
+        "id": 38980,
+        "name": "Best of the Best: Championship Karate",
+        "verified": true,
+        "types": [],
+        "release_date": 723168000
+      },
+      {
+        "id": 5328384,
+        "name": "Best Of Eleven",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1653609600
+      },
+      {
+        "id": 5332402,
+        "name": "Best of Arcade Games DS",
+        "verified": true,
+        "types": [],
+        "release_date": 1228867200
+      },
+      {
+        "id": 5332403,
+        "name": "Best of Board Games DS",
+        "verified": true,
+        "types": [],
+        "release_date": 1188345600
+      },
+      {
+        "id": 5332404,
+        "name": "Best of Card Games DS",
+        "verified": true,
+        "types": [],
+        "release_date": 1164931200
+      },
+      {
+        "id": 5332405,
+        "name": "Best of Tests DS",
+        "verified": true,
+        "types": [],
+        "release_date": 1187913600
+      },
+      {
+        "id": 5332488,
+        "name": "Best of BiBi Blocksberg: Neustadt im Hex-Chaos + Das gestohlene Hexbuch",
+        "verified": true,
+        "types": [],
+        "release_date": 1362700800
+      },
+      {
+        "id": 5436905,
+        "name": "Best of Best",
+        "verified": true,
+        "types": [],
+        "release_date": 767750400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS99277",
+    "title": "Everybody Dance 3",
+    "candidates": [
+      {
+        "id": 5489919,
+        "name": "My Girlfriend Advanced to the Dancer Class and She Buffs Everybody",
+        "verified": true,
+        "types": [],
+        "release_date": 1723852800
+      },
+      {
+        "id": 9743,
+        "name": "Everybody's Gone to the Rapture",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1460649660
+      },
+      {
+        "id": 29754,
+        "name": "everybody's sad",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1549397819
+      },
+      {
+        "id": 5246526,
+        "name": "Everybody Loves Skeletons",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1567753200
+      },
+      {
+        "id": 5254042,
+        "name": "Everybody Got Mad!",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5270657,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 1503964800
+      },
+      {
+        "id": 5270658,
+        "name": "Everybody's Golf VR",
+        "verified": true,
+        "types": [],
+        "release_date": 1558396800
+      },
+      {
+        "id": 5274509,
+        "name": "Everybody Wham Wham",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1611878400
+      },
+      {
+        "id": 5276346,
+        "name": "Everybody's Golf",
+        "verified": true,
+        "types": [],
+        "release_date": 896659200
+      },
+      {
+        "id": 5283357,
+        "name": "Everybody's Tennis (Hot Shots Tennis)",
+        "verified": true,
+        "types": [],
+        "release_date": 1158192000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30003",
+    "title": "F.E.A.R.: First Encounter Assault Recon",
+    "candidates": [
+      {
+        "id": 2012,
+        "name": "F.E.A.R.",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1129532400
+      },
+      {
+        "id": 1523,
+        "name": "F.E.A.R. 2: Project Origin",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1234425600
+      },
+      {
+        "id": 1524,
+        "name": "F.E.A.R. 2: Project Origin JP",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 2018,
+        "name": "F.E.A.R. 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1308614400
+      },
+      {
+        "id": 2022,
+        "name": "F.E.A.R.: Extraction Point",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1274400000
+      },
+      {
+        "id": 2027,
+        "name": "F.E.A.R.: Perseus Mandate",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1274400000
+      },
+      {
+        "id": 2346,
+        "name": "F.E.A.R. Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1413874800
+      },
+      {
+        "id": 5473664,
+        "name": "F.E.A.R.: MMod",
+        "verified": true,
+        "types": [],
+        "release_date": 1418947200
+      },
+      {
+        "id": 5472674,
+        "name": "F.E.R.A.S.: E o Mistério da Ilha do Futuro",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 33607,
+        "name": "Bio F.R.E.A.K.S.",
+        "verified": true,
+        "types": [],
+        "release_date": 895536000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30008",
+    "title": "Sonic the Hedgehog",
+    "candidates": [
+      {
+        "id": 35571,
+        "name": "Sonic the Hedgehog",
+        "verified": true,
+        "types": [],
+        "release_date": 677635200
+      },
+      {
+        "id": 5249681,
+        "name": "Sonic the Hedgehog",
+        "verified": true,
+        "types": [],
+        "release_date": 1163462400
+      },
+      {
+        "id": 1773,
+        "name": "Sonic the Hedgehog 4: Episode I",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1326996000
+      },
+      {
+        "id": 1793,
+        "name": "Sonic The Hedgehog 4: Episode II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1337065200
+      },
+      {
+        "id": 33827,
+        "name": "Sonic the Hedgehog 3 & Knuckles",
+        "verified": true,
+        "types": [],
+        "release_date": 782438400
+      },
+      {
+        "id": 35189,
+        "name": "Sonic the Hedgehog 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 722304000
+      },
+      {
+        "id": 37127,
+        "name": "Sonic the Hedgehog Genesis",
+        "verified": true,
+        "types": [],
+        "release_date": 1163462400
+      },
+      {
+        "id": 37581,
+        "name": "Sonic the Hedgehog 3",
+        "verified": true,
+        "types": [],
+        "release_date": 760147200
+      },
+      {
+        "id": 5249680,
+        "name": "Sonic the Hedgehog (Sega Master System)",
+        "verified": true,
+        "types": [],
+        "release_date": 688348800
+      },
+      {
+        "id": 5249683,
+        "name": "Sonic the Hedgehog 2 (Sega Master System)",
+        "verified": true,
+        "types": [],
+        "release_date": 722304000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

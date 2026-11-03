@@ -45,108 +45,108 @@
 | White Knight Chronicles: International Edition | BCUS98146 | none | unknown | missing | pending | unverified |
 | Folklore | BCUS98147 | none | unknown | missing | pending | unverified |
 | LittleBigPlanet | BCUS98148 | 238018 | exact | validated | pending | unverified |
-| SingStar | BCUS98151 | none | unknown | missing | pending | unverified |
-| SOCOM: U.S. Navy SEALs: Confrontation | BCUS98152 | none | unknown | missing | pending | unverified |
-| Ratchet & Clank Future: Tools of Destruction | BCUS98153 | none | unknown | missing | pending | unverified |
-| MotorStorm: Pacific Rift | BCUS98155 | none | unknown | missing | pending | unverified |
-| Gran Turismo 5: Prologue | BCUS98158 | none | unknown | missing | pending | unverified |
-| SingStar | BCUS98161 | none | unknown | missing | pending | unverified |
-| Warhawk | BCUS98162 | none | unknown | missing | pending | unverified |
-| Heavy Rain | BCUS98164 | none | unknown | missing | pending | unverified |
-| NBA 09: The Inside | BCUS98165 | none | unknown | missing | pending | unverified |
-| ModNation Racers | BCUS98167 | none | unknown | missing | pending | unverified |
-| PlayStation 3 System Software Update (Version 2.0) | BCUS98169 | none | unknown | missing | pending | unverified |
+| SingStar | BCUS98151 | none | exact | missing_square | pending | unverified |
+| SOCOM: U.S. Navy SEALs: Confrontation | BCUS98152 | none | exact | missing_square | pending | unverified |
+| Ratchet & Clank Future: Tools of Destruction | BCUS98153 | 354884 | exact | validated | pending | unverified |
+| MotorStorm: Pacific Rift | BCUS98155 | 209979 | exact | validated | pending | unverified |
+| Gran Turismo 5: Prologue | BCUS98158 | 682335 | exact | validated | pending | unverified |
+| SingStar | BCUS98161 | none | exact | missing_square | pending | unverified |
+| Warhawk | BCUS98162 | none | unknown | ambiguous_match | pending | unverified |
+| Heavy Rain | BCUS98164 | 165239 | exact | validated | pending | unverified |
+| NBA 09: The Inside | BCUS98165 | none | exact | missing_square | pending | unverified |
+| ModNation Racers | BCUS98167 | 209723 | exact | validated | pending | unverified |
+| PlayStation 3 System Software Update (Version 2.0) | BCUS98169 | none | unknown | ambiguous_match | pending | unverified |
 | The Last of Us | BCUS98174 | 144045 | exact | validated | pending | unverified |
-| Ratchet & Clank: All 4 One | BCUS98175 | none | unknown | missing | pending | unverified |
-| Resistance 3 | BCUS98176 | none | unknown | missing | pending | unverified |
-| Sports Champions | BCUS98177 | none | unknown | missing | pending | unverified |
-| MLB 09: The Show | BCUS98180 | none | unknown | missing | pending | unverified |
-| Starhawk | BCUS98181 | none | unknown | missing | pending | unverified |
-| SOCOM: U.S. Navy SEALs: Confrontation | BCUS98183 | none | unknown | missing | pending | unverified |
-| SingStar Vol. 2 | BCUS98186 | none | unknown | missing | pending | unverified |
-| Resistance 2 | BCUS98190 | none | unknown | missing | pending | unverified |
-| SingStar ABBA | BCUS98192 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet | BCUS98199 | none | unknown | missing | pending | unverified |
-| Sorcery | BCUS98203 | none | unknown | missing | pending | unverified |
-| SingStar Queen | BCUS98206 | none | unknown | missing | pending | unverified |
-| MLB 10: The Show | BCUS98207 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet: Game of the Year Edition | BCUS98208 | none | unknown | missing | pending | unverified |
-| Buzz! Quiz World | BCUS98209 | none | unknown | missing | pending | unverified |
-| EyePet | BCUS98214 | none | unknown | missing | pending | unverified |
-| Buzz! Quiz World | BCUS98215 | none | unknown | missing | pending | unverified |
-| Start the Party! | BCUS98220 | none | unknown | missing | pending | unverified |
-| The Shoot | BCUS98222 | none | unknown | missing | pending | unverified |
-| TV Superstars | BCUS98224 | none | unknown | missing | pending | unverified |
-| Puppeteer | BCUS98227 | none | unknown | missing | pending | unverified |
-| God of War Collection | BCUS98229 | none | unknown | missing | pending | unverified |
-| God of War: Ascension | BCUS98232 | none | unknown | missing | pending | unverified |
-| Uncharted 3: Drake's Deception | BCUS98233 | none | unknown | ambiguous_match | pending | unverified |
-| Killzone 3 | BCUS98234 | none | unknown | missing | pending | unverified |
-| EyePet & Friends | BCUS98235 | none | unknown | missing | pending | unverified |
-| MotorStorm: Apocalypse | BCUS98242 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet 2 | BCUS98245 | none | unknown | missing | pending | unverified |
-| The Sly Collection | BCUS98246 | none | unknown | missing | pending | unverified |
-| Sly Cooper: Thieves in Time | BCUS98247 | none | unknown | missing | pending | unverified |
-| PlayStation Move Heroes | BCUS98248 | none | unknown | missing | pending | unverified |
-| MLB 11: The Show | BCUS98251 | none | unknown | missing | pending | unverified |
-| God of War Collection | BCUS98253 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet Karting | BCUS98254 | none | unknown | missing | pending | unverified |
-| The Fight: Lights Out | BCUS98255 | none | unknown | missing | pending | unverified |
-| Uncharted 2: Among Thieves | BCUS98257 | none | unknown | missing | pending | unverified |
-| The Ico & Shadow of the Colossus Collection | BCUS98259 | none | unknown | missing | pending | unverified |
-| High Velocity Bowling | BCUS98261 | none | unknown | missing | pending | unverified |
-| SingStar Dance | BCUS98266 | none | unknown | missing | pending | unverified |
-| Wonderbook: Walking with Dinosaurs | BCUS98269 | none | unknown | missing | pending | unverified |
-| Kung Fu Rider | BCUS98270 | none | unknown | missing | pending | unverified |
-| Carnival Island | BCUS98271 | none | unknown | missing | pending | unverified |
-| Sports Champions 2 | BCUS98278 | none | unknown | missing | pending | unverified |
-| Medieval Moves: Deadmund's Quest | BCUS98279 | none | unknown | missing | pending | unverified |
-| Heavy Rain: Director's Cut | BCUS98280 | none | unknown | missing | pending | unverified |
-| Jak and Daxter Collection | BCUS98281 | none | unknown | missing | pending | unverified |
-| Ratchet & Clank Collection | BCUS98282 | none | unknown | missing | pending | unverified |
-| Killzone 3 | BCUS98286 | none | unknown | missing | pending | unverified |
-| God of War: Origins Collection | BCUS98289 | none | unknown | missing | pending | unverified |
-| MLB 12: The Show | BCUS98295 | none | unknown | missing | pending | unverified |
-| Gran Turismo 6 | BCUS98296 | none | unknown | missing | pending | unverified |
-| Beyond: Two Souls | BCUS98298 | none | unknown | missing | pending | unverified |
-| Wonderbook: Book of Spells | BCUS98359 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet 3 | BCUS98362 | none | unknown | missing | pending | unverified |
-| Everybody Dance | BCUS98365 | none | unknown | missing | pending | unverified |
-| PlayStation Move Puzzle Collection | BCUS98368 | none | unknown | missing | pending | unverified |
-| PlayStation Move Indoor Sports Collection | BCUS98369 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet 2: Special Edition | BCUS98372 | none | unknown | missing | pending | unverified |
-| Journey Collector's Edition | BCUS98377 | none | unknown | missing | pending | unverified |
-| Uncharted 3: Drake's Deception | BCUS98379 | none | unknown | missing | pending | unverified |
-| Ratchet & Clank: Full Frontal Assault | BCUS98380 | none | unknown | missing | pending | unverified |
-| Gran Turismo 5: XL Edition | BCUS98394 | none | unknown | missing | pending | unverified |
-| Everybody Dance 2 | BCUS98466 | none | unknown | missing | pending | unverified |
-| PlayStation All-Stars Battle Royale | BCUS98472 | none | unknown | missing | pending | unverified |
-| MLB 13: The Show | BCUS98473 | none | unknown | missing | pending | unverified |
-| Killzone Trilogy (Killzone &#124; Killzone 2) | BCUS99075 | none | unknown | missing | pending | unverified |
-| Uncharted 3: Drake's Deception: Game of the Year Edition | BCUS99086 | none | unknown | missing | pending | unverified |
-| LittleBigPlanet Karting | BCUS99089 | none | unknown | missing | pending | unverified |
-| Beyond: Two Souls | BCUS99134 | none | unknown | missing | pending | unverified |
-| Wonderbook: Book of Potions | BCUS99189 | none | unknown | missing | pending | unverified |
-| Invizimals: El Reino Escondido | BCUS99192 | none | unknown | missing | pending | unverified |
-| MLB 14: The Show | BCUS99195 | none | unknown | missing | pending | unverified |
-| The Last of Us | BCUS99198 | none | unknown | missing | pending | unverified |
-| Best of PlayStation Network Vol. 1 | BCUS99205 | none | unknown | missing | pending | unverified |
-| Ratchet & Clank: Into the Nexus | BCUS99245 | none | unknown | missing | pending | unverified |
-| Gran Turismo 6 | BCUS99247 | none | unknown | missing | pending | unverified |
-| Everybody Dance 3 | BCUS99277 | none | unknown | missing | pending | unverified |
-| Ridge Racer 7 | BLUS30001 | none | unknown | missing | pending | unverified |
-| Untold Legends: Dark Kingdom | BLUS30002 | none | unknown | missing | pending | unverified |
-| F.E.A.R.: First Encounter Assault Recon | BLUS30003 | none | unknown | missing | pending | unverified |
-| NBA 2K7 | BLUS30004 | none | unknown | missing | pending | unverified |
-| NHL 2K7 | BLUS30005 | none | unknown | missing | pending | unverified |
-| Blazing Angels: Squadrons of WWII | BLUS30006 | none | unknown | missing | pending | unverified |
-| The Elder Scrolls IV: Oblivion | BLUS30007 | none | unknown | missing | pending | unverified |
-| Sonic the Hedgehog | BLUS30008 | none | unknown | missing | pending | unverified |
-| Full Auto 2: Battlelines | BLUS30009 | none | unknown | missing | pending | unverified |
-| Marvel: Ultimate Alliance | BLUS30010 | none | unknown | missing | pending | unverified |
-| Tony Hawk's Project 8 | BLUS30011 | none | unknown | missing | pending | unverified |
-| Call of Duty 3 | BLUS30012 | none | unknown | missing | pending | unverified |
-| Tiger Woods PGA Tour 07 | BLUS30013 | none | unknown | missing | pending | unverified |
+| Ratchet & Clank: All 4 One | BCUS98175 | 241869 | exact | validated | pending | unverified |
+| Resistance 3 | BCUS98176 | 146558 | exact | validated | pending | unverified |
+| Sports Champions | BCUS98177 | none | unknown | ambiguous_match | pending | unverified |
+| MLB 09: The Show | BCUS98180 | none | exact | missing_square | pending | unverified |
+| Starhawk | BCUS98181 | none | unknown | ambiguous_match | pending | unverified |
+| SOCOM: U.S. Navy SEALs: Confrontation | BCUS98183 | none | exact | missing_square | pending | unverified |
+| SingStar Vol. 2 | BCUS98186 | none | unknown | ambiguous_match | pending | unverified |
+| Resistance 2 | BCUS98190 | 146534 | exact | validated | pending | unverified |
+| SingStar ABBA | BCUS98192 | none | unknown | ambiguous_match | pending | unverified |
+| LittleBigPlanet | BCUS98199 | none | unknown | ambiguous_match | pending | unverified |
+| Sorcery | BCUS98203 | none | exact | missing_square | pending | unverified |
+| SingStar Queen | BCUS98206 | none | exact | missing_square | pending | unverified |
+| MLB 10: The Show | BCUS98207 | 733662 | exact | validated | pending | unverified |
+| LittleBigPlanet: Game of the Year Edition | BCUS98208 | none | unknown | ambiguous_match | pending | unverified |
+| Buzz! Quiz World | BCUS98209 | none | unknown | ambiguous_match | pending | unverified |
+| EyePet | BCUS98214 | none | exact | missing_square | pending | unverified |
+| Buzz! Quiz World | BCUS98215 | none | unknown | ambiguous_match | pending | unverified |
+| Start the Party! | BCUS98220 | none | unknown | ambiguous_match | pending | unverified |
+| The Shoot | BCUS98222 | none | exact | missing_square | pending | unverified |
+| TV Superstars | BCUS98224 | none | unknown | ambiguous_match | pending | unverified |
+| Puppeteer | BCUS98227 | none | unknown | ambiguous_match | pending | unverified |
+| God of War Collection | BCUS98229 | 267289 | exact | validated | pending | unverified |
+| God of War: Ascension | BCUS98232 | 148297 | exact | validated | pending | unverified |
+| Uncharted 3: Drake's Deception | BCUS98233 | none | unknown | missing | pending | unverified |
+| Killzone 3 | BCUS98234 | 146522 | exact | validated | pending | unverified |
+| EyePet & Friends | BCUS98235 | none | unknown | ambiguous_match | pending | unverified |
+| MotorStorm: Apocalypse | BCUS98242 | 278227 | exact | validated | pending | unverified |
+| LittleBigPlanet 2 | BCUS98245 | 208100 | exact | validated | pending | unverified |
+| The Sly Collection | BCUS98246 | 238017 | exact | validated | pending | unverified |
+| Sly Cooper: Thieves in Time | BCUS98247 | 144857 | exact | validated | pending | unverified |
+| PlayStation Move Heroes | BCUS98248 | none | exact | missing_square | pending | unverified |
+| MLB 11: The Show | BCUS98251 | 641172 | exact | validated | pending | unverified |
+| God of War Collection | BCUS98253 | 267289 | exact | validated | pending | unverified |
+| LittleBigPlanet Karting | BCUS98254 | 224769 | exact | validated | pending | unverified |
+| The Fight: Lights Out | BCUS98255 | none | exact | missing_square | pending | unverified |
+| Uncharted 2: Among Thieves | BCUS98257 | 137325 | exact | validated | pending | unverified |
+| The Ico & Shadow of the Colossus Collection | BCUS98259 | none | unknown | ambiguous_match | pending | unverified |
+| High Velocity Bowling | BCUS98261 | none | exact | missing_square | pending | unverified |
+| SingStar Dance | BCUS98266 | none | unknown | ambiguous_match | pending | unverified |
+| Wonderbook: Walking with Dinosaurs | BCUS98269 | none | exact | missing_square | pending | unverified |
+| Kung Fu Rider | BCUS98270 | none | exact | missing_square | pending | unverified |
+| Carnival Island | BCUS98271 | none | unknown | ambiguous_match | pending | unverified |
+| Sports Champions 2 | BCUS98278 | none | exact | missing_square | pending | unverified |
+| Medieval Moves: Deadmund's Quest | BCUS98279 | none | unknown | ambiguous_match | pending | unverified |
+| Heavy Rain: Director's Cut | BCUS98280 | none | unknown | ambiguous_match | pending | unverified |
+| Jak and Daxter Collection | BCUS98281 | 559173 | exact | validated | pending | unverified |
+| Ratchet & Clank Collection | BCUS98282 | none | unknown | ambiguous_match | pending | unverified |
+| Killzone 3 | BCUS98286 | 146522 | exact | validated | pending | unverified |
+| God of War: Origins Collection | BCUS98289 | 563289 | exact | validated | pending | unverified |
+| MLB 12: The Show | BCUS98295 | none | exact | missing_square | pending | unverified |
+| Gran Turismo 6 | BCUS98296 | 336514 | exact | validated | pending | unverified |
+| Beyond: Two Souls | BCUS98298 | 165597 | exact | validated | pending | unverified |
+| Wonderbook: Book of Spells | BCUS98359 | none | unknown | ambiguous_match | pending | unverified |
+| LittleBigPlanet 3 | BCUS98362 | 165200 | exact | validated | pending | unverified |
+| Everybody Dance | BCUS98365 | none | unknown | ambiguous_match | pending | unverified |
+| PlayStation Move Puzzle Collection | BCUS98368 | none | unknown | ambiguous_match | pending | unverified |
+| PlayStation Move Indoor Sports Collection | BCUS98369 | none | unknown | ambiguous_match | pending | unverified |
+| LittleBigPlanet 2: Special Edition | BCUS98372 | none | unknown | ambiguous_match | pending | unverified |
+| Journey Collector's Edition | BCUS98377 | none | unknown | ambiguous_match | pending | unverified |
+| Uncharted 3: Drake's Deception | BCUS98379 | 357778 | exact | validated | pending | unverified |
+| Ratchet & Clank: Full Frontal Assault | BCUS98380 | 719630 | exact | validated | pending | unverified |
+| Gran Turismo 5: XL Edition | BCUS98394 | none | unknown | ambiguous_match | pending | unverified |
+| Everybody Dance 2 | BCUS98466 | none | unknown | ambiguous_match | pending | unverified |
+| PlayStation All-Stars Battle Royale | BCUS98472 | 136274 | exact | validated | pending | unverified |
+| MLB 13: The Show | BCUS98473 | none | exact | missing_square | pending | unverified |
+| Killzone Trilogy (Killzone &#124; Killzone 2) | BCUS99075 | none | unknown | ambiguous_match | pending | unverified |
+| Uncharted 3: Drake's Deception: Game of the Year Edition | BCUS99086 | none | unknown | ambiguous_match | pending | unverified |
+| LittleBigPlanet Karting | BCUS99089 | 224769 | exact | validated | pending | unverified |
+| Beyond: Two Souls | BCUS99134 | 165597 | exact | validated | pending | unverified |
+| Wonderbook: Book of Potions | BCUS99189 | none | unknown | ambiguous_match | pending | unverified |
+| Invizimals: El Reino Escondido | BCUS99192 | none | unknown | ambiguous_match | pending | unverified |
+| MLB 14: The Show | BCUS99195 | none | exact | missing_square | pending | unverified |
+| The Last of Us | BCUS99198 | 144045 | exact | validated | pending | unverified |
+| Best of PlayStation Network Vol. 1 | BCUS99205 | none | unknown | ambiguous_match | pending | unverified |
+| Ratchet & Clank: Into the Nexus | BCUS99245 | 342424 | exact | validated | pending | unverified |
+| Gran Turismo 6 | BCUS99247 | 324570 | exact | validated | pending | unverified |
+| Everybody Dance 3 | BCUS99277 | none | unknown | ambiguous_match | pending | unverified |
+| Ridge Racer 7 | BLUS30001 | 487023 | exact | validated | pending | unverified |
+| Untold Legends: Dark Kingdom | BLUS30002 | none | exact | missing_square | pending | unverified |
+| F.E.A.R.: First Encounter Assault Recon | BLUS30003 | none | unknown | ambiguous_match | pending | unverified |
+| NBA 2K7 | BLUS30004 | none | exact | missing_square | pending | unverified |
+| NHL 2K7 | BLUS30005 | none | exact | missing_square | pending | unverified |
+| Blazing Angels: Squadrons of WWII | BLUS30006 | none | exact | missing_square | pending | unverified |
+| The Elder Scrolls IV: Oblivion | BLUS30007 | 679919 | exact | validated | pending | unverified |
+| Sonic the Hedgehog | BLUS30008 | none | unknown | ambiguous_match | pending | unverified |
+| Full Auto 2: Battlelines | BLUS30009 | 733651 | exact | validated | pending | unverified |
+| Marvel: Ultimate Alliance | BLUS30010 | 139065 | exact | validated | pending | unverified |
+| Tony Hawk's Project 8 | BLUS30011 | 156811 | exact | validated | pending | unverified |
+| Call of Duty 3 | BLUS30012 | 417546 | exact | validated | pending | unverified |
+| Tiger Woods PGA Tour 07 | BLUS30013 | none | exact | missing_square | pending | unverified |
 | Madden NFL 07 | BLUS30014 | none | unknown | missing | pending | unverified |
 | Need for Speed: Carbon | BLUS30016 | none | unknown | missing | pending | unverified |
 | Mobile Suit Gundam: Crossfire | BLUS30017 | none | unknown | missing | pending | unverified |
