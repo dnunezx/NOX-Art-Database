@@ -21,8 +21,10 @@ definitions. End-to-end workflow results should be consulted for runtime verific
 
 The API supplies game release timestamps, numeric IDs, dimensions, URLs, contributor
 metadata and optional community scores. None of these establish redistribution
-rights or prove an image's visual suitability. Automatic selections remain pending
-review; API credentials are not a license to republish every contributor's artwork.
+rights or prove an image's visual suitability. Under the repository owner's recorded
+attribution policy, conclusive matches that pass validation are automatically
+approved. Inconclusive identities, quality warnings and unrelated duplicates remain
+in the review queue; manual decisions retain their own provenance.
 See [SteamGridDB terms](https://www.steamgriddb.com/terms).
 
 Matching preserves remake/remaster/edition words, supports explicit regional aliases

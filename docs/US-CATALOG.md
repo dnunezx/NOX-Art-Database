@@ -23,7 +23,7 @@ approved artwork or existing metadata.
 - GitHub Actions starts a batch hourly, at minute 17 UTC; scheduled starts can be delayed by GitHub.
 - Each batch attempts up to 100 eligible titles, with a 20-minute soft processing budget and 25-minute job timeout.
 - Progress, mappings, provider cooldowns and reports are committed to `main` at the end of a successful batch.
-- Successful processing is not downloaded again merely because its image still awaits publication approval.
+- Successfully matched and validated artwork is automatically approved and is not downloaded again. Inconclusive cases wait for review.
 - Missing games or square images are retried after seven days. Ambiguous matches and duplicate conflicts wait for an identity/configuration change or explicit refresh.
 - HTTP 429 stops the batch and records `Retry-After` for subsequent runs. No extra keys or parallel jobs are used to evade a provider limit.
 - API calls are sequential, spaced by at least one second. Transient network errors use bounded exponential retries; credential and programming errors are fatal.
@@ -38,8 +38,8 @@ for missing entries and any newly imported titles.
 
 At 100 attempts per batch, 1,238 IDs need approximately 13 hourly batches for an
 initial pass if provider availability permits. That does not promise matching art
-for every title, visual approval, or redistribution permission. Publication remains
-a separate count in the progress report.
+for every title. Conclusive validated selections publish under the owner's attributed
+artwork policy; uncertain cases remain separate in the progress report.
 
 SteamGridDB's published materials reviewed here did not establish a numeric daily
 quota. The system does not assume unlimited access: actual 429 responses and reset
