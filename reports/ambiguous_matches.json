@@ -7500,5 +7500,1845 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30376",
+    "title": "Watchmen: The End Is Nigh: Parts 1 and 2",
+    "candidates": [
+      {
+        "id": 2001,
+        "name": "Watchmen: The End Is Nigh Part 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1248850800
+      },
+      {
+        "id": 1997,
+        "name": "Watchmen: The End Is Nigh",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1236153600
+      },
+      {
+        "id": 6678,
+        "name": "The Black Watchmen",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1435215600
+      },
+      {
+        "id": 5278812,
+        "name": "Watchman",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1617580800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30377",
+    "title": "Call of Duty: Modern Warfare 2",
+    "candidates": [
+      {
+        "id": 710,
+        "name": "Call of Duty: Modern Warfare 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1258012800
+      },
+      {
+        "id": 731,
+        "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1257897600
+      },
+      {
+        "id": 5258169,
+        "name": "Call of Duty: Modern Warfare 2 - Campaign Remastered",
+        "verified": true,
+        "types": [
+          "bnet"
+        ],
+        "release_date": 1588204800
+      },
+      {
+        "id": 5461286,
+        "name": "Call of Duty: Modern Warfare 2 Remastered - Multiplayer (H2M-Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1723766400
+      },
+      {
+        "id": 5491279,
+        "name": "Call of Duty: Modern Warfare 2 - Force Recon",
+        "verified": true,
+        "types": [],
+        "release_date": 1257811200
+      },
+      {
+        "id": 5517263,
+        "name": "Call of Duty: Modern Warfare 2 Campaign Remastered - H2 Mod",
+        "verified": true,
+        "types": [],
+        "release_date": 1630195200
+      },
+      {
+        "id": 5419538,
+        "name": "Call of Duty: Modern Warfare II | Warzone 2.0",
+        "verified": true,
+        "types": [],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5334349,
+        "name": "Call of Duty: Modern Warfare II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5354029,
+        "name": "Call of Duty: Modern Warfare II - Open Beta",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664038800
+      },
+      {
+        "id": 5420962,
+        "name": "Call of Duty: Modern Warfare III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699574400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30388",
+    "title": "DreamWorks Madagascar Kartz",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30403",
+    "title": "WET",
+    "candidates": [
+      {
+        "id": 5258572,
+        "name": "WET",
+        "verified": true,
+        "types": [],
+        "release_date": 1252972800
+      },
+      {
+        "id": 5476073,
+        "name": "WET",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1740787200
+      },
+      {
+        "id": 394,
+        "name": "Wet Girl",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1548862443
+      },
+      {
+        "id": 1034,
+        "name": "Wet Beach Pussies",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1551790616
+      },
+      {
+        "id": 30424,
+        "name": "Wet Warfare",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1538118000
+      },
+      {
+        "id": 5256962,
+        "name": "Wet - The Sexy Empire",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 883612800
+      },
+      {
+        "id": 5257063,
+        "name": "Wet Dog Corp",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1583020800
+      },
+      {
+        "id": 5268118,
+        "name": "Wet steps",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1601510400
+      },
+      {
+        "id": 5272925,
+        "name": "Wet Nightmares",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5278352,
+        "name": "Wet Nightmares",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1736899200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30404",
+    "title": "PES 2010: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30405",
+    "title": "Dante's Inferno",
+    "candidates": [
+      {
+        "id": 29894,
+        "name": "Dante's Inferno",
+        "verified": true,
+        "types": [],
+        "release_date": 1265241600
+      },
+      {
+        "id": 5463631,
+        "name": "Dante's Inferno",
+        "verified": true,
+        "types": [],
+        "release_date": 504921600
+      },
+      {
+        "id": 5255603,
+        "name": "Dantes Bullet Inferno",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1581897600
+      },
+      {
+        "id": 14510,
+        "name": "Dante's Forest",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1479253760
+      },
+      {
+        "id": 5286257,
+        "name": "Dante's Hotel",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1609459200
+      },
+      {
+        "id": 5469469,
+        "name": "Dante's 9",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5467985,
+        "name": "Clerks: Dante's Adventure",
+        "verified": true,
+        "types": [],
+        "release_date": 1672531200
+      },
+      {
+        "id": 18981,
+        "name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1148367600
+      },
+      {
+        "id": 5263704,
+        "name": "Devil May Cry 3: Dante's Awakening",
+        "verified": true,
+        "types": [],
+        "release_date": 1108598400
+      },
+      {
+        "id": 5515747,
+        "name": "The Alighieri Circle: Dante's Bloodline",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30409",
+    "title": "Cabela's Outdoor Adventures",
+    "candidates": [
+      {
+        "id": 5286969,
+        "name": "Cabela's Outdoor Adventures",
+        "verified": true,
+        "types": [],
+        "release_date": 1252368000
+      },
+      {
+        "id": 5484315,
+        "name": "Cabela's Outdoor Adventures",
+        "verified": true,
+        "types": [],
+        "release_date": 1126569600
+      },
+      {
+        "id": 2098,
+        "name": "Cabela's Hunting Expeditions",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1350964800
+      },
+      {
+        "id": 2223,
+        "name": "Cabela's Dangerous Hunts 2013",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1350964800
+      },
+      {
+        "id": 2932,
+        "name": "Cabela's Big Game Hunter Pro Hunts",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1395766500
+      },
+      {
+        "id": 3007,
+        "name": "Cabela's African Adventures",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1381948484
+      },
+      {
+        "id": 33997,
+        "name": "Cabela's Big Game Hunter 2005 Adventures",
+        "verified": true,
+        "types": [],
+        "release_date": 1100044800
+      },
+      {
+        "id": 36463,
+        "name": "Cabela's Dangerous Hunts 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1132099200
+      },
+      {
+        "id": 39066,
+        "name": "Cabela's Big Game Hunter",
+        "verified": true,
+        "types": [],
+        "release_date": 1038268800
+      },
+      {
+        "id": 5271914,
+        "name": "Cabela's Big Game Hunter II",
+        "verified": true,
+        "types": [],
+        "release_date": 886291200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30411",
+    "title": "Pure Futbol",
+    "candidates": [
+      {
+        "id": 5442,
+        "name": "PURE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1221548400
+      },
+      {
+        "id": 4655,
+        "name": "Pure Pool",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1406831520
+      },
+      {
+        "id": 4657,
+        "name": "Pure Chess",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1473426263
+      },
+      {
+        "id": 5453,
+        "name": "Pure Hold'em",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1440081887
+      },
+      {
+        "id": 14382,
+        "name": "Pure Farming 2018",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1520924400
+      },
+      {
+        "id": 15083,
+        "name": "Pure Heart",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1479169947
+      },
+      {
+        "id": 23216,
+        "name": "Pure Mind",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1511251200
+      },
+      {
+        "id": 24449,
+        "name": "Pure Football 2018",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1516177728
+      },
+      {
+        "id": 26725,
+        "name": "Pure Rock Crawling",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1523462410
+      },
+      {
+        "id": 5259178,
+        "name": "Pure Soul: The Journey of the Witch Emily",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1587945600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30429",
+    "title": "Call of Duty: Modern Warfare 2",
+    "candidates": [
+      {
+        "id": 710,
+        "name": "Call of Duty: Modern Warfare 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1258012800
+      },
+      {
+        "id": 731,
+        "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1257897600
+      },
+      {
+        "id": 5258169,
+        "name": "Call of Duty: Modern Warfare 2 - Campaign Remastered",
+        "verified": true,
+        "types": [
+          "bnet"
+        ],
+        "release_date": 1588204800
+      },
+      {
+        "id": 5461286,
+        "name": "Call of Duty: Modern Warfare 2 Remastered - Multiplayer (H2M-Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1723766400
+      },
+      {
+        "id": 5491279,
+        "name": "Call of Duty: Modern Warfare 2 - Force Recon",
+        "verified": true,
+        "types": [],
+        "release_date": 1257811200
+      },
+      {
+        "id": 5517263,
+        "name": "Call of Duty: Modern Warfare 2 Campaign Remastered - H2 Mod",
+        "verified": true,
+        "types": [],
+        "release_date": 1630195200
+      },
+      {
+        "id": 5419538,
+        "name": "Call of Duty: Modern Warfare II | Warzone 2.0",
+        "verified": true,
+        "types": [],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5334349,
+        "name": "Call of Duty: Modern Warfare II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5354029,
+        "name": "Call of Duty: Modern Warfare II - Open Beta",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664038800
+      },
+      {
+        "id": 5420962,
+        "name": "Call of Duty: Modern Warfare III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699574400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30432",
+    "title": "Warhammer 40,000: Space Marine",
+    "candidates": [
+      {
+        "id": 15047,
+        "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1315281600
+      },
+      {
+        "id": 5309406,
+        "name": "Warhammer 40,000: Space Marine II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 5489783,
+        "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1749513600
+      },
+      {
+        "id": 5494211,
+        "name": "Warhammer 40,000: Space Marine 2 - Mod Tools",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 15142,
+        "name": "Warhammer 40,000: Space Wolf",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506014018
+      },
+      {
+        "id": 1487,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1234944000
+      },
+      {
+        "id": 1488,
+        "name": "Warhammer® 40,000™: Dawn of War® II (Press Build)",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 1489,
+        "name": "Warhammer® 40,000™: Dawn of War® II - BETA",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1233043200
+      },
+      {
+        "id": 1863,
+        "name": "Warhammer 40,000: Dawn of War II - Chaos Rising",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1268352000
+      },
+      {
+        "id": 3167,
+        "name": "Warhammer 40,000: Storm of Vengeance",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1396549680
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30433",
+    "title": "Dance Dance Revolution",
+    "candidates": [
+      {
+        "id": 5284426,
+        "name": "Dance Dance Revolution",
+        "verified": true,
+        "types": [],
+        "release_date": 1022198400
+      },
+      {
+        "id": 5364323,
+        "name": "Dance Dance Revolution",
+        "verified": true,
+        "types": [],
+        "release_date": 1363219200
+      },
+      {
+        "id": 35871,
+        "name": "Dance Dance Revolution: Mario Mix",
+        "verified": true,
+        "types": [],
+        "release_date": 1121299200
+      },
+      {
+        "id": 5247898,
+        "name": "Dance Dance Revolution II",
+        "verified": true,
+        "types": [],
+        "release_date": 1318291200
+      },
+      {
+        "id": 5257968,
+        "name": "Dance Dance Revolution SuperNova",
+        "verified": true,
+        "types": [],
+        "release_date": 1146182400
+      },
+      {
+        "id": 5257969,
+        "name": "Dance Dance Revolution SuperNova 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1187740800
+      },
+      {
+        "id": 5257970,
+        "name": "Dance Dance Revolution Disney Channel Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1199750400
+      },
+      {
+        "id": 5257971,
+        "name": "Dance Dance Revolution X",
+        "verified": true,
+        "types": [],
+        "release_date": 1221523200
+      },
+      {
+        "id": 5257972,
+        "name": "Dance Dance Revolution X2",
+        "verified": true,
+        "types": [],
+        "release_date": 1278460800
+      },
+      {
+        "id": 5257973,
+        "name": "Dance Dance Revolution Extreme",
+        "verified": true,
+        "types": [],
+        "release_date": 1040774400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30436",
+    "title": "Medal of Honor",
+    "candidates": [
+      {
+        "id": 12091,
+        "name": "Medal of Honor",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1286902800
+      },
+      {
+        "id": 5254726,
+        "name": "Medal of Honor",
+        "verified": true,
+        "types": [],
+        "release_date": 941328000
+      },
+      {
+        "id": 2952,
+        "name": "Medal of Honor: Airborne",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1188889200
+      },
+      {
+        "id": 12101,
+        "name": "Medal of Honor Multiplayer",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1286841600
+      },
+      {
+        "id": 34476,
+        "name": "Medal of Honor: Vanguard",
+        "verified": true,
+        "types": [],
+        "release_date": 1174867200
+      },
+      {
+        "id": 35114,
+        "name": "Medal of Honor: Infiltrator",
+        "verified": true,
+        "types": [],
+        "release_date": 1069113600
+      },
+      {
+        "id": 35419,
+        "name": "Medal of Honor: Underground",
+        "verified": true,
+        "types": [],
+        "release_date": 972345600
+      },
+      {
+        "id": 35422,
+        "name": "Medal of Honor: Allied Assault War Chest",
+        "verified": true,
+        "types": [
+          "gog",
+          "origin"
+        ],
+        "release_date": 1078185600
+      },
+      {
+        "id": 35596,
+        "name": "Medal of Honor: Pacific Assault",
+        "verified": true,
+        "types": [
+          "gog",
+          "origin"
+        ],
+        "release_date": 1099526400
+      },
+      {
+        "id": 38334,
+        "name": "Medal of Honor: Frontline",
+        "verified": true,
+        "types": [],
+        "release_date": 1022630400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30443",
+    "title": "Demon's Souls",
+    "candidates": [
+      {
+        "id": 37584,
+        "name": "Demon's Souls",
+        "verified": true,
+        "types": [],
+        "release_date": 1233792000
+      },
+      {
+        "id": 5270663,
+        "name": "Demon's Souls",
+        "verified": true,
+        "types": [],
+        "release_date": 1605139200
+      },
+      {
+        "id": 5498104,
+        "name": "Demon's Soulbound",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1756598400
+      },
+      {
+        "id": 9899,
+        "name": "DEMON'S TILT",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1576273746
+      },
+      {
+        "id": 11219,
+        "name": "Demon's Crystals",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1461222000
+      },
+      {
+        "id": 27435,
+        "name": "Demon's Rise - War for the Deep",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1525062405
+      },
+      {
+        "id": 27458,
+        "name": "Demon's Rise - Lords of Chaos",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1524600457
+      },
+      {
+        "id": 34254,
+        "name": "Demon's Crest",
+        "verified": true,
+        "types": [
+          "eshop"
+        ]
+      },
+      {
+        "id": 5268138,
+        "name": "DEMON'S SWORD SNAKES",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1603065600
+      },
+      {
+        "id": 5282435,
+        "name": "Demon's Mirror",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1725494400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30450",
+    "title": "Call of Duty: Modern Warfare 2",
+    "candidates": [
+      {
+        "id": 710,
+        "name": "Call of Duty: Modern Warfare 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1258012800
+      },
+      {
+        "id": 731,
+        "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1257897600
+      },
+      {
+        "id": 5258169,
+        "name": "Call of Duty: Modern Warfare 2 - Campaign Remastered",
+        "verified": true,
+        "types": [
+          "bnet"
+        ],
+        "release_date": 1588204800
+      },
+      {
+        "id": 5461286,
+        "name": "Call of Duty: Modern Warfare 2 Remastered - Multiplayer (H2M-Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1723766400
+      },
+      {
+        "id": 5491279,
+        "name": "Call of Duty: Modern Warfare 2 - Force Recon",
+        "verified": true,
+        "types": [],
+        "release_date": 1257811200
+      },
+      {
+        "id": 5517263,
+        "name": "Call of Duty: Modern Warfare 2 Campaign Remastered - H2 Mod",
+        "verified": true,
+        "types": [],
+        "release_date": 1630195200
+      },
+      {
+        "id": 5419538,
+        "name": "Call of Duty: Modern Warfare II | Warzone 2.0",
+        "verified": true,
+        "types": [],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5334349,
+        "name": "Call of Duty: Modern Warfare II",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1666915200
+      },
+      {
+        "id": 5354029,
+        "name": "Call of Duty: Modern Warfare II - Open Beta",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664038800
+      },
+      {
+        "id": 5420962,
+        "name": "Call of Duty: Modern Warfare III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699574400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30457",
+    "title": "Disney TRON: Evolution",
+    "candidates": [
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      },
+      {
+        "id": 5298,
+        "name": "Disney Tangled",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1290153600
+      },
+      {
+        "id": 5302,
+        "name": "Disney Princess :  My Fairytale Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1337929200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30461",
+    "title": "DreamWorks How to Train Your Dragon",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30465",
+    "title": "Atelier Rorona: The Alchemist of Arland",
+    "candidates": [
+      {
+        "id": 31243,
+        "name": "Atelier Rorona: The Alchemist of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 14082,
+        "name": "Atelier Sophie: The Alchemist of the Mysterious Book",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1486466400
+      },
+      {
+        "id": 14084,
+        "name": "Atelier Firis: The Alchemist and the Mysterious Journey",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1488909720
+      },
+      {
+        "id": 23651,
+        "name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Painting",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1522137082
+      },
+      {
+        "id": 31245,
+        "name": "Atelier Totori: The Adventurer of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 31246,
+        "name": "Atelier Meruru: The Apprentice of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 35724,
+        "name": "Atelier Iris: Eternal Mana",
+        "verified": true,
+        "types": [],
+        "release_date": 1085616000
+      },
+      {
+        "id": 37856,
+        "name": "Atelier Iris 2: The Azoth of Destiny",
+        "verified": true,
+        "types": [],
+        "release_date": 1117065600
+      },
+      {
+        "id": 38714,
+        "name": "Atelier Iris 3: Grand Phantasm",
+        "verified": true,
+        "types": [],
+        "release_date": 1151539200
+      },
+      {
+        "id": 38937,
+        "name": "Atelier Annie: Alchemists of Sera Island",
+        "verified": true,
+        "types": [],
+        "release_date": 1236816000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30466",
+    "title": "El Shaddai: Ascension of the Metatron",
+    "candidates": [
+      {
+        "id": 5283549,
+        "name": "El Shaddai ASCENSION OF THE METATRON HD Remaster",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1630454400
+      },
+      {
+        "id": 5524421,
+        "name": "El Shaddai: Zero Nine Reversi",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1777334400
+      },
+      {
+        "id": 4158,
+        "name": "El Matador",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1159167600
+      },
+      {
+        "id": 13351,
+        "name": "El Ninja",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1470726000
+      },
+      {
+        "id": 18667,
+        "name": "El Ministerio del Tiempo VR: El tiempo en tus manos",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1498892400
+      },
+      {
+        "id": 21266,
+        "name": "El Tango de la Muerte",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1524595595
+      },
+      {
+        "id": 21980,
+        "name": "El Ministerio del Tiempo VR: Salva el tiempo",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1507532400
+      },
+      {
+        "id": 27420,
+        "name": "El Taco Diablo",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1552282473
+      },
+      {
+        "id": 27817,
+        "name": "El Hijo",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1606953600
+      },
+      {
+        "id": 28358,
+        "name": "El Hincha - El Videojuego",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1529391600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30478",
+    "title": "R.U.S.E.: The Art of Deception",
+    "candidates": [
+      {
+        "id": 2240,
+        "name": "R.U.S.E.",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1284073200
+      },
+      {
+        "id": 5529577,
+        "name": "Project T.H.R.U.S.T.",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5508663,
+        "name": "r u n a w a y s",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5509401,
+        "name": "S.K.R.U.B. Squad",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 5497378,
+        "name": "Delive R us",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1735689600
+      },
+      {
+        "id": 5443039,
+        "name": "All cats 'r belong to us",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5561340,
+        "name": "Rus: source",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1803859200
+      },
+      {
+        "id": 15490,
+        "name": "Ancient Rus",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1493309551
+      },
+      {
+        "id": 4889059,
+        "name": "Mystic RUS-files",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1557852230
+      },
+      {
+        "id": 5347068,
+        "name": "Kyivan Rus",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1693526400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30480",
+    "title": "Disney/Pixar Toy Story 3",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30484",
+    "title": "Resonance of Fate",
+    "candidates": [
+      {
+        "id": 18642,
+        "name": "Resonance of Fate 4K/HD Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1539773391
+      },
+      {
+        "id": 5336547,
+        "name": "Resonance of the Ocean",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1657238400
+      },
+      {
+        "id": 5437656,
+        "name": "Resonance Of Princess Reign",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1717372800
+      },
+      {
+        "id": 5498244,
+        "name": "Resonance of Rain",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5489379,
+        "name": "Capcom Vs SNK: Echoes - Resonance of Worlds",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 2054,
+        "name": "Resonance",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1343232000
+      },
+      {
+        "id": 5346453,
+        "name": "Resonance",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1664391765
+      },
+      {
+        "id": 5550847,
+        "name": "Resonance",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1792368000
+      },
+      {
+        "id": 5301530,
+        "name": "Resonance Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1636675200
+      },
+      {
+        "id": 5448458,
+        "name": "Resonance chain",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1714608000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

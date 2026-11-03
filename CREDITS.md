@@ -206,3 +206,55 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30356 | Bakugan: Battle Brawlers | Iltsu | [#705715](https://www.steamgriddb.com/grid/705715) |
 | BLUS30357 | Transformers: War for Cybertron | Elke1131 | [#136647](https://www.steamgriddb.com/grid/136647) |
 | BLUS30359 | Tekken 6 | Shiios42 | [#255274](https://www.steamgriddb.com/grid/255274) |
+| BLUS30364 | Assassin's Creed II | TheKersalMassive | [#193698](https://www.steamgriddb.com/grid/193698) |
+| BLUS30367 | Bayonetta | Kam | [#137556](https://www.steamgriddb.com/grid/137556) |
+| BLUS30368 | DJ Hero | Imatination | [#224474](https://www.steamgriddb.com/grid/224474) |
+| BLUS30372 | Band Hero | Imatination | [#207005](https://www.steamgriddb.com/grid/207005) |
+| BLUS30374 | James Cameron's Avatar: The Game | mitsuuuuuu | [#699487](https://www.steamgriddb.com/grid/699487) |
+| BLUS30375 | Madden NFL 10 | Mentos0723 | [#733660](https://www.steamgriddb.com/grid/733660) |
+| BLUS30382 | LEGO Rock Band | ZazaMastro | [#480509](https://www.steamgriddb.com/grid/480509) |
+| BLUS30383 | Kane & Lynch 2: Dog Days | nexhasunleashed | [#312025](https://www.steamgriddb.com/grid/312025) |
+| BLUS30385 | FIFA Soccer 10 | Mentos0723 | [#733700](https://www.steamgriddb.com/grid/733700) |
+| BLUS30386 | Borderlands | TytusV2 | [#679160](https://www.steamgriddb.com/grid/679160) |
+| BLUS30391 | Need for Speed: Shift | FrostWolf | [#153998](https://www.steamgriddb.com/grid/153998) |
+| BLUS30392 | BlazBlue: Calamity Trigger | CriticalComposer | [#137081](https://www.steamgriddb.com/grid/137081) |
+| BLUS30393 | NBA Live 10 | Mentos0723 | [#733715](https://www.steamgriddb.com/grid/733715) |
+| BLUS30394 | Star Wars: The Clone Wars: Republic Heroes | ScoringTiger487 | [#533985](https://www.steamgriddb.com/grid/533985) |
+| BLUS30395 | Front Mission Evolved | XueSN | [#526635](https://www.steamgriddb.com/grid/526635) |
+| BLUS30399 | Afrika | Mentos0723 | [#733800](https://www.steamgriddb.com/grid/733800) |
+| BLUS30400 | Just Cause 2 | Mingebag | [#417468](https://www.steamgriddb.com/grid/417468) |
+| BLUS30401 | Prince of Persia: The Forgotten Sands | flamepanther | [#157459](https://www.steamgriddb.com/grid/157459) |
+| BLUS30402 | NBA 2K10 | Mentos0723 | [#733547](https://www.steamgriddb.com/grid/733547) |
+| BLUS30406 | Hunted: The Demon's Forge | Neuropod | [#374951](https://www.steamgriddb.com/grid/374951) |
+| BLUS30407 | The Saboteur | ZazaMastro | [#480438](https://www.steamgriddb.com/grid/480438) |
+| BLUS30408 | Army of Two: The 40th Day | ABH20 | [#194897](https://www.steamgriddb.com/grid/194897) |
+| BLUS30412 | WWE SmackDown vs. Raw 2010 | Shiios42 | [#254560](https://www.steamgriddb.com/grid/254560) |
+| BLUS30415 | Dragon Age: Origins | Timberfang | [#136947](https://www.steamgriddb.com/grid/136947) |
+| BLUS30416 | Final Fantasy XIII | riefu24 | [#164272](https://www.steamgriddb.com/grid/164272) |
+| BLUS30418 | Red Dead Redemption | Fid0 | [#173687](https://www.steamgriddb.com/grid/173687) |
+| BLUS30420 | BioShock 2 | TheKersalMassive | [#227001](https://www.steamgriddb.com/grid/227001) |
+| BLUS30421 | The Lord of the Rings: War in the North | FrostWolf | [#370758](https://www.steamgriddb.com/grid/370758) |
+| BLUS30425 | LEGO Indiana Jones 2: The Adventure Continues | MoonLight | [#158568](https://www.steamgriddb.com/grid/158568) |
+| BLUS30427 | Top Spin 4 | Shiios42 | [#338196](https://www.steamgriddb.com/grid/338196) |
+| BLUS30428 | Catherine | Ichiron47 | [#326079](https://www.steamgriddb.com/grid/326079) |
+| BLUS30431 | Dragon Ball: Raging Blast | Kynd | [#234152](https://www.steamgriddb.com/grid/234152) |
+| BLUS30434 | Lost Planet 2 | flamepanther | [#154419](https://www.steamgriddb.com/grid/154419) |
+| BLUS30435 | Jurassic: The Hunted | MagieUltime | [#537478](https://www.steamgriddb.com/grid/537478) |
+| BLUS30437 | LEGO Harry Potter: Years 1-4 | cking | [#337071](https://www.steamgriddb.com/grid/337071) |
+| BLUS30439 | Dead Rising 2 | WeaponPC | [#139500](https://www.steamgriddb.com/grid/139500) |
+| BLUS30445 | Star Wars: The Force Unleashed: Ultimate Sith Edition | Skyclad | [#136598](https://www.steamgriddb.com/grid/136598) |
+| BLUS30447 | Scene It? Bright Lights! Big Screen! | Mentos0723 | [#733614](https://www.steamgriddb.com/grid/733614) |
+| BLUS30448 | Scene It? Bright Lights! Big Screen! | Mentos0723 | [#733614](https://www.steamgriddb.com/grid/733614) |
+| BLUS30458 | Battlefield: Bad Company 2 | Mingebag | [#417564](https://www.steamgriddb.com/grid/417564) |
+| BLUS30460 | Guitar Hero: Van Halen | ZazaMastro | [#480494](https://www.steamgriddb.com/grid/480494) |
+| BLUS30463 | Rock Band 3 | GabrielXZLIVE | [#826454](https://www.steamgriddb.com/grid/826454) |
+| BLUS30464 | Skate 3 | skyaos | [#156812](https://www.steamgriddb.com/grid/156812) |
+| BLUS30471 | Dynasty Warriors: Strikeforce | Mentos0723 | [#733646](https://www.steamgriddb.com/grid/733646) |
+| BLUS30472 | Majin and the Forsaken Kingdom | Shiios42 | [#347541](https://www.steamgriddb.com/grid/347541) |
+| BLUS30474 | 2010 FIFA World Cup South Africa | SolarisTM | [#256574](https://www.steamgriddb.com/grid/256574) |
+| BLUS30476 | Deus Ex: Human Revolution | TheKersalMassive | [#193717](https://www.steamgriddb.com/grid/193717) |
+| BLUS30481 | Nier | aarbron72 | [#532893](https://www.steamgriddb.com/grid/532893) |
+| BLUS30483 | UFC Undisputed 2010 | Shiios42 | [#346767](https://www.steamgriddb.com/grid/346767) |
+| BLUS30485 | Rage | Neuropod | [#453746](https://www.steamgriddb.com/grid/453746) |
+| BLUS30487 | Guitar Hero: Warriors of Rock | Imatination | [#378606](https://www.steamgriddb.com/grid/378606) |
+| BLUS30488 | Tom Clancy's H.A.W.X. 2 | FrostWolf | [#149754](https://www.steamgriddb.com/grid/149754) |
