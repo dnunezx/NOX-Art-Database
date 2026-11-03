@@ -1,91 +1,121 @@
-from __future__ import annotations
-
+"""Match PS3 entries, fetch native squares, and record reviewable selections."""
 from pathlib import Path
 
-from providers import gametdb, local, steamgriddb
+from providers.steamgriddb import SteamGridDB
 from .common import advance_queue, digest, file_hash, load_games, queued_games, read_json, safe_path, write_json
-from .http import HttpClient
+from .http import DownloadError, HttpClient
 from .imaging import inspect_source
+from .matching import resolve
+from .selection import ranked, score
 
-PROVIDERS = {"local": local, "gametdb": gametdb, "steamgriddb": steamgriddb}
 
-
-def fetch(root, limit=None, refresh=False, client=None):
+def fetch(root, limit=None, refresh=False, client=None, replace=()):
     root = Path(root)
     config = read_json(root / "config.json")
     games = load_games(root / "database/games.json")
     client = client or HttpClient(root, config)
-    count, events = 0, []
+    api = SteamGridDB(client, refresh=refresh)  # Missing keys are fatal even for empty batches.
+    mapping_path = root / "database/steamgriddb_mapping.json"
+    mappings = read_json(mapping_path) if mapping_path.exists() else {}
     maximum = config["batch_size"] if limit is None else limit
     if not 1 <= maximum <= 1000:
         raise ValueError("Batch size must be between 1 and 1000")
-    last_attempted = None
+    events, ambiguous, count, last_attempted = [], [], 0, None
     for game in queued_games(root, games, "fetch"):
-        if game.get("shared_with") or (not refresh and game.get("artwork_status") in {"generated", "restricted"}):
+        ident = game["title_id"]
+        if game.get("shared_with") or (game.get("artwork_status") == "generated" and ident not in replace and not refresh):
             continue
         if count >= maximum:
             break
         count += 1
-        last_attempted = game["title_id"]
-        selected = False
-        order = config["provider_order"]
-        preference = config.get("overrides", {}).get(game["title_id"], {}).get("source_preference")
-        if preference:
-            if preference not in order:
-                raise ValueError("Unknown preferred provider")
-            order = [preference] + [name for name in order if name != preference]
-        for name in order:
-            adapter = PROVIDERS.get(name)
-            if adapter is None:
-                raise ValueError("Unknown provider")
-            provider = config["providers"].get(name, {})
-            if name != "local" and not provider.get("enabled"):
+        last_attempted = ident
+        try:
+            mapping, suggestions = resolve(game, api, mappings.get(ident))
+            if not mapping:
+                ambiguous.append({"title_id": ident, "title": game["title"], "candidates": suggestions,
+                                  "reason": "No unique exact title and release match; verify game ID manually"})
+                events.append({"title_id": ident, "status": "ambiguous_match" if suggestions else "missing_game"})
                 continue
-            try:
-                candidates = adapter.candidates(game, root, client, config, refresh)
-                for candidate in candidates:
-                    candidate = dict(candidate)
+            previous_asset = mappings.get(ident, {}).get("asset_id") if not refresh else None
+            mappings[ident] = mapping
+            game["match_confidence"] = mapping["confidence"]
+            game["steamgriddb_game_id"] = mapping["game_id"]
+            override = config.get("overrides", {}).get(ident, {})
+            asset_id = override.get("asset_id")
+            if asset_id is not None and (type(asset_id) is not int or asset_id <= 0):
+                raise ValueError("Override asset_id must be a positive integer")
+            selected = False
+            previews = []
+            # 1024 is queried if 512 is absent or every 512 candidate fails decoding.
+            for size in (512, 1024):
+                all_rows = api.grids(mapping["game_id"], size)
+                rows = ranked(all_rows, size)
+                if not asset_id and previous_asset:
+                    rows.sort(key=lambda row: row["id"] != previous_asset)
+                previews.extend({"asset_id": r["id"], "url": r["url"], "score": score(r),
+                                 "page": f"https://www.steamgriddb.com/grid/{r['id']}"} for r in rows[:10])
+                if asset_id:
+                    rows = [r for r in rows if r["id"] == asset_id]
+                    if not rows and size == 1024:
+                        # A manual asset may be beyond the API's first page. The asset
+                        # detail must explicitly identify this game before accepting it.
+                        row = api.grid(asset_id)
+                        row_game = row.get("game")
+                        belongs = row_game.get("id") if isinstance(row_game, dict) else row.get("game_id")
+                        if belongs == mapping["game_id"]:
+                            rows = ranked([row])
+                for row in rows[:5]:
                     try:
-                        if name == "local":
-                            path = safe_path(root / "sources", candidate["path"])
-                        else:
-                            # API access and image download permission are separate decisions.
-                            if candidate.get("download_approved") is not True or not candidate.get("download_permission_evidence"):
-                                raise ValueError("Image download requires explicit provider permission and evidence")
-                            url = candidate["url"]
-                            cache_path = root / ".cache/downloads" / (digest(url.encode()) + ".json")
-                            cached = read_json(cache_path) if cache_path.exists() else None
-                            path = safe_path(root / "sources", cached["path"]) if cached else None
-                            if refresh or path is None or not path.exists() or file_hash(path) != cached["sha256"]:
-                                data = client.get(url, provider["allowed_hosts"])
-                                checksum = digest(data)
-                                path = safe_path(root / "sources", "downloads/" + checksum + ".image")
-                                path.parent.mkdir(parents=True, exist_ok=True)
-                                if not path.exists():
-                                    path.write_bytes(data)
-                                inspect_source(path, config)
-                                write_json(cache_path, {"path": path.relative_to(root / "sources").as_posix(), "sha256": checksum})
-                            candidate["path"] = path.relative_to(root / "sources").as_posix()
-                        inspect_source(path, config)
+                        url = row["url"]
+                        client.check_url(url, config["allowed_hosts"])
+                        cache_path = root / ".cache/downloads" / (digest(url.encode()) + ".json")
+                        cached = read_json(cache_path) if cache_path.exists() else None
+                        path = safe_path(root / "sources", cached["path"]) if cached else None
+                        if refresh or path is None or not path.exists() or file_hash(path) != cached["sha256"]:
+                            data = client.get(url, config["allowed_hosts"])
+                            checksum = digest(data)
+                            path = safe_path(root / "sources", "downloads/" + checksum + ".image")
+                            path.parent.mkdir(parents=True, exist_ok=True)
+                            path.write_bytes(data)
+                            write_json(cache_path, {"path": path.relative_to(root / "sources").as_posix(), "sha256": checksum})
+                        info = inspect_source(path, config)
+                        if info["dimensions"] != [row["width"], row["height"]]:
+                            raise ValueError("Downloaded dimensions disagree with API metadata")
+                        source = {"provider": "steamgriddb", "url": url, "provider_artwork_id": row["id"],
+                                  "path": path.relative_to(root / "sources").as_posix(),
+                                  "source_page": f"https://www.steamgriddb.com/grid/{row['id']}",
+                                  "attribution": (row.get("author") or {}).get("name", "Unknown SteamGridDB contributor"),
+                                  "license": "Third-party artwork; redistribution unverified", "redistribution": "unverified"}
+                        rights = override.get("rights", {})
+                        # Rights approval is scoped to one specific asset, never a whole game.
+                        if asset_id == row["id"]:
+                            source.update({k: rights[k] for k in ("redistribution", "license", "permission_evidence") if k in rights})
                         if game.get("artwork_status") == "generated":
-                            if file_hash(path) != game.get("source_sha256"):
-                                game["pending_source"] = candidate
-                                events.append({"title_id": game["title_id"], "status": "source_changed", "message": "Explicit replacement required"})
+                            if file_hash(path) != game.get("source_sha256") or row["id"] != (game.get("source") or {}).get("provider_artwork_id"):
+                                game["pending_source"] = source
                         else:
-                            game["source"] = candidate
-                        events.append({"title_id": game["title_id"], "provider": name, "status": "selected", "source_sha256": file_hash(path)})
+                            game["source"] = source
+                        mapping["asset_id"] = row["id"]
+                        mapping["asset_selection"] = "manual" if asset_id else "ranked-pending-review"
+                        mapping["previews"] = previews
+                        events.append({"title_id": ident, "status": "selected", "asset_id": row["id"],
+                                       "game_id": mapping["game_id"], "url": url, "source_sha256": file_hash(path),
+                                       "dimensions": info["dimensions"], "match_confidence": mapping["confidence"],
+                                       "selection": mapping["asset_selection"], "warnings": info["warnings"]})
                         selected = True
                         break
-                    except (ValueError, OSError) as error:
-                        events.append({"title_id": game["title_id"], "provider": name, "status": "candidate_rejected", "message": str(error)})
+                    except (DownloadError, ValueError, OSError) as error:
+                        events.append({"title_id": ident, "status": "candidate_rejected", "asset_id": row["id"], "message": str(error)})
                 if selected:
                     break
-            except (ValueError, OSError, KeyError, TypeError) as error:
-                events.append({"title_id": game["title_id"], "provider": name, "status": "unavailable", "message": str(error)})
-        if not selected:
-            events.append({"title_id": game["title_id"], "status": "missing"})
+            if not selected:
+                events.append({"title_id": ident, "status": "missing_square", "previews": previews})
+        except DownloadError as error:
+            events.append({"title_id": ident, "status": "provider_unavailable", "message": str(error)})
     write_json(root / "database/games.json", games)
+    write_json(mapping_path, mappings)
     if last_attempted:
         advance_queue(root, "fetch", last_attempted)
-    write_json(root / "reports/fetch.json", events)
+    write_json(root / "reports/ambiguous_matches.json", ambiguous)
+    write_json(root / "reports/download_results.json", events)
     return events

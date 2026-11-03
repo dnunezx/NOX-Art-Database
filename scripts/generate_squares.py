@@ -5,7 +5,7 @@ from noxart.pipeline import generate
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate deterministic 512px NOX artwork")
+    parser = argparse.ArgumentParser(description="Normalize native SteamGridDB squares to 512px PNG; no cropping")
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--database", default="database/games.json")
     parser.add_argument("--config", default="config.json")

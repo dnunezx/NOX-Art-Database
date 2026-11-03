@@ -1,20 +1,13 @@
 {
-  "batch_size": 50,
+  "batch_size": 10,
   "thumbnails": true,
   "max_source_bytes": 20971520,
-  "max_pixels": 40000000,
-  "min_source_side": 128,
-  "max_aspect_ratio": 8,
+  "max_pixels": 1048576,
   "max_output_bytes": 4194304,
   "timeout_seconds": 15,
   "retries": 2,
   "request_interval_seconds": 1,
   "cache_hours": 168,
-  "provider_order": ["local", "gametdb", "steamgriddb"],
-  "providers": {
-    "gametdb": {"enabled": false, "allowed_hosts": ["art.gametdb.com"]},
-    "steamgriddb": {"enabled": false, "allowed_hosts": ["cdn2.steamgriddb.com"]}
-  },
-  "processing": {"method": "auto", "focal_point": [0.5, 0.5], "zoom": 1, "rotation": 0, "background": "blur", "preserve_full": false},
+  "allowed_hosts": ["cdn2.steamgriddb.com", "cdn.steamgriddb.com"],
   "overrides": {}
 }

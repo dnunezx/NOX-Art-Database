@@ -1,5 +1,0 @@
-The geometric images square.png, portrait.png, landscape.png and transparent.png
-are original synthetic fixtures created for NOX Art Database by create_samples.py.
-To the extent possible under law, their authors waive copyright and related rights
-under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
-They contain no PlayStation game imagery. NOXS IDs are synthetic test identifiers.

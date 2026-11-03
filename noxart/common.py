@@ -73,6 +73,13 @@ def load_games(path):
                 raise ValueError("Invalid redistribution status")
         if "provider_permissions" in game and not isinstance(game["provider_permissions"], dict):
             raise ValueError("provider_permissions must be an object")
+        if "release_year" in game and (type(game["release_year"]) is not int or not 1970 <= game["release_year"] <= 2100):
+            raise ValueError("release_year must be a valid integer year")
+        if "alternate_titles" in game and (not isinstance(game["alternate_titles"], list)
+                or any(not isinstance(name, str) or not name.strip() for name in game["alternate_titles"])):
+            raise ValueError("alternate_titles must contain non-empty names")
+        if "steamgriddb_game_id" in game and (type(game["steamgriddb_game_id"]) is not int or game["steamgriddb_game_id"] <= 0):
+            raise ValueError("steamgriddb_game_id must be a positive integer")
         seen[ident] = game
     for game in games:
         chain = {game["title_id"]}
@@ -100,7 +107,7 @@ def publishable(game):
 
 
 def settings_for(config, game):
-    return {**config["processing"], **config.get("overrides", {}).get(game["title_id"], {})}
+    return {"method": "native-square", "output_size": 512}
 
 
 def queued_games(root, games, stage):

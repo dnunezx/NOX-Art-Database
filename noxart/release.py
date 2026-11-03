@@ -52,7 +52,7 @@ def validate(root, database="database/games.json", config_file="config.json"):
                 raise ValueError("Shared artwork metadata conflicts with canonical entry")
     for directory in ("artwork", "thumbnails"):
         for path in (root / directory).glob("PS3/*"):
-            if path.is_file() and path.suffix != ".gitkeep" and path.resolve() not in referenced:
+            if path.is_file() and path.name != ".gitkeep" and path.resolve() not in referenced:
                 raise ValueError(f"Unreferenced output: {path.relative_to(root)}")
     return games
 
@@ -65,14 +65,23 @@ def manifest(root, database="database/games.json", config_file="config.json"):
     for game in sorted(games, key=lambda g: g["title_id"]):
         if publishable(game) and publishable(by_id[canonical_id(game, by_id)]):
             result["games"][game["title_id"]] = {key: game.get(key) for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256")}
+            result["games"][game["title_id"]].update(steamgriddb_id=game.get("steamgriddb_game_id"),
+                asset_id=(game.get("source") or {}).get("provider_artwork_id"), resolution="512x512", status="available")
     write_json(Path(root) / "database/artwork_manifest.json", result)
     return result
 
 
-def package(root, database="database/games.json", config_file="config.json"):
+def package(root, database="database/games.json", config_file="config.json", version="v2-test", private=False):
     root = Path(root)
     index = manifest(root, database, config_file)
     games = load_games(safe_path(root, database))
+    if private:
+        # Explicit user-owned private-use pack. Never uploaded from a public repo.
+        by_id = {g["title_id"]: g for g in games}
+        index["delivery"] = "private-use-only"
+        index["games"] = {g["title_id"]: {key: g.get(key) for key in ("artwork", "thumbnail", "sha256", "thumbnail_sha256")}
+                          for g in games if g.get("artwork_status") == "generated" and g.get("review_status") == "approved"
+                          and by_id[canonical_id(g, by_id)].get("review_status") == "approved"}
     paths = set()
     for entry in index["games"].values():
         paths.add("artwork/" + entry["artwork"])
@@ -88,11 +97,14 @@ def package(root, database="database/games.json", config_file="config.json"):
                 "database/games.json": (json.dumps(public_metadata, indent=2) + "\n").encode()}
     for relative in paths:
         payloads[relative] = safe_path(root, relative).read_bytes()
-    for name in ("missing.json", "processing.json", "fetch.json", "review.md"):
+    for name in ("missing_artwork.json", "processing.json", "download_results.json", "ambiguous_matches.json", "artwork_selections.json", "review.md"):
         report = root / "reports" / name
         if report.is_file():
             payloads["reports/" + name] = report.read_bytes()
-    destination = root / "dist/nox-artwork.zip"
+    import re
+    if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]{0,63}", version):
+        raise ValueError("Unsafe package version")
+    destination = root / ("private-dist" if private else "dist") / "nox-artwork.zip"
     destination.parent.mkdir(parents=True, exist_ok=True)
     # Fixed timestamps and ordering make equal inputs produce identical ZIP bytes.
     with zipfile.ZipFile(destination, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
@@ -101,7 +113,19 @@ def package(root, database="database/games.json", config_file="config.json"):
             info.compress_type = zipfile.ZIP_DEFLATED
             info.external_attr = 0o100644 << 16
             archive.writestr(info, data)
-    (root / "dist/SHA256SUMS").write_text(file_hash(destination) + "  nox-artwork.zip\n", encoding="utf-8")
+    versioned = destination.parent / f"NOX-PS3-Artwork-{version}.zip"
+    versioned.write_bytes(destination.read_bytes())
+    thumbs = destination.parent / f"NOX-PS3-Thumbnails-{version}.zip"
+    with zipfile.ZipFile(thumbs, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+        for name, data in sorted(payloads.items()):
+            if name.startswith("thumbnails/") or name.startswith("database/"):
+                info = zipfile.ZipInfo(name, date_time=(2020, 1, 1, 0, 0, 0))
+                info.compress_type = zipfile.ZIP_DEFLATED
+                archive.writestr(info, data)
+    write_json(destination.parent / "NOX-Artwork-Manifest.json", index)
+    missing = root / "reports/missing_artwork.json"
+    write_json(destination.parent / "NOX-Missing-Artwork.json", read_json(missing) if missing.exists() else [])
+    (destination.parent / "SHA256SUMS").write_text("".join(file_hash(p) + "  " + p.name + "\n" for p in (destination, versioned, thumbs)), encoding="utf-8")
     return destination
 
 

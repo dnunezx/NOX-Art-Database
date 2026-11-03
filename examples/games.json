@@ -1,66 +1,52 @@
 [
   {
-    "title_id": "NOXS00001",
-    "title": "NOX synthetic square demo",
+    "title_id": "BCUS98111",
+    "title": "God of War III",
     "platform": "PS3",
-    "region": "DEMO",
+    "region": "US",
+    "release_year": 2010,
     "artwork_status": "missing",
     "review_status": "pending",
-    "source": {
-      "provider": "local",
-      "path": "samples/square.png",
-      "attribution": "NOX Art Database original geometric demo",
-      "license": "CC0-1.0",
-      "permission_evidence": "sources/samples/LICENSE.txt",
-      "redistribution": "approved"
-    }
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98111"
   },
   {
-    "title_id": "NOXS00002",
-    "title": "NOX synthetic portrait demo",
+    "title_id": "BCUS98123",
+    "title": "Uncharted 2: Among Thieves",
     "platform": "PS3",
-    "region": "DEMO",
+    "region": "US",
+    "release_year": 2009,
     "artwork_status": "missing",
     "review_status": "pending",
-    "source": {
-      "provider": "local",
-      "path": "samples/portrait.png",
-      "attribution": "NOX Art Database original geometric demo",
-      "license": "CC0-1.0",
-      "permission_evidence": "sources/samples/LICENSE.txt",
-      "redistribution": "approved"
-    }
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98123"
   },
   {
-    "title_id": "NOXS00003",
-    "title": "NOX synthetic landscape demo",
+    "title_id": "BCUS98233",
+    "title": "Uncharted 3: Drake's Deception",
     "platform": "PS3",
-    "region": "DEMO",
+    "region": "US",
+    "release_year": 2011,
     "artwork_status": "missing",
     "review_status": "pending",
-    "source": {
-      "provider": "local",
-      "path": "samples/landscape.png",
-      "attribution": "NOX Art Database original geometric demo",
-      "license": "CC0-1.0",
-      "permission_evidence": "sources/samples/LICENSE.txt",
-      "redistribution": "approved"
-    }
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98233"
   },
   {
-    "title_id": "NOXS00004",
-    "title": "NOX synthetic transparent demo",
+    "title_id": "BCUS98174",
+    "title": "The Last of Us",
     "platform": "PS3",
-    "region": "DEMO",
+    "region": "US",
+    "release_year": 2013,
     "artwork_status": "missing",
     "review_status": "pending",
-    "source": {
-      "provider": "local",
-      "path": "samples/transparent.png",
-      "attribution": "NOX Art Database original geometric demo",
-      "license": "CC0-1.0",
-      "permission_evidence": "sources/samples/LICENSE.txt",
-      "redistribution": "approved"
-    }
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98174"
+  },
+  {
+    "title_id": "BCUS98148",
+    "title": "LittleBigPlanet",
+    "platform": "PS3",
+    "region": "US",
+    "release_year": 2008,
+    "artwork_status": "missing",
+    "review_status": "pending",
+    "title_id_evidence": "https://www.gametdb.com/PS3/BCUS98148"
   }
 ]

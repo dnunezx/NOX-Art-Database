@@ -1,4 +1,4 @@
-name: Publish Database
+name: NOX — Package Artwork
 on:
   workflow_dispatch:
     inputs:

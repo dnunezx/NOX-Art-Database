@@ -12,6 +12,14 @@ from urllib.parse import urljoin, urlsplit
 from .common import digest, read_json, write_json
 
 
+class AuthenticationError(RuntimeError):
+    """Fatal credential failure, safe to display without request details."""
+
+
+class DownloadError(ValueError):
+    """Expected remote failure; callers can record it and continue a batch."""
+
+
 class NoRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         return None
@@ -44,7 +52,7 @@ class HttpClient:
                 for redirect in range(4):
                     parsed = self.check_url(current, allowed_hosts)
                     if parsed.hostname in self.blocked_hosts:
-                        raise ValueError("Provider deferred after a rate-limit response")
+                        raise DownloadError("Provider deferred after a rate-limit response")
                     delay = self.config["request_interval_seconds"] - (time.monotonic() - self.last_request)
                     if delay > 0:
                         self.sleep(delay)
@@ -82,19 +90,21 @@ class HttpClient:
                 code = error.code
                 retry_after = error.headers.get("Retry-After", "")
                 error.close()
+                if code in {401, 403} and headers and "Authorization" in headers:
+                    raise AuthenticationError(f"SteamGridDB authentication failed (HTTP {code}); check STEAMGRIDDB_API_KEY") from None
                 if code == 429:
                     # Stop this host for the entire batch. Never retry before a provider's reset.
                     self.blocked_hosts.add(urlsplit(current).hostname)
-                    raise ValueError("Provider rate limit reached; batch deferred") from error
+                    raise DownloadError("Provider rate limit reached; batch deferred") from None
                 if code not in {500, 502, 503, 504} or attempt == self.config["retries"]:
-                    raise ValueError(f"Provider returned HTTP {code}") from error
+                    raise DownloadError(f"Provider returned HTTP {code}") from None
                 if retry_after and (not retry_after.isdigit() or int(retry_after) > 30):
                     self.blocked_hosts.add(urlsplit(current).hostname)
-                    raise ValueError("Provider requested a later retry") from error
+                    raise DownloadError("Provider requested a later retry") from None
                 self.sleep(max(2 ** attempt, int(retry_after or 0)))
             except (urllib.error.URLError, TimeoutError, OSError) as error:
                 if attempt == self.config["retries"]:
-                    raise ValueError("Provider unavailable after bounded retries") from error
+                    raise DownloadError("Provider unavailable after bounded retries") from None
                 self.sleep(2 ** attempt)
         raise ValueError("Download failed")
 

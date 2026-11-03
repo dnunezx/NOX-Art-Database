@@ -1,0 +1,89 @@
+name: NOX — Fetch PS3 Artwork
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Maximum games per batch (1-1000)
+        default: '10'
+      refresh:
+        description: Refresh API caches and check for changed sources
+        type: boolean
+        default: false
+      replace:
+        description: Explicit replacement Title IDs separated by spaces
+        default: ''
+      private_pack:
+        description: Include a private-use approved pack (private repositories only)
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - database/games.json
+      - database/steamgriddb_mapping.json
+      - config.json
+      - noxart/**
+      - providers/**
+      - scripts/**
+      - requirements.txt
+      - .github/workflows/fetch-artwork.yml
+  schedule:
+    - cron: '17 7 * * 1'
+permissions:
+  contents: read
+concurrency:
+  group: fetch-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Verify API secret
+        env:
+          STEAMGRIDDB_API_KEY: ${{ secrets.STEAMGRIDDB_API_KEY }}
+        run: python -c "import os; assert os.environ.get('STEAMGRIDDB_API_KEY', '').strip(), 'STEAMGRIDDB_API_KEY secret is missing'"
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -v
+      - name: Restore mapping and API metadata cache
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: |
+            .cache/metadata
+            .cache/state
+          key: sgdb-v2-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: sgdb-v2-${{ runner.os }}-
+      - name: Fetch, match, validate and package
+        env:
+          STEAMGRIDDB_API_KEY: ${{ secrets.STEAMGRIDDB_API_KEY }}
+          NOX_LIMIT: ${{ inputs.limit || '10' }}
+          NOX_REFRESH: ${{ inputs.refresh || 'false' }}
+          NOX_REPLACE: ${{ inputs.replace || '' }}
+          NOX_PRIVATE_PACK: ${{ inputs.private_pack || 'false' }}
+          NOX_REPOSITORY_PRIVATE: ${{ github.event.repository.private }}
+        run: python -m scripts.run_pipeline
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: success()
+        with:
+          name: nox-steamgriddb-${{ github.run_number }}
+          path: |
+            dist/
+            reports/
+            database/
+          if-no-files-found: error
+          retention-days: 14
+      - name: Upload explicitly requested private pack
+        if: inputs.private_pack && github.event.repository.private
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: nox-private-use-${{ github.run_number }}
+          path: private-dist/
+          if-no-files-found: error
+          retention-days: 7

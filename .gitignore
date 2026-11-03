@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .cache/
 dist/
+private-dist/
 sources/*
 !sources/samples/
 .env

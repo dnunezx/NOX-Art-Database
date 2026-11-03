@@ -79,6 +79,10 @@ def generate(root, database="database/games.json", config_file="config.json", li
                         processing_settings=settings, processing_sha256=digest(json.dumps(settings, sort_keys=True).encode()),
                         source_dimensions=info["dimensions"], quality_warnings=info["warnings"], review_status="pending")
             game.pop("pending_source", None)
+            approval = config.get("overrides", {}).get(ident, {})
+            if (approval.get("asset_id") == source.get("provider_artwork_id")
+                    and approval.get("approved_sha256") == game["sha256"]):
+                game.update(review_status="approved", reviewed_sha256=game["sha256"])
             events.append({"title_id": ident, "status": "generated", **info})
         except (ValueError, OSError) as error:
             events.append({"title_id": ident, "status": "missing", "message": str(error)})
