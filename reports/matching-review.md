@@ -1416,3 +1416,227 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [Resonance](https://www.steamgriddb.com/game/5550847) — game ID `5550847`
 - [Resonance Wars](https://www.steamgriddb.com/game/5301530) — game ID `5301530`
 - [Resonance chain](https://www.steamgriddb.com/game/5448458) — game ID `5448458`
+
+## Resident Evil 5: Gold Edition — BLUS30491
+
+- [Resident Evil 5](https://www.steamgriddb.com/game/2177) — game ID `2177`
+- [Resident Evil 1.5 / Biohazard 1.5](https://www.steamgriddb.com/game/5249887) — game ID `5249887`
+- [Resident Evil](https://www.steamgriddb.com/game/4793) — game ID `4793`
+- [Resident Evil](https://www.steamgriddb.com/game/33861) — game ID `33861`
+- [Resident Evil: Operation Raccoon City](https://www.steamgriddb.com/game/1957) — game ID `1957`
+- [Resident Evil 6](https://www.steamgriddb.com/game/2278) — game ID `2278`
+- [Resident Evil: Revelations](https://www.steamgriddb.com/game/2310) — game ID `2310`
+- [Resident Evil 4](https://www.steamgriddb.com/game/3168) — game ID `3168`
+- [Resident Evil Revelations 2](https://www.steamgriddb.com/game/4098) — game ID `4098`
+- [Resident Evil 0](https://www.steamgriddb.com/game/6157) — game ID `6157`
+
+## DreamWorks Shrek Forever After — BLUS30496
+
+- [DreamWorks Voltron VR Chronicles](https://www.steamgriddb.com/game/20963) — game ID `20963`
+- [DreamWorks Dragons: Dawn of New Riders](https://www.steamgriddb.com/game/29702) — game ID `29702`
+- [DreamWorks Spirit: Lucky&#x27;s Big Adventure](https://www.steamgriddb.com/game/5280241) — game ID `5280241`
+- [DreamWorks Dragons: Legends of The Nine Realms](https://www.steamgriddb.com/game/5329387) — game ID `5329387`
+- [DreamWorks Super Star Kartz](https://www.steamgriddb.com/game/5333829) — game ID `5333829`
+- [DreamWorks Trolls Remix Rescue](https://www.steamgriddb.com/game/5433032) — game ID `5433032`
+- [DreamWorks All-Star Kart Racing](https://www.steamgriddb.com/game/5433525) — game ID `5433525`
+- [DreamWorks Dragons: Wild Skies](https://www.steamgriddb.com/game/5475509) — game ID `5475509`
+- [DreamWorks Gabby’s Dollhouse: Ready to Party](https://www.steamgriddb.com/game/5495915) — game ID `5495915`
+- [KILLING DREAMWORKS](https://www.steamgriddb.com/game/5413295) — game ID `5413295`
+
+## Clash of the Titans: The Videogame — BLUS30505
+
+- [Clash of the Titans](https://www.steamgriddb.com/game/5491747) — game ID `5491747`
+- [Crash of the Titans](https://www.steamgriddb.com/game/90) — game ID `90`
+- [Clash of the Monsters](https://www.steamgriddb.com/game/10228) — game ID `10228`
+- [Clash of the Metal](https://www.steamgriddb.com/game/5295207) — game ID `5295207`
+- [Clash Of The Undead](https://www.steamgriddb.com/game/5377252) — game ID `5377252`
+- [Clash of the Elements](https://www.steamgriddb.com/game/5435475) — game ID `5435475`
+- [Clash of the Kings](https://www.steamgriddb.com/game/5464746) — game ID `5464746`
+- [Clash of the Kingdoms](https://www.steamgriddb.com/game/5498944) — game ID `5498944`
+- [Kamigami: Clash of the Gods](https://www.steamgriddb.com/game/5307214) — game ID `5307214`
+- [Hegemony III: Clash of the Ancients](https://www.steamgriddb.com/game/4915) — game ID `4915`
+
+## Major League Baseball 2K10 — BLUS30506
+
+- [Major League Baseball](https://www.steamgriddb.com/game/29855) — game ID `29855`
+- [Major League Baseball](https://www.steamgriddb.com/game/5462064) — game ID `5462064`
+- [Major League Baseball 2K7](https://www.steamgriddb.com/game/12857) — game ID `12857`
+- [Major League Baseball 2K9](https://www.steamgriddb.com/game/29154) — game ID `29154`
+- [Major League Baseball Featuring Ken Griffey Jr](https://www.steamgriddb.com/game/34270) — game ID `34270`
+- [Major League Baseball 2K6](https://www.steamgriddb.com/game/5295424) — game ID `5295424`
+- [Major League Baseball 2K8: Fantasy All-Stars](https://www.steamgriddb.com/game/5331533) — game ID `5331533`
+- [Major League Baseball 2K9: Fantasy All-Stars](https://www.steamgriddb.com/game/5331534) — game ID `5331534`
+- [Major League Baseball 2K5](https://www.steamgriddb.com/game/5346586) — game ID `5346586`
+- [Major League Baseball 2K11](https://www.steamgriddb.com/game/5346588) — game ID `5346588`
+
+## Last Rebellion — BLUS30512
+
+- [LAST](https://www.steamgriddb.com/game/5345836) — game ID `5345836`
+- [Last Letter](https://www.steamgriddb.com/game/333) — game ID `333`
+- [Last Days Motel](https://www.steamgriddb.com/game/409) — game ID `409`
+- [Last Knight: Rogue Rider Edition](https://www.steamgriddb.com/game/3382) — game ID `3382`
+- [Last Dream](https://www.steamgriddb.com/game/3520) — game ID `3520`
+- [Last Inua](https://www.steamgriddb.com/game/5810) — game ID `5810`
+- [Last Word](https://www.steamgriddb.com/game/6963) — game ID `6963`
+- [Last Heroes](https://www.steamgriddb.com/game/7698) — game ID `7698`
+- [Last Days of Old Earth](https://www.steamgriddb.com/game/7965) — game ID `7965`
+- [Last Half of Darkness - Society of the Serpent Moon](https://www.steamgriddb.com/game/8328) — game ID `8328`
+
+## Little League World Series Baseball 2010 — BLUS30513
+
+- [Little League World Series Baseball: Double Play](https://www.steamgriddb.com/game/5331527) — game ID `5331527`
+- [Little League World Series Baseball 2008](https://www.steamgriddb.com/game/5331528) — game ID `5331528`
+- [Little League World Series Baseball 2009](https://www.steamgriddb.com/game/5331529) — game ID `5331529`
+- [Little League World Series Baseball 2022](https://www.steamgriddb.com/game/5340461) — game ID `5340461`
+- [Little League Baseball 2002](https://www.steamgriddb.com/game/35704) — game ID `35704`
+- [Little League Baseball: Championship Series](https://www.steamgriddb.com/game/38274) — game ID `38274`
+- [Little Lost Robots](https://www.steamgriddb.com/game/426) — game ID `426`
+- [Little Reds Forest Fun](https://www.steamgriddb.com/game/800) — game ID `800`
+- [Little Races](https://www.steamgriddb.com/game/956) — game ID `956`
+- [Little Farm](https://www.steamgriddb.com/game/1501) — game ID `1501`
+
+## DreamWorks Megamind: Ultimate Showdown — BLUS30518
+
+- [DreamWorks Voltron VR Chronicles](https://www.steamgriddb.com/game/20963) — game ID `20963`
+- [DreamWorks Dragons: Dawn of New Riders](https://www.steamgriddb.com/game/29702) — game ID `29702`
+- [DreamWorks Spirit: Lucky&#x27;s Big Adventure](https://www.steamgriddb.com/game/5280241) — game ID `5280241`
+- [DreamWorks Dragons: Legends of The Nine Realms](https://www.steamgriddb.com/game/5329387) — game ID `5329387`
+- [DreamWorks Super Star Kartz](https://www.steamgriddb.com/game/5333829) — game ID `5333829`
+- [DreamWorks Trolls Remix Rescue](https://www.steamgriddb.com/game/5433032) — game ID `5433032`
+- [DreamWorks All-Star Kart Racing](https://www.steamgriddb.com/game/5433525) — game ID `5433525`
+- [DreamWorks Dragons: Wild Skies](https://www.steamgriddb.com/game/5475509) — game ID `5475509`
+- [DreamWorks Gabby’s Dollhouse: Ready to Party](https://www.steamgriddb.com/game/5495915) — game ID `5495915`
+- [KILLING DREAMWORKS](https://www.steamgriddb.com/game/5413295) — game ID `5413295`
+
+## SBK 09: Superbike World Championship — BLUS30519
+
+- [SBK: Snowboard Kids](https://www.steamgriddb.com/game/5306813) — game ID `5306813`
+- [SBK Superbike World Championship](https://www.steamgriddb.com/game/5342505) — game ID `5342505`
+- [VRider SBK](https://www.steamgriddb.com/game/5485908) — game ID `5485908`
+
+## Mortal Kombat — BLUS30522
+
+- [Mortal Kombat](https://www.steamgriddb.com/game/34065) — game ID `34065`
+- [Mortal Kombat](https://www.steamgriddb.com/game/5270343) — game ID `5270343`
+- [Mortal Kombat Arcade Kollection](https://www.steamgriddb.com/game/1846) — game ID `1846`
+- [Mortal Kombat Komplete Edition](https://www.steamgriddb.com/game/2668) — game ID `2668`
+- [Mortal Kombat X](https://www.steamgriddb.com/game/4901) — game ID `4901`
+- [Mortal Kombat Trilogy](https://www.steamgriddb.com/game/12876) — game ID `12876`
+- [Mortal Kombat: Armageddon](https://www.steamgriddb.com/game/29905) — game ID `29905`
+- [Mortal Kombat 11](https://www.steamgriddb.com/game/32713) — game ID `32713`
+- [Mortal Kombat: Tournament Edition](https://www.steamgriddb.com/game/34676) — game ID `34676`
+- [Mortal Kombat Mythologies: Sub-Zero](https://www.steamgriddb.com/game/35633) — game ID `35633`
+
+## Thor: God of Thunder — BLUS30539
+
+- [Thor: God of Thunder](https://www.steamgriddb.com/game/38381) — game ID `38381`
+- [Thor - God of Thunder](https://www.steamgriddb.com/game/5519002) — game ID `5519002`
+- [THOR.N](https://www.steamgriddb.com/game/5249384) — game ID `5249384`
+- [Thor&#x27;s Legacy](https://www.steamgriddb.com/game/5449035) — game ID `5449035`
+- [Thor&#x27;s Breakout](https://www.steamgriddb.com/game/5453520) — game ID `5453520`
+- [Thor&#x27;s Wrath](https://www.steamgriddb.com/game/5461815) — game ID `5461815`
+- [Thor&#x27;s Macros](https://www.steamgriddb.com/game/5464298) — game ID `5464298`
+- [Thor&#x27;s Delivery Service](https://www.steamgriddb.com/game/5474149) — game ID `5474149`
+- [Tiny Thor](https://www.steamgriddb.com/game/14610) — game ID `14610`
+- [Young Thor](https://www.steamgriddb.com/game/5366169) — game ID `5366169`
+
+## Vanquish — BLUS30543
+
+- [Vanquish](https://www.steamgriddb.com/game/11458) — game ID `11458`
+- [VANQUISH](https://www.steamgriddb.com/game/5356470) — game ID `5356470`
+- [Vanquish: The Adventures of Lady Exton](https://www.steamgriddb.com/game/10504) — game ID `10504`
+- [Vanquish Evil](https://www.steamgriddb.com/game/5491641) — game ID `5491641`
+- [Vanquish The Eternal](https://www.steamgriddb.com/game/5496210) — game ID `5496210`
+- [Two Rings: Vanquish and Bloom](https://www.steamgriddb.com/game/5517253) — game ID `5517253`
+- [Void Vanquishers](https://www.steamgriddb.com/game/5462313) — game ID `5462313`
+- [Project Vanquisher](https://www.steamgriddb.com/game/5553408) — game ID `5553408`
+- [Vault of the Vanquished](https://www.steamgriddb.com/game/5496847) — game ID `5496847`
+
+## Bodycount — BLUS30562
+
+- [Bodycount](https://www.steamgriddb.com/game/5258602) — game ID `5258602`
+- [Bodycount](https://www.steamgriddb.com/game/5471972) — game ID `5471972`
+- [Body Count](https://www.steamgriddb.com/game/5434305) — game ID `5434305`
+- [BODY COUNT](https://www.steamgriddb.com/game/5527097) — game ID `5527097`
+- [Operation Body Count](https://www.steamgriddb.com/game/5290417) — game ID `5290417`
+
+## You Don&#x27;t Know Jack — BLUS30569
+
+- [You Don&#x27;t Know Jack](https://www.steamgriddb.com/game/33281) — game ID `33281`
+- [You Don&#x27;t Know Jack](https://www.steamgriddb.com/game/5405693) — game ID `5405693`
+- [You Don&#x27;t Know Jack Vol. 1 XL](https://www.steamgriddb.com/game/3105) — game ID `3105`
+- [You Don&#x27;t Know Jack Vol. 2](https://www.steamgriddb.com/game/3314) — game ID `3314`
+- [You Don&#x27;t Know Jack Vol. 3](https://www.steamgriddb.com/game/3315) — game ID `3315`
+- [You Don&#x27;t Know Jack Vol. 4: The Ride](https://www.steamgriddb.com/game/3316) — game ID `3316`
+- [You Don&#x27;t Know Jack: Movies](https://www.steamgriddb.com/game/3320) — game ID `3320`
+- [You Don&#x27;t Know Jack: Sports](https://www.steamgriddb.com/game/3321) — game ID `3321`
+- [You Don&#x27;t Know Jack: Television](https://www.steamgriddb.com/game/3322) — game ID `3322`
+- [You Don&#x27;t Know Jack: Headrush](https://www.steamgriddb.com/game/3323) — game ID `3323`
+
+## EA Sports Active 2: Personal Trainer — BLUS30572
+
+- [EA Sports Active 2](https://www.steamgriddb.com/game/5343296) — game ID `5343296`
+- [EA Sports Active: More Workouts](https://www.steamgriddb.com/game/5343294) — game ID `5343294`
+- [EA Sports Active: Personal Trainer](https://www.steamgriddb.com/game/5343295) — game ID `5343295`
+- [EA Sports Active NFL Training Camp](https://www.steamgriddb.com/game/5343297) — game ID `5343297`
+- [EA Sports UFC 2](https://www.steamgriddb.com/game/5254845) — game ID `5254845`
+- [EA Sports UFC](https://www.steamgriddb.com/game/5254893) — game ID `5254893`
+- [EA Sports FIFA 21](https://www.steamgriddb.com/game/5262608) — game ID `5262608`
+- [EA Sports MMA](https://www.steamgriddb.com/game/5287522) — game ID `5287522`
+- [EA Sports UFC 3](https://www.steamgriddb.com/game/5361134) — game ID `5361134`
+- [EA Sports Double Header: EA Hockey / John Madden Football](https://www.steamgriddb.com/game/5375733) — game ID `5375733`
+
+## Zumba Fitness — BLUS30587
+
+- [Zumba Fitness World Party](https://www.steamgriddb.com/game/5256111) — game ID `5256111`
+- [Zumba Fitness: Join the Party](https://www.steamgriddb.com/game/5344223) — game ID `5344223`
+- [Zumba Fitness 2](https://www.steamgriddb.com/game/5344224) — game ID `5344224`
+- [Zumba Fitness Core](https://www.steamgriddb.com/game/5344225) — game ID `5344225`
+- [Zumba Kids: The Ultimate Zumba Dance Party](https://www.steamgriddb.com/game/5344226) — game ID `5344226`
+- [Zumba Garden](https://www.steamgriddb.com/game/5434803) — game ID `5434803`
+- [Zumba - The Dragon&#x27;s Marble Trial](https://www.steamgriddb.com/game/5562247) — game ID `5562247`
+- [水果祖玛 &#124; Fruit Zumba](https://www.steamgriddb.com/game/5286502) — game ID `5286502`
+- [Zuma Deluxe](https://www.steamgriddb.com/game/5857) — game ID `5857`
+- [Zuma&#x27;s Revenge!](https://www.steamgriddb.com/game/7268) — game ID `7268`
+
+## NBA Elite 11 — BLUS30592
+
+- [NBA](https://www.steamgriddb.com/game/5342376) — game ID `5342376`
+- [NBA 2K12](https://www.steamgriddb.com/game/1740) — game ID `1740`
+- [NBA 2K13](https://www.steamgriddb.com/game/2237) — game ID `2237`
+- [NBA 2K14](https://www.steamgriddb.com/game/3189) — game ID `3189`
+- [NBA 2K15](https://www.steamgriddb.com/game/3933) — game ID `3933`
+- [NBA 2K16](https://www.steamgriddb.com/game/7672) — game ID `7672`
+- [NBA 2K17](https://www.steamgriddb.com/game/8377) — game ID `8377`
+- [NBA 2K10](https://www.steamgriddb.com/game/9385) — game ID `9385`
+- [NBA 2KVR Experience](https://www.steamgriddb.com/game/13787) — game ID `13787`
+- [NBA Playgrounds](https://www.steamgriddb.com/game/14783) — game ID `14783`
+
+## Yoostar 2: In the Movies — BLUS30596
+
+
+## John Daly&#x27;s ProStroke Golf — BLUS30597
+
+- [John](https://www.steamgriddb.com/game/5525730) — game ID `5525730`
+- [John Deere: Drive Green](https://www.steamgriddb.com/game/6064) — game ID `6064`
+- [John Wick Chronicles](https://www.steamgriddb.com/game/8225) — game ID `8225`
+- [John, The Zombie](https://www.steamgriddb.com/game/22997) — game ID `22997`
+- [John Dungeon](https://www.steamgriddb.com/game/24114) — game ID `24114`
+- [John Lazarus - Episode 1: Dead Man&#x27;s Origin](https://www.steamgriddb.com/game/24485) — game ID `24485`
+- [John Mambo](https://www.steamgriddb.com/game/27660) — game ID `27660`
+- [John Madden Football &#x27;93](https://www.steamgriddb.com/game/29915) — game ID `29915`
+- [John Black: Memories](https://www.steamgriddb.com/game/30460) — game ID `30460`
+- [John:Condemned](https://www.steamgriddb.com/game/32111) — game ID `32111`
+
+## NASCAR 2011: The Game — BLUS30604
+
+- [NASCAR The Game: 2011](https://www.steamgriddb.com/game/5262220) — game ID `5262220`
+- [NASCAR Unleashed](https://www.steamgriddb.com/game/5333875) — game ID `5333875`
+- [NASCAR](https://www.steamgriddb.com/game/5342375) — game ID `5342375`
+- [NASCAR The Game: 2013](https://www.steamgriddb.com/game/2396) — game ID `2396`
+- [NASCAR &#x27;14](https://www.steamgriddb.com/game/3157) — game ID `3157`
+- [NASCAR &#x27;15 Victory Edition](https://www.steamgriddb.com/game/6500) — game ID `6500`
+- [NASCAR Heat Evolution](https://www.steamgriddb.com/game/13273) — game ID `13273`
+- [NASCAR Heat 2](https://www.steamgriddb.com/game/19766) — game ID `19766`
+- [NASCAR Heat 3](https://www.steamgriddb.com/game/30041) — game ID `30041`
+- [NASCAR 2000](https://www.steamgriddb.com/game/33603) — game ID `33603`

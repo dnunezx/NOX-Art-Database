@@ -258,3 +258,63 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30485 | Rage | Neuropod | [#453746](https://www.steamgriddb.com/grid/453746) |
 | BLUS30487 | Guitar Hero: Warriors of Rock | Imatination | [#378606](https://www.steamgriddb.com/grid/378606) |
 | BLUS30488 | Tom Clancy's H.A.W.X. 2 | FrostWolf | [#149754](https://www.steamgriddb.com/grid/149754) |
+| BLUS30490 | 3D Dot Game Heroes | Shiios42 | [#341122](https://www.steamgriddb.com/grid/341122) |
+| BLUS30492 | Sengoku Basara: Samurai Heroes | Yochia | [#208984](https://www.steamgriddb.com/grid/208984) |
+| BLUS30495 | Naruto Shippuden: Ultimate Ninja Storm 2 | Kynd | [#228829](https://www.steamgriddb.com/grid/228829) |
+| BLUS30499 | Spider-Man: Shattered Dimensions | CluckenDip | [#136592](https://www.steamgriddb.com/grid/136592) |
+| BLUS30500 | Fallout: New Vegas | TheKersalMassive | [#193697](https://www.steamgriddb.com/grid/193697) |
+| BLUS30501 | Dishonored | Comcord | [#167986](https://www.steamgriddb.com/grid/167986) |
+| BLUS30504 | Fist of the North Star: Ken's Rage | Shiios42 | [#347150](https://www.steamgriddb.com/grid/347150) |
+| BLUS30507 | Naughty Bear | fia | [#560359](https://www.steamgriddb.com/grid/560359) |
+| BLUS30510 | Dungeon Siege III | FrostWolf | [#166252](https://www.steamgriddb.com/grid/166252) |
+| BLUS30511 | F.E.A.R. 3 | Neuropod | [#384756](https://www.steamgriddb.com/grid/384756) |
+| BLUS30514 | Iron Man 2 | Shiios42 | [#393677](https://www.steamgriddb.com/grid/393677) |
+| BLUS30515 | Batman: Arkham Asylum: Game of the Year Edition | NinjaBlade | [#137620](https://www.steamgriddb.com/grid/137620) |
+| BLUS30516 | Armored Core V | Gray Mess | [#144859](https://www.steamgriddb.com/grid/144859) |
+| BLUS30517 | Battlefield: Bad Company 2 | Mingebag | [#417564](https://www.steamgriddb.com/grid/417564) |
+| BLUS30520 | MySims SkyHeroes | Poppet | [#767269](https://www.steamgriddb.com/grid/767269) |
+| BLUS30521 | Tom Clancy's Ghost Recon: Future Soldier | FrostWolf | [#149686](https://www.steamgriddb.com/grid/149686) |
+| BLUS30524 | Grand Theft Auto: Episodes from Liberty City | GabrielXZLIVE | [#788081](https://www.steamgriddb.com/grid/788081) |
+| BLUS30526 | DJ Hero 2 | Imatination | [#224466](https://www.steamgriddb.com/grid/224466) |
+| BLUS30527 | Test Drive Unlimited 2 | ZazaMastro | [#480387](https://www.steamgriddb.com/grid/480387) |
+| BLUS30529 | Virtua Tennis 4 | Shiios42 | [#341281](https://www.steamgriddb.com/grid/341281) |
+| BLUS30530 | Homefront | CriticalComposer | [#255302](https://www.steamgriddb.com/grid/255302) |
+| BLUS30531 | Spec Ops: The Line | Elke1131 | [#136584](https://www.steamgriddb.com/grid/136584) |
+| BLUS30533 | Monopoly Streets | Ellite | [#471136](https://www.steamgriddb.com/grid/471136) |
+| BLUS30534 | Star Wars: The Force Unleashed II | flamepanther | [#141939](https://www.steamgriddb.com/grid/141939) |
+| BLUS30535 | Trinity Universe | mononeko | [#543745](https://www.steamgriddb.com/grid/543745) |
+| BLUS30536 | Driver: San Francisco | Devin | [#141194](https://www.steamgriddb.com/grid/141194) |
+| BLUS30537 | Assassin's Creed: Brotherhood | Timberfang | [#137204](https://www.steamgriddb.com/grid/137204) |
+| BLUS30538 | Batman: Arkham City | TheKersalMassive | [#193704](https://www.steamgriddb.com/grid/193704) |
+| BLUS30540 | LEGO Star Wars III: The Clone Wars | FrostGamer98 | [#158398](https://www.steamgriddb.com/grid/158398) |
+| BLUS30542 | Tony Hawk: Shred | Goof14 | [#491403](https://www.steamgriddb.com/grid/491403) |
+| BLUS30544 | Nail'd | Neuropod | [#406957](https://www.steamgriddb.com/grid/406957) |
+| BLUS30546 | Madden NFL 11 | Mentos0723 | [#733661](https://www.steamgriddb.com/grid/733661) |
+| BLUS30547 | Mindjack | Shiios42 | [#340422](https://www.steamgriddb.com/grid/340422) |
+| BLUS30550 | Two Worlds II | Rcgv | [#713981](https://www.steamgriddb.com/grid/713981) |
+| BLUS30554 | L.A. Noire | TheKersalMassive | [#193686](https://www.steamgriddb.com/grid/193686) |
+| BLUS30557 | Max Payne 3 | TheKersalMassive | [#193687](https://www.steamgriddb.com/grid/193687) |
+| BLUS30558 | Enslaved: Odyssey to the West | fia | [#574226](https://www.steamgriddb.com/grid/574226) |
+| BLUS30559 | de Blob 2 | flamepanther | [#140530](https://www.steamgriddb.com/grid/140530) |
+| BLUS30560 | NCAA Football 11 | Jab | [#212465](https://www.steamgriddb.com/grid/212465) |
+| BLUS30563 | Cabela's Dangerous Hunts 2011 | Mentos0723 | [#733584](https://www.steamgriddb.com/grid/733584) |
+| BLUS30565 | Silent Hill: Downpour | FrostWolf | [#146630](https://www.steamgriddb.com/grid/146630) |
+| BLUS30566 | Need for Speed: Hot Pursuit | FrostWolf | [#154000](https://www.steamgriddb.com/grid/154000) |
+| BLUS30567 | EA Sports MMA | Shiios42 | [#347152](https://www.steamgriddb.com/grid/347152) |
+| BLUS30570 | Rapala Pro Bass Fishing | Mentos0723 | [#733669](https://www.steamgriddb.com/grid/733669) |
+| BLUS30573 | Green Day: Rock Band | GabrielXZLIVE | [#774942](https://www.steamgriddb.com/grid/774942) |
+| BLUS30574 | NBA 2K11 | Mentos0723 | [#641177](https://www.steamgriddb.com/grid/641177) |
+| BLUS30575 | Harry Potter and the Deathly Hallows: Part 1 | ZazaMastro | [#480378](https://www.steamgriddb.com/grid/480378) |
+| BLUS30576 | BlazBlue: Continuum Shift | CriticalComposer | [#137082](https://www.steamgriddb.com/grid/137082) |
+| BLUS30577 | Bakugan: Defenders of the Core | AlexR012 | [#780845](https://www.steamgriddb.com/grid/780845) |
+| BLUS30578 | Hasbro Family Game Night 3 | Mentos0723 | [#733535](https://www.steamgriddb.com/grid/733535) |
+| BLUS30580 | Shift 2: Unleashed | Archer27 | [#689569](https://www.steamgriddb.com/grid/689569) |
+| BLUS30581 | Dragon Ball: Raging Blast 2 | Kynd | [#226683](https://www.steamgriddb.com/grid/226683) |
+| BLUS30583 | DC Universe Online | TytusV2 | [#676162](https://www.steamgriddb.com/grid/676162) |
+| BLUS30585 | Red Faction: Armageddon | TytusV2 | [#684204](https://www.steamgriddb.com/grid/684204) |
+| BLUS30588 | WWE All Stars | Shiios42 | [#357779](https://www.steamgriddb.com/grid/357779) |
+| BLUS30591 | Call of Duty: Black Ops | ParsaMON | [#352797](https://www.steamgriddb.com/grid/352797) |
+| BLUS30593 | The Lord of the Rings: Aragorn's Quest | Mentos0723 | [#733717](https://www.steamgriddb.com/grid/733717) |
+| BLUS30606 | Create | crystalpepsi | [#550327](https://www.steamgriddb.com/grid/550327) |
+| BLUS30607 | Alice: Madness Returns | CriticalComposer | [#136761](https://www.steamgriddb.com/grid/136761) |
+| BLUS30608 | Fight Night Champion | Mentos0723 | [#733803](https://www.steamgriddb.com/grid/733803) |
