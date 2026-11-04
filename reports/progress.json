@@ -1,11 +1,11 @@
 {
   "total_title_ids": 1238,
-  "processed_artwork": 419,
-  "hosted_pngs": 419,
-  "awaiting_review": 186,
-  "automatically_approved": 419,
+  "processed_artwork": 479,
+  "hosted_pngs": 479,
+  "awaiting_review": 216,
+  "automatically_approved": 479,
   "manually_approved": 0,
-  "missing_retry": 199,
-  "ready_for_next_batch": 433,
+  "missing_retry": 209,
+  "ready_for_next_batch": 333,
   "batch_size": 100
 }

@@ -2234,3 +2234,378 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [Fallout 4](https://www.steamgriddb.com/game/7993) — game ID `7993`
 - [Fallout: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8280) — game ID `8280`
 - [Fallout 2: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8287) — game ID `8287`
+
+## L.A. Noire: The Complete Edition — BLUS30898
+
+- [L.A. Noire: The VR Case Files](https://www.steamgriddb.com/game/22212) — game ID `22212`
+- [L.A. Noire](https://www.steamgriddb.com/game/1282) — game ID `1282`
+- [L.A. Street Racing](https://www.steamgriddb.com/game/5273648) — game ID `5273648`
+- [L.A. Rush](https://www.steamgriddb.com/game/5314382) — game ID `5314382`
+- [L.A.P.D. 2195](https://www.steamgriddb.com/game/5320013) — game ID `5320013`
+- [L.A. Rex](https://www.steamgriddb.com/game/5346962) — game ID `5346962`
+- [L.A. Machineguns: Rage of the Machines](https://www.steamgriddb.com/game/5360470) — game ID `5360470`
+- [V.L.A.D.i.K](https://www.steamgriddb.com/game/860) — game ID `860`
+- [P.A.M.E.L.A.](https://www.steamgriddb.com/game/10067) — game ID `10067`
+- [A.L.A.N.](https://www.steamgriddb.com/game/23555) — game ID `23555`
+
+## Order Up!! — BLUS30904
+
+- [Order Up](https://www.steamgriddb.com/game/5524019) — game ID `5524019`
+- [Order Up VR](https://www.steamgriddb.com/game/4889406) — game ID `4889406`
+- [Carrie&#x27;s Order Up](https://www.steamgriddb.com/game/13908) — game ID `13908`
+- [Wand &amp; Order: Tidy up the magic shop!](https://www.steamgriddb.com/game/5540410) — game ID `5540410`
+- [Dose of Order: Pharmacy Tidy Up](https://www.steamgriddb.com/game/5563020) — game ID `5563020`
+- [Order, My Lord! Tidy Up the Dungeon](https://www.steamgriddb.com/game/5558127) — game ID `5558127`
+- [Order Up!](https://www.steamgriddb.com/game/38609) — game ID `38609`
+- [Rugrats All Growed Up: Older and Bolder](https://www.steamgriddb.com/game/5440947) — game ID `5440947`
+- [OrderUp!](https://www.steamgriddb.com/game/5499322) — game ID `5499322`
+- [Order of Battle: World War II](https://www.steamgriddb.com/game/5036) — game ID `5036`
+
+## Disney/Pixar Brave — BLUS30907
+
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney-Pixar Up](https://www.steamgriddb.com/game/5329555) — game ID `5329555`
+- [RUSH: A Disney • PIXAR Adventure](https://www.steamgriddb.com/game/16249) — game ID `16249`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+
+## Deadliest Warrior: Ancient Combat — BLUS30911
+
+- [Deadliest Warrior: The Game](https://www.steamgriddb.com/game/5375783) — game ID `5375783`
+- [Deadliest Warrior: Legends](https://www.steamgriddb.com/game/5375784) — game ID `5375784`
+- [Chivalry: Deadliest Warrior dedicated server](https://www.steamgriddb.com/game/5250300) — game ID `5250300`
+- [Deadliest Catch: The Game](https://www.steamgriddb.com/game/27195) — game ID `27195`
+- [Deadliest Catch: Sea of Chaos](https://www.steamgriddb.com/game/5258748) — game ID `5258748`
+- [Deadliest Catch: Alaskan Storm](https://www.steamgriddb.com/game/5267826) — game ID `5267826`
+- [Deadliest Dem(o(li)ti)on](https://www.steamgriddb.com/game/5457528) — game ID `5457528`
+- [Deadliest Pigeon](https://www.steamgriddb.com/game/5488086) — game ID `5488086`
+- [DEADLIST](https://www.steamgriddb.com/game/5503429) — game ID `5503429`
+- [Octodad: Dadliest Catch](https://www.steamgriddb.com/game/2369) — game ID `2369`
+
+## Battleship — BLUS30913
+
+- [Battleship](https://www.steamgriddb.com/game/2457) — game ID `2457`
+- [Battleship](https://www.steamgriddb.com/game/5304922) — game ID `5304922`
+- [Battleship](https://www.steamgriddb.com/game/5430638) — game ID `5430638`
+- [Battleship](https://www.steamgriddb.com/game/5472280) — game ID `5472280`
+- [Battleship: Fleet Command](https://www.steamgriddb.com/game/8079) — game ID `8079`
+- [Battleship Bishojo](https://www.steamgriddb.com/game/17613) — game ID `17613`
+- [Battleship Lonewolf](https://www.steamgriddb.com/game/22662) — game ID `22662`
+- [Battleship Lonewolf 2](https://www.steamgriddb.com/game/25234) — game ID `25234`
+- [BATTLESHIP APOLLO](https://www.steamgriddb.com/game/5268288) — game ID `5268288`
+- [Battleship Lolita](https://www.steamgriddb.com/game/5320788) — game ID `5320788`
+
+## MIB: Alien Crisis — BLUS30922
+
+- [MIB (Men In Black) Alien Crisis](https://www.steamgriddb.com/game/5343767) — game ID `5343767`
+
+## Wheel of Fortune — BLUS30923
+
+- [Wheel of Fortune](https://www.steamgriddb.com/game/35061) — game ID `35061`
+- [Wheel of Fortune](https://www.steamgriddb.com/game/5277636) — game ID `5277636`
+- [Wheel of Fortune](https://www.steamgriddb.com/game/5336357) — game ID `5336357`
+- [Wheel of Fortune: Featuring Vanna White](https://www.steamgriddb.com/game/34549) — game ID `34549`
+- [Wheel of Fortune: Junior Edition](https://www.steamgriddb.com/game/36606) — game ID `36606`
+- [Wheel of Fortune: Family Edition](https://www.steamgriddb.com/game/36857) — game ID `36857`
+- [Wheel of Fortune Deluxe Edition](https://www.steamgriddb.com/game/38831) — game ID `38831`
+- [Wheel of Fortune: 2nd Edition](https://www.steamgriddb.com/game/5336356) — game ID `5336356`
+- [The Wheel of Fortune](https://www.steamgriddb.com/game/5304747) — game ID `5304747`
+- [Frontier Hunter: Erza’s Wheel of Fortune](https://www.steamgriddb.com/game/5276402) — game ID `5276402`
+
+## Jeopardy! — BLUS30924
+
+- [Jeopardy](https://www.steamgriddb.com/game/5494557) — game ID `5494557`
+- [Jeopardy! Platinum Edition](https://www.steamgriddb.com/game/33771) — game ID `33771`
+- [Jeopardy! Sports Edition](https://www.steamgriddb.com/game/34313) — game ID `34313`
+- [Jeopardy!](https://www.steamgriddb.com/game/34354) — game ID `34354`
+- [Jeopardy! Teen Tournament](https://www.steamgriddb.com/game/34745) — game ID `34745`
+- [Jeopardy! Deluxe Edition](https://www.steamgriddb.com/game/35091) — game ID `35091`
+- [Jeopardy! Junior Edition](https://www.steamgriddb.com/game/36433) — game ID `36433`
+- [Jeopardy! 25th Anniversary Edition](https://www.steamgriddb.com/game/36695) — game ID `36695`
+- [Jeopardy!](https://www.steamgriddb.com/game/5258385) — game ID `5258385`
+- [Jeopardy! Playshow](https://www.steamgriddb.com/game/5276871) — game ID `5276871`
+
+## Major League Baseball 2K12 — BLUS30931
+
+- [Major League Baseball](https://www.steamgriddb.com/game/29855) — game ID `29855`
+- [Major League Baseball](https://www.steamgriddb.com/game/5462064) — game ID `5462064`
+- [Major League Baseball 2K7](https://www.steamgriddb.com/game/12857) — game ID `12857`
+- [Major League Baseball 2K9](https://www.steamgriddb.com/game/29154) — game ID `29154`
+- [Major League Baseball Featuring Ken Griffey Jr](https://www.steamgriddb.com/game/34270) — game ID `34270`
+- [Major League Baseball 2K6](https://www.steamgriddb.com/game/5295424) — game ID `5295424`
+- [Major League Baseball 2K8: Fantasy All-Stars](https://www.steamgriddb.com/game/5331533) — game ID `5331533`
+- [Major League Baseball 2K9: Fantasy All-Stars](https://www.steamgriddb.com/game/5331534) — game ID `5331534`
+- [Major League Baseball 2K5](https://www.steamgriddb.com/game/5346586) — game ID `5346586`
+- [Major League Baseball 2K11](https://www.steamgriddb.com/game/5346588) — game ID `5346588`
+
+## Star Trek — BLUS30935
+
+- [Star Trek](https://www.steamgriddb.com/game/1787) — game ID `1787`
+- [Star Trek](https://www.steamgriddb.com/game/5451998) — game ID `5451998`
+- [Star Trek: 25th Anniversary](https://www.steamgriddb.com/game/7161) — game ID `7161`
+- [Star Trek: Judgment Rites](https://www.steamgriddb.com/game/7401) — game ID `7401`
+- [Star Trek: Starfleet Academy](https://www.steamgriddb.com/game/7402) — game ID `7402`
+- [Star Trek: Starfleet Command Gold Edition](https://www.steamgriddb.com/game/7403) — game ID `7403`
+- [Star Trek: D·A·C](https://www.steamgriddb.com/game/10257) — game ID `10257`
+- [Star Trek: Bridge Crew](https://www.steamgriddb.com/game/14072) — game ID `14072`
+- [Star Trek Timelines](https://www.steamgriddb.com/game/17079) — game ID `17079`
+- [Star Trek: Deep Space Nine - Dominion Wars](https://www.steamgriddb.com/game/25598) — game ID `25598`
+
+## Port Royale 3: Pirates &amp; Merchants — BLUS30940
+
+- [Port Royale 3](https://www.steamgriddb.com/game/1852) — game ID `1852`
+- [Port Royale 3: Gold Edition](https://www.steamgriddb.com/game/5295123) — game ID `5295123`
+- [Port Royale](https://www.steamgriddb.com/game/5249186) — game ID `5249186`
+- [Port Royale 2](https://www.steamgriddb.com/game/1383) — game ID `1383`
+- [Port Royale 4](https://www.steamgriddb.com/game/5247180) — game ID `5247180`
+- [Port Royale 4 - Beta](https://www.steamgriddb.com/game/5321832) — game ID `5321832`
+- [Uncharted Tides: Port Royal](https://www.steamgriddb.com/game/5246554) — game ID `5246554`
+- [Port of Call](https://www.steamgriddb.com/game/7016) — game ID `7016`
+- [Port Valley](https://www.steamgriddb.com/game/29983) — game ID `29983`
+- [Port Aphelion](https://www.steamgriddb.com/game/5290194) — game ID `5290194`
+
+## Atelier Meruru: The Apprentice of Arland — BLUS30941
+
+- [Atelier Meruru: The Apprentice of Arland DX](https://www.steamgriddb.com/game/31246) — game ID `31246`
+- [Atelier Sophie: The Alchemist of the Mysterious Book](https://www.steamgriddb.com/game/14082) — game ID `14082`
+- [Atelier Firis: The Alchemist and the Mysterious Journey](https://www.steamgriddb.com/game/14084) — game ID `14084`
+- [Atelier Lydie &amp; Suelle: The Alchemists and the Mysterious Painting](https://www.steamgriddb.com/game/23651) — game ID `23651`
+- [Atelier Rorona: The Alchemist of Arland DX](https://www.steamgriddb.com/game/31243) — game ID `31243`
+- [Atelier Totori: The Adventurer of Arland DX](https://www.steamgriddb.com/game/31245) — game ID `31245`
+- [Atelier Iris: Eternal Mana](https://www.steamgriddb.com/game/35724) — game ID `35724`
+- [Atelier Iris 2: The Azoth of Destiny](https://www.steamgriddb.com/game/37856) — game ID `37856`
+- [Atelier Iris 3: Grand Phantasm](https://www.steamgriddb.com/game/38714) — game ID `38714`
+- [Atelier Annie: Alchemists of Sera Island](https://www.steamgriddb.com/game/38937) — game ID `38937`
+
+## NBA 2K12: Game of the Year Edition — BLUS30944
+
+- [NBA 2K12](https://www.steamgriddb.com/game/1740) — game ID `1740`
+- [NBA](https://www.steamgriddb.com/game/5342376) — game ID `5342376`
+- [NBA 2K13](https://www.steamgriddb.com/game/2237) — game ID `2237`
+- [NBA 2K14](https://www.steamgriddb.com/game/3189) — game ID `3189`
+- [NBA 2K15](https://www.steamgriddb.com/game/3933) — game ID `3933`
+- [NBA 2K16](https://www.steamgriddb.com/game/7672) — game ID `7672`
+- [NBA 2K17](https://www.steamgriddb.com/game/8377) — game ID `8377`
+- [NBA 2K10](https://www.steamgriddb.com/game/9385) — game ID `9385`
+- [NBA 2KVR Experience](https://www.steamgriddb.com/game/13787) — game ID `13787`
+- [NBA Playgrounds](https://www.steamgriddb.com/game/14783) — game ID `14783`
+
+## NCAA Football 13 — BLUS30948
+
+- [NCAA Football](https://www.steamgriddb.com/game/37660) — game ID `37660`
+- [NCAA Football 06](https://www.steamgriddb.com/game/38648) — game ID `38648`
+- [NCAA Football 09](https://www.steamgriddb.com/game/5263657) — game ID `5263657`
+- [NCAA Football 07](https://www.steamgriddb.com/game/5263658) — game ID `5263658`
+- [NCAA Football 14](https://www.steamgriddb.com/game/5263660) — game ID `5263660`
+- [NCAA Football 2005](https://www.steamgriddb.com/game/5266716) — game ID `5266716`
+- [NCAA Football 08](https://www.steamgriddb.com/game/5271023) — game ID `5271023`
+- [NCAA Football 2004](https://www.steamgriddb.com/game/5295511) — game ID `5295511`
+- [NCAA Football 2003](https://www.steamgriddb.com/game/5295513) — game ID `5295513`
+- [NCAA Football 11](https://www.steamgriddb.com/game/5323433) — game ID `5323433`
+
+## Disney Infinity — BLUS30977
+
+- [Disney Infinity 1.0: Gold Edition](https://www.steamgriddb.com/game/14620) — game ID `14620`
+- [Disney Infinity 2.0: Gold Edition](https://www.steamgriddb.com/game/14621) — game ID `14621`
+- [Disney Infinity 3.0: Gold Edition](https://www.steamgriddb.com/game/14622) — game ID `14622`
+- [Disney Infinity 3.0 Edition](https://www.steamgriddb.com/game/35164) — game ID `35164`
+- [Disney Infinity: Toy Box Challenge](https://www.steamgriddb.com/game/5333822) — game ID `5333822`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+
+## DreamWorks Madagascar 3: The Video Game — BLUS30980
+
+- [DreamWorks Voltron VR Chronicles](https://www.steamgriddb.com/game/20963) — game ID `20963`
+- [DreamWorks Dragons: Dawn of New Riders](https://www.steamgriddb.com/game/29702) — game ID `29702`
+- [DreamWorks Spirit: Lucky&#x27;s Big Adventure](https://www.steamgriddb.com/game/5280241) — game ID `5280241`
+- [DreamWorks Dragons: Legends of The Nine Realms](https://www.steamgriddb.com/game/5329387) — game ID `5329387`
+- [DreamWorks Super Star Kartz](https://www.steamgriddb.com/game/5333829) — game ID `5333829`
+- [DreamWorks Trolls Remix Rescue](https://www.steamgriddb.com/game/5433032) — game ID `5433032`
+- [DreamWorks All-Star Kart Racing](https://www.steamgriddb.com/game/5433525) — game ID `5433525`
+- [DreamWorks Dragons: Wild Skies](https://www.steamgriddb.com/game/5475509) — game ID `5475509`
+- [DreamWorks Gabby’s Dollhouse: Ready to Party](https://www.steamgriddb.com/game/5495915) — game ID `5495915`
+- [KILLING DREAMWORKS](https://www.steamgriddb.com/game/5413295) — game ID `5413295`
+
+## Los Caballeros del Zodiaco: Batalla por el Santuario ~ Os Cavaleiros do Zodíaco: Batalha do Santuário — BLUS31004
+
+- [Los Cops](https://www.steamgriddb.com/game/5288164) — game ID `5288164`
+- [Los Páramos](https://www.steamgriddb.com/game/5365324) — game ID `5365324`
+- [Los Templos Sagrados](https://www.steamgriddb.com/game/5433647) — game ID `5433647`
+- [Los Pingheros](https://www.steamgriddb.com/game/5452306) — game ID `5452306`
+- [Los Infernales](https://www.steamgriddb.com/game/5454871) — game ID `5454871`
+- [Los Angeles 1985](https://www.steamgriddb.com/game/5495049) — game ID `5495049`
+- [Los Pilarcitos](https://www.steamgriddb.com/game/5510342) — game ID `5510342`
+- [Los Cuentos de Frox](https://www.steamgriddb.com/game/5535883) — game ID `5535883`
+- [Los Pilarcitos 2](https://www.steamgriddb.com/game/5556340) — game ID `5556340`
+- [Los días después de que todo se fue al carajo](https://www.steamgriddb.com/game/5562103) — game ID `5562103`
+
+## Need for Speed: Most Wanted: A Criterion Game — BLUS31010
+
+- [Need for Speed: Most Wanted](https://www.steamgriddb.com/game/38250) — game ID `38250`
+- [Need for Speed: Most Wanted](https://www.steamgriddb.com/game/5258915) — game ID `5258915`
+- [Need for Speed: Most Wanted 5-1-0](https://www.steamgriddb.com/game/37762) — game ID `37762`
+- [Need for Speed: Most Wanted U](https://www.steamgriddb.com/game/5256025) — game ID `5256025`
+- [Need for Speed: Most Wanted - Black Edition](https://www.steamgriddb.com/game/5265476) — game ID `5265476`
+- [Need for Speed: Most Wanted - Pepega Edition](https://www.steamgriddb.com/game/5335030) — game ID `5335030`
+- [Need For Speed: Most Wanted Redux](https://www.steamgriddb.com/game/5518056) — game ID `5518056`
+- [Need for Speed](https://www.steamgriddb.com/game/34679) — game ID `34679`
+- [Need for Speed: Undercover](https://www.steamgriddb.com/game/1555) — game ID `1555`
+- [Need for Speed: SHIFT](https://www.steamgriddb.com/game/2968) — game ID `2968`
+
+## Remember Me — BLUS31012
+
+- [Remember Me](https://www.steamgriddb.com/game/2465) — game ID `2465`
+- [Remember Me](https://www.steamgriddb.com/game/5502888) — game ID `5502888`
+- [Always Remember Me](https://www.steamgriddb.com/game/4224) — game ID `4224`
+- [Runonce (remember_me)](https://www.steamgriddb.com/game/5489917) — game ID `5489917`
+- [Innacorde: Remember Me](https://www.steamgriddb.com/game/5533020) — game ID `5533020`
+- [Choujikuu Yousai Macross: Remember Me](https://www.steamgriddb.com/game/5433311) — game ID `5433311`
+- [The Dandelion Girl: Don&#x27;t You Remember Me?](https://www.steamgriddb.com/game/5245409) — game ID `5245409`
+- [RE:MEMBER](https://www.steamgriddb.com/game/5517309) — game ID `5517309`
+- [She Remembered Caterpillars](https://www.steamgriddb.com/game/11929) — game ID `11929`
+- [Ripley [Remembered]](https://www.steamgriddb.com/game/5482138) — game ID `5482138`
+
+## Damage Inc.: Pacific Squadron WWII — BLUS31019
+
+- [Damage Inc](https://www.steamgriddb.com/game/2138) — game ID `2138`
+- [DAMAGE CONTROL](https://www.steamgriddb.com/game/11027) — game ID `11027`
+- [Damage: Sadistic Butchering of Humanity](https://www.steamgriddb.com/game/14732) — game ID `14732`
+- [Damage Incorporated](https://www.steamgriddb.com/game/5477272) — game ID `5477272`
+- [Damage Shogi](https://www.steamgriddb.com/game/5538164) — game ID `5538164`
+- [Damage Chess](https://www.steamgriddb.com/game/5540735) — game ID `5540735`
+- [Damage Xiangqi](https://www.steamgriddb.com/game/5541567) — game ID `5541567`
+- [Damage Numbers Go Brr!](https://www.steamgriddb.com/game/5545265) — game ID `5545265`
+- [Catlateral Damage](https://www.steamgriddb.com/game/5731) — game ID `5731`
+- [Cel Damage](https://www.steamgriddb.com/game/5254879) — game ID `5254879`
+
+## Dead Island: Game of the Year Edition — BLUS31026
+
+- [Dead Island](https://www.steamgriddb.com/game/30347) — game ID `30347`
+- [Dead Island Riptide](https://www.steamgriddb.com/game/2163) — game ID `2163`
+- [Dead Island: Epidemic](https://www.steamgriddb.com/game/2319) — game ID `2319`
+- [Dead Island Riptide JP](https://www.steamgriddb.com/game/2739) — game ID `2739`
+- [Dead Island Retro Revenge](https://www.steamgriddb.com/game/6063) — game ID `6063`
+- [Dead Island: Definitive Edition](https://www.steamgriddb.com/game/8248) — game ID `8248`
+- [Dead Island: Riptide - Definitive Edition](https://www.steamgriddb.com/game/8249) — game ID `8249`
+- [Dead Island 2](https://www.steamgriddb.com/game/5289407) — game ID `5289407`
+- [Dead Island Save Editor (DISE)](https://www.steamgriddb.com/game/5320043) — game ID `5320043`
+- [Dead Island - Zombie Hunter](https://www.steamgriddb.com/game/5382038) — game ID `5382038`
+
+## PES 2013: Pro Evolution Soccer — BLUS31029
+
+- [ProFootball (PES 2013 Mod)](https://www.steamgriddb.com/game/5457802) — game ID `5457802`
+- [PES Dream Patch (Program)](https://www.steamgriddb.com/game/5340249) — game ID `5340249`
+- [PES 6 Infinitty Patch 2025](https://www.steamgriddb.com/game/5470226) — game ID `5470226`
+- [eFootball PES 2020](https://www.steamgriddb.com/game/5168402) — game ID `5168402`
+- [eFootball PES 2021](https://www.steamgriddb.com/game/5263899) — game ID `5263899`
+- [SoundSc@pes](https://www.steamgriddb.com/game/5434525) — game ID `5434525`
+- [You.T@pes](https://www.steamgriddb.com/game/5533859) — game ID `5533859`
+
+## Rocksmith — BLUS31031
+
+- [Rocksmith](https://www.steamgriddb.com/game/1841) — game ID `1841`
+- [Rocksmith® 2014 Edition - Remastered](https://www.steamgriddb.com/game/2295) — game ID `2295`
+- [Rocksmith+](https://www.steamgriddb.com/game/5359161) — game ID `5359161`
+- [Locksmith Simulator](https://www.steamgriddb.com/game/5274280) — game ID `5274280`
+- [Regular Locksmith Game](https://www.steamgriddb.com/game/5520215) — game ID `5520215`
+- [The Missing Locksmith](https://www.steamgriddb.com/game/5287159) — game ID `5287159`
+- [Lair of the Locksmith](https://www.steamgriddb.com/game/5476586) — game ID `5476586`
+
+## Tomb Raider — BLUS31036
+
+- [Tomb Raider](https://www.steamgriddb.com/game/1785) — game ID `1785`
+- [Tomb Raider](https://www.steamgriddb.com/game/2385) — game ID `2385`
+- [Tomb Raider: The Last Revelation](https://www.steamgriddb.com/game/2386) — game ID `2386`
+- [Tomb Raider: Chronicles](https://www.steamgriddb.com/game/2388) — game ID `2388`
+- [Tomb Raider: The Angel of Darkness](https://www.steamgriddb.com/game/2389) — game ID `2389`
+- [Tomb Raider II](https://www.steamgriddb.com/game/2399) — game ID `2399`
+- [Tomb Raider III: Adventures of Lara Croft](https://www.steamgriddb.com/game/2400) — game ID `2400`
+- [Tomb Raider: Legend](https://www.steamgriddb.com/game/21208) — game ID `21208`
+- [Tomb Raider: Anniversary](https://www.steamgriddb.com/game/25644) — game ID `25644`
+- [Tomb Raider: Underworld](https://www.steamgriddb.com/game/26243) — game ID `26243`
+
+## Fuse — BLUS31040
+
+- [Fuse](https://www.steamgriddb.com/game/3222) — game ID `3222`
+- [Fuse](https://www.steamgriddb.com/game/5246730) — game ID `5246730`
+- [Fuse](https://www.steamgriddb.com/game/5502588) — game ID `5502588`
+- [Fuse Balls](https://www.steamgriddb.com/game/25998) — game ID `25998`
+- [Fuse the bomb](https://www.steamgriddb.com/game/5456244) — game ID `5456244`
+- [Fuse (Emulator)](https://www.steamgriddb.com/game/5462561) — game ID `5462561`
+- [Fuse or Lose](https://www.steamgriddb.com/game/5509549) — game ID `5509549`
+- [Fuse Beads Simulator ~ Debt Payoff Story](https://www.steamgriddb.com/game/5532698) — game ID `5532698`
+- [Fuse Bead Workshop](https://www.steamgriddb.com/game/5542555) — game ID `5542555`
+- [Fuse Rush](https://www.steamgriddb.com/game/5547676) — game ID `5547676`
+
+## Disney/Pixar Toy Story Mania! — BLUS31048
+
+- [Disney•Pixar Brave: The Video Game](https://www.steamgriddb.com/game/4697) — game ID `4697`
+- [Disney-Pixar Up](https://www.steamgriddb.com/game/5329555) — game ID `5329555`
+- [RUSH: A Disney • PIXAR Adventure](https://www.steamgriddb.com/game/16249) — game ID `16249`
+- [Disney&#x27;s Beauty and the Beast: A Board Game Adventure](https://www.steamgriddb.com/game/81) — game ID `81`
+- [Disney&#x27;s Darkwing Duck](https://www.steamgriddb.com/game/1657) — game ID `1657`
+- [Disney Epic Mickey 2: The Power of Two](https://www.steamgriddb.com/game/2869) — game ID `2869`
+- [Disney Planes](https://www.steamgriddb.com/game/4086) — game ID `4086`
+- [Disney Pirates of the Caribbean: At Worlds End](https://www.steamgriddb.com/game/4704) — game ID `4704`
+- [Disney Universe](https://www.steamgriddb.com/game/5201) — game ID `5201`
+- [Disney Fairies: Tinker Bell&#x27;s Adventure](https://www.steamgriddb.com/game/5278) — game ID `5278`
+
+## Saints Row: The Third: The Full Package — BLUS31062
+
+- [Saints Row: The Third](https://www.steamgriddb.com/game/15091) — game ID `15091`
+- [Saints Row: The Third - Initiation Station](https://www.steamgriddb.com/game/15171) — game ID `15171`
+- [Saints Row: The Third - Remastered](https://www.steamgriddb.com/game/5258339) — game ID `5258339`
+- [Saints Row](https://www.steamgriddb.com/game/35143) — game ID `35143`
+- [Saints Row](https://www.steamgriddb.com/game/5294518) — game ID `5294518`
+- [Saints Row IV](https://www.steamgriddb.com/game/1881) — game ID `1881`
+- [Saints Row IV Inauguration Station](https://www.steamgriddb.com/game/2789) — game ID `2789`
+- [Saints Row: Gat out of Hell](https://www.steamgriddb.com/game/4700) — game ID `4700`
+- [Saints Row IV - Workshop upload tool](https://www.steamgriddb.com/game/7182) — game ID `7182`
+- [Saints Row 2](https://www.steamgriddb.com/game/31693) — game ID `31693`
+
+## Tiger Woods PGA Tour 14 — BLUS31063
+
+- [Tiger Woods PGA Tour](https://www.steamgriddb.com/game/5333689) — game ID `5333689`
+- [Tiger Woods PGA Tour 10](https://www.steamgriddb.com/game/33701) — game ID `33701`
+- [Tiger Woods PGA Tour 07](https://www.steamgriddb.com/game/34368) — game ID `34368`
+- [Tiger Woods PGA Tour 2005](https://www.steamgriddb.com/game/34641) — game ID `34641`
+- [Tiger Woods PGA Tour 06](https://www.steamgriddb.com/game/34688) — game ID `34688`
+- [Tiger Woods PGA Tour Golf](https://www.steamgriddb.com/game/34774) — game ID `34774`
+- [Tiger Woods PGA Tour 2002](https://www.steamgriddb.com/game/35202) — game ID `35202`
+- [Tiger Woods PGA Tour 12: The Masters](https://www.steamgriddb.com/game/36158) — game ID `36158`
+- [Tiger Woods PGA Tour 2004](https://www.steamgriddb.com/game/37496) — game ID `37496`
+- [Tiger Woods PGA Tour 09](https://www.steamgriddb.com/game/37529) — game ID `37529`
+
+## Naruto Shippuden: Ultimate Ninja Storm 3 — BLUS31066
+
+- [Naruto Shippūden: Ultimate Ninja Storm 3 - Full Burst](https://www.steamgriddb.com/game/2608) — game ID `2608`
+- [Naruto Shippuden: Ultimate Ninja STORM Revolution](https://www.steamgriddb.com/game/3699) — game ID `3699`
+- [Naruto Shippuden: Ultimate Ninja STORM 4](https://www.steamgriddb.com/game/6671) — game ID `6671`
+- [Naruto Shippuden: Ultimate Ninja STORM 2](https://www.steamgriddb.com/game/14719) — game ID `14719`
+- [Naruto Shippūden: Ultimate Ninja STORM Generations](https://www.steamgriddb.com/game/5253785) — game ID `5253785`
+- [Naruto Shippuden: Ultimate Ninja STORM Legacy](https://www.steamgriddb.com/game/5303163) — game ID `5303163`
+- [Naruto Shippuden: Ultimate Ninja STORM Trilogy](https://www.steamgriddb.com/game/5340646) — game ID `5340646`
+- [Naruto Shippuden: Ultimate Ninja STORM 4 - Evolution](https://www.steamgriddb.com/game/5412193) — game ID `5412193`
+- [Naruto Shippūden: Ultimate Ninja 4](https://www.steamgriddb.com/game/38652) — game ID `38652`
+- [Naruto Shippuden: Ultimate Ninja Impact](https://www.steamgriddb.com/game/5246751) — game ID `5246751`
+
+## DreamWorks Rise of the Guardians — BLUS31067
+
+- [DreamWorks Voltron VR Chronicles](https://www.steamgriddb.com/game/20963) — game ID `20963`
+- [DreamWorks Dragons: Dawn of New Riders](https://www.steamgriddb.com/game/29702) — game ID `29702`
+- [DreamWorks Spirit: Lucky&#x27;s Big Adventure](https://www.steamgriddb.com/game/5280241) — game ID `5280241`
+- [DreamWorks Dragons: Legends of The Nine Realms](https://www.steamgriddb.com/game/5329387) — game ID `5329387`
+- [DreamWorks Super Star Kartz](https://www.steamgriddb.com/game/5333829) — game ID `5333829`
+- [DreamWorks Trolls Remix Rescue](https://www.steamgriddb.com/game/5433032) — game ID `5433032`
+- [DreamWorks All-Star Kart Racing](https://www.steamgriddb.com/game/5433525) — game ID `5433525`
+- [DreamWorks Dragons: Wild Skies](https://www.steamgriddb.com/game/5475509) — game ID `5475509`
+- [DreamWorks Gabby’s Dollhouse: Ready to Party](https://www.steamgriddb.com/game/5495915) — game ID `5495915`
+- [KILLING DREAMWORKS](https://www.steamgriddb.com/game/5413295) — game ID `5413295`

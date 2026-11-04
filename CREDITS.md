@@ -424,3 +424,63 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30869 | BlazBlue: Continuum Shift Extend | jesus_dod138 | [#818711](https://www.steamgriddb.com/grid/818711) |
 | BLUS30876 | Sacred 3 | Neuropod | [#441019](https://www.steamgriddb.com/grid/441019) |
 | BLUS30886 | Back to the Future: The Game | Mentos0723 | [#733525](https://www.steamgriddb.com/grid/733525) |
+| BLUS30899 | Just Dance 3 | Plague | [#591216](https://www.steamgriddb.com/grid/591216) |
+| BLUS30901 | Hyperdimension Neptunia mk2 | effcol | [#321190](https://www.steamgriddb.com/grid/321190) |
+| BLUS30902 | Mortal Kombat: Komplete Edition | anteR | [#387965](https://www.steamgriddb.com/grid/387965) |
+| BLUS30903 | Tales of Graces f | Aut0mata | [#365684](https://www.steamgriddb.com/grid/365684) |
+| BLUS30905 | Assassin's Creed: Revelations | Squareboi | [#227523](https://www.steamgriddb.com/grid/227523) |
+| BLUS30914 | Just Dance 3 | Plague | [#591216](https://www.steamgriddb.com/grid/591216) |
+| BLUS30915 | Just Dance 3 | Plague | [#591216](https://www.steamgriddb.com/grid/591216) |
+| BLUS30916 | Ninja Gaiden 3 | Jiquita | [#533230](https://www.steamgriddb.com/grid/533230) |
+| BLUS30917 | Lollipop Chainsaw | Shiios42 | [#238013](https://www.steamgriddb.com/grid/238013) |
+| BLUS30919 | Sniper: Ghost Warrior 2 | FrostWolf | [#154060](https://www.steamgriddb.com/grid/154060) |
+| BLUS30927 | Sleeping Dogs | mynameisunique | [#181444](https://www.steamgriddb.com/grid/181444) |
+| BLUS30937 | Zone of the Enders HD Collection | Plague | [#590071](https://www.steamgriddb.com/grid/590071) |
+| BLUS30938 | DiRT Showdown | TheKersalMassive | [#193718](https://www.steamgriddb.com/grid/193718) |
+| BLUS30939 | Game of Thrones | Neuropod | [#376655](https://www.steamgriddb.com/grid/376655) |
+| BLUS30942 | Hitman HD Trilogy | Kynd | [#229054](https://www.steamgriddb.com/grid/229054) |
+| BLUS30943 | XCOM: Enemy Unknown | Devin | [#140213](https://www.steamgriddb.com/grid/140213) |
+| BLUS30947 | Ni no Kuni: Wrath of the White Witch | syahr | [#688376](https://www.steamgriddb.com/grid/688376) |
+| BLUS30962 | Disney Epic Mickey 2: The Power of Two | ZazaMastro | [#480470](https://www.steamgriddb.com/grid/480470) |
+| BLUS30963 | LEGO The Lord of the Rings | cking | [#337061](https://www.steamgriddb.com/grid/337061) |
+| BLUS30964 | The Witch and the Hundred Knight | Shadicluigi | [#147911](https://www.steamgriddb.com/grid/147911) |
+| BLUS30966 | Dragon Ball Z: Budokai HD Collection | Kynd | [#227940](https://www.steamgriddb.com/grid/227940) |
+| BLUS30971 | Dead or Alive 5 | ZazaMastro | [#480468](https://www.steamgriddb.com/grid/480468) |
+| BLUS30973 | Madden NFL 13 | Mentos0723 | [#730879](https://www.steamgriddb.com/grid/730879) |
+| BLUS30975 | DiRT 3: Complete Edition | WeaponPC | [#183848](https://www.steamgriddb.com/grid/183848) |
+| BLUS30976 | Crysis 3 | TytusV2 | [#721291](https://www.steamgriddb.com/grid/721291) |
+| BLUS30978 | Batman: Arkham City: Game of the Year Edition | RealZombro | [#139448](https://www.steamgriddb.com/grid/139448) |
+| BLUS30982 | Borderlands 2 | TheKersalMassive | [#193708](https://www.steamgriddb.com/grid/193708) |
+| BLUS30983 | 007 Legends | FrostWolf | [#148186](https://www.steamgriddb.com/grid/148186) |
+| BLUS30985 | Persona 4 Arena | Gray Mess | [#144842](https://www.steamgriddb.com/grid/144842) |
+| BLUS30990 | Medal of Honor: Warfighter | FrostWolf | [#166304](https://www.steamgriddb.com/grid/166304) |
+| BLUS30991 | Assassin's Creed III | TheKersalMassive | [#193699](https://www.steamgriddb.com/grid/193699) |
+| BLUS30997 | Dragon Age: Inquisition | TheKersalMassive | [#193720](https://www.steamgriddb.com/grid/193720) |
+| BLUS30998 | FIFA Soccer 13 | Mentos0723 | [#730880](https://www.steamgriddb.com/grid/730880) |
+| BLUS30999 | Castlevania: Lords of Shadow 2 | CriticalComposer | [#137448](https://www.steamgriddb.com/grid/137448) |
+| BLUS31002 | Tekken Tag Tournament 2 | WeaponPC | [#139515](https://www.steamgriddb.com/grid/139515) |
+| BLUS31006 | Tales of Xillia | fia | [#559699](https://www.steamgriddb.com/grid/559699) |
+| BLUS31007 | Mugen Souls | Phox | [#851989](https://www.steamgriddb.com/grid/851989) |
+| BLUS31009 | Cabela's Dangerous Hunts 2013 | Moohoo | [#811332](https://www.steamgriddb.com/grid/811332) |
+| BLUS31011 | Call of Duty: Black Ops II | TheKersalMassive | [#193740](https://www.steamgriddb.com/grid/193740) |
+| BLUS31014 | F1 2012 | mendihoza | [#270713](https://www.steamgriddb.com/grid/270713) |
+| BLUS31015 | WWE '13 | Shiios42 | [#254583](https://www.steamgriddb.com/grid/254583) |
+| BLUS31018 | Injustice: Gods Among Us | TheKersalMassive | [#193722](https://www.steamgriddb.com/grid/193722) |
+| BLUS31020 | Lost Planet 3 | flamepanther | [#142942](https://www.steamgriddb.com/grid/142942) |
+| BLUS31024 | Doom 3: BFG Edition | flamepanther | [#142816](https://www.steamgriddb.com/grid/142816) |
+| BLUS31025 | Tom Clancy's Splinter Cell: Blacklist | TheKersalMassive | [#193734](https://www.steamgriddb.com/grid/193734) |
+| BLUS31027 | F1 Race Stars | mendihoza | [#270727](https://www.steamgriddb.com/grid/270727) |
+| BLUS31028 | NBA 2K13 | Mentos0723 | [#733714](https://www.steamgriddb.com/grid/733714) |
+| BLUS31033 | Just Dance 4 | spamram | [#709775](https://www.steamgriddb.com/grid/709775) |
+| BLUS31045 | Metal Gear Rising: Revengeance | Timberfang | [#137214](https://www.steamgriddb.com/grid/137214) |
+| BLUS31046 | The Testament of Sherlock Holmes | Devin | [#140702](https://www.steamgriddb.com/grid/140702) |
+| BLUS31049 | Skylanders: Giants | GoahSparky | [#657759](https://www.steamgriddb.com/grid/657759) |
+| BLUS31050 | FIFA 13 | mendihoza | [#155872](https://www.steamgriddb.com/grid/155872) |
+| BLUS31051 | Resident Evil: Revelations | TUFKAC | [#136560](https://www.steamgriddb.com/grid/136560) |
+| BLUS31052 | Dead Island: Riptide | Imatination | [#236997](https://www.steamgriddb.com/grid/236997) |
+| BLUS31053 | Dead Space 3 | TUFKAC | [#136576](https://www.steamgriddb.com/grid/136576) |
+| BLUS31054 | Angry Birds Trilogy | fia | [#559110](https://www.steamgriddb.com/grid/559110) |
+| BLUS31055 | Grid 2 | HitAgent | [#800692](https://www.steamgriddb.com/grid/800692) |
+| BLUS31059 | Middle-Earth: Shadow of Mordor | cking | [#341655](https://www.steamgriddb.com/grid/341655) |
+| BLUS31064 | Deadly Premonition: The Director's Cut | flamepanther | [#156776](https://www.steamgriddb.com/grid/156776) |
+| BLUS31065 | The Walking Dead: Survival Instinct | ScoringTiger487 | [#518531](https://www.steamgriddb.com/grid/518531) |
