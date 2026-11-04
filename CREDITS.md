@@ -318,3 +318,52 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30606 | Create | crystalpepsi | [#550327](https://www.steamgriddb.com/grid/550327) |
 | BLUS30607 | Alice: Madness Returns | CriticalComposer | [#136761](https://www.steamgriddb.com/grid/136761) |
 | BLUS30608 | Fight Night Champion | Mentos0723 | [#733803](https://www.steamgriddb.com/grid/733803) |
+| BLUS30609 | The Sims 3 | anteR | [#385622](https://www.steamgriddb.com/grid/385622) |
+| BLUS30612 | Sonic Generations | TheKersalMassive | [#193732](https://www.steamgriddb.com/grid/193732) |
+| BLUS30614 | Rio | Bold&Brash | [#616915](https://www.steamgriddb.com/grid/616915) |
+| BLUS30621 | WWE SmackDown vs. Raw 2011 | thatRdude | [#561511](https://www.steamgriddb.com/grid/561511) |
+| BLUS30624 | Dead Space 2 | TheKersalMassive | [#193716](https://www.steamgriddb.com/grid/193716) |
+| BLUS30626 | Fallout: New Vegas | TheKersalMassive | [#193697](https://www.steamgriddb.com/grid/193697) |
+| BLUS30627 | Fallout: New Vegas | TheKersalMassive | [#193697](https://www.steamgriddb.com/grid/193697) |
+| BLUS30629 | BioShock Infinite | TheKersalMassive | [#193735](https://www.steamgriddb.com/grid/193735) |
+| BLUS30631 | Crysis 2 | TytusV2 | [#721290](https://www.steamgriddb.com/grid/721290) |
+| BLUS30632 | Anarchy Reigns | Mentos0723 | [#733517](https://www.steamgriddb.com/grid/733517) |
+| BLUS30636 | Venetica | flamepanther | [#142729](https://www.steamgriddb.com/grid/142729) |
+| BLUS30638 | Call of Duty: Black Ops | ParsaMON | [#352797](https://www.steamgriddb.com/grid/352797) |
+| BLUS30641 | The Cursed Crusade | Neuropod | [#443250](https://www.steamgriddb.com/grid/443250) |
+| BLUS30642 | Captain America: Super Soldier | ZazaMastro | [#480363](https://www.steamgriddb.com/grid/480363) |
+| BLUS30645 | Dragon Age II | clam.buttocks | [#450211](https://www.steamgriddb.com/grid/450211) |
+| BLUS30649 | Dragon Age: Origins: Ultimate Edition | flamepanther | [#142820](https://www.steamgriddb.com/grid/142820) |
+| BLUS30650 | Mass Effect 2 | Timberfang | [#137239](https://www.steamgriddb.com/grid/137239) |
+| BLUS30651 | Bulletstorm | CriticalComposer | [#138126](https://www.steamgriddb.com/grid/138126) |
+| BLUS30652 | No More Heroes: Heroes' Paradise | fraiak | [#252792](https://www.steamgriddb.com/grid/252792) |
+| BLUS30653 | Shadows of the Damned | Shiios42 | [#347543](https://www.steamgriddb.com/grid/347543) |
+| BLUS30663 | Ben 10: Ultimate Alien: Cosmic Destruction | Omnix_01 | [#169723](https://www.steamgriddb.com/grid/169723) |
+| BLUS30666 | Saints Row: The Third | TheKersalMassive | [#193730](https://www.steamgriddb.com/grid/193730) |
+| BLUS30669 | Child of Eden | fia | [#560782](https://www.steamgriddb.com/grid/560782) |
+| BLUS30678 | Rango | crystalpepsi | [#614700](https://www.steamgriddb.com/grid/614700) |
+| BLUS30681 | Transformers: Fall of Cybertron | Elke1131 | [#136646](https://www.steamgriddb.com/grid/136646) |
+| BLUS30687 | Far Cry 3 | CluckenDip | [#181088](https://www.steamgriddb.com/grid/181088) |
+| BLUS30688 | Earth Defense Force: Insect Armageddon | flamepanther | [#142436](https://www.steamgriddb.com/grid/142436) |
+| BLUS30689 | NBA 2K11 | Mentos0723 | [#641177](https://www.steamgriddb.com/grid/641177) |
+| BLUS30697 | Michael Jackson: The Experience | KingDanett | [#715599](https://www.steamgriddb.com/grid/715599) |
+| BLUS30700 | Naughty Bear: Gold Edition | SiTWulf | [#377491](https://www.steamgriddb.com/grid/377491) |
+| BLUS30701 | Hyperdimension Neptunia | DisgrAce | [#411177](https://www.steamgriddb.com/grid/411177) |
+| BLUS30704 | Operation Flashpoint: Red River | Neuropod | [#430912](https://www.steamgriddb.com/grid/430912) |
+| BLUS30709 | Transformers: Dark of the Moon | Elke1131 | [#136644](https://www.steamgriddb.com/grid/136644) |
+| BLUS30710 | Kingdoms of Amalur: Reckoning | flamepanther | [#143175](https://www.steamgriddb.com/grid/143175) |
+| BLUS30711 | Red Dead Redemption: Undead Nightmare | TheKersalMassive | [#193690](https://www.steamgriddb.com/grid/193690) |
+| BLUS30717 | Dead Space 2 | TheKersalMassive | [#193716](https://www.steamgriddb.com/grid/193716) |
+| BLUS30720 | Dragon's Dogma | GodScopePrime | [#338698](https://www.steamgriddb.com/grid/338698) |
+| BLUS30721 | Asura's Wrath | ABH20 | [#167367](https://www.steamgriddb.com/grid/167367) |
+| BLUS30722 | Street Fighter X Tekken | WeaponPC | [#139518](https://www.steamgriddb.com/grid/139518) |
+| BLUS30723 | DmC: Devil May Cry | CriticalComposer | [#141463](https://www.steamgriddb.com/grid/141463) |
+| BLUS30724 | DiRT 3 | CriticalComposer | [#141447](https://www.steamgriddb.com/grid/141447) |
+| BLUS30729 | Binary Domain | flamepanther | [#142426](https://www.steamgriddb.com/grid/142426) |
+| BLUS30732 | Portal 2 | Timberfang | [#137241](https://www.steamgriddb.com/grid/137241) |
+| BLUS30736 | Soulcalibur V | Shiios42 | [#255284](https://www.steamgriddb.com/grid/255284) |
+| BLUS30738 | UFC Undisputed 3 | Mentos0723 | [#733807](https://www.steamgriddb.com/grid/733807) |
+| BLUS30743 | The Darkness II | Devin | [#141187](https://www.steamgriddb.com/grid/141187) |
+| BLUS30744 | LEGO Pirates of the Caribbean: The Video Game | carlsgrids | [#152844](https://www.steamgriddb.com/grid/152844) |
+| BLUS30750 | Resident Evil: Operation Raccoon City | ABH20 | [#145513](https://www.steamgriddb.com/grid/145513) |
+| BLUS30755 | GoldenEye 007: Reloaded | FrostWolf | [#148185](https://www.steamgriddb.com/grid/148185) |
