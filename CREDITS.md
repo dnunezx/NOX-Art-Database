@@ -367,3 +367,60 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30744 | LEGO Pirates of the Caribbean: The Video Game | carlsgrids | [#152844](https://www.steamgriddb.com/grid/152844) |
 | BLUS30750 | Resident Evil: Operation Raccoon City | ABH20 | [#145513](https://www.steamgriddb.com/grid/145513) |
 | BLUS30755 | GoldenEye 007: Reloaded | FrostWolf | [#148185](https://www.steamgriddb.com/grid/148185) |
+| BLUS30756 | Prototype 2 | clam.buttocks | [#451220](https://www.steamgriddb.com/grid/451220) |
+| BLUS30757 | Need for Speed: The Run | FrostWolf | [#154002](https://www.steamgriddb.com/grid/154002) |
+| BLUS30759 | Rune Factory: Tides of Destiny | LeyendaV | [#387152](https://www.steamgriddb.com/grid/387152) |
+| BLUS30760 | Spider-Man: Edge of Time | ZazaMastro | [#480384](https://www.steamgriddb.com/grid/480384) |
+| BLUS30762 | Battlefield 3 | TheKersalMassive | [#193705](https://www.steamgriddb.com/grid/193705) |
+| BLUS30763 | Dead Rising 2: Off the Record | WeaponPC | [#139499](https://www.steamgriddb.com/grid/139499) |
+| BLUS30764 | Devil May Cry: HD Collection | CluckenDip | [#201586](https://www.steamgriddb.com/grid/201586) |
+| BLUS30767 | Dragon's Crown | riefu24 | [#170228](https://www.steamgriddb.com/grid/170228) |
+| BLUS30768 | Harry Potter and the Deathly Hallows: Part 2 | ZazaMastro | [#480379](https://www.steamgriddb.com/grid/480379) |
+| BLUS30770 | Madden NFL 12 | Mentos0723 | [#730792](https://www.steamgriddb.com/grid/730792) |
+| BLUS30772 | F1 2011 | mendihoza | [#270712](https://www.steamgriddb.com/grid/270712) |
+| BLUS30773 | Disney Universe | MagieUltime | [#537474](https://www.steamgriddb.com/grid/537474) |
+| BLUS30776 | Final Fantasy XIII-2 | riefu24 | [#164273](https://www.steamgriddb.com/grid/164273) |
+| BLUS30777 | Ridge Racer Unbounded | Rame2024 | [#510776](https://www.steamgriddb.com/grid/510776) |
+| BLUS30778 | The Elder Scrolls V: Skyrim | TytusV2 | [#674592](https://www.steamgriddb.com/grid/674592) |
+| BLUS30779 | Skylanders: Spyro's Adventure | GoahSparky | [#657758](https://www.steamgriddb.com/grid/657758) |
+| BLUS30780 | The Bureau: XCOM Declassified | Devin | [#140212](https://www.steamgriddb.com/grid/140212) |
+| BLUS30782 | Dark Souls | Maxine | [#208682](https://www.steamgriddb.com/grid/208682) |
+| BLUS30787 | Ultimate Marvel vs. Capcom 3 | CriticalComposer | [#139068](https://www.steamgriddb.com/grid/139068) |
+| BLUS30790 | Dead Island | Vackz | [#159166](https://www.steamgriddb.com/grid/159166) |
+| BLUS30792 | Naruto Shippuden: Ultimate Ninja Storm Generations | Angelvc251 | [#831104](https://www.steamgriddb.com/grid/831104) |
+| BLUS30794 | LEGO Harry Potter: Years 5-7 | cking | [#337073](https://www.steamgriddb.com/grid/337073) |
+| BLUS30795 | Call of Juarez: The Cartel | ZappyTails | [#660854](https://www.steamgriddb.com/grid/660854) |
+| BLUS30796 | Sniper: Ghost Warrior | FrostWolf | [#154059](https://www.steamgriddb.com/grid/154059) |
+| BLUS30798 | Sniper Elite V2 | mzne | [#561767](https://www.steamgriddb.com/grid/561767) |
+| BLUS30799 | DreamWorks Super Star Kartz | Bold&Brash | [#607447](https://www.steamgriddb.com/grid/607447) |
+| BLUS30800 | Risen 2: Dark Waters | Connor | [#183277](https://www.steamgriddb.com/grid/183277) |
+| BLUS30801 | Thief | clam.buttocks | [#451156](https://www.steamgriddb.com/grid/451156) |
+| BLUS30803 | The Sims 3: Pets | fia | [#559498](https://www.steamgriddb.com/grid/559498) |
+| BLUS30808 | Assassin's Creed: Revelations | Squareboi | [#227523](https://www.steamgriddb.com/grid/227523) |
+| BLUS30809 | FIFA Soccer 12 | Mentos0723 | [#733701](https://www.steamgriddb.com/grid/733701) |
+| BLUS30810 | Silent Hill: HD Collection | Shiios42 | [#341969](https://www.steamgriddb.com/grid/341969) |
+| BLUS30816 | Just Dance Kids 2 | Plague | [#591205](https://www.steamgriddb.com/grid/591205) |
+| BLUS30823 | Dragon Ball Z: Ultimate Tenkaichi | Kynd | [#225338](https://www.steamgriddb.com/grid/225338) |
+| BLUS30824 | Family Guy: Back to the Multiverse | fraiak | [#375175](https://www.steamgriddb.com/grid/375175) |
+| BLUS30826 | Yakuza: Dead Souls | ZappyTails | [#658493](https://www.steamgriddb.com/grid/658493) |
+| BLUS30829 | Darksiders II | TytusV2 | [#679161](https://www.steamgriddb.com/grid/679161) |
+| BLUS30830 | NBA 2K12 | mendihoza | [#270981](https://www.steamgriddb.com/grid/270981) |
+| BLUS30831 | Birds of Steel | Arikado1476 | [#508563](https://www.steamgriddb.com/grid/508563) |
+| BLUS30832 | Alien: Isolation | TheKersalMassive | [#193702](https://www.steamgriddb.com/grid/193702) |
+| BLUS30833 | Blades of Time | flamepanther | [#141871](https://www.steamgriddb.com/grid/141871) |
+| BLUS30834 | Cartoon Network: Punch Time Explosion XL | Shiios42 | [#349819](https://www.steamgriddb.com/grid/349819) |
+| BLUS30836 | Rayman Origins | MoonLight | [#158574](https://www.steamgriddb.com/grid/158574) |
+| BLUS30837 | LEGO Batman 2: DC Super Heroes | SirYodaJedi | [#136522](https://www.steamgriddb.com/grid/136522) |
+| BLUS30841 | WWE '12 | Shiios42 | [#254563](https://www.steamgriddb.com/grid/254563) |
+| BLUS30842 | Test Drive: Ferrari Racing Legends | wulfbraker | [#320213](https://www.steamgriddb.com/grid/320213) |
+| BLUS30845 | The King of Fighters XIII | Kaede Monthmore | [#136726](https://www.steamgriddb.com/grid/136726) |
+| BLUS30847 | Metal Gear Solid: HD Collection | Maxine | [#162788](https://www.steamgriddb.com/grid/162788) |
+| BLUS30850 | Air Conflicts: Secret Wars | Devin | [#141719](https://www.steamgriddb.com/grid/141719) |
+| BLUS30852 | Plants vs. Zombies | Varimarthas | [#415373](https://www.steamgriddb.com/grid/415373) |
+| BLUS30853 | Mass Effect 3 | cking | [#341657](https://www.steamgriddb.com/grid/341657) |
+| BLUS30855 | Resident Evil 6 | Kam | [#137703](https://www.steamgriddb.com/grid/137703) |
+| BLUS30862 | Aliens: Colonial Marines | flamepanther | [#142412](https://www.steamgriddb.com/grid/142412) |
+| BLUS30865 | Bejeweled 3 | Nalejandro3 | [#173139](https://www.steamgriddb.com/grid/173139) |
+| BLUS30869 | BlazBlue: Continuum Shift Extend | jesus_dod138 | [#818711](https://www.steamgriddb.com/grid/818711) |
+| BLUS30876 | Sacred 3 | Neuropod | [#441019](https://www.steamgriddb.com/grid/441019) |
+| BLUS30886 | Back to the Future: The Game | Mentos0723 | [#733525](https://www.steamgriddb.com/grid/733525) |

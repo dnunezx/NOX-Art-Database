@@ -12997,5 +12997,1753 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30761",
+    "title": "Tom Clancy's Splinter Cell Trilogy",
+    "candidates": [
+      {
+        "id": 1435,
+        "name": "Tom Clancy's Splinter Cell",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1045555200
+      },
+      {
+        "id": 1436,
+        "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1112083200
+      },
+      {
+        "id": 1437,
+        "name": "Tom Clancy's Splinter Cell: Double Agent",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1161241200
+      },
+      {
+        "id": 2632,
+        "name": "Tom Clancy's Splinter Cell: Blacklist",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1376956800
+      },
+      {
+        "id": 5815,
+        "name": "Tom Clancy's Splinter Cell: Conviction",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1272560400
+      },
+      {
+        "id": 35888,
+        "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1080000000
+      },
+      {
+        "id": 5276193,
+        "name": "Tom Clancy's Splinter Cell 3D",
+        "verified": true,
+        "types": [],
+        "release_date": 1301011200
+      },
+      {
+        "id": 5319784,
+        "name": "Tom Clancy's Splinter Cell: Essentials",
+        "verified": true,
+        "types": [],
+        "release_date": 1142899200
+      },
+      {
+        "id": 1431,
+        "name": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1184655600
+      },
+      {
+        "id": 1434,
+        "name": "Tom Clancy's Rainbow Six: Vegas",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1165910400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30765",
+    "title": "ABC Wipeout 2",
+    "candidates": [
+      {
+        "id": 12097,
+        "name": "ABC Coloring Town",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1464587502
+      },
+      {
+        "id": 37346,
+        "name": "ABC Monday Night Football",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5251293,
+        "name": "ABC Paint",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536002580
+      },
+      {
+        "id": 5264591,
+        "name": "ABC: Audioreactive Beat Circle",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1597968000
+      },
+      {
+        "id": 5300049,
+        "name": "ABC Flappy",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1635769906
+      },
+      {
+        "id": 5453708,
+        "name": "ABC iview (website)",
+        "verified": true,
+        "types": [],
+        "release_date": 1217203200
+      },
+      {
+        "id": 5494665,
+        "name": "ABC Book 3D: Learn English",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 27751,
+        "name": "LOGistICAL: ABC Islands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1525430520
+      },
+      {
+        "id": 30929,
+        "name": "aMAZE ABC",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536069752
+      },
+      {
+        "id": 5391830,
+        "name": "The ABC",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1681171200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30769",
+    "title": "Bleach: Soul Resurrección",
+    "candidates": [
+      {
+        "id": 5246702,
+        "name": "BLEACH: Soul Resonance",
+        "verified": true,
+        "types": [],
+        "release_date": 1763683200
+      },
+      {
+        "id": 5352441,
+        "name": "Bleach: Soul Carnival",
+        "verified": true,
+        "types": [],
+        "release_date": 1224720000
+      },
+      {
+        "id": 5352442,
+        "name": "Bleach: Soul Carnival 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1255305600
+      },
+      {
+        "id": 5359293,
+        "name": "Bleach: Soul Ignition",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 29838,
+        "name": "Bleach: Heat the Soul 2",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 33537,
+        "name": "Bleach: Heat the Soul 6",
+        "verified": true,
+        "types": [],
+        "release_date": 1242259200
+      },
+      {
+        "id": 35296,
+        "name": "Bleach: Heat the Soul 7",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38927,
+        "name": "Bleach: Heat the Soul",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38943,
+        "name": "Bleach: Heat the Soul 4",
+        "verified": true,
+        "types": [],
+        "release_date": 1179964800
+      },
+      {
+        "id": 5258632,
+        "name": "Bleach: Heat The Soul 5",
+        "verified": true,
+        "types": [],
+        "release_date": 1210809600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30774",
+    "title": "The House of the Dead: Overkill: Extended Cut",
+    "candidates": [
+      {
+        "id": 38565,
+        "name": "The House of the Dead: OVERKILL",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5209431,
+        "name": "The House of the Dead",
+        "verified": true,
+        "types": [],
+        "release_date": 842572800
+      },
+      {
+        "id": 34041,
+        "name": "The House of the Dead 2",
+        "verified": true,
+        "types": [],
+        "release_date": 936835200
+      },
+      {
+        "id": 5209432,
+        "name": "The House of the Dead III",
+        "verified": true,
+        "types": [],
+        "release_date": 1035417600
+      },
+      {
+        "id": 5258292,
+        "name": "The House Of The Dead 4",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5268144,
+        "name": "The House of the Dead 2 & 3 Return",
+        "verified": true,
+        "types": [],
+        "release_date": 1205193600
+      },
+      {
+        "id": 5325354,
+        "name": "The House of the Dead: Remake",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1651104000
+      },
+      {
+        "id": 5475401,
+        "name": "THE HOUSE OF THE DEAD 2: Remake",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1754524800
+      },
+      {
+        "id": 5330216,
+        "name": "House of the Dead: Scarlet Dawn",
+        "verified": true,
+        "types": [],
+        "release_date": 1536796800
+      },
+      {
+        "id": 5441215,
+        "name": "The house of the missing hands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1728259200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30786",
+    "title": "Grease Dance",
+    "candidates": [
+      {
+        "id": 5333219,
+        "name": "Grease: The Official Video Game",
+        "verified": true,
+        "types": [],
+        "release_date": 1282608000
+      },
+      {
+        "id": 5486257,
+        "name": "Grease Monkey Grand Prix",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5520970,
+        "name": "Grease Trap '99",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1767225600
+      },
+      {
+        "id": 5451802,
+        "name": "SpongeBob SquarePants: Elbow Grease",
+        "verified": true,
+        "types": [],
+        "release_date": 1230768000
+      },
+      {
+        "id": 5555677,
+        "name": "The Greasy Snatcher",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1792886400
+      },
+      {
+        "id": 22787,
+        "name": "Trailer Park Boys: Greasy Money",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1518681600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30802",
+    "title": "Family Game Night 4: The Game Show",
+    "candidates": [
+      {
+        "id": 5343676,
+        "name": "Hasbro Family Game Night 4: The Game Show",
+        "verified": true,
+        "types": [],
+        "release_date": 1320105600
+      },
+      {
+        "id": 5264119,
+        "name": "Hasbro Family Game Night",
+        "verified": true,
+        "types": [],
+        "release_date": 1226361600
+      },
+      {
+        "id": 5264130,
+        "name": "Hasbro Family Game Night 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1288051200
+      },
+      {
+        "id": 5343677,
+        "name": "Hasbro Family Game Night Fun Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 1320105600
+      },
+      {
+        "id": 5353065,
+        "name": "Hasbro Family Game Night 2",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5335726,
+        "name": "Family Game Pack",
+        "verified": true,
+        "types": [],
+        "release_date": 952992000
+      },
+      {
+        "id": 5550298,
+        "name": "Chobots - Your Family Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1792022400
+      },
+      {
+        "id": 5270682,
+        "name": "Family",
+        "verified": true,
+        "types": [],
+        "release_date": 1594425600
+      },
+      {
+        "id": 5278456,
+        "name": "Family",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1615334400
+      },
+      {
+        "id": 15,
+        "name": "Family Fortunes",
+        "verified": true,
+        "types": [],
+        "release_date": 1256256000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30804",
+    "title": "Syndicate",
+    "candidates": [
+      {
+        "id": 35899,
+        "name": "Syndicate",
+        "verified": true,
+        "types": [
+          "gog",
+          "origin"
+        ],
+        "release_date": 739324800
+      },
+      {
+        "id": 5246315,
+        "name": "Syndicate",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1329782400
+      },
+      {
+        "id": 5246316,
+        "name": "Syndicate Wars",
+        "verified": true,
+        "types": [
+          "gog"
+        ],
+        "release_date": 846720000
+      },
+      {
+        "id": 5272204,
+        "name": "Syndicate Black Ops",
+        "verified": true,
+        "types": [],
+        "release_date": 1098662400
+      },
+      {
+        "id": 5471428,
+        "name": "Syndicate of Souls",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 16453,
+        "name": "Steampunk Syndicate",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1492066800
+      },
+      {
+        "id": 20425,
+        "name": "Steampunk Syndicate 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506011477
+      },
+      {
+        "id": 5279369,
+        "name": "Art Syndicate",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1685577600
+      },
+      {
+        "id": 5290364,
+        "name": "Sovereign Syndicate",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1626361270
+      },
+      {
+        "id": 5370220,
+        "name": "Recovery Syndicate",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30805",
+    "title": "PES 2012: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30812",
+    "title": "Motionsports Adrenaline",
+    "candidates": [
+      {
+        "id": 8734,
+        "name": "TNN Motorsports Hardcore TR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1439221101
+      },
+      {
+        "id": 5436868,
+        "name": "TNN Motorsports Hardcore Heat",
+        "verified": true,
+        "types": [],
+        "release_date": 931392000
+      },
+      {
+        "id": 5557607,
+        "name": "Quatiica Motorsports",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30815",
+    "title": "Adidas miCoach",
+    "candidates": [
+      {
+        "id": 5335290,
+        "name": "Adidas Power Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 833587200
+      },
+      {
+        "id": 5335291,
+        "name": "Adidas Power Soccer 98",
+        "verified": true,
+        "types": [],
+        "release_date": 896659200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30825",
+    "title": "Pictionary: Ultimate Edition",
+    "candidates": [
+      {
+        "id": 5333559,
+        "name": "Pictionary",
+        "verified": true,
+        "types": [],
+        "release_date": 1289692800
+      },
+      {
+        "id": 38052,
+        "name": "Pictionary: The Game of Video Quick Draw",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5276979,
+        "name": "UDraw Pictionary",
+        "verified": true,
+        "types": [],
+        "release_date": 1287014400
+      },
+      {
+        "id": 5458924,
+        "name": "Dictionary Blaster",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1723420800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30828",
+    "title": "The Amazing Spider-Man",
+    "candidates": [
+      {
+        "id": 2070,
+        "name": "The Amazing Spider-Man",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1348592400
+      },
+      {
+        "id": 5370393,
+        "name": "The Amazing Spider-Man",
+        "verified": true,
+        "types": [],
+        "release_date": 646790400
+      },
+      {
+        "id": 3546,
+        "name": "The Amazing Spider-Man 2",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1398790800
+      },
+      {
+        "id": 36771,
+        "name": "The Amazing Spider-Man vs. The Kingpin",
+        "verified": true,
+        "types": [],
+        "release_date": 746841600
+      },
+      {
+        "id": 5249063,
+        "name": "The Amazing Spider-Man: Lethal Foes",
+        "verified": true,
+        "types": [],
+        "release_date": 795398400
+      },
+      {
+        "id": 5458287,
+        "name": "The Amazing Spider-Man: Countdown to Doom",
+        "verified": true,
+        "types": [],
+        "release_date": 1136073600
+      },
+      {
+        "id": 10498,
+        "name": "The Amazing Adventures of Ash - Afterparty",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1453276800
+      },
+      {
+        "id": 12595,
+        "name": "The Amazing Shinsengumi: Heroes in Love",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1469582406
+      },
+      {
+        "id": 26643,
+        "name": "The Amazing Bernard",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1523466810
+      },
+      {
+        "id": 27744,
+        "name": "The Amazing Adventures of Lady Fanny Featherstone",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1531566557
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30838",
+    "title": "Call of Duty: Modern Warfare 3",
+    "candidates": [
+      {
+        "id": 10029,
+        "name": "Call of Duty: Modern Warfare 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1320710400
+      },
+      {
+        "id": 10030,
+        "name": "Call of Duty: Modern Warfare 3 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5250297,
+        "name": "Call of Duty: Modern Warfare 3 - Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5331486,
+        "name": "Call of Duty: Modern Warfare 3 – Defiance",
+        "verified": true,
+        "types": [],
+        "release_date": 1316649600
+      },
+      {
+        "id": 5420962,
+        "name": "Call of Duty: Modern Warfare III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699574400
+      },
+      {
+        "id": 5433625,
+        "name": "Call of Duty: Modern Warfare III - Open Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1681257600
+      },
+      {
+        "id": 5246087,
+        "name": "Call of Duty: Modern Warfare",
+        "verified": true,
+        "types": [
+          "steam",
+          "bnet"
+        ],
+        "release_date": 1572055200
+      },
+      {
+        "id": 710,
+        "name": "Call of Duty: Modern Warfare 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1258012800
+      },
+      {
+        "id": 731,
+        "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1257897600
+      },
+      {
+        "id": 8710,
+        "name": "Call of Duty: Modern Warfare Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1501113600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30839",
+    "title": "Sonic & All-Stars Racing Transformed",
+    "candidates": [
+      {
+        "id": 6313,
+        "name": "Sonic and SEGA All Stars Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1267633740
+      },
+      {
+        "id": 37046,
+        "name": "Sonic and the Black Knight",
+        "verified": true,
+        "types": [],
+        "release_date": 1239235200
+      },
+      {
+        "id": 38588,
+        "name": "Sonic and the Secret Rings",
+        "verified": true,
+        "types": [],
+        "release_date": 1171929600
+      },
+      {
+        "id": 5338714,
+        "name": "Sonic and the Fallen Star",
+        "verified": true,
+        "types": [],
+        "release_date": 1656633600
+      },
+      {
+        "id": 5436255,
+        "name": "Sonic and the Moon Facility",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5462837,
+        "name": "Sonic and the Secret Rings: Project Reignition",
+        "verified": true,
+        "types": [],
+        "release_date": 1717372800
+      },
+      {
+        "id": 5494505,
+        "name": "Sonic and the Seven Symphonies",
+        "verified": true,
+        "types": [],
+        "release_date": 1751155200
+      },
+      {
+        "id": 5364867,
+        "name": "Sonic 3 and Sally Acorn",
+        "verified": true,
+        "types": [],
+        "release_date": 1420070400
+      },
+      {
+        "id": 5373744,
+        "name": "Sonic 3 and Knuckles - Battle Race",
+        "verified": true,
+        "types": [],
+        "release_date": 1539129600
+      },
+      {
+        "id": 5439888,
+        "name": "Sonic 3 and Amy Rose",
+        "verified": true,
+        "types": [],
+        "release_date": 1341705600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30840",
+    "title": "NCIS: Based on the TV Series",
+    "candidates": [
+      {
+        "id": 5343793,
+        "name": "NCIS",
+        "verified": true,
+        "types": [],
+        "release_date": 1319673600
+      },
+      {
+        "id": 5333876,
+        "name": "NCIS 3D",
+        "verified": true,
+        "types": [],
+        "release_date": 1319673600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30846",
+    "title": "Happy Feet Two",
+    "candidates": [
+      {
+        "id": 5261779,
+        "name": "Happy Feet Two: The Video Game",
+        "verified": true,
+        "types": [],
+        "release_date": 1320710400
+      },
+      {
+        "id": 38745,
+        "name": "Happy Feet",
+        "verified": true,
+        "types": [],
+        "release_date": 1163462400
+      },
+      {
+        "id": 5397809,
+        "name": "Happy",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1684281600
+      },
+      {
+        "id": 412,
+        "name": "Happy picture",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 557,
+        "name": "Happy Anime Puzzle",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1554394105
+      },
+      {
+        "id": 1207,
+        "name": "Happy Tree Friends: False Alarm",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1214377200
+      },
+      {
+        "id": 2888,
+        "name": "Happy Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1401260400
+      },
+      {
+        "id": 10822,
+        "name": "Happy Critters",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1476997668
+      },
+      {
+        "id": 13138,
+        "name": "Happy Pong",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1363417200
+      },
+      {
+        "id": 13576,
+        "name": "Happy Empire",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1471604383
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30849",
+    "title": "SSX",
+    "candidates": [
+      {
+        "id": 38268,
+        "name": "SSX",
+        "verified": true,
+        "types": [],
+        "release_date": 972518400
+      },
+      {
+        "id": 5404410,
+        "name": "SSX",
+        "verified": true,
+        "types": [],
+        "release_date": 1330387200
+      },
+      {
+        "id": 1638,
+        "name": "SSX Tricky",
+        "verified": true,
+        "types": [],
+        "release_date": 1006819200
+      },
+      {
+        "id": 34626,
+        "name": "SSX 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1066694400
+      },
+      {
+        "id": 37061,
+        "name": "SSX Blur",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5265472,
+        "name": "SSX on Tour",
+        "verified": true,
+        "types": [],
+        "release_date": 1128988800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30871",
+    "title": "Rocksmith",
+    "candidates": [
+      {
+        "id": 1841,
+        "name": "Rocksmith",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1350406800
+      },
+      {
+        "id": 2295,
+        "name": "Rocksmith® 2014 Edition - Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1382461200
+      },
+      {
+        "id": 5359161,
+        "name": "Rocksmith+",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5274280,
+        "name": "Locksmith Simulator",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1609351243
+      },
+      {
+        "id": 5520215,
+        "name": "Regular Locksmith Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1775606400
+      },
+      {
+        "id": 5287159,
+        "name": "The Missing Locksmith",
+        "verified": true,
+        "types": [],
+        "release_date": 1586649600
+      },
+      {
+        "id": 5476586,
+        "name": "Lair of the Locksmith",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30873",
+    "title": "Dynasty Warriors 7: Xtreme Legends",
+    "candidates": [
+      {
+        "id": 32452,
+        "name": "DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1544083200
+      },
+      {
+        "id": 2024,
+        "name": "DYNASTY WARRIORS 7 with Xtreme Legends",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340319600
+      },
+      {
+        "id": 3823,
+        "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1399996260
+      },
+      {
+        "id": 25640,
+        "name": "Dynasty Warriors 3: Xtreme Legends",
+        "verified": true,
+        "types": [],
+        "release_date": 1043366400
+      },
+      {
+        "id": 34562,
+        "name": "Dynasty Warriors 4: Xtreme Legends",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      },
+      {
+        "id": 5353691,
+        "name": "Dynasty Warriors 5: Xtreme Legends",
+        "verified": true,
+        "types": [],
+        "release_date": 1132012800
+      },
+      {
+        "id": 5367327,
+        "name": "Dynasty Warriors 7: Empires",
+        "verified": true,
+        "types": [],
+        "release_date": 1352332800
+      },
+      {
+        "id": 5438,
+        "name": "Dynasty Warriors 8 Empires",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1424998740
+      },
+      {
+        "id": 10183,
+        "name": "Dynasty Warriors Advance",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 22577,
+        "name": "DYNASTY WARRIORS 9",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1518509220
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30881",
+    "title": "Record of Agarest War 2",
+    "candidates": [
+      {
+        "id": 22970,
+        "name": "Record of Agarest War Mariage",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1548979244
+      },
+      {
+        "id": 31751,
+        "name": "Record of Lodoss War Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1547596980
+      },
+      {
+        "id": 5256663,
+        "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth-",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1584057600
+      },
+      {
+        "id": 5259548,
+        "name": "Record of Lodoss War",
+        "verified": true,
+        "types": [],
+        "release_date": 819590400
+      },
+      {
+        "id": 5265676,
+        "name": "Record of Battle 3D Maiden Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1597942253
+      },
+      {
+        "id": 5281486,
+        "name": "Record of Lodoss War:  Advent of Cardice",
+        "verified": true,
+        "types": [],
+        "release_date": 962236800
+      },
+      {
+        "id": 5368082,
+        "name": "Record of Lodoss War: Chronicles of the Heroic Knight GB",
+        "verified": true,
+        "types": [],
+        "release_date": 913334400
+      },
+      {
+        "id": 5408361,
+        "name": "Record of Lodoss War",
+        "verified": true,
+        "types": [],
+        "release_date": 709948800
+      },
+      {
+        "id": 5408400,
+        "name": "Record of Lodoss War: The War of Heroes",
+        "verified": true,
+        "types": [],
+        "release_date": 769392000
+      },
+      {
+        "id": 5408401,
+        "name": "Record of Lodoss War: The Grey Witch",
+        "verified": true,
+        "types": [],
+        "release_date": 589075200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30882",
+    "title": "FIFA Street",
+    "candidates": [
+      {
+        "id": 5257940,
+        "name": "FIFA Street",
+        "verified": true,
+        "types": [],
+        "release_date": 1331596800
+      },
+      {
+        "id": 5259702,
+        "name": "FIFA Street",
+        "verified": true,
+        "types": [],
+        "release_date": 1109030400
+      },
+      {
+        "id": 19632,
+        "name": "FIFA Street 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1141084800
+      },
+      {
+        "id": 5259703,
+        "name": "FIFA Street 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1203292800
+      },
+      {
+        "id": 1552,
+        "name": "FIFA Manager 09",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1225436400
+      },
+      {
+        "id": 2957,
+        "name": "FIFA Manager 10",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1256943600
+      },
+      {
+        "id": 4565,
+        "name": "FIFA International Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 755913600
+      },
+      {
+        "id": 12102,
+        "name": "FIFA Manager 11",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1288816800
+      },
+      {
+        "id": 33566,
+        "name": "FIFA 99",
+        "verified": true,
+        "types": [],
+        "release_date": 911520000
+      },
+      {
+        "id": 33725,
+        "name": "FIFA Soccer 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30887",
+    "title": "Call of Duty: Modern Warfare 3",
+    "candidates": [
+      {
+        "id": 10029,
+        "name": "Call of Duty: Modern Warfare 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1320710400
+      },
+      {
+        "id": 10030,
+        "name": "Call of Duty: Modern Warfare 3 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5250297,
+        "name": "Call of Duty: Modern Warfare 3 - Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5331486,
+        "name": "Call of Duty: Modern Warfare 3 – Defiance",
+        "verified": true,
+        "types": [],
+        "release_date": 1316649600
+      },
+      {
+        "id": 5420962,
+        "name": "Call of Duty: Modern Warfare III",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699574400
+      },
+      {
+        "id": 5433625,
+        "name": "Call of Duty: Modern Warfare III - Open Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1681257600
+      },
+      {
+        "id": 5246087,
+        "name": "Call of Duty: Modern Warfare",
+        "verified": true,
+        "types": [
+          "steam",
+          "bnet"
+        ],
+        "release_date": 1572055200
+      },
+      {
+        "id": 710,
+        "name": "Call of Duty: Modern Warfare 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1258012800
+      },
+      {
+        "id": 731,
+        "name": "Call of Duty: Modern Warfare 2 - Multiplayer",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1257897600
+      },
+      {
+        "id": 8710,
+        "name": "Call of Duty: Modern Warfare Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1501113600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30888",
+    "title": "Fallout: New Vegas: Ultimate Edition",
+    "candidates": [
+      {
+        "id": 2352,
+        "name": "Fallout: New Vegas",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1287468000
+      },
+      {
+        "id": 2381,
+        "name": "Fallout: New Vegas PCR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1287543600
+      },
+      {
+        "id": 5371984,
+        "name": "Fallout: Viva New Vegas",
+        "verified": true,
+        "types": [],
+        "release_date": 1557100800
+      },
+      {
+        "id": 5461721,
+        "name": "Fallout: New California",
+        "verified": true,
+        "types": [],
+        "release_date": 1540252800
+      },
+      {
+        "id": 5258213,
+        "name": "Fullout - New Nevada",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1601424000
+      },
+      {
+        "id": 2322,
+        "name": "Fallout 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1225177200
+      },
+      {
+        "id": 2348,
+        "name": "Fallout 3: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1255417200
+      },
+      {
+        "id": 7993,
+        "name": "Fallout 4",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1447142400
+      },
+      {
+        "id": 8280,
+        "name": "Fallout: A Post Nuclear Role Playing Game",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 875602800
+      },
+      {
+        "id": 8287,
+        "name": "Fallout 2: A Post Nuclear Role Playing Game",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 912499200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS30889",
+    "title": "Fallout: New Vegas: Ultimate Edition",
+    "candidates": [
+      {
+        "id": 2352,
+        "name": "Fallout: New Vegas",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1287468000
+      },
+      {
+        "id": 2381,
+        "name": "Fallout: New Vegas PCR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1287543600
+      },
+      {
+        "id": 5371984,
+        "name": "Fallout: Viva New Vegas",
+        "verified": true,
+        "types": [],
+        "release_date": 1557100800
+      },
+      {
+        "id": 5461721,
+        "name": "Fallout: New California",
+        "verified": true,
+        "types": [],
+        "release_date": 1540252800
+      },
+      {
+        "id": 5258213,
+        "name": "Fullout - New Nevada",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1601424000
+      },
+      {
+        "id": 2322,
+        "name": "Fallout 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1225177200
+      },
+      {
+        "id": 2348,
+        "name": "Fallout 3: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1255417200
+      },
+      {
+        "id": 7993,
+        "name": "Fallout 4",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1447142400
+      },
+      {
+        "id": 8280,
+        "name": "Fallout: A Post Nuclear Role Playing Game",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 875602800
+      },
+      {
+        "id": 8287,
+        "name": "Fallout 2: A Post Nuclear Role Playing Game",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 912499200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

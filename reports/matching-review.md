@@ -1965,3 +1965,272 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [Prince of Persia: The Forgotten Sands](https://www.steamgriddb.com/game/5861) — game ID `5861`
 - [Prince of Persia 3D](https://www.steamgriddb.com/game/37955) — game ID `37955`
 - [Prince of Persia 2: The Shadow &amp; The Flame](https://www.steamgriddb.com/game/38670) — game ID `38670`
+
+## Tom Clancy&#x27;s Splinter Cell Trilogy — BLUS30761
+
+- [Tom Clancy&#x27;s Splinter Cell](https://www.steamgriddb.com/game/1435) — game ID `1435`
+- [Tom Clancy&#x27;s Splinter Cell: Chaos Theory](https://www.steamgriddb.com/game/1436) — game ID `1436`
+- [Tom Clancy&#x27;s Splinter Cell: Double Agent](https://www.steamgriddb.com/game/1437) — game ID `1437`
+- [Tom Clancy&#x27;s Splinter Cell: Blacklist](https://www.steamgriddb.com/game/2632) — game ID `2632`
+- [Tom Clancy&#x27;s Splinter Cell: Conviction](https://www.steamgriddb.com/game/5815) — game ID `5815`
+- [Tom Clancy&#x27;s Splinter Cell: Pandora Tomorrow](https://www.steamgriddb.com/game/35888) — game ID `35888`
+- [Tom Clancy&#x27;s Splinter Cell 3D](https://www.steamgriddb.com/game/5276193) — game ID `5276193`
+- [Tom Clancy&#x27;s Splinter Cell: Essentials](https://www.steamgriddb.com/game/5319784) — game ID `5319784`
+- [Tom Clancy&#x27;s Ghost Recon: Advanced Warfighter 2](https://www.steamgriddb.com/game/1431) — game ID `1431`
+- [Tom Clancy&#x27;s Rainbow Six: Vegas](https://www.steamgriddb.com/game/1434) — game ID `1434`
+
+## ABC Wipeout 2 — BLUS30765
+
+- [ABC Coloring Town](https://www.steamgriddb.com/game/12097) — game ID `12097`
+- [ABC Monday Night Football](https://www.steamgriddb.com/game/37346) — game ID `37346`
+- [ABC Paint](https://www.steamgriddb.com/game/5251293) — game ID `5251293`
+- [ABC: Audioreactive Beat Circle](https://www.steamgriddb.com/game/5264591) — game ID `5264591`
+- [ABC Flappy](https://www.steamgriddb.com/game/5300049) — game ID `5300049`
+- [ABC iview (website)](https://www.steamgriddb.com/game/5453708) — game ID `5453708`
+- [ABC Book 3D: Learn English](https://www.steamgriddb.com/game/5494665) — game ID `5494665`
+- [LOGistICAL: ABC Islands](https://www.steamgriddb.com/game/27751) — game ID `27751`
+- [aMAZE ABC](https://www.steamgriddb.com/game/30929) — game ID `30929`
+- [The ABC](https://www.steamgriddb.com/game/5391830) — game ID `5391830`
+
+## Bleach: Soul Resurrección — BLUS30769
+
+- [BLEACH: Soul Resonance](https://www.steamgriddb.com/game/5246702) — game ID `5246702`
+- [Bleach: Soul Carnival](https://www.steamgriddb.com/game/5352441) — game ID `5352441`
+- [Bleach: Soul Carnival 2](https://www.steamgriddb.com/game/5352442) — game ID `5352442`
+- [Bleach: Soul Ignition](https://www.steamgriddb.com/game/5359293) — game ID `5359293`
+- [Bleach: Heat the Soul 2](https://www.steamgriddb.com/game/29838) — game ID `29838`
+- [Bleach: Heat the Soul 6](https://www.steamgriddb.com/game/33537) — game ID `33537`
+- [Bleach: Heat the Soul 7](https://www.steamgriddb.com/game/35296) — game ID `35296`
+- [Bleach: Heat the Soul](https://www.steamgriddb.com/game/38927) — game ID `38927`
+- [Bleach: Heat the Soul 4](https://www.steamgriddb.com/game/38943) — game ID `38943`
+- [Bleach: Heat The Soul 5](https://www.steamgriddb.com/game/5258632) — game ID `5258632`
+
+## The House of the Dead: Overkill: Extended Cut — BLUS30774
+
+- [The House of the Dead: OVERKILL](https://www.steamgriddb.com/game/38565) — game ID `38565`
+- [The House of the Dead](https://www.steamgriddb.com/game/5209431) — game ID `5209431`
+- [The House of the Dead 2](https://www.steamgriddb.com/game/34041) — game ID `34041`
+- [The House of the Dead III](https://www.steamgriddb.com/game/5209432) — game ID `5209432`
+- [The House Of The Dead 4](https://www.steamgriddb.com/game/5258292) — game ID `5258292`
+- [The House of the Dead 2 &amp; 3 Return](https://www.steamgriddb.com/game/5268144) — game ID `5268144`
+- [The House of the Dead: Remake](https://www.steamgriddb.com/game/5325354) — game ID `5325354`
+- [THE HOUSE OF THE DEAD 2: Remake](https://www.steamgriddb.com/game/5475401) — game ID `5475401`
+- [House of the Dead: Scarlet Dawn](https://www.steamgriddb.com/game/5330216) — game ID `5330216`
+- [The house of the missing hands](https://www.steamgriddb.com/game/5441215) — game ID `5441215`
+
+## Grease Dance — BLUS30786
+
+- [Grease: The Official Video Game](https://www.steamgriddb.com/game/5333219) — game ID `5333219`
+- [Grease Monkey Grand Prix](https://www.steamgriddb.com/game/5486257) — game ID `5486257`
+- [Grease Trap &#x27;99](https://www.steamgriddb.com/game/5520970) — game ID `5520970`
+- [SpongeBob SquarePants: Elbow Grease](https://www.steamgriddb.com/game/5451802) — game ID `5451802`
+- [The Greasy Snatcher](https://www.steamgriddb.com/game/5555677) — game ID `5555677`
+- [Trailer Park Boys: Greasy Money](https://www.steamgriddb.com/game/22787) — game ID `22787`
+
+## Family Game Night 4: The Game Show — BLUS30802
+
+- [Hasbro Family Game Night 4: The Game Show](https://www.steamgriddb.com/game/5343676) — game ID `5343676`
+- [Hasbro Family Game Night](https://www.steamgriddb.com/game/5264119) — game ID `5264119`
+- [Hasbro Family Game Night 3](https://www.steamgriddb.com/game/5264130) — game ID `5264130`
+- [Hasbro Family Game Night Fun Pack](https://www.steamgriddb.com/game/5343677) — game ID `5343677`
+- [Hasbro Family Game Night 2](https://www.steamgriddb.com/game/5353065) — game ID `5353065`
+- [Family Game Pack](https://www.steamgriddb.com/game/5335726) — game ID `5335726`
+- [Chobots - Your Family Game](https://www.steamgriddb.com/game/5550298) — game ID `5550298`
+- [Family](https://www.steamgriddb.com/game/5270682) — game ID `5270682`
+- [Family](https://www.steamgriddb.com/game/5278456) — game ID `5278456`
+- [Family Fortunes](https://www.steamgriddb.com/game/15) — game ID `15`
+
+## Syndicate — BLUS30804
+
+- [Syndicate](https://www.steamgriddb.com/game/35899) — game ID `35899`
+- [Syndicate](https://www.steamgriddb.com/game/5246315) — game ID `5246315`
+- [Syndicate Wars](https://www.steamgriddb.com/game/5246316) — game ID `5246316`
+- [Syndicate Black Ops](https://www.steamgriddb.com/game/5272204) — game ID `5272204`
+- [Syndicate of Souls](https://www.steamgriddb.com/game/5471428) — game ID `5471428`
+- [Steampunk Syndicate](https://www.steamgriddb.com/game/16453) — game ID `16453`
+- [Steampunk Syndicate 2](https://www.steamgriddb.com/game/20425) — game ID `20425`
+- [Art Syndicate](https://www.steamgriddb.com/game/5279369) — game ID `5279369`
+- [Sovereign Syndicate](https://www.steamgriddb.com/game/5290364) — game ID `5290364`
+- [Recovery Syndicate](https://www.steamgriddb.com/game/5370220) — game ID `5370220`
+
+## PES 2012: Pro Evolution Soccer — BLUS30805
+
+- [PES Dream Patch (Program)](https://www.steamgriddb.com/game/5340249) — game ID `5340249`
+- [PES 6 Infinitty Patch 2025](https://www.steamgriddb.com/game/5470226) — game ID `5470226`
+- [eFootball PES 2020](https://www.steamgriddb.com/game/5168402) — game ID `5168402`
+- [eFootball PES 2021](https://www.steamgriddb.com/game/5263899) — game ID `5263899`
+- [SoundSc@pes](https://www.steamgriddb.com/game/5434525) — game ID `5434525`
+- [ProFootball (PES 2013 Mod)](https://www.steamgriddb.com/game/5457802) — game ID `5457802`
+- [You.T@pes](https://www.steamgriddb.com/game/5533859) — game ID `5533859`
+
+## Motionsports Adrenaline — BLUS30812
+
+- [TNN Motorsports Hardcore TR](https://www.steamgriddb.com/game/8734) — game ID `8734`
+- [TNN Motorsports Hardcore Heat](https://www.steamgriddb.com/game/5436868) — game ID `5436868`
+- [Quatiica Motorsports](https://www.steamgriddb.com/game/5557607) — game ID `5557607`
+
+## Adidas miCoach — BLUS30815
+
+- [Adidas Power Soccer](https://www.steamgriddb.com/game/5335290) — game ID `5335290`
+- [Adidas Power Soccer 98](https://www.steamgriddb.com/game/5335291) — game ID `5335291`
+
+## Pictionary: Ultimate Edition — BLUS30825
+
+- [Pictionary](https://www.steamgriddb.com/game/5333559) — game ID `5333559`
+- [Pictionary: The Game of Video Quick Draw](https://www.steamgriddb.com/game/38052) — game ID `38052`
+- [UDraw Pictionary](https://www.steamgriddb.com/game/5276979) — game ID `5276979`
+- [Dictionary Blaster](https://www.steamgriddb.com/game/5458924) — game ID `5458924`
+
+## The Amazing Spider-Man — BLUS30828
+
+- [The Amazing Spider-Man](https://www.steamgriddb.com/game/2070) — game ID `2070`
+- [The Amazing Spider-Man](https://www.steamgriddb.com/game/5370393) — game ID `5370393`
+- [The Amazing Spider-Man 2](https://www.steamgriddb.com/game/3546) — game ID `3546`
+- [The Amazing Spider-Man vs. The Kingpin](https://www.steamgriddb.com/game/36771) — game ID `36771`
+- [The Amazing Spider-Man: Lethal Foes](https://www.steamgriddb.com/game/5249063) — game ID `5249063`
+- [The Amazing Spider-Man: Countdown to Doom](https://www.steamgriddb.com/game/5458287) — game ID `5458287`
+- [The Amazing Adventures of Ash - Afterparty](https://www.steamgriddb.com/game/10498) — game ID `10498`
+- [The Amazing Shinsengumi: Heroes in Love](https://www.steamgriddb.com/game/12595) — game ID `12595`
+- [The Amazing Bernard](https://www.steamgriddb.com/game/26643) — game ID `26643`
+- [The Amazing Adventures of Lady Fanny Featherstone](https://www.steamgriddb.com/game/27744) — game ID `27744`
+
+## Call of Duty: Modern Warfare 3 — BLUS30838
+
+- [Call of Duty: Modern Warfare 3](https://www.steamgriddb.com/game/10029) — game ID `10029`
+- [Call of Duty: Modern Warfare 3 - Multiplayer](https://www.steamgriddb.com/game/10030) — game ID `10030`
+- [Call of Duty: Modern Warfare 3 - Dedicated Server](https://www.steamgriddb.com/game/5250297) — game ID `5250297`
+- [Call of Duty: Modern Warfare 3 – Defiance](https://www.steamgriddb.com/game/5331486) — game ID `5331486`
+- [Call of Duty: Modern Warfare III](https://www.steamgriddb.com/game/5420962) — game ID `5420962`
+- [Call of Duty: Modern Warfare III - Open Beta](https://www.steamgriddb.com/game/5433625) — game ID `5433625`
+- [Call of Duty: Modern Warfare](https://www.steamgriddb.com/game/5246087) — game ID `5246087`
+- [Call of Duty: Modern Warfare 2](https://www.steamgriddb.com/game/710) — game ID `710`
+- [Call of Duty: Modern Warfare 2 - Multiplayer](https://www.steamgriddb.com/game/731) — game ID `731`
+- [Call of Duty: Modern Warfare Remastered](https://www.steamgriddb.com/game/8710) — game ID `8710`
+
+## Sonic &amp; All-Stars Racing Transformed — BLUS30839
+
+- [Sonic and SEGA All Stars Racing](https://www.steamgriddb.com/game/6313) — game ID `6313`
+- [Sonic and the Black Knight](https://www.steamgriddb.com/game/37046) — game ID `37046`
+- [Sonic and the Secret Rings](https://www.steamgriddb.com/game/38588) — game ID `38588`
+- [Sonic and the Fallen Star](https://www.steamgriddb.com/game/5338714) — game ID `5338714`
+- [Sonic and the Moon Facility](https://www.steamgriddb.com/game/5436255) — game ID `5436255`
+- [Sonic and the Secret Rings: Project Reignition](https://www.steamgriddb.com/game/5462837) — game ID `5462837`
+- [Sonic and the Seven Symphonies](https://www.steamgriddb.com/game/5494505) — game ID `5494505`
+- [Sonic 3 and Sally Acorn](https://www.steamgriddb.com/game/5364867) — game ID `5364867`
+- [Sonic 3 and Knuckles - Battle Race](https://www.steamgriddb.com/game/5373744) — game ID `5373744`
+- [Sonic 3 and Amy Rose](https://www.steamgriddb.com/game/5439888) — game ID `5439888`
+
+## NCIS: Based on the TV Series — BLUS30840
+
+- [NCIS](https://www.steamgriddb.com/game/5343793) — game ID `5343793`
+- [NCIS 3D](https://www.steamgriddb.com/game/5333876) — game ID `5333876`
+
+## Happy Feet Two — BLUS30846
+
+- [Happy Feet Two: The Video Game](https://www.steamgriddb.com/game/5261779) — game ID `5261779`
+- [Happy Feet](https://www.steamgriddb.com/game/38745) — game ID `38745`
+- [Happy](https://www.steamgriddb.com/game/5397809) — game ID `5397809`
+- [Happy picture](https://www.steamgriddb.com/game/412) — game ID `412`
+- [Happy Anime Puzzle](https://www.steamgriddb.com/game/557) — game ID `557`
+- [Happy Tree Friends: False Alarm](https://www.steamgriddb.com/game/1207) — game ID `1207`
+- [Happy Wars](https://www.steamgriddb.com/game/2888) — game ID `2888`
+- [Happy Critters](https://www.steamgriddb.com/game/10822) — game ID `10822`
+- [Happy Pong](https://www.steamgriddb.com/game/13138) — game ID `13138`
+- [Happy Empire](https://www.steamgriddb.com/game/13576) — game ID `13576`
+
+## SSX — BLUS30849
+
+- [SSX](https://www.steamgriddb.com/game/38268) — game ID `38268`
+- [SSX](https://www.steamgriddb.com/game/5404410) — game ID `5404410`
+- [SSX Tricky](https://www.steamgriddb.com/game/1638) — game ID `1638`
+- [SSX 3](https://www.steamgriddb.com/game/34626) — game ID `34626`
+- [SSX Blur](https://www.steamgriddb.com/game/37061) — game ID `37061`
+- [SSX on Tour](https://www.steamgriddb.com/game/5265472) — game ID `5265472`
+
+## Rocksmith — BLUS30871
+
+- [Rocksmith](https://www.steamgriddb.com/game/1841) — game ID `1841`
+- [Rocksmith® 2014 Edition - Remastered](https://www.steamgriddb.com/game/2295) — game ID `2295`
+- [Rocksmith+](https://www.steamgriddb.com/game/5359161) — game ID `5359161`
+- [Locksmith Simulator](https://www.steamgriddb.com/game/5274280) — game ID `5274280`
+- [Regular Locksmith Game](https://www.steamgriddb.com/game/5520215) — game ID `5520215`
+- [The Missing Locksmith](https://www.steamgriddb.com/game/5287159) — game ID `5287159`
+- [Lair of the Locksmith](https://www.steamgriddb.com/game/5476586) — game ID `5476586`
+
+## Dynasty Warriors 7: Xtreme Legends — BLUS30873
+
+- [DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition](https://www.steamgriddb.com/game/32452) — game ID `32452`
+- [DYNASTY WARRIORS 7 with Xtreme Legends](https://www.steamgriddb.com/game/2024) — game ID `2024`
+- [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://www.steamgriddb.com/game/3823) — game ID `3823`
+- [Dynasty Warriors 3: Xtreme Legends](https://www.steamgriddb.com/game/25640) — game ID `25640`
+- [Dynasty Warriors 4: Xtreme Legends](https://www.steamgriddb.com/game/34562) — game ID `34562`
+- [Dynasty Warriors 5: Xtreme Legends](https://www.steamgriddb.com/game/5353691) — game ID `5353691`
+- [Dynasty Warriors 7: Empires](https://www.steamgriddb.com/game/5367327) — game ID `5367327`
+- [Dynasty Warriors 8 Empires](https://www.steamgriddb.com/game/5438) — game ID `5438`
+- [Dynasty Warriors Advance](https://www.steamgriddb.com/game/10183) — game ID `10183`
+- [DYNASTY WARRIORS 9](https://www.steamgriddb.com/game/22577) — game ID `22577`
+
+## Record of Agarest War 2 — BLUS30881
+
+- [Record of Agarest War Mariage](https://www.steamgriddb.com/game/22970) — game ID `22970`
+- [Record of Lodoss War Online](https://www.steamgriddb.com/game/31751) — game ID `31751`
+- [Record of Lodoss War-Deedlit in Wonder Labyrinth-](https://www.steamgriddb.com/game/5256663) — game ID `5256663`
+- [Record of Lodoss War](https://www.steamgriddb.com/game/5259548) — game ID `5259548`
+- [Record of Battle 3D Maiden Wars](https://www.steamgriddb.com/game/5265676) — game ID `5265676`
+- [Record of Lodoss War:  Advent of Cardice](https://www.steamgriddb.com/game/5281486) — game ID `5281486`
+- [Record of Lodoss War: Chronicles of the Heroic Knight GB](https://www.steamgriddb.com/game/5368082) — game ID `5368082`
+- [Record of Lodoss War](https://www.steamgriddb.com/game/5408361) — game ID `5408361`
+- [Record of Lodoss War: The War of Heroes](https://www.steamgriddb.com/game/5408400) — game ID `5408400`
+- [Record of Lodoss War: The Grey Witch](https://www.steamgriddb.com/game/5408401) — game ID `5408401`
+
+## FIFA Street — BLUS30882
+
+- [FIFA Street](https://www.steamgriddb.com/game/5257940) — game ID `5257940`
+- [FIFA Street](https://www.steamgriddb.com/game/5259702) — game ID `5259702`
+- [FIFA Street 2](https://www.steamgriddb.com/game/19632) — game ID `19632`
+- [FIFA Street 3](https://www.steamgriddb.com/game/5259703) — game ID `5259703`
+- [FIFA Manager 09](https://www.steamgriddb.com/game/1552) — game ID `1552`
+- [FIFA Manager 10](https://www.steamgriddb.com/game/2957) — game ID `2957`
+- [FIFA International Soccer](https://www.steamgriddb.com/game/4565) — game ID `4565`
+- [FIFA Manager 11](https://www.steamgriddb.com/game/12102) — game ID `12102`
+- [FIFA 99](https://www.steamgriddb.com/game/33566) — game ID `33566`
+- [FIFA Soccer 2004](https://www.steamgriddb.com/game/33725) — game ID `33725`
+
+## Call of Duty: Modern Warfare 3 — BLUS30887
+
+- [Call of Duty: Modern Warfare 3](https://www.steamgriddb.com/game/10029) — game ID `10029`
+- [Call of Duty: Modern Warfare 3 - Multiplayer](https://www.steamgriddb.com/game/10030) — game ID `10030`
+- [Call of Duty: Modern Warfare 3 - Dedicated Server](https://www.steamgriddb.com/game/5250297) — game ID `5250297`
+- [Call of Duty: Modern Warfare 3 – Defiance](https://www.steamgriddb.com/game/5331486) — game ID `5331486`
+- [Call of Duty: Modern Warfare III](https://www.steamgriddb.com/game/5420962) — game ID `5420962`
+- [Call of Duty: Modern Warfare III - Open Beta](https://www.steamgriddb.com/game/5433625) — game ID `5433625`
+- [Call of Duty: Modern Warfare](https://www.steamgriddb.com/game/5246087) — game ID `5246087`
+- [Call of Duty: Modern Warfare 2](https://www.steamgriddb.com/game/710) — game ID `710`
+- [Call of Duty: Modern Warfare 2 - Multiplayer](https://www.steamgriddb.com/game/731) — game ID `731`
+- [Call of Duty: Modern Warfare Remastered](https://www.steamgriddb.com/game/8710) — game ID `8710`
+
+## Fallout: New Vegas: Ultimate Edition — BLUS30888
+
+- [Fallout: New Vegas](https://www.steamgriddb.com/game/2352) — game ID `2352`
+- [Fallout: New Vegas PCR](https://www.steamgriddb.com/game/2381) — game ID `2381`
+- [Fallout: Viva New Vegas](https://www.steamgriddb.com/game/5371984) — game ID `5371984`
+- [Fallout: New California](https://www.steamgriddb.com/game/5461721) — game ID `5461721`
+- [Fullout - New Nevada](https://www.steamgriddb.com/game/5258213) — game ID `5258213`
+- [Fallout 3](https://www.steamgriddb.com/game/2322) — game ID `2322`
+- [Fallout 3: Game of the Year Edition](https://www.steamgriddb.com/game/2348) — game ID `2348`
+- [Fallout 4](https://www.steamgriddb.com/game/7993) — game ID `7993`
+- [Fallout: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8280) — game ID `8280`
+- [Fallout 2: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8287) — game ID `8287`
+
+## Fallout: New Vegas: Ultimate Edition — BLUS30889
+
+- [Fallout: New Vegas](https://www.steamgriddb.com/game/2352) — game ID `2352`
+- [Fallout: New Vegas PCR](https://www.steamgriddb.com/game/2381) — game ID `2381`
+- [Fallout: Viva New Vegas](https://www.steamgriddb.com/game/5371984) — game ID `5371984`
+- [Fallout: New California](https://www.steamgriddb.com/game/5461721) — game ID `5461721`
+- [Fullout - New Nevada](https://www.steamgriddb.com/game/5258213) — game ID `5258213`
+- [Fallout 3](https://www.steamgriddb.com/game/2322) — game ID `2322`
+- [Fallout 3: Game of the Year Edition](https://www.steamgriddb.com/game/2348) — game ID `2348`
+- [Fallout 4](https://www.steamgriddb.com/game/7993) — game ID `7993`
+- [Fallout: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8280) — game ID `8280`
+- [Fallout 2: A Post Nuclear Role Playing Game](https://www.steamgriddb.com/game/8287) — game ID `8287`
