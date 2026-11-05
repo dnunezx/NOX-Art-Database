@@ -484,3 +484,69 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS31059 | Middle-Earth: Shadow of Mordor | cking | [#341655](https://www.steamgriddb.com/grid/341655) |
 | BLUS31064 | Deadly Premonition: The Director's Cut | flamepanther | [#156776](https://www.steamgriddb.com/grid/156776) |
 | BLUS31065 | The Walking Dead: Survival Instinct | ScoringTiger487 | [#518531](https://www.steamgriddb.com/grid/518531) |
+| BLUS31068 | Battlefield 3 | TheKersalMassive | [#193705](https://www.steamgriddb.com/grid/193705) |
+| BLUS31069 | Army of Two: The Devil's Cartel | ABH20 | [#194891](https://www.steamgriddb.com/grid/194891) |
+| BLUS31076 | Skylanders: Swap Force | GoahSparky | [#657760](https://www.steamgriddb.com/grid/657760) |
+| BLUS31077 | Under Defeat HD: Deluxe Edition | reTokyo | [#209267](https://www.steamgriddb.com/grid/209267) |
+| BLUS31139 | Mass Effect | Timberfang | [#137213](https://www.steamgriddb.com/grid/137213) |
+| BLUS31140 | Call of Duty: Black Ops II | TheKersalMassive | [#193740](https://www.steamgriddb.com/grid/193740) |
+| BLUS31141 | Call of Duty: Black Ops II | TheKersalMassive | [#193740](https://www.steamgriddb.com/grid/193740) |
+| BLUS31142 | Hitman: Absolution | TheKersalMassive | [#193721](https://www.steamgriddb.com/grid/193721) |
+| BLUS31143 | Naughty Bear: Gold Edition | SiTWulf | [#377491](https://www.steamgriddb.com/grid/377491) |
+| BLUS31146 | Deadpool | CriticalComposer | [#138239](https://www.steamgriddb.com/grid/138239) |
+| BLUS31147 | Batman: Arkham Origins | CriticalComposer | [#137040](https://www.steamgriddb.com/grid/137040) |
+| BLUS31150 | Hyperdimension Neptunia Victory | effcol | [#321188](https://www.steamgriddb.com/grid/321188) |
+| BLUS31152 | Atelier Ayesha: The Alchemist of Dusk | Plague | [#774400](https://www.steamgriddb.com/grid/774400) |
+| BLUS31153 | Fast & Furious: Showdown | Mentos0723 | [#730881](https://www.steamgriddb.com/grid/730881) |
+| BLUS31155 | Dragon's Dogma: Dark Arisen | Spascifica | [#200259](https://www.steamgriddb.com/grid/200259) |
+| BLUS31156 | Grand Theft Auto V | TheKersalMassive | [#193681](https://www.steamgriddb.com/grid/193681) |
+| BLUS31159 | NCAA Football 14 | Shiios42 | [#356909](https://www.steamgriddb.com/grid/356909) |
+| BLUS31160 | Earth Defense Force 2025 | YMCrank | [#189201](https://www.steamgriddb.com/grid/189201) |
+| BLUS31161 | LEGO Marvel Super Heroes | cking | [#337077](https://www.steamgriddb.com/grid/337077) |
+| BLUS31162 | Battlefield 4 | TheKersalMassive | [#193706](https://www.steamgriddb.com/grid/193706) |
+| BLUS31164 | Lightning Returns: Final Fantasy XIII | riefu24 | [#164274](https://www.steamgriddb.com/grid/164274) |
+| BLUS31166 | Murdered: Soul Suspect | Kynd | [#228994](https://www.steamgriddb.com/grid/228994) |
+| BLUS31168 | WRC 3: FIA World Rally Championship | Selion | [#366528](https://www.steamgriddb.com/grid/366528) |
+| BLUS31172 | Tales of Symphonia Chronicles | Plague | [#482217](https://www.steamgriddb.com/grid/482217) |
+| BLUS31175 | Ninja Gaiden 3: Razor's Edge | Kynd | [#229085](https://www.steamgriddb.com/grid/229085) |
+| BLUS31176 | Watch_Dogs | TheKersalMassive | [#193739](https://www.steamgriddb.com/grid/193739) |
+| BLUS31177 | BioShock Infinite | TheKersalMassive | [#193735](https://www.steamgriddb.com/grid/193735) |
+| BLUS31183 | Rayman Legends | Kam | [#137395](https://www.steamgriddb.com/grid/137395) |
+| BLUS31184 | Metro: Last Light | CriticalComposer | [#262450](https://www.steamgriddb.com/grid/262450) |
+| BLUS31186 | Killer Is Dead | CriticalComposer | [#139036](https://www.steamgriddb.com/grid/139036) |
+| BLUS31188 | Diablo III | CriticalComposer | [#143338](https://www.steamgriddb.com/grid/143338) |
+| BLUS31189 | FIFA 14 | Varimarthas | [#165218](https://www.steamgriddb.com/grid/165218) |
+| BLUS31190 | FIFA 14 | Varimarthas | [#165218](https://www.steamgriddb.com/grid/165218) |
+| BLUS31191 | South Park: The Stick of Truth | TheKersalMassive | [#193733](https://www.steamgriddb.com/grid/193733) |
+| BLUS31193 | Assassin's Creed IV: Black Flag | TheKersalMassive | [#193700](https://www.steamgriddb.com/grid/193700) |
+| BLUS31194 | Armored Core: Verdict Day | Devin | [#141741](https://www.steamgriddb.com/grid/141741) |
+| BLUS31197 | Drakengard 3 | ABH20 | [#238232](https://www.steamgriddb.com/grid/238232) |
+| BLUS31198 | El Chavo Kart | Mentos0723 | [#733503](https://www.steamgriddb.com/grid/733503) |
+| BLUS31200 | Hot Wheels: World's Best Driver | mcdbos49 | [#418115](https://www.steamgriddb.com/grid/418115) |
+| BLUS31201 | Need for Speed: Rivals | Comcord | [#167740](https://www.steamgriddb.com/grid/167740) |
+| BLUS31203 | Yaiba: Ninja Gaiden Z | flamepanther | [#156788](https://www.steamgriddb.com/grid/156788) |
+| BLUS31205 | Saints Row IV | itsteddyyo | [#151937](https://www.steamgriddb.com/grid/151937) |
+| BLUS31206 | Painkiller: Hell & Damnation | flamepanther | [#157445](https://www.steamgriddb.com/grid/157445) |
+| BLUS31207 | Batman: Arkham Origins | CriticalComposer | [#137040](https://www.steamgriddb.com/grid/137040) |
+| BLUS31208 | F1 2013 | mendihoza | [#270714](https://www.steamgriddb.com/grid/270714) |
+| BLUS31209 | F1 2013 | mendihoza | [#270714](https://www.steamgriddb.com/grid/270714) |
+| BLUS31210 | Air Conflicts: Pacific Carriers | XueSN | [#527627](https://www.steamgriddb.com/grid/527627) |
+| BLUS31211 | Final Fantasy X &#124; X-2: HD Remaster | Kam | [#137168](https://www.steamgriddb.com/grid/137168) |
+| BLUS31212 | Kingdom Hearts: HD 1.5 ReMIX | Shiios42 | [#342371](https://www.steamgriddb.com/grid/342371) |
+| BLUS31214 | Adventure Time: Explore the Dungeon Because I Don't Know! | HTheorigin4l | [#358308](https://www.steamgriddb.com/grid/358308) |
+| BLUS31216 | Dead or Alive 5 Ultimate | Shiios42 | [#338055](https://www.steamgriddb.com/grid/338055) |
+| BLUS31217 | Pac-Man and the Ghostly Adventures | flamepanther | [#156686](https://www.steamgriddb.com/grid/156686) |
+| BLUS31218 | Ultra Street Fighter IV | TheKersalMassive | [#193694](https://www.steamgriddb.com/grid/193694) |
+| BLUS31219 | Payday 2 | Kam | [#137570](https://www.steamgriddb.com/grid/137570) |
+| BLUS31220 | Wolfenstein: The New Order | TheKersalMassive | [#227003](https://www.steamgriddb.com/grid/227003) |
+| BLUS31221 | Diablo III | CriticalComposer | [#143338](https://www.steamgriddb.com/grid/143338) |
+| BLUS31270 | Call of Duty: Ghosts | CluckenDip | [#136208](https://www.steamgriddb.com/grid/136208) |
+| BLUS31273 | Angry Birds Star Wars | Shiios42 | [#255255](https://www.steamgriddb.com/grid/255255) |
+| BLUS31277 | WWE 2K14 | Shiios42 | [#254564](https://www.steamgriddb.com/grid/254564) |
+| BLUS31312 | The Guided Fate Paradox | Plague | [#589665](https://www.steamgriddb.com/grid/589665) |
+| BLUS31313 | Disgaea D2: A Brighter Darkness | Shadicluigi | [#144500](https://www.steamgriddb.com/grid/144500) |
+| BLUS31314 | Dragon Ball Z: Battle of Z | Samcrossette | [#748457](https://www.steamgriddb.com/grid/748457) |
+| BLUS31315 | Just Dance 2014 | Plague | [#590979](https://www.steamgriddb.com/grid/590979) |
+| BLUS31317 | Deus Ex: Human Revolution: Director's Cut | Skyclad | [#136624](https://www.steamgriddb.com/grid/136624) |
+| BLUS31319 | Hatsune Miku: Project Diva F | Shiios42 | [#244318](https://www.steamgriddb.com/grid/244318) |
+| BLUS31320 | Air Conflicts: Vietnam | LutzPS | [#657975](https://www.steamgriddb.com/grid/657975) |
