@@ -550,3 +550,65 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS31317 | Deus Ex: Human Revolution: Director's Cut | Skyclad | [#136624](https://www.steamgriddb.com/grid/136624) |
 | BLUS31319 | Hatsune Miku: Project Diva F | Shiios42 | [#244318](https://www.steamgriddb.com/grid/244318) |
 | BLUS31320 | Air Conflicts: Vietnam | LutzPS | [#657975](https://www.steamgriddb.com/grid/657975) |
+| BLUS31324 | Transformers: Rise of the Dark Spark | Elke1131 | [#136649](https://www.steamgriddb.com/grid/136649) |
+| BLUS31350 | Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst | flamepanther | [#141368](https://www.steamgriddb.com/grid/141368) |
+| BLUS31364 | Injustice: Gods Among Us: Ultimate Edition | CluckenDip | [#180357](https://www.steamgriddb.com/grid/180357) |
+| BLUS31367 | XBlaze: Code: Embryo | effcol | [#318034](https://www.steamgriddb.com/grid/318034) |
+| BLUS31369 | Metal Gear Solid V: Ground Zeroes | TheKersalMassive | [#193725](https://www.steamgriddb.com/grid/193725) |
+| BLUS31373 | The LEGO Movie: Videogame | fia | [#568602](https://www.steamgriddb.com/grid/568602) |
+| BLUS31374 | The Evil Within | CluckenDip | [#241472](https://www.steamgriddb.com/grid/241472) |
+| BLUS31378 | NASCAR '14 | cca_jp | [#359424](https://www.steamgriddb.com/grid/359424) |
+| BLUS31382 | Castlevania: Lords of Shadow | fycher_ | [#193986](https://www.steamgriddb.com/grid/193986) |
+| BLUS31386 | Ragnarok Odyssey ACE | Plague | [#774101](https://www.steamgriddb.com/grid/774101) |
+| BLUS31387 | Rambo: The Video Game | Neuropod | [#370985](https://www.steamgriddb.com/grid/370985) |
+| BLUS31389 | 2014 FIFA World Cup Brazil | mendihoza | [#155222](https://www.steamgriddb.com/grid/155222) |
+| BLUS31392 | LEGO The Hobbit | Varimarthas | [#165543](https://www.steamgriddb.com/grid/165543) |
+| BLUS31396 | Deception IV: Blood Ties | Arthur Lopes | [#149808](https://www.steamgriddb.com/grid/149808) |
+| BLUS31397 | Tales of Xillia 2 | regehman | [#151097](https://www.steamgriddb.com/grid/151097) |
+| BLUS31401 | Sniper Elite III | clam.buttocks | [#550209](https://www.steamgriddb.com/grid/550209) |
+| BLUS31410 | Plants vs. Zombies: Garden Warfare | Varimarthas | [#165563](https://www.steamgriddb.com/grid/165563) |
+| BLUS31411 | Bound by Flame | flamepanther | [#141104](https://www.steamgriddb.com/grid/141104) |
+| BLUS31412 | Sherlock Holmes: Crimes & Punishments | Devin | [#140703](https://www.steamgriddb.com/grid/140703) |
+| BLUS31417 | Mugen Souls Z | Phox | [#851990](https://www.steamgriddb.com/grid/851990) |
+| BLUS31420 | Far Cry 4 | anteR | [#384513](https://www.steamgriddb.com/grid/384513) |
+| BLUS31421 | Naruto Shippuden: Ultimate Ninja Storm Revolution | Rame2024 | [#509842](https://www.steamgriddb.com/grid/509842) |
+| BLUS31423 | Fairy Fencer F | SquigglyImporter | [#333889](https://www.steamgriddb.com/grid/333889) |
+| BLUS31424 | Arcana Heart 3: Love Max!!!!! | jesus_dod138 | [#818704](https://www.steamgriddb.com/grid/818704) |
+| BLUS31425 | Akiba's Trip: Undead & Undressed | flamepanther | [#235216](https://www.steamgriddb.com/grid/235216) |
+| BLUS31426 | Minecraft: PlayStation 3 Edition | Purgenta | [#303594](https://www.steamgriddb.com/grid/303594) |
+| BLUS31428 | Madden NFL 15 | Hamid | [#801295](https://www.steamgriddb.com/grid/801295) |
+| BLUS31431 | Hatsune Miku: Project Diva F 2nd | Shiios42 | [#244317](https://www.steamgriddb.com/grid/244317) |
+| BLUS31432 | Risen 3: Titan Lords | Devin | [#140134](https://www.steamgriddb.com/grid/140134) |
+| BLUS31433 | Escape Dead Island | Imatination | [#246946](https://www.steamgriddb.com/grid/246946) |
+| BLUS31434 | LEGO Batman 3: Beyond Gotham | cking | [#337065](https://www.steamgriddb.com/grid/337065) |
+| BLUS31436 | NHL 15 | Hamid | [#801296](https://www.steamgriddb.com/grid/801296) |
+| BLUS31440 | Battlefield Hardline | Mingebag | [#417557](https://www.steamgriddb.com/grid/417557) |
+| BLUS31441 | Digimon All-Star Rumble | fraiak | [#228014](https://www.steamgriddb.com/grid/228014) |
+| BLUS31442 | Skylanders: Trap Team | fraiak | [#418974](https://www.steamgriddb.com/grid/418974) |
+| BLUS31443 | FIFA 15 | itsteddyyo | [#151909](https://www.steamgriddb.com/grid/151909) |
+| BLUS31444 | Resident Evil: Revelations 2 | TUFKAC | [#136561](https://www.steamgriddb.com/grid/136561) |
+| BLUS31445 | Borderlands: The Pre-Sequel! | TheKersalMassive | [#193710](https://www.steamgriddb.com/grid/193710) |
+| BLUS31447 | Tales of Xillia 2 | regehman | [#151097](https://www.steamgriddb.com/grid/151097) |
+| BLUS31450 | Adventure Time: The Secret of the Nameless Kingdom | HexDawn | [#444821](https://www.steamgriddb.com/grid/444821) |
+| BLUS31452 | Grid Autosport | Kam | [#137368](https://www.steamgriddb.com/grid/137368) |
+| BLUS31454 | Just Dance 2015 | Plague | [#590991](https://www.steamgriddb.com/grid/590991) |
+| BLUS31456 | NBA 2K15 | WeaponPC | [#139669](https://www.steamgriddb.com/grid/139669) |
+| BLUS31457 | FIFA 15 | itsteddyyo | [#151909](https://www.steamgriddb.com/grid/151909) |
+| BLUS31458 | Pac-Man and the Ghostly Adventures 2 | flamepanther | [#156779](https://www.steamgriddb.com/grid/156779) |
+| BLUS31460 | Kingdom Hearts: HD 2.5 ReMIX | Shiios42 | [#342369](https://www.steamgriddb.com/grid/342369) |
+| BLUS31464 | WWE 2K15 | Shiios42 | [#254569](https://www.steamgriddb.com/grid/254569) |
+| BLUS31465 | Assassin's Creed: Rogue | TheKersalMassive | [#193701](https://www.steamgriddb.com/grid/193701) |
+| BLUS31466 | Call of Duty: Advanced Warfare | CluckenDip | [#136204](https://www.steamgriddb.com/grid/136204) |
+| BLUS31467 | Guilty Gear Xrd: Sign | flamepanther | [#141099](https://www.steamgriddb.com/grid/141099) |
+| BLUS31468 | The Voice: I Want You | riefu24 | [#393045](https://www.steamgriddb.com/grid/393045) |
+| BLUS31469 | Persona 4 Arena Ultimax | Gray Mess | [#144841](https://www.steamgriddb.com/grid/144841) |
+| BLUS31471 | F1 2014 | mendihoza | [#270716](https://www.steamgriddb.com/grid/270716) |
+| BLUS31472 | F1 2014 | mendihoza | [#270716](https://www.steamgriddb.com/grid/270716) |
+| BLUS31473 | LEGO Dimensions | PrinceDinoboy | [#497561](https://www.steamgriddb.com/grid/497561) |
+| BLUS31476 | Tears to Tiara II: Heir of the Overlord | Shadicluigi | [#255147](https://www.steamgriddb.com/grid/255147) |
+| BLUS31490 | Under Night In-Birth: Exe:Late | flamepanther | [#142420](https://www.steamgriddb.com/grid/142420) |
+| BLUS31491 | Metal Gear Solid V: The Phantom Pain | RealZombro | [#138798](https://www.steamgriddb.com/grid/138798) |
+| BLUS31493 | MXGP: The Official Motocross Videogame | XueSN | [#580692](https://www.steamgriddb.com/grid/580692) |
+| BLUS31496 | Saints Row: Gat out of Hell | flamepanther | [#143165](https://www.steamgriddb.com/grid/143165) |
+| BLUS31505 | Retro City Rampage DX | flamepanther | [#140770](https://www.steamgriddb.com/grid/140770) |
+| BLUS31507 | Dragon Ball Xenoverse | Kynd | [#229014](https://www.steamgriddb.com/grid/229014) |

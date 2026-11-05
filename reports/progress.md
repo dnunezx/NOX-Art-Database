@@ -1,11 +1,11 @@
 # US disc artwork progress
 
 - total title ids: 1238
-- processed artwork: 545
-- hosted pngs: 545
-- awaiting review: 236
-- automatically approved: 545
+- processed artwork: 607
+- hosted pngs: 607
+- awaiting review: 265
+- automatically approved: 607
 - manually approved: 0
-- missing retry: 223
-- ready for next batch: 233
+- missing retry: 232
+- ready for next batch: 133
 - batch size: 100

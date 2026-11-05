@@ -949,73 +949,73 @@
 | DreamWorks Rise of the Guardians | BLUS31067 | none | unknown | missing | pending | unverified |
 | Battlefield 3 | BLUS31068 | 193705 | exact | validated | approved | approved |
 | Army of Two: The Devil's Cartel | BLUS31069 | 194891 | exact | validated | approved | approved |
-| Tiger Woods PGA Tour 14 | BLUS31075 | none | unknown | ambiguous_match | pending | unverified |
+| Tiger Woods PGA Tour 14 | BLUS31075 | none | unknown | missing | pending | unverified |
 | Skylanders: Swap Force | BLUS31076 | 657760 | exact | validated | approved | approved |
 | Under Defeat HD: Deluxe Edition | BLUS31077 | 209267 | exact | validated | approved | approved |
-| History Legends of War: Patton | BLUS31079 | none | unknown | ambiguous_match | pending | unverified |
-| Midway Arcade Origins | BLUS31083 | none | exact | missing_square | pending | unverified |
+| History Legends of War: Patton | BLUS31079 | none | unknown | missing | pending | unverified |
+| Midway Arcade Origins | BLUS31083 | none | exact | missing | pending | unverified |
 | Mass Effect | BLUS31139 | 137213 | exact | validated | approved | approved |
 | Call of Duty: Black Ops II | BLUS31140 | 193740 | exact | validated | approved | approved |
 | Call of Duty: Black Ops II | BLUS31141 | 193740 | exact | validated | approved | approved |
 | Hitman: Absolution | BLUS31142 | 193721 | exact | validated | approved | approved |
 | Naughty Bear: Gold Edition | BLUS31143 | 377491 | exact | validated | approved | approved |
-| The Walking Dead: A Telltale Games Series | BLUS31144 | none | unknown | ambiguous_match | pending | unverified |
-| Assassin's Creed: Ezio Trilogy | BLUS31145 | none | unknown | ambiguous_match | pending | unverified |
+| The Walking Dead: A Telltale Games Series | BLUS31144 | none | unknown | missing | pending | unverified |
+| Assassin's Creed: Ezio Trilogy | BLUS31145 | none | unknown | missing | pending | unverified |
 | Deadpool | BLUS31146 | 138239 | exact | validated | approved | approved |
 | Batman: Arkham Origins | BLUS31147 | 137040 | exact | validated | approved | approved |
-| BandFuse: Rock Legends | BLUS31148 | none | unknown | missing_game | pending | unverified |
-| BioShock: Ultimate Rapture Edition | BLUS31149 | none | unknown | ambiguous_match | pending | unverified |
+| BandFuse: Rock Legends | BLUS31148 | none | unknown | missing | pending | unverified |
+| BioShock: Ultimate Rapture Edition | BLUS31149 | none | unknown | missing | pending | unverified |
 | Hyperdimension Neptunia Victory | BLUS31150 | 321188 | exact | validated | approved | approved |
-| The Smurfs 2 | BLUS31151 | none | exact | missing_square | pending | unverified |
+| The Smurfs 2 | BLUS31151 | none | exact | missing | pending | unverified |
 | Atelier Ayesha: The Alchemist of Dusk | BLUS31152 | 774400 | exact | validated | approved | approved |
 | Fast & Furious: Showdown | BLUS31153 | 730881 | exact | validated | approved | approved |
-| MUD: FIM Motocross World Championship | BLUS31154 | none | exact | missing_square | pending | unverified |
+| MUD: FIM Motocross World Championship | BLUS31154 | none | exact | missing | pending | unverified |
 | Dragon's Dogma: Dark Arisen | BLUS31155 | 200259 | exact | validated | approved | approved |
 | Grand Theft Auto V | BLUS31156 | 193681 | exact | validated | approved | approved |
-| Borderlands 2: Add-On Content Pack | BLUS31157 | none | unknown | ambiguous_match | pending | unverified |
-| Arcania: The Complete Tale | BLUS31158 | none | unknown | ambiguous_match | pending | unverified |
+| Borderlands 2: Add-On Content Pack | BLUS31157 | none | unknown | missing | pending | unverified |
+| Arcania: The Complete Tale | BLUS31158 | none | unknown | missing | pending | unverified |
 | NCAA Football 14 | BLUS31159 | 356909 | exact | validated | approved | approved |
 | Earth Defense Force 2025 | BLUS31160 | 189201 | exact | validated | approved | approved |
 | LEGO Marvel Super Heroes | BLUS31161 | 337077 | exact | validated | approved | approved |
 | Battlefield 4 | BLUS31162 | 193706 | exact | validated | approved | approved |
 | Lightning Returns: Final Fantasy XIII | BLUS31164 | 164274 | exact | validated | approved | approved |
 | Murdered: Soul Suspect | BLUS31166 | 228994 | exact | validated | approved | approved |
-| Major League Baseball 2K13 | BLUS31167 | none | unknown | ambiguous_match | pending | unverified |
+| Major League Baseball 2K13 | BLUS31167 | none | unknown | missing | pending | unverified |
 | WRC 3: FIA World Rally Championship | BLUS31168 | 366528 | exact | validated | approved | approved |
-| Young Justice: Legacy | BLUS31170 | none | exact | missing_square | pending | unverified |
-| DreamWorks Turbo: Super Stunt Squad | BLUS31171 | none | unknown | ambiguous_match | pending | unverified |
+| Young Justice: Legacy | BLUS31170 | none | exact | missing | pending | unverified |
+| DreamWorks Turbo: Super Stunt Squad | BLUS31171 | none | unknown | missing | pending | unverified |
 | Tales of Symphonia Chronicles | BLUS31172 | 482217 | exact | validated | approved | approved |
-| Time and Eternity | BLUS31173 | none | exact | missing_square | pending | unverified |
-| Port Royale 3: Gold Edition | BLUS31174 | none | exact | missing_square | pending | unverified |
+| Time and Eternity | BLUS31173 | none | exact | missing | pending | unverified |
+| Port Royale 3: Gold Edition | BLUS31174 | none | exact | missing | pending | unverified |
 | Ninja Gaiden 3: Razor's Edge | BLUS31175 | 229085 | exact | validated | approved | approved |
 | Watch_Dogs | BLUS31176 | 193739 | exact | validated | approved | approved |
 | BioShock Infinite | BLUS31177 | 193735 | exact | validated | approved | approved |
-| Madden NFL 25 | BLUS31178 | none | unknown | ambiguous_match | pending | unverified |
-| NHL 14 | BLUS31179 | none | exact | missing_square | pending | unverified |
-| XCOM: Enemy Within | BLUS31180 | none | unknown | ambiguous_match | pending | unverified |
-| Destiny | BLUS31181 | none | unknown | ambiguous_match | pending | unverified |
-| Rocksmith: All-New 2014 Edition | BLUS31182 | none | unknown | ambiguous_match | pending | unverified |
+| Madden NFL 25 | BLUS31178 | none | unknown | missing | pending | unverified |
+| NHL 14 | BLUS31179 | none | exact | missing | pending | unverified |
+| XCOM: Enemy Within | BLUS31180 | none | unknown | missing | pending | unverified |
+| Destiny | BLUS31181 | none | unknown | missing | pending | unverified |
+| Rocksmith: All-New 2014 Edition | BLUS31182 | none | unknown | missing | pending | unverified |
 | Rayman Legends | BLUS31183 | 137395 | exact | validated | approved | approved |
 | Metro: Last Light | BLUS31184 | 262450 | exact | validated | approved | approved |
-| Dynasty Warriors 8 | BLUS31185 | none | unknown | ambiguous_match | pending | unverified |
+| Dynasty Warriors 8 | BLUS31185 | none | unknown | missing | pending | unverified |
 | Killer Is Dead | BLUS31186 | 139036 | exact | validated | approved | approved |
-| Hakuoki: Stories of the Shinsengumi | BLUS31187 | none | unknown | ambiguous_match | pending | unverified |
+| Hakuoki: Stories of the Shinsengumi | BLUS31187 | none | unknown | missing | pending | unverified |
 | Diablo III | BLUS31188 | 143338 | exact | validated | approved | approved |
 | FIFA 14 | BLUS31189 | 165218 | exact | validated | approved | approved |
 | FIFA 14 | BLUS31190 | 165218 | exact | validated | approved | approved |
 | South Park: The Stick of Truth | BLUS31191 | 193733 | exact | validated | approved | approved |
-| Worms Collection | BLUS31192 | none | unknown | ambiguous_match | pending | unverified |
+| Worms Collection | BLUS31192 | none | unknown | missing | pending | unverified |
 | Assassin's Creed IV: Black Flag | BLUS31193 | 193700 | exact | validated | approved | approved |
 | Armored Core: Verdict Day | BLUS31194 | 141741 | exact | validated | approved | approved |
-| Falling Skies: The Game | BLUS31195 | none | exact | missing_square | pending | unverified |
+| Falling Skies: The Game | BLUS31195 | none | exact | missing | pending | unverified |
 | Drakengard 3 | BLUS31197 | 238232 | exact | validated | approved | approved |
 | El Chavo Kart | BLUS31198 | 733503 | exact | validated | approved | approved |
-| Tom Clancy's Ghost Recon Anthology | BLUS31199 | none | unknown | ambiguous_match | pending | unverified |
+| Tom Clancy's Ghost Recon Anthology | BLUS31199 | none | unknown | missing | pending | unverified |
 | Hot Wheels: World's Best Driver | BLUS31200 | 418115 | exact | validated | approved | approved |
 | Need for Speed: Rivals | BLUS31201 | 167740 | exact | validated | approved | approved |
-| The Elder Scrolls V: Skyrim: Legendary Edition | BLUS31202 | none | unknown | ambiguous_match | pending | unverified |
+| The Elder Scrolls V: Skyrim: Legendary Edition | BLUS31202 | none | unknown | missing | pending | unverified |
 | Yaiba: Ninja Gaiden Z | BLUS31203 | 156788 | exact | validated | approved | approved |
-| NBA 2K14 | BLUS31204 | none | exact | missing_square | pending | unverified |
+| NBA 2K14 | BLUS31204 | none | exact | missing | pending | unverified |
 | Saints Row IV | BLUS31205 | 151937 | exact | validated | approved | approved |
 | Painkiller: Hell & Damnation | BLUS31206 | 157445 | exact | validated | approved | approved |
 | Batman: Arkham Origins | BLUS31207 | 137040 | exact | validated | approved | approved |
@@ -1024,9 +1024,9 @@
 | Air Conflicts: Pacific Carriers | BLUS31210 | 527627 | exact | validated | approved | approved |
 | Final Fantasy X &#124; X-2: HD Remaster | BLUS31211 | 137168 | exact | validated | approved | approved |
 | Kingdom Hearts: HD 1.5 ReMIX | BLUS31212 | 342371 | exact | validated | approved | approved |
-| BlazBlue: Chrono Phantasma | BLUS31213 | none | exact | missing_square | pending | unverified |
+| BlazBlue: Chrono Phantasma | BLUS31213 | none | exact | missing | pending | unverified |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | BLUS31214 | 358308 | exact | validated | approved | approved |
-| Ben 10: Omniverse 2 | BLUS31215 | none | exact | missing_square | pending | unverified |
+| Ben 10: Omniverse 2 | BLUS31215 | none | exact | missing | pending | unverified |
 | Dead or Alive 5 Ultimate | BLUS31216 | 338055 | exact | validated | approved | approved |
 | Pac-Man and the Ghostly Adventures | BLUS31217 | 156686 | exact | validated | approved | approved |
 | Ultra Street Fighter IV | BLUS31218 | 193694 | exact | validated | approved | approved |
@@ -1035,118 +1035,118 @@
 | Diablo III | BLUS31221 | 143338 | exact | validated | approved | approved |
 | Call of Duty: Ghosts | BLUS31270 | 136208 | exact | validated | approved | approved |
 | Angry Birds Star Wars | BLUS31273 | 255255 | exact | validated | approved | approved |
-| Cabela's Big Game Hunter: Pro Hunts | BLUS31274 | none | exact | missing_square | pending | unverified |
-| Cabela's African Adventures | BLUS31275 | none | exact | missing_square | pending | unverified |
-| Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge | BLUS31276 | none | unknown | ambiguous_match | pending | unverified |
+| Cabela's Big Game Hunter: Pro Hunts | BLUS31274 | none | exact | missing | pending | unverified |
+| Cabela's African Adventures | BLUS31275 | none | exact | missing | pending | unverified |
+| Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge | BLUS31276 | none | unknown | missing | pending | unverified |
 | WWE 2K14 | BLUS31277 | 254564 | exact | validated | approved | approved |
 | The Guided Fate Paradox | BLUS31312 | 589665 | exact | validated | approved | approved |
 | Disgaea D2: A Brighter Darkness | BLUS31313 | 144500 | exact | validated | approved | approved |
 | Dragon Ball Z: Battle of Z | BLUS31314 | 748457 | exact | validated | approved | approved |
 | Just Dance 2014 | BLUS31315 | 590979 | exact | validated | approved | approved |
-| Final Fantasy XIV Online: A Realm Reborn | BLUS31316 | none | unknown | ambiguous_match | pending | unverified |
+| Final Fantasy XIV Online: A Realm Reborn | BLUS31316 | none | unknown | missing | pending | unverified |
 | Deus Ex: Human Revolution: Director's Cut | BLUS31317 | 136624 | exact | validated | approved | approved |
 | Hatsune Miku: Project Diva F | BLUS31319 | 244318 | exact | validated | approved | approved |
 | Air Conflicts: Vietnam | BLUS31320 | 657975 | exact | validated | approved | approved |
-| Aquapazza: Aquaplus Dream Match | BLUS31321 | none | unknown | missing | pending | unverified |
-| PES 2014: Pro Evolution Soccer | BLUS31322 | none | unknown | missing | pending | unverified |
-| Transformers: Rise of the Dark Spark | BLUS31324 | none | unknown | missing | pending | unverified |
-| Madden NFL 25 | BLUS31345 | none | unknown | missing | pending | unverified |
-| Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst | BLUS31350 | none | unknown | missing | pending | unverified |
-| Os Cavaleiros do Zodíaco: Bravos Soldados | BLUS31357 | none | unknown | missing | pending | unverified |
-| Injustice: Gods Among Us: Ultimate Edition | BLUS31364 | none | unknown | missing | pending | unverified |
-| XBlaze: Code: Embryo | BLUS31367 | none | unknown | missing | pending | unverified |
-| Disney DuckTales: Remastered | BLUS31368 | none | unknown | missing | pending | unverified |
-| Metal Gear Solid V: Ground Zeroes | BLUS31369 | none | unknown | missing | pending | unverified |
-| The LEGO Movie: Videogame | BLUS31373 | none | unknown | missing | pending | unverified |
-| The Evil Within | BLUS31374 | none | unknown | missing | pending | unverified |
-| The Walking Dead: A Telltale Games Series: Game of the Year Edition | BLUS31377 | none | unknown | missing | pending | unverified |
-| NASCAR '14 | BLUS31378 | none | unknown | missing | pending | unverified |
-| Farming Simulator | BLUS31381 | none | unknown | missing | pending | unverified |
-| Castlevania: Lords of Shadow | BLUS31382 | none | unknown | missing | pending | unverified |
-| Worms: The Revolution Collection | BLUS31385 | none | unknown | missing | pending | unverified |
-| Ragnarok Odyssey ACE | BLUS31386 | none | unknown | missing | pending | unverified |
-| Rambo: The Video Game | BLUS31387 | none | unknown | missing | pending | unverified |
-| DreamWorks How to Train Your Dragon 2 | BLUS31388 | none | unknown | missing | pending | unverified |
-| 2014 FIFA World Cup Brazil | BLUS31389 | none | unknown | missing | pending | unverified |
-| Copa do Mundo da FIFA Brasil 2014 | BLUS31390 | none | unknown | missing | pending | unverified |
-| Atelier Escha & Logy: Alchemists of the Dusk Sky | BLUS31391 | none | unknown | missing | pending | unverified |
-| LEGO The Hobbit | BLUS31392 | none | unknown | missing | pending | unverified |
-| Far Cry Compilation | BLUS31393 | none | unknown | missing | pending | unverified |
-| Deception IV: Blood Ties | BLUS31396 | none | unknown | missing | pending | unverified |
-| Tales of Xillia 2 | BLUS31397 | none | unknown | missing | pending | unverified |
-| Sniper Elite III | BLUS31401 | none | unknown | missing | pending | unverified |
-| Dynasty Warriors 8: Xtreme Legends | BLUS31402 | none | unknown | missing | pending | unverified |
-| JoJo's Bizarre Adventure: All Star Battle | BLUS31405 | none | unknown | missing | pending | unverified |
-| Plants vs. Zombies: Garden Warfare | BLUS31410 | none | unknown | missing | pending | unverified |
-| Bound by Flame | BLUS31411 | none | unknown | missing | pending | unverified |
-| Sherlock Holmes: Crimes & Punishments | BLUS31412 | none | unknown | missing | pending | unverified |
-| Saints Row IV: National Treasure Edition | BLUS31416 | none | unknown | missing | pending | unverified |
-| Mugen Souls Z | BLUS31417 | none | unknown | missing | pending | unverified |
-| Disney Infinity 2.0 Edition | BLUS31418 | none | unknown | missing | pending | unverified |
-| Far Cry 4 | BLUS31420 | none | unknown | missing | pending | unverified |
-| Naruto Shippuden: Ultimate Ninja Storm Revolution | BLUS31421 | none | unknown | missing | pending | unverified |
-| Fairy Fencer F | BLUS31423 | none | unknown | missing | pending | unverified |
-| Arcana Heart 3: Love Max!!!!! | BLUS31424 | none | unknown | missing | pending | unverified |
-| Akiba's Trip: Undead & Undressed | BLUS31425 | none | unknown | missing | pending | unverified |
-| Minecraft: PlayStation 3 Edition | BLUS31426 | none | unknown | missing | pending | unverified |
-| One Piece: Unlimited World Red | BLUS31427 | none | unknown | missing | pending | unverified |
-| Madden NFL 15 | BLUS31428 | none | unknown | missing | pending | unverified |
-| Syberia Collection | BLUS31429 | none | unknown | missing | pending | unverified |
-| Hatsune Miku: Project Diva F 2nd | BLUS31431 | none | unknown | missing | pending | unverified |
-| Risen 3: Titan Lords | BLUS31432 | none | unknown | missing | pending | unverified |
-| Escape Dead Island | BLUS31433 | none | unknown | missing | pending | unverified |
-| LEGO Batman 3: Beyond Gotham | BLUS31434 | none | unknown | missing | pending | unverified |
-| Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze | BLUS31435 | none | unknown | missing | pending | unverified |
-| NHL 15 | BLUS31436 | none | unknown | missing | pending | unverified |
-| Diablo III: Reaper of Souls: Ultimate Evil Edition | BLUS31437 | none | unknown | missing | pending | unverified |
-| Diablo III: Reaper of Souls: Ultimate Evil Edition | BLUS31438 | none | unknown | missing | pending | unverified |
-| Battlefield Hardline | BLUS31440 | none | unknown | missing | pending | unverified |
-| Digimon All-Star Rumble | BLUS31441 | none | unknown | missing | pending | unverified |
-| Skylanders: Trap Team | BLUS31442 | none | unknown | missing | pending | unverified |
-| FIFA 15 | BLUS31443 | none | unknown | missing | pending | unverified |
-| Resident Evil: Revelations 2 | BLUS31444 | none | unknown | missing | pending | unverified |
-| Borderlands: The Pre-Sequel! | BLUS31445 | none | unknown | missing | pending | unverified |
-| Tales of Xillia 2 | BLUS31447 | none | unknown | missing | pending | unverified |
-| Duck Dynasty | BLUS31448 | none | unknown | missing | pending | unverified |
-| Atelier Rorona Plus: The Alchemist of Arland | BLUS31449 | none | unknown | missing | pending | unverified |
-| Adventure Time: The Secret of the Nameless Kingdom | BLUS31450 | none | unknown | missing | pending | unverified |
-| Grid Autosport | BLUS31452 | none | unknown | missing | pending | unverified |
-| Natural Doctrine | BLUS31453 | none | unknown | missing | pending | unverified |
-| Just Dance 2015 | BLUS31454 | none | unknown | missing | pending | unverified |
-| MX vs. ATV Supercross | BLUS31455 | none | unknown | missing | pending | unverified |
-| NBA 2K15 | BLUS31456 | none | unknown | missing | pending | unverified |
-| FIFA 15 | BLUS31457 | none | unknown | missing | pending | unverified |
-| Pac-Man and the Ghostly Adventures 2 | BLUS31458 | none | unknown | missing | pending | unverified |
-| Terra-Média: Sombras de Mordor | BLUS31459 | none | unknown | missing | pending | unverified |
-| Kingdom Hearts: HD 2.5 ReMIX | BLUS31460 | none | unknown | missing | pending | unverified |
-| Class of Heroes 2G | BLUS31461 | none | unknown | missing | pending | unverified |
-| WWE 2K15 | BLUS31464 | none | unknown | missing | pending | unverified |
-| Assassin's Creed: Rogue | BLUS31465 | none | unknown | missing | pending | unverified |
-| Call of Duty: Advanced Warfare | BLUS31466 | none | unknown | missing | pending | unverified |
-| Guilty Gear Xrd: Sign | BLUS31467 | none | unknown | missing | pending | unverified |
-| The Voice: I Want You | BLUS31468 | none | unknown | missing | pending | unverified |
-| Persona 4 Arena Ultimax | BLUS31469 | none | unknown | missing | pending | unverified |
-| F1 2014 | BLUS31471 | none | unknown | missing | pending | unverified |
-| F1 2014 | BLUS31472 | none | unknown | missing | pending | unverified |
-| LEGO Dimensions | BLUS31473 | none | unknown | missing | pending | unverified |
-| Tokyo Twilight Ghost Hunters | BLUS31474 | none | unknown | missing | pending | unverified |
-| Tears to Tiara II: Heir of the Overlord | BLUS31476 | none | unknown | missing | pending | unverified |
-| Ar nosurge: Ode to an Unborn Star | BLUS31478 | none | unknown | missing | pending | unverified |
-| PES 2015: Pro Evolution Soccer | BLUS31480 | none | unknown | missing | pending | unverified |
-| Assassin's Creed: The Americas Collection | BLUS31483 | none | unknown | missing | pending | unverified |
-| The Walking Dead: Season Two: A Telltale Games Series | BLUS31488 | none | unknown | missing | pending | unverified |
-| The Wolf Among Us: A Telltale Games Series | BLUS31489 | none | unknown | missing | pending | unverified |
-| Under Night In-Birth: Exe:Late | BLUS31490 | none | unknown | missing | pending | unverified |
-| Metal Gear Solid V: The Phantom Pain | BLUS31491 | none | unknown | missing | pending | unverified |
-| MXGP: The Official Motocross Videogame | BLUS31493 | none | unknown | missing | pending | unverified |
-| MotoGP 14 | BLUS31494 | none | unknown | missing | pending | unverified |
-| Saints Row: Gat out of Hell | BLUS31496 | none | unknown | missing | pending | unverified |
-| BioShock Infinite: The Complete Edition | BLUS31497 | none | unknown | missing | pending | unverified |
-| Farming Simulator 15 | BLUS31498 | none | unknown | missing | pending | unverified |
-| The Awakened Fate Ultimatum | BLUS31500 | none | unknown | missing | pending | unverified |
-| Retro City Rampage DX | BLUS31505 | none | unknown | missing | pending | unverified |
-| Rugby 15 | BLUS31506 | none | unknown | missing | pending | unverified |
-| Dragon Ball Xenoverse | BLUS31507 | none | unknown | missing | pending | unverified |
+| Aquapazza: Aquaplus Dream Match | BLUS31321 | none | unknown | ambiguous_match | pending | unverified |
+| PES 2014: Pro Evolution Soccer | BLUS31322 | none | unknown | ambiguous_match | pending | unverified |
+| Transformers: Rise of the Dark Spark | BLUS31324 | 136649 | exact | validated | approved | approved |
+| Madden NFL 25 | BLUS31345 | none | unknown | ambiguous_match | pending | unverified |
+| Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst | BLUS31350 | 141368 | exact | validated | approved | approved |
+| Os Cavaleiros do Zodíaco: Bravos Soldados | BLUS31357 | none | unknown | ambiguous_match | pending | unverified |
+| Injustice: Gods Among Us: Ultimate Edition | BLUS31364 | 180357 | exact | validated | approved | approved |
+| XBlaze: Code: Embryo | BLUS31367 | 318034 | exact | validated | approved | approved |
+| Disney DuckTales: Remastered | BLUS31368 | none | unknown | ambiguous_match | pending | unverified |
+| Metal Gear Solid V: Ground Zeroes | BLUS31369 | 193725 | exact | validated | approved | approved |
+| The LEGO Movie: Videogame | BLUS31373 | 568602 | exact | validated | approved | approved |
+| The Evil Within | BLUS31374 | 241472 | exact | validated | approved | approved |
+| The Walking Dead: A Telltale Games Series: Game of the Year Edition | BLUS31377 | none | unknown | ambiguous_match | pending | unverified |
+| NASCAR '14 | BLUS31378 | 359424 | exact | validated | approved | approved |
+| Farming Simulator | BLUS31381 | none | unknown | ambiguous_match | pending | unverified |
+| Castlevania: Lords of Shadow | BLUS31382 | 193986 | exact | validated | approved | approved |
+| Worms: The Revolution Collection | BLUS31385 | none | unknown | ambiguous_match | pending | unverified |
+| Ragnarok Odyssey ACE | BLUS31386 | 774101 | exact | validated | approved | approved |
+| Rambo: The Video Game | BLUS31387 | 370985 | exact | validated | approved | approved |
+| DreamWorks How to Train Your Dragon 2 | BLUS31388 | none | unknown | ambiguous_match | pending | unverified |
+| 2014 FIFA World Cup Brazil | BLUS31389 | 155222 | exact | validated | approved | approved |
+| Copa do Mundo da FIFA Brasil 2014 | BLUS31390 | none | unknown | ambiguous_match | pending | unverified |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky | BLUS31391 | none | unknown | ambiguous_match | pending | unverified |
+| LEGO The Hobbit | BLUS31392 | 165543 | exact | validated | approved | approved |
+| Far Cry Compilation | BLUS31393 | none | unknown | ambiguous_match | pending | unverified |
+| Deception IV: Blood Ties | BLUS31396 | 149808 | exact | validated | approved | approved |
+| Tales of Xillia 2 | BLUS31397 | 151097 | exact | validated | approved | approved |
+| Sniper Elite III | BLUS31401 | 550209 | exact | validated | approved | approved |
+| Dynasty Warriors 8: Xtreme Legends | BLUS31402 | none | unknown | ambiguous_match | pending | unverified |
+| JoJo's Bizarre Adventure: All Star Battle | BLUS31405 | none | exact | missing_square | pending | unverified |
+| Plants vs. Zombies: Garden Warfare | BLUS31410 | 165563 | exact | validated | approved | approved |
+| Bound by Flame | BLUS31411 | 141104 | exact | validated | approved | approved |
+| Sherlock Holmes: Crimes & Punishments | BLUS31412 | 140703 | exact | validated | approved | approved |
+| Saints Row IV: National Treasure Edition | BLUS31416 | none | unknown | ambiguous_match | pending | unverified |
+| Mugen Souls Z | BLUS31417 | 851990 | exact | validated | approved | approved |
+| Disney Infinity 2.0 Edition | BLUS31418 | none | unknown | ambiguous_match | pending | unverified |
+| Far Cry 4 | BLUS31420 | 384513 | exact | validated | approved | approved |
+| Naruto Shippuden: Ultimate Ninja Storm Revolution | BLUS31421 | 509842 | exact | validated | approved | approved |
+| Fairy Fencer F | BLUS31423 | 333889 | exact | validated | approved | approved |
+| Arcana Heart 3: Love Max!!!!! | BLUS31424 | 818704 | exact | validated | approved | approved |
+| Akiba's Trip: Undead & Undressed | BLUS31425 | 235216 | exact | validated | approved | approved |
+| Minecraft: PlayStation 3 Edition | BLUS31426 | 303594 | exact | validated | approved | approved |
+| One Piece: Unlimited World Red | BLUS31427 | none | exact | missing_square | pending | unverified |
+| Madden NFL 15 | BLUS31428 | 801295 | exact | validated | approved | approved |
+| Syberia Collection | BLUS31429 | none | unknown | ambiguous_match | pending | unverified |
+| Hatsune Miku: Project Diva F 2nd | BLUS31431 | 244317 | exact | validated | approved | approved |
+| Risen 3: Titan Lords | BLUS31432 | 140134 | exact | validated | approved | approved |
+| Escape Dead Island | BLUS31433 | 246946 | exact | validated | approved | approved |
+| LEGO Batman 3: Beyond Gotham | BLUS31434 | 337065 | exact | validated | approved | approved |
+| Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze | BLUS31435 | none | unknown | ambiguous_match | pending | unverified |
+| NHL 15 | BLUS31436 | 801296 | exact | validated | approved | approved |
+| Diablo III: Reaper of Souls: Ultimate Evil Edition | BLUS31437 | none | unknown | ambiguous_match | pending | unverified |
+| Diablo III: Reaper of Souls: Ultimate Evil Edition | BLUS31438 | none | unknown | ambiguous_match | pending | unverified |
+| Battlefield Hardline | BLUS31440 | 417557 | exact | validated | approved | approved |
+| Digimon All-Star Rumble | BLUS31441 | 228014 | exact | validated | approved | approved |
+| Skylanders: Trap Team | BLUS31442 | 418974 | exact | validated | approved | approved |
+| FIFA 15 | BLUS31443 | 151909 | exact | validated | approved | approved |
+| Resident Evil: Revelations 2 | BLUS31444 | 136561 | exact | validated | approved | approved |
+| Borderlands: The Pre-Sequel! | BLUS31445 | 193710 | exact | validated | approved | approved |
+| Tales of Xillia 2 | BLUS31447 | 151097 | exact | validated | approved | approved |
+| Duck Dynasty | BLUS31448 | none | exact | missing_square | pending | unverified |
+| Atelier Rorona Plus: The Alchemist of Arland | BLUS31449 | none | unknown | ambiguous_match | pending | unverified |
+| Adventure Time: The Secret of the Nameless Kingdom | BLUS31450 | 444821 | exact | validated | approved | approved |
+| Grid Autosport | BLUS31452 | 137368 | exact | validated | approved | approved |
+| Natural Doctrine | BLUS31453 | none | exact | missing_square | pending | unverified |
+| Just Dance 2015 | BLUS31454 | 590991 | exact | validated | approved | approved |
+| MX vs. ATV Supercross | BLUS31455 | none | unknown | ambiguous_match | pending | unverified |
+| NBA 2K15 | BLUS31456 | 139669 | exact | validated | approved | approved |
+| FIFA 15 | BLUS31457 | 151909 | exact | validated | approved | approved |
+| Pac-Man and the Ghostly Adventures 2 | BLUS31458 | 156779 | exact | validated | approved | approved |
+| Terra-Média: Sombras de Mordor | BLUS31459 | none | unknown | ambiguous_match | pending | unverified |
+| Kingdom Hearts: HD 2.5 ReMIX | BLUS31460 | 342369 | exact | validated | approved | approved |
+| Class of Heroes 2G | BLUS31461 | none | exact | missing_square | pending | unverified |
+| WWE 2K15 | BLUS31464 | 254569 | exact | validated | approved | approved |
+| Assassin's Creed: Rogue | BLUS31465 | 193701 | exact | validated | approved | approved |
+| Call of Duty: Advanced Warfare | BLUS31466 | 136204 | exact | validated | approved | approved |
+| Guilty Gear Xrd: Sign | BLUS31467 | 141099 | exact | validated | approved | approved |
+| The Voice: I Want You | BLUS31468 | 393045 | exact | validated | approved | approved |
+| Persona 4 Arena Ultimax | BLUS31469 | 144841 | exact | validated | approved | approved |
+| F1 2014 | BLUS31471 | 270716 | exact | validated | approved | approved |
+| F1 2014 | BLUS31472 | 270716 | exact | validated | approved | approved |
+| LEGO Dimensions | BLUS31473 | 497561 | exact | validated | approved | approved |
+| Tokyo Twilight Ghost Hunters | BLUS31474 | none | unknown | ambiguous_match | pending | unverified |
+| Tears to Tiara II: Heir of the Overlord | BLUS31476 | 255147 | exact | validated | approved | approved |
+| Ar nosurge: Ode to an Unborn Star | BLUS31478 | none | unknown | ambiguous_match | pending | unverified |
+| PES 2015: Pro Evolution Soccer | BLUS31480 | none | unknown | ambiguous_match | pending | unverified |
+| Assassin's Creed: The Americas Collection | BLUS31483 | none | unknown | ambiguous_match | pending | unverified |
+| The Walking Dead: Season Two: A Telltale Games Series | BLUS31488 | none | unknown | ambiguous_match | pending | unverified |
+| The Wolf Among Us: A Telltale Games Series | BLUS31489 | none | unknown | ambiguous_match | pending | unverified |
+| Under Night In-Birth: Exe:Late | BLUS31490 | 142420 | exact | validated | approved | approved |
+| Metal Gear Solid V: The Phantom Pain | BLUS31491 | 138798 | exact | validated | approved | approved |
+| MXGP: The Official Motocross Videogame | BLUS31493 | 580692 | exact | validated | approved | approved |
+| MotoGP 14 | BLUS31494 | none | exact | missing_square | pending | unverified |
+| Saints Row: Gat out of Hell | BLUS31496 | 143165 | exact | validated | approved | approved |
+| BioShock Infinite: The Complete Edition | BLUS31497 | none | unknown | ambiguous_match | pending | unverified |
+| Farming Simulator 15 | BLUS31498 | none | exact | missing_square | pending | unverified |
+| The Awakened Fate Ultimatum | BLUS31500 | none | exact | missing_square | pending | unverified |
+| Retro City Rampage DX | BLUS31505 | 140770 | exact | validated | approved | approved |
+| Rugby 15 | BLUS31506 | none | exact | missing_square | pending | unverified |
+| Dragon Ball Xenoverse | BLUS31507 | 229014 | exact | validated | approved | approved |
 | Motorcycle Club | BLUS31508 | none | unknown | missing | pending | unverified |
 | WRC 4: FIA World Rally Championship | BLUS31509 | none | unknown | missing | pending | unverified |
 | BlazBlue: Chrono Phantasma Extend | BLUS31513 | none | unknown | missing | pending | unverified |
