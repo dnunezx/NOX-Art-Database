@@ -2,37 +2,17 @@
   {
     "title_id": "BCUS00236",
     "title": "MLB 15: The Show",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BCUS01089",
     "title": "MLB The Show 16",
-    "status": "missing"
-  },
-  {
-    "title_id": "BCUS81138",
-    "title": "LittleBigPlanet 3",
-    "status": "missing"
-  },
-  {
-    "title_id": "BCUS90142",
-    "title": "Mercenaries 2: World in Flames",
-    "status": "missing"
-  },
-  {
-    "title_id": "BCUS90143",
-    "title": "Tomb Raider: Underworld",
-    "status": "missing"
-  },
-  {
-    "title_id": "BCUS90162",
-    "title": "Call of Duty: Black Ops",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BCUS90190",
     "title": "The Ico & Shadow of the Colossus Collection",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BCUS90259",
@@ -2502,656 +2482,366 @@
   {
     "title_id": "BLUS31321",
     "title": "Aquapazza: Aquaplus Dream Match",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31322",
     "title": "PES 2014: Pro Evolution Soccer",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31345",
     "title": "Madden NFL 25",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31357",
     "title": "Os Cavaleiros do Zodíaco: Bravos Soldados",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31368",
     "title": "Disney DuckTales: Remastered",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31377",
     "title": "The Walking Dead: A Telltale Games Series: Game of the Year Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31381",
     "title": "Farming Simulator",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31385",
     "title": "Worms: The Revolution Collection",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31388",
     "title": "DreamWorks How to Train Your Dragon 2",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31390",
     "title": "Copa do Mundo da FIFA Brasil 2014",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31391",
     "title": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31393",
     "title": "Far Cry Compilation",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31402",
     "title": "Dynasty Warriors 8: Xtreme Legends",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31405",
     "title": "JoJo's Bizarre Adventure: All Star Battle",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31416",
     "title": "Saints Row IV: National Treasure Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31418",
     "title": "Disney Infinity 2.0 Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31427",
     "title": "One Piece: Unlimited World Red",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31429",
     "title": "Syberia Collection",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31435",
     "title": "Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31437",
     "title": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31438",
     "title": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31448",
     "title": "Duck Dynasty",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31449",
     "title": "Atelier Rorona Plus: The Alchemist of Arland",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31453",
     "title": "Natural Doctrine",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31455",
     "title": "MX vs. ATV Supercross",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31459",
     "title": "Terra-Média: Sombras de Mordor",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31461",
     "title": "Class of Heroes 2G",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31474",
     "title": "Tokyo Twilight Ghost Hunters",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31478",
     "title": "Ar nosurge: Ode to an Unborn Star",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31480",
     "title": "PES 2015: Pro Evolution Soccer",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31483",
     "title": "Assassin's Creed: The Americas Collection",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31488",
     "title": "The Walking Dead: Season Two: A Telltale Games Series",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31489",
     "title": "The Wolf Among Us: A Telltale Games Series",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31494",
     "title": "MotoGP 14",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31497",
     "title": "BioShock Infinite: The Complete Edition",
-    "status": "ambiguous_match"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31498",
     "title": "Farming Simulator 15",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31500",
     "title": "The Awakened Fate Ultimatum",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31506",
     "title": "Rugby 15",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS31508",
     "title": "Motorcycle Club",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31509",
-    "title": "WRC 4: FIA World Rally Championship",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS31513",
     "title": "BlazBlue: Chrono Phantasma Extend",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31515",
-    "title": "Dragon Age: Inquisition",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31516",
     "title": "Falling Skies: The Game",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31518",
-    "title": "LEGO Jurassic World",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31519",
-    "title": "J-Stars Victory Vs+",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31520",
-    "title": "Teslagrad",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31521",
-    "title": "Madden NFL 16",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS31522",
     "title": "Disney Infinity 3.0 Edition",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31523",
-    "title": "XBlaze: Lost: Memories",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS31525",
     "title": "Atelier Shallie: Alchemists of the Dusk Sea",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31526",
-    "title": "Adventure Time: Finn & Jake Investigations",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31527",
-    "title": "Call of Duty: Black Ops III",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31528",
-    "title": "Dark Souls II: Scholar of the First Sin",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31531",
     "title": "DreamWorks Kung Fu Panda: Showdown of Legendary Legends",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31532",
     "title": "Sniper Elite III: Ultimate Edition",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31533",
-    "title": "Tales of Zestiria",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31535",
-    "title": "Dengeki Bunko: Fighting Climax",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31536",
-    "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31537",
-    "title": "Terraria",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31538",
-    "title": "Steins;Gate",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31539",
-    "title": "Battlefield Hardline",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31540",
-    "title": "NHL Legacy Edition",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31542",
-    "title": "NBA 2K16",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31543",
-    "title": "FIFA 16",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31545",
-    "title": "Skylanders: SuperChargers",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31549",
-    "title": "WRC 5",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31550",
     "title": "LEGO Marvel Avengers",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31551",
     "title": "Ultimate Action Triple Pack",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31552",
     "title": "Ultimate Stealth Triple Pack",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31553",
-    "title": "FIFA 16",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31554",
-    "title": "Lost Dimension",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31556",
-    "title": "Guitar Hero Live",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31558",
-    "title": "Just Dance 2016",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31559",
     "title": "Os Cavaleiros do Zodíaco: Alma dos Soldados",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31560",
     "title": "NASCAR '15",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31561",
     "title": "Final Fantasy XIV Online: The Complete Experience",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31562",
     "title": "Final Fantasy XIV Online: Heavensward",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31563",
     "title": "Barbie & Her Sisters: Puppy Rescue",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS31564",
     "title": "PES 2016: Pro Evolution Soccer",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31565",
-    "title": "WWE 2K16",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31566",
-    "title": "Transformers: Devastation",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31568",
-    "title": "Tony Hawk's Pro Skater 5",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31570",
-    "title": "Adam's Venture: Chronicles",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31571",
-    "title": "Monster High: New Ghoul in School",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31572",
-    "title": "The Legend of Heroes: Trails of Cold Steel",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31576",
-    "title": "The Jackbox Party Pack",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31577",
     "title": "The Disgaea Triple Play Collection",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31578",
-    "title": "LEGO Star Wars: The Force Awakens",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31579",
-    "title": "Minecraft: Story Mode: A Telltale Games Series",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31580",
-    "title": "NASCAR '15: Victory Edition",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31581",
     "title": "The Arland Atelier Trilogy",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31582",
-    "title": "Game of Thrones: A Telltale Games Series",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31584",
-    "title": "Grand Theft Auto: San Andreas",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31586",
-    "title": "Tales from the Borderlands",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31587",
-    "title": "Aegis of Earth: Protonovus Assault",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31588",
     "title": "Guilty Gear Xrd: Revelator",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31589",
-    "title": "Madden NFL 17",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31591",
     "title": "BlazBlue: Central Fiction",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31593",
-    "title": "FIFA 17",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31594",
-    "title": "FIFA 17",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31595",
-    "title": "Just Dance 2017",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31597",
-    "title": "The Legend of Heroes: Trails of Cold Steel II",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31598",
     "title": "PES 2017: Pro Evolution Soccer",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31599",
-    "title": "WWE 2K17",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31600",
-    "title": "Skylanders: Imaginators",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31601",
-    "title": "Odin Sphere: Leifthrasir",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31602",
-    "title": "NBA 2K17",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31604",
-    "title": "Persona 5",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31605",
-    "title": "Batman: The Telltale Series",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31606",
     "title": "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31608",
     "title": "Disney/Pixar Cars 3: Driven to Win",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31610",
     "title": "FIFA 18: Legacy Edition",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31611",
-    "title": "FIFA 18",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31612",
     "title": "PES 2018: Pro Evolution Soccer",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31613",
-    "title": "Just Dance 2018",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31614",
-    "title": "NBA 2K18",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31616",
     "title": "FIFA 19: Legacy Edition",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31617",
     "title": "FIFA 19: Legacy Edition",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31620",
-    "title": "Oddworld: Stranger's Wrath HD",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS31621",
     "title": "Oddworld: Abe's Oddysee: New 'n' Tasty!",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS31622",
-    "title": "Shakedown: Hawaii",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS41022",
     "title": "Sniper Elite V2: Silver Star Edition",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS41028",
     "title": "Metal Gear Solid: The Legacy Collection 1987-2012 (Disc 2)",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS41038",
     "title": "Dishonored: Game of the Year Edition",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS41042",
     "title": "Magus",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS41044",
-    "title": "The Amazing Spider-Man 2",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS41045",
-    "title": "Dark Souls II",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS41046",
     "title": "Borderlands 2: Game of the Year Edition (Add-On Disc)",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS82012",
     "title": "Borderlands Triple Pack (Gameplay Disc)",
-    "status": "missing"
+    "status": "ambiguous_match"
   },
   {
     "title_id": "BLUS82013",
     "title": "Borderlands Triple Pack (Add-On Installation Disc)",
-    "status": "missing"
-  },
-  {
-    "title_id": "BLUS90262",
-    "title": "GoldenEye 007: Reloaded",
-    "status": "missing"
+    "status": "ambiguous_match"
   }
 ]

@@ -5,6 +5,10 @@ Original creators, contributors and game publishers retain their rights.
 
 | PS3 Title ID | Game | Contributor | SteamGridDB asset |
 |---|---|---|---|
+| BCUS81138 | LittleBigPlanet 3 | Varimarthas | [#165200](https://www.steamgriddb.com/grid/165200) |
+| BCUS90142 | Mercenaries 2: World in Flames | mr.empacotado | [#854446](https://www.steamgriddb.com/grid/854446) |
+| BCUS90143 | Tomb Raider: Underworld | HitAgent | [#800711](https://www.steamgriddb.com/grid/800711) |
+| BCUS90162 | Call of Duty: Black Ops | ParsaMON | [#352797](https://www.steamgriddb.com/grid/352797) |
 | BCUS98111 | God of War III | Prabhjot19 | [#263645](https://www.steamgriddb.com/grid/263645) |
 | BCUS98123 | Uncharted 2: Among Thieves | Timberfang | [#137325](https://www.steamgriddb.com/grid/137325) |
 | BCUS98148 | LittleBigPlanet | Shiios42 | [#238018](https://www.steamgriddb.com/grid/238018) |
@@ -612,3 +616,61 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS31496 | Saints Row: Gat out of Hell | flamepanther | [#143165](https://www.steamgriddb.com/grid/143165) |
 | BLUS31505 | Retro City Rampage DX | flamepanther | [#140770](https://www.steamgriddb.com/grid/140770) |
 | BLUS31507 | Dragon Ball Xenoverse | Kynd | [#229014](https://www.steamgriddb.com/grid/229014) |
+| BLUS31509 | WRC 4: FIA World Rally Championship | Purgenta | [#225858](https://www.steamgriddb.com/grid/225858) |
+| BLUS31515 | Dragon Age: Inquisition | TheKersalMassive | [#193720](https://www.steamgriddb.com/grid/193720) |
+| BLUS31518 | LEGO Jurassic World | cking | [#336870](https://www.steamgriddb.com/grid/336870) |
+| BLUS31519 | J-Stars Victory Vs+ | ScarletteSkunk | [#526516](https://www.steamgriddb.com/grid/526516) |
+| BLUS31520 | Teslagrad | Neuropod | [#426395](https://www.steamgriddb.com/grid/426395) |
+| BLUS31521 | Madden NFL 16 | Hamid | [#801332](https://www.steamgriddb.com/grid/801332) |
+| BLUS31523 | XBlaze: Lost: Memories | effcol | [#385006](https://www.steamgriddb.com/grid/385006) |
+| BLUS31526 | Adventure Time: Finn & Jake Investigations | Neuropod | [#484735](https://www.steamgriddb.com/grid/484735) |
+| BLUS31527 | Call of Duty: Black Ops III | Mingebag | [#417520](https://www.steamgriddb.com/grid/417520) |
+| BLUS31528 | Dark Souls II: Scholar of the First Sin | CluckenDip | [#136158](https://www.steamgriddb.com/grid/136158) |
+| BLUS31533 | Tales of Zestiria | CriticalComposer | [#139284](https://www.steamgriddb.com/grid/139284) |
+| BLUS31535 | Dengeki Bunko: Fighting Climax | Plague | [#774527](https://www.steamgriddb.com/grid/774527) |
+| BLUS31536 | Teenage Mutant Ninja Turtles: Mutants in Manhattan | Samcrossette | [#748461](https://www.steamgriddb.com/grid/748461) |
+| BLUS31537 | Terraria | Kam | [#137692](https://www.steamgriddb.com/grid/137692) |
+| BLUS31538 | Steins;Gate | Devin | [#160838](https://www.steamgriddb.com/grid/160838) |
+| BLUS31539 | Battlefield Hardline | Mingebag | [#417557](https://www.steamgriddb.com/grid/417557) |
+| BLUS31540 | NHL Legacy Edition | Hamid | [#801294](https://www.steamgriddb.com/grid/801294) |
+| BLUS31542 | NBA 2K16 | Varimarthas | [#165623](https://www.steamgriddb.com/grid/165623) |
+| BLUS31543 | FIFA 16 | Varimarthas | [#165219](https://www.steamgriddb.com/grid/165219) |
+| BLUS31545 | Skylanders: SuperChargers | GoahSparky | [#657769](https://www.steamgriddb.com/grid/657769) |
+| BLUS31549 | WRC 5 | cca_jp | [#359427](https://www.steamgriddb.com/grid/359427) |
+| BLUS31553 | FIFA 16 | Varimarthas | [#165219](https://www.steamgriddb.com/grid/165219) |
+| BLUS31554 | Lost Dimension | Plague | [#773988](https://www.steamgriddb.com/grid/773988) |
+| BLUS31556 | Guitar Hero Live | Imatination | [#378602](https://www.steamgriddb.com/grid/378602) |
+| BLUS31558 | Just Dance 2016 | Plague | [#590978](https://www.steamgriddb.com/grid/590978) |
+| BLUS31565 | WWE 2K16 | Shiios42 | [#254566](https://www.steamgriddb.com/grid/254566) |
+| BLUS31566 | Transformers: Devastation | fia | [#567700](https://www.steamgriddb.com/grid/567700) |
+| BLUS31568 | Tony Hawk's Pro Skater 5 | Gector(lint)Nathan | [#742199](https://www.steamgriddb.com/grid/742199) |
+| BLUS31570 | Adam's Venture: Chronicles | Neuropod | [#372226](https://www.steamgriddb.com/grid/372226) |
+| BLUS31571 | Monster High: New Ghoul in School | ScarletteSkunk | [#523041](https://www.steamgriddb.com/grid/523041) |
+| BLUS31572 | The Legend of Heroes: Trails of Cold Steel | regehman | [#146937](https://www.steamgriddb.com/grid/146937) |
+| BLUS31576 | The Jackbox Party Pack | HexDawn | [#444942](https://www.steamgriddb.com/grid/444942) |
+| BLUS31578 | LEGO Star Wars: The Force Awakens | SirYodaJedi | [#139430](https://www.steamgriddb.com/grid/139430) |
+| BLUS31579 | Minecraft: Story Mode: A Telltale Games Series | FrostGamer98 | [#158306](https://www.steamgriddb.com/grid/158306) |
+| BLUS31580 | NASCAR '15: Victory Edition | cca_jp | [#359441](https://www.steamgriddb.com/grid/359441) |
+| BLUS31582 | Game of Thrones: A Telltale Games Series | Comcord | [#168272](https://www.steamgriddb.com/grid/168272) |
+| BLUS31584 | Grand Theft Auto: San Andreas | Omnix_01 | [#169714](https://www.steamgriddb.com/grid/169714) |
+| BLUS31586 | Tales from the Borderlands | Varimarthas | [#165652](https://www.steamgriddb.com/grid/165652) |
+| BLUS31587 | Aegis of Earth: Protonovus Assault | Arikado1476 | [#678333](https://www.steamgriddb.com/grid/678333) |
+| BLUS31589 | Madden NFL 17 | Hamid | [#801297](https://www.steamgriddb.com/grid/801297) |
+| BLUS31593 | FIFA 17 | itsteddyyo | [#151911](https://www.steamgriddb.com/grid/151911) |
+| BLUS31594 | FIFA 17 | itsteddyyo | [#151911](https://www.steamgriddb.com/grid/151911) |
+| BLUS31595 | Just Dance 2017 | Plague | [#590974](https://www.steamgriddb.com/grid/590974) |
+| BLUS31597 | The Legend of Heroes: Trails of Cold Steel II | regehman | [#148575](https://www.steamgriddb.com/grid/148575) |
+| BLUS31599 | WWE 2K17 | Shiios42 | [#254570](https://www.steamgriddb.com/grid/254570) |
+| BLUS31600 | Skylanders: Imaginators | GoahSparky | [#657770](https://www.steamgriddb.com/grid/657770) |
+| BLUS31601 | Odin Sphere: Leifthrasir | riefu24 | [#170154](https://www.steamgriddb.com/grid/170154) |
+| BLUS31602 | NBA 2K17 | mendihoza | [#270985](https://www.steamgriddb.com/grid/270985) |
+| BLUS31604 | Persona 5 | Comcord | [#166622](https://www.steamgriddb.com/grid/166622) |
+| BLUS31605 | Batman: The Telltale Series | Varimarthas | [#165613](https://www.steamgriddb.com/grid/165613) |
+| BLUS31611 | FIFA 18 | itsteddyyo | [#151912](https://www.steamgriddb.com/grid/151912) |
+| BLUS31613 | Just Dance 2018 | Plague | [#590999](https://www.steamgriddb.com/grid/590999) |
+| BLUS31614 | NBA 2K18 | mendihoza | [#270988](https://www.steamgriddb.com/grid/270988) |
+| BLUS31620 | Oddworld: Stranger's Wrath HD | flamepanther | [#156794](https://www.steamgriddb.com/grid/156794) |
+| BLUS31622 | Shakedown: Hawaii | WeaponPC | [#139697](https://www.steamgriddb.com/grid/139697) |
+| BLUS41044 | The Amazing Spider-Man 2 | boubou | [#167739](https://www.steamgriddb.com/grid/167739) |
+| BLUS41045 | Dark Souls II | TytusV2 | [#675097](https://www.steamgriddb.com/grid/675097) |
+| BLUS90262 | GoldenEye 007: Reloaded | FrostWolf | [#148185](https://www.steamgriddb.com/grid/148185) |

@@ -21552,5 +21552,2768 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31513",
+    "title": "BlazBlue: Chrono Phantasma Extend",
+    "candidates": [
+      {
+        "id": 8514,
+        "name": "BlazBlue: Chronophantasma Extend",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1456905600
+      },
+      {
+        "id": 5358741,
+        "name": "BlazBlue: Chrono Phantasma",
+        "verified": true,
+        "types": [],
+        "release_date": 1353456000
+      },
+      {
+        "id": 3421,
+        "name": "BlazBlue: Calamity Trigger",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1392278400
+      },
+      {
+        "id": 4376,
+        "name": "BlazBlue: Continuum Shift Extend",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1418284800
+      },
+      {
+        "id": 16497,
+        "name": "BlazBlue Centralfiction",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1493190000
+      },
+      {
+        "id": 21330,
+        "name": "BlazBlue Cross Tag Battle",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1528210320
+      },
+      {
+        "id": 37991,
+        "name": "Blazblue: Continuum Shift II",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5260191,
+        "name": "Blazblue: Continuum Shift",
+        "verified": true,
+        "types": [],
+        "release_date": 1258675200
+      },
+      {
+        "id": 5380560,
+        "name": "BlazBlue: Entropy Effect",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1692057600
+      },
+      {
+        "id": 5439507,
+        "name": "BlazBlue: Calamity Trigger Portable",
+        "verified": true,
+        "types": [],
+        "release_date": 1268179200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31525",
+    "title": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "candidates": [
+      {
+        "id": 5253495,
+        "name": "Atelier Shallie: Alchemists of the Dusk Sea DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1578989002
+      },
+      {
+        "id": 14082,
+        "name": "Atelier Sophie: The Alchemist of the Mysterious Book",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1486466400
+      },
+      {
+        "id": 14084,
+        "name": "Atelier Firis: The Alchemist and the Mysterious Journey",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1488909720
+      },
+      {
+        "id": 23651,
+        "name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Painting",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1522137082
+      },
+      {
+        "id": 31243,
+        "name": "Atelier Rorona: The Alchemist of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 31245,
+        "name": "Atelier Totori: The Adventurer of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 31246,
+        "name": "Atelier Meruru: The Apprentice of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 35724,
+        "name": "Atelier Iris: Eternal Mana",
+        "verified": true,
+        "types": [],
+        "release_date": 1085616000
+      },
+      {
+        "id": 37856,
+        "name": "Atelier Iris 2: The Azoth of Destiny",
+        "verified": true,
+        "types": [],
+        "release_date": 1117065600
+      },
+      {
+        "id": 38714,
+        "name": "Atelier Iris 3: Grand Phantasm",
+        "verified": true,
+        "types": [],
+        "release_date": 1151539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31531",
+    "title": "DreamWorks Kung Fu Panda: Showdown of Legendary Legends",
+    "candidates": [
+      {
+        "id": 20963,
+        "name": "DreamWorks Voltron VR Chronicles",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1506436125
+      },
+      {
+        "id": 29702,
+        "name": "DreamWorks Dragons: Dawn of New Riders",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550217780
+      },
+      {
+        "id": 5280241,
+        "name": "DreamWorks Spirit: Lucky's Big Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1622505600
+      },
+      {
+        "id": 5329387,
+        "name": "DreamWorks Dragons: Legends of The Nine Realms",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1663891200
+      },
+      {
+        "id": 5333829,
+        "name": "DreamWorks Super Star Kartz",
+        "verified": true,
+        "types": [],
+        "release_date": 1321315200
+      },
+      {
+        "id": 5433032,
+        "name": "DreamWorks Trolls Remix Rescue",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698364800
+      },
+      {
+        "id": 5433525,
+        "name": "DreamWorks All-Star Kart Racing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1698969600
+      },
+      {
+        "id": 5475509,
+        "name": "DreamWorks Dragons: Wild Skies",
+        "verified": true,
+        "types": [],
+        "release_date": 1346025600
+      },
+      {
+        "id": 5495915,
+        "name": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1758240000
+      },
+      {
+        "id": 5413295,
+        "name": "KILLING DREAMWORKS",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1691539200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31532",
+    "title": "Sniper Elite III: Ultimate Edition",
+    "candidates": [
+      {
+        "id": 2689,
+        "name": "Sniper Elite 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1403855940
+      },
+      {
+        "id": 5254325,
+        "name": "Sniper Elite 3 Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 7651,
+        "name": "Sniper Elite",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1129618800
+      },
+      {
+        "id": 2436,
+        "name": "Sniper Elite: Nazi Zombie Army",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1362009600
+      },
+      {
+        "id": 2635,
+        "name": "Sniper Elite: Zombie Army",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 2937,
+        "name": "Sniper Elite: Nazi Zombie Army 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1383238800
+      },
+      {
+        "id": 2938,
+        "name": "Sniper Elite: Zombie Army 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1389632880
+      },
+      {
+        "id": 5049,
+        "name": "Sniper Elite 4",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1487030400
+      },
+      {
+        "id": 18292,
+        "name": "Sniper Elite V2",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin",
+          "eshop"
+        ],
+        "release_date": 1335744000
+      },
+      {
+        "id": 3338515,
+        "name": "Sniper Elite V2 Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1557792000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31550",
+    "title": "LEGO Marvel Avengers",
+    "candidates": [
+      {
+        "id": 9243,
+        "name": "LEGO Marvel's Avengers",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1453830600
+      },
+      {
+        "id": 2976,
+        "name": "LEGO Marvel Super Heroes",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin",
+          "eshop"
+        ],
+        "release_date": 1382400000
+      },
+      {
+        "id": 18699,
+        "name": "LEGO Marvel Super Heroes 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1510682400
+      },
+      {
+        "id": 5495836,
+        "name": "LEGO Marvel Super Heroes: Universe in Peril",
+        "verified": true,
+        "types": [],
+        "release_date": 1384473600
+      },
+      {
+        "id": 1677,
+        "name": "LEGO Star Wars: The Video Game",
+        "verified": true,
+        "types": [],
+        "release_date": 1112054400
+      },
+      {
+        "id": 1808,
+        "name": "LEGO Harry Potter: Years 5-7",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin"
+        ],
+        "release_date": 1325721600
+      },
+      {
+        "id": 1996,
+        "name": "LEGO Batman: The Videogame",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin",
+          "egs"
+        ],
+        "release_date": 1223665200
+      },
+      {
+        "id": 2030,
+        "name": "LEGO Harry Potter: Years 1-4",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin"
+        ],
+        "release_date": 1277424000
+      },
+      {
+        "id": 2034,
+        "name": "LEGO Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1288051200
+      },
+      {
+        "id": 2083,
+        "name": "LEGO Batman 2: DC Super Heroes",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin",
+          "egs",
+          "eshop"
+        ],
+        "release_date": 1340383860
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31551",
+    "title": "Ultimate Action Triple Pack",
+    "candidates": [
+      {
+        "id": 5454494,
+        "name": "Ultimate Action Hero",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5468948,
+        "name": "Action Replay Ultimate Codes for Use with Grand Theft Auto: San Andreas (Program)",
+        "verified": true,
+        "types": [],
+        "release_date": 1072915200
+      },
+      {
+        "id": 5468949,
+        "name": "Action Replay Ultimate Codes for Use with Grand Theft Auto: Vice City (Program)",
+        "verified": true,
+        "types": [],
+        "release_date": 1009843200
+      },
+      {
+        "id": 33,
+        "name": "Ultimate Arcade Games",
+        "verified": true,
+        "types": [],
+        "release_date": 1129507200
+      },
+      {
+        "id": 863,
+        "name": "Ultimate Fishing Simulator VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573804800
+      },
+      {
+        "id": 998,
+        "name": "Ultimate Logic Puzzle Collection",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1551405596
+      },
+      {
+        "id": 1625,
+        "name": "Ultimate Air Combat",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 4863,
+        "name": "Ultimate General: Gettysburg",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1413487496
+      },
+      {
+        "id": 6314,
+        "name": "Ultimate Space Commando",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1431460876
+      },
+      {
+        "id": 7042,
+        "name": "Ultimate Marvel vs. Capcom 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1321315200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31552",
+    "title": "Ultimate Stealth Triple Pack",
+    "candidates": [
+      {
+        "id": 5266069,
+        "name": "Stealth Combat: Ultimate War",
+        "verified": true,
+        "types": [],
+        "release_date": 1014595200
+      },
+      {
+        "id": 33,
+        "name": "Ultimate Arcade Games",
+        "verified": true,
+        "types": [],
+        "release_date": 1129507200
+      },
+      {
+        "id": 863,
+        "name": "Ultimate Fishing Simulator VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573804800
+      },
+      {
+        "id": 998,
+        "name": "Ultimate Logic Puzzle Collection",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1551405596
+      },
+      {
+        "id": 1625,
+        "name": "Ultimate Air Combat",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 4863,
+        "name": "Ultimate General: Gettysburg",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1413487496
+      },
+      {
+        "id": 6314,
+        "name": "Ultimate Space Commando",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1431460876
+      },
+      {
+        "id": 7042,
+        "name": "Ultimate Marvel vs. Capcom 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1321315200
+      },
+      {
+        "id": 7211,
+        "name": "Ultimate Tic-Tac-Toe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1430243700
+      },
+      {
+        "id": 8348,
+        "name": "Ultimate Arena",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1471890537
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31559",
+    "title": "Os Cavaleiros do Zodíaco: Alma dos Soldados",
+    "candidates": [
+      {
+        "id": 26920,
+        "name": "OS:Path",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1524174617
+      },
+      {
+        "id": 5258500,
+        "name": "OS Omega",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1587600000
+      },
+      {
+        "id": 5312218,
+        "name": "OS/2 v2.x (Operating System)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5312219,
+        "name": "OS/2 Warp v4 (Operating System)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5314925,
+        "name": "OS:Memories",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1643932800
+      },
+      {
+        "id": 5430649,
+        "name": "OS/2 Warp v3 (Operating System)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5502240,
+        "name": "OS Engine",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1756684800
+      },
+      {
+        "id": 5544684,
+        "name": "Os Segredos de Ezequiel",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 1118,
+        "name": "Bashed.os",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550044800
+      },
+      {
+        "id": 5256269,
+        "name": "Aenigma Os",
+        "verified": true,
+        "types": [
+          "eshop"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31560",
+    "title": "NASCAR '15",
+    "candidates": [
+      {
+        "id": 6500,
+        "name": "NASCAR '15 Victory Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1432289940
+      },
+      {
+        "id": 5342375,
+        "name": "NASCAR",
+        "verified": true,
+        "types": [],
+        "release_date": 1157500800
+      },
+      {
+        "id": 2396,
+        "name": "NASCAR The Game: 2013",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 3157,
+        "name": "NASCAR '14",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 13273,
+        "name": "NASCAR Heat Evolution",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1473750000
+      },
+      {
+        "id": 19766,
+        "name": "NASCAR Heat 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1505236860
+      },
+      {
+        "id": 30041,
+        "name": "NASCAR Heat 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536335844
+      },
+      {
+        "id": 33603,
+        "name": "NASCAR 2000",
+        "verified": true,
+        "types": [],
+        "release_date": 937180800
+      },
+      {
+        "id": 34172,
+        "name": "NASCAR 99",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 34211,
+        "name": "NASCAR Challenge",
+        "verified": true,
+        "types": []
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31561",
+    "title": "Final Fantasy XIV Online: The Complete Experience",
+    "candidates": [
+      {
+        "id": 8673,
+        "name": "Final Fantasy XIV Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1377302400
+      },
+      {
+        "id": 33565,
+        "name": "Final Fantasy",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 566784000
+      },
+      {
+        "id": 2504,
+        "name": "Final Fantasy XI: Ultimate Collection - Abyssea Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1305504000
+      },
+      {
+        "id": 2505,
+        "name": "Final Fantasy XI",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1021507200
+      },
+      {
+        "id": 2715,
+        "name": "Final Fantasy III (3D Remake)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1148688000
+      },
+      {
+        "id": 4268,
+        "name": "Final Fantasy XIII",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1261008000
+      },
+      {
+        "id": 4269,
+        "name": "Final Fantasy XIII-2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1323907200
+      },
+      {
+        "id": 4606,
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "verified": true,
+        "types": [],
+        "release_date": 1233187200
+      },
+      {
+        "id": 5054,
+        "name": "Final Fantasy IV (3D Remake)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1198108800
+      },
+      {
+        "id": 6204,
+        "name": "Final Fantasy Type-0 HD",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1439913600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31562",
+    "title": "Final Fantasy XIV Online: Heavensward",
+    "candidates": [
+      {
+        "id": 8673,
+        "name": "Final Fantasy XIV Online",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1377302400
+      },
+      {
+        "id": 33565,
+        "name": "Final Fantasy",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 566784000
+      },
+      {
+        "id": 2504,
+        "name": "Final Fantasy XI: Ultimate Collection - Abyssea Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1305504000
+      },
+      {
+        "id": 2505,
+        "name": "Final Fantasy XI",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1021507200
+      },
+      {
+        "id": 2715,
+        "name": "Final Fantasy III (3D Remake)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1148688000
+      },
+      {
+        "id": 4268,
+        "name": "Final Fantasy XIII",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1261008000
+      },
+      {
+        "id": 4269,
+        "name": "Final Fantasy XIII-2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1323907200
+      },
+      {
+        "id": 4606,
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "verified": true,
+        "types": [],
+        "release_date": 1233187200
+      },
+      {
+        "id": 5054,
+        "name": "Final Fantasy IV (3D Remake)",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1198108800
+      },
+      {
+        "id": 6204,
+        "name": "Final Fantasy Type-0 HD",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1439913600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31564",
+    "title": "PES 2016: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31577",
+    "title": "The Disgaea Triple Play Collection",
+    "candidates": [
+      {
+        "id": 5380794,
+        "name": "Disgaea 7: Vows of the Virtueless",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1672531200
+      },
+      {
+        "id": 5437587,
+        "name": "'the",
+        "verified": true,
+        "types": [],
+        "release_date": 1451952000
+      },
+      {
+        "id": 27,
+        "name": "The Incredible Adventures of Van Helsing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1369236840
+      },
+      {
+        "id": 35,
+        "name": "The Last Story",
+        "verified": true,
+        "types": [],
+        "release_date": 1296086400
+      },
+      {
+        "id": 47,
+        "name": "The Final Fantasy Legend",
+        "verified": true,
+        "types": [],
+        "release_date": 629683200
+      },
+      {
+        "id": 54,
+        "name": "The Movies",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1131436800
+      },
+      {
+        "id": 136,
+        "name": "The ScreaMaze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543824000
+      },
+      {
+        "id": 162,
+        "name": "The Town",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1548151236
+      },
+      {
+        "id": 193,
+        "name": "The Far Kingdoms: Elements",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546596407
+      },
+      {
+        "id": 197,
+        "name": "The Five Cores Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1564471615
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31581",
+    "title": "The Arland Atelier Trilogy",
+    "candidates": [
+      {
+        "id": 31243,
+        "name": "Atelier Rorona: The Alchemist of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 31245,
+        "name": "Atelier Totori: The Adventurer of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 31246,
+        "name": "Atelier Meruru: The Apprentice of Arland DX",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543910400
+      },
+      {
+        "id": 4888894,
+        "name": "Atelier Lulua: The Scion of Arland",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1558421760
+      },
+      {
+        "id": 5437587,
+        "name": "'the",
+        "verified": true,
+        "types": [],
+        "release_date": 1451952000
+      },
+      {
+        "id": 27,
+        "name": "The Incredible Adventures of Van Helsing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1369236840
+      },
+      {
+        "id": 35,
+        "name": "The Last Story",
+        "verified": true,
+        "types": [],
+        "release_date": 1296086400
+      },
+      {
+        "id": 47,
+        "name": "The Final Fantasy Legend",
+        "verified": true,
+        "types": [],
+        "release_date": 629683200
+      },
+      {
+        "id": 54,
+        "name": "The Movies",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1131436800
+      },
+      {
+        "id": 136,
+        "name": "The ScreaMaze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543824000
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31588",
+    "title": "Guilty Gear Xrd: Revelator",
+    "candidates": [
+      {
+        "id": 7961,
+        "name": "Guilty Gear Xrd: Sign",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1449709200
+      },
+      {
+        "id": 13811,
+        "name": "GUILTY GEAR Xrd REV 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1481727540
+      },
+      {
+        "id": 4883702,
+        "name": "Guilty Gear",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 895104000
+      },
+      {
+        "id": 3552,
+        "name": "Guilty Gear Isuka",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1150786800
+      },
+      {
+        "id": 5106,
+        "name": "Guilty Gear X2 #Reload",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1090566000
+      },
+      {
+        "id": 6644,
+        "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1432688160
+      },
+      {
+        "id": 10489,
+        "name": "Guilty Gear 2: Overture",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1459437576
+      },
+      {
+        "id": 35851,
+        "name": "Guilty Gear X: Advance Edition",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5246685,
+        "name": "Guilty Gear Dust Strikers",
+        "verified": true,
+        "types": [],
+        "release_date": 1145923200
+      },
+      {
+        "id": 5249902,
+        "name": "Guilty Gear X",
+        "verified": true,
+        "types": [],
+        "release_date": 963446400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31591",
+    "title": "BlazBlue: Central Fiction",
+    "candidates": [
+      {
+        "id": 16497,
+        "name": "BlazBlue Centralfiction",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1493190000
+      },
+      {
+        "id": 3421,
+        "name": "BlazBlue: Calamity Trigger",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1392278400
+      },
+      {
+        "id": 4376,
+        "name": "BlazBlue: Continuum Shift Extend",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1418284800
+      },
+      {
+        "id": 8514,
+        "name": "BlazBlue: Chronophantasma Extend",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1456905600
+      },
+      {
+        "id": 21330,
+        "name": "BlazBlue Cross Tag Battle",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1528210320
+      },
+      {
+        "id": 37991,
+        "name": "Blazblue: Continuum Shift II",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5260191,
+        "name": "Blazblue: Continuum Shift",
+        "verified": true,
+        "types": [],
+        "release_date": 1258675200
+      },
+      {
+        "id": 5358741,
+        "name": "BlazBlue: Chrono Phantasma",
+        "verified": true,
+        "types": [],
+        "release_date": 1353456000
+      },
+      {
+        "id": 5380560,
+        "name": "BlazBlue: Entropy Effect",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1692057600
+      },
+      {
+        "id": 5439507,
+        "name": "BlazBlue: Calamity Trigger Portable",
+        "verified": true,
+        "types": [],
+        "release_date": 1268179200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31598",
+    "title": "PES 2017: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31606",
+    "title": "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure",
+    "candidates": [
+      {
+        "id": 7979,
+        "name": "Minecraft: Story Mode - A Telltale Games Series",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "eshop"
+        ],
+        "release_date": 1444755600
+      },
+      {
+        "id": 18454,
+        "name": "Minecraft: Story Mode - Season Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1499803200
+      },
+      {
+        "id": 38365,
+        "name": "Minecraft",
+        "verified": true,
+        "types": [],
+        "release_date": 1313539200
+      },
+      {
+        "id": 34356,
+        "name": "Minecraft Wii U Edition",
+        "verified": true,
+        "types": [
+          "eshop"
+        ],
+        "release_date": 1450310400
+      },
+      {
+        "id": 39048,
+        "name": "Minecraft Technic Launcher",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5248835,
+        "name": "Minecraft: Java Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1321574400
+      },
+      {
+        "id": 5258201,
+        "name": "Minecraft Dungeons",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1630454400
+      },
+      {
+        "id": 5268164,
+        "name": "Minecraft: PlayStation 3 Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1387238400
+      },
+      {
+        "id": 5268166,
+        "name": "Minecraft: Xbox One Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1409875200
+      },
+      {
+        "id": 5268582,
+        "name": "Minecraft: Nintendo Switch Edition",
+        "verified": true,
+        "types": [],
+        "release_date": 1489190400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31608",
+    "title": "Disney/Pixar Cars 3: Driven to Win",
+    "candidates": [
+      {
+        "id": 4697,
+        "name": "Disney•Pixar Brave: The Video Game",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1340089200
+      },
+      {
+        "id": 5329555,
+        "name": "Disney-Pixar Up",
+        "verified": true,
+        "types": [],
+        "release_date": 1243296000
+      },
+      {
+        "id": 16249,
+        "name": "RUSH: A Disney • PIXAR Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1536940740
+      },
+      {
+        "id": 81,
+        "name": "Disney's Beauty and the Beast: A Board Game Adventure",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 1657,
+        "name": "Disney's Darkwing Duck",
+        "verified": true,
+        "types": [],
+        "release_date": 707356800
+      },
+      {
+        "id": 2869,
+        "name": "Disney Epic Mickey 2: The Power of Two",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1353225600
+      },
+      {
+        "id": 4086,
+        "name": "Disney Planes",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ],
+        "release_date": 1375772400
+      },
+      {
+        "id": 4704,
+        "name": "Disney Pirates of the Caribbean: At Worlds End",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1179817200
+      },
+      {
+        "id": 5201,
+        "name": "Disney Universe",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1319526000
+      },
+      {
+        "id": 5278,
+        "name": "Disney Fairies: Tinker Bell's Adventure",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412611200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31610",
+    "title": "FIFA 18: Legacy Edition",
+    "candidates": [
+      {
+        "id": 33780,
+        "name": "FIFA 18",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1506643200
+      },
+      {
+        "id": 1552,
+        "name": "FIFA Manager 09",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1225436400
+      },
+      {
+        "id": 2957,
+        "name": "FIFA Manager 10",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1256943600
+      },
+      {
+        "id": 4565,
+        "name": "FIFA International Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 755913600
+      },
+      {
+        "id": 12102,
+        "name": "FIFA Manager 11",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1288816800
+      },
+      {
+        "id": 19632,
+        "name": "FIFA Street 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1141084800
+      },
+      {
+        "id": 33566,
+        "name": "FIFA 99",
+        "verified": true,
+        "types": [],
+        "release_date": 911520000
+      },
+      {
+        "id": 33725,
+        "name": "FIFA Soccer 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      },
+      {
+        "id": 33730,
+        "name": "FIFA 97",
+        "verified": true,
+        "types": [],
+        "release_date": 848448000
+      },
+      {
+        "id": 33787,
+        "name": "FIFA Soccer 2003",
+        "verified": true,
+        "types": [],
+        "release_date": 1036195200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31612",
+    "title": "PES 2018: Pro Evolution Soccer",
+    "candidates": [
+      {
+        "id": 5340249,
+        "name": "PES Dream Patch (Program)",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5470226,
+        "name": "PES 6 Infinitty Patch 2025",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5168402,
+        "name": "eFootball PES 2020",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1568134800
+      },
+      {
+        "id": 5263899,
+        "name": "eFootball PES 2021",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1600128000
+      },
+      {
+        "id": 5434525,
+        "name": "SoundSc@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1699374093
+      },
+      {
+        "id": 5457802,
+        "name": "ProFootball (PES 2013 Mod)",
+        "verified": true,
+        "types": [],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5533859,
+        "name": "You.T@pes",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31616",
+    "title": "FIFA 19: Legacy Edition",
+    "candidates": [
+      {
+        "id": 5246266,
+        "name": "FIFA 19",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1538092800
+      },
+      {
+        "id": 1552,
+        "name": "FIFA Manager 09",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1225436400
+      },
+      {
+        "id": 2957,
+        "name": "FIFA Manager 10",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1256943600
+      },
+      {
+        "id": 4565,
+        "name": "FIFA International Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 755913600
+      },
+      {
+        "id": 12102,
+        "name": "FIFA Manager 11",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1288816800
+      },
+      {
+        "id": 19632,
+        "name": "FIFA Street 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1141084800
+      },
+      {
+        "id": 33566,
+        "name": "FIFA 99",
+        "verified": true,
+        "types": [],
+        "release_date": 911520000
+      },
+      {
+        "id": 33725,
+        "name": "FIFA Soccer 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      },
+      {
+        "id": 33730,
+        "name": "FIFA 97",
+        "verified": true,
+        "types": [],
+        "release_date": 848448000
+      },
+      {
+        "id": 33780,
+        "name": "FIFA 18",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1506643200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31617",
+    "title": "FIFA 19: Legacy Edition",
+    "candidates": [
+      {
+        "id": 5246266,
+        "name": "FIFA 19",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1538092800
+      },
+      {
+        "id": 1552,
+        "name": "FIFA Manager 09",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1225436400
+      },
+      {
+        "id": 2957,
+        "name": "FIFA Manager 10",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1256943600
+      },
+      {
+        "id": 4565,
+        "name": "FIFA International Soccer",
+        "verified": true,
+        "types": [],
+        "release_date": 755913600
+      },
+      {
+        "id": 12102,
+        "name": "FIFA Manager 11",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1288816800
+      },
+      {
+        "id": 19632,
+        "name": "FIFA Street 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1141084800
+      },
+      {
+        "id": 33566,
+        "name": "FIFA 99",
+        "verified": true,
+        "types": [],
+        "release_date": 911520000
+      },
+      {
+        "id": 33725,
+        "name": "FIFA Soccer 2004",
+        "verified": true,
+        "types": [],
+        "release_date": 1067904000
+      },
+      {
+        "id": 33730,
+        "name": "FIFA 97",
+        "verified": true,
+        "types": [],
+        "release_date": 848448000
+      },
+      {
+        "id": 33780,
+        "name": "FIFA 18",
+        "verified": true,
+        "types": [
+          "origin"
+        ],
+        "release_date": 1506643200
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS31621",
+    "title": "Oddworld: Abe's Oddysee: New 'n' Tasty!",
+    "candidates": [
+      {
+        "id": 1490,
+        "name": "Oddworld: Abe's Oddysee",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 881913600
+      },
+      {
+        "id": 1491,
+        "name": "Oddworld: Abe's Exoddus",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 911289600
+      },
+      {
+        "id": 1492,
+        "name": "Oddworld: Munch's Oddysee",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1292868000
+      },
+      {
+        "id": 1493,
+        "name": "Oddworld: Stranger's Wrath HD",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1292868000
+      },
+      {
+        "id": 5144,
+        "name": "Oddworld: New 'n' Tasty",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "eshop"
+        ],
+        "release_date": 1424880000
+      },
+      {
+        "id": 34412,
+        "name": "Oddworld Adventures",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 36393,
+        "name": "Oddworld Adventures II",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 38753,
+        "name": "Oddworld: Stranger's Wrath",
+        "verified": true,
+        "types": [],
+        "release_date": 1106611200
+      },
+      {
+        "id": 5281516,
+        "name": "Oddworld: Soulstorm",
+        "verified": true,
+        "types": [
+          "egs"
+        ],
+        "release_date": 1617667200
+      },
+      {
+        "id": 5325249,
+        "name": "Oddworld: Soulstorm - Enhanced Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1655769600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS41022",
+    "title": "Sniper Elite V2: Silver Star Edition",
+    "candidates": [
+      {
+        "id": 18292,
+        "name": "Sniper Elite V2",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog",
+          "origin",
+          "eshop"
+        ],
+        "release_date": 1335744000
+      },
+      {
+        "id": 3338515,
+        "name": "Sniper Elite V2 Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1557792000
+      },
+      {
+        "id": 5250643,
+        "name": "Sniper Elite V2 Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5251439,
+        "name": "Sniper Elite V2 Remastered Dedicated Server",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 7651,
+        "name": "Sniper Elite",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1129618800
+      },
+      {
+        "id": 2436,
+        "name": "Sniper Elite: Nazi Zombie Army",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1362009600
+      },
+      {
+        "id": 2635,
+        "name": "Sniper Elite: Zombie Army",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 2689,
+        "name": "Sniper Elite 3",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1403855940
+      },
+      {
+        "id": 2937,
+        "name": "Sniper Elite: Nazi Zombie Army 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1383238800
+      },
+      {
+        "id": 2938,
+        "name": "Sniper Elite: Zombie Army 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1389632880
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS41028",
+    "title": "Metal Gear Solid: The Legacy Collection 1987-2012 (Disc 2)",
+    "candidates": [
+      {
+        "id": 5342703,
+        "name": "Metal Gear Solid: The Legacy Collection",
+        "verified": true,
+        "types": [],
+        "release_date": 1373328000
+      },
+      {
+        "id": 38461,
+        "name": "Metal Gear Solid: The Twin Snakes",
+        "verified": true,
+        "types": [],
+        "release_date": 1078790400
+      },
+      {
+        "id": 4106,
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1441090800
+      },
+      {
+        "id": 5354114,
+        "name": "Metal Gear Solid V: The Definitive Experience",
+        "verified": true,
+        "types": [],
+        "release_date": 1476144000
+      },
+      {
+        "id": 33935,
+        "name": "Metal Gear Solid 4: Guns of the Patriots",
+        "verified": true,
+        "types": [],
+        "release_date": 1213228800
+      },
+      {
+        "id": 5517797,
+        "name": "Metal Gear Solid 4: Guns of the Patriots - Master Collection Version",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1787788800
+      },
+      {
+        "id": 5288734,
+        "name": "The Document of Metal Gear Solid 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1031788800
+      },
+      {
+        "id": 34558,
+        "name": "Metal Gear Solid",
+        "verified": true,
+        "types": [],
+        "release_date": 904780800
+      },
+      {
+        "id": 4981,
+        "name": "Metal Gear Solid V: Ground Zeroes",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1418889600
+      },
+      {
+        "id": 29861,
+        "name": "Metal Gear Solid 2: Sons of Liberty",
+        "verified": true,
+        "types": [],
+        "release_date": 1005609600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS41038",
+    "title": "Dishonored: Game of the Year Edition",
+    "candidates": [
+      {
+        "id": 1839,
+        "name": "Dishonored",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1349996400
+      },
+      {
+        "id": 2199,
+        "name": "Dishonored RHCP",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1349974800
+      },
+      {
+        "id": 9167,
+        "name": "Dishonored 2",
+        "verified": true,
+        "types": [
+          "steam",
+          "origin"
+        ],
+        "release_date": 1478851200
+      },
+      {
+        "id": 17614,
+        "name": "Dishonored: Death of the Outsider",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1505448000
+      },
+      {
+        "id": 27513,
+        "name": "Disdoored",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1527790225
+      },
+      {
+        "id": 31140,
+        "name": "Discolored",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573495678
+      },
+      {
+        "id": 5321981,
+        "name": "Discolored 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1736294400
+      },
+      {
+        "id": 8385,
+        "name": "Gladiators Online: Death Before Dishonor",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1446652980
+      },
+      {
+        "id": 5282557,
+        "name": "The Killer of Dishonor",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1619568000
+      },
+      {
+        "id": 5266339,
+        "name": "Hearts of Iron IV: Death or Dishonor",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS41046",
+    "title": "Borderlands 2: Game of the Year Edition (Add-On Disc)",
+    "candidates": [
+      {
+        "id": 5675,
+        "name": "Borderlands 2: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 29751,
+        "name": "Borderlands: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1693440000
+      },
+      {
+        "id": 4408644,
+        "name": "Borderlands: Game of the Year Enhanced",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1554300000
+      },
+      {
+        "id": 12627,
+        "name": "Borderlands 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1347840000
+      },
+      {
+        "id": 2190,
+        "name": "Borderlands 2 RU",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5249783,
+        "name": "Borderlands 2 VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1571727600
+      },
+      {
+        "id": 5320044,
+        "name": "Gibbed's Borderlands 2 Save Editor",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 3362,
+        "name": "Borderlands: The Pre-Sequel",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1413270000
+      },
+      {
+        "id": 29618,
+        "name": "Borderlands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1255996800
+      },
+      {
+        "id": 5245300,
+        "name": "Borderlands 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "egs"
+        ],
+        "release_date": 1568332800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS82012",
+    "title": "Borderlands Triple Pack (Gameplay Disc)",
+    "candidates": [
+      {
+        "id": 29618,
+        "name": "Borderlands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1255996800
+      },
+      {
+        "id": 2190,
+        "name": "Borderlands 2 RU",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 3362,
+        "name": "Borderlands: The Pre-Sequel",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1413270000
+      },
+      {
+        "id": 5675,
+        "name": "Borderlands 2: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 12627,
+        "name": "Borderlands 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1347840000
+      },
+      {
+        "id": 29751,
+        "name": "Borderlands: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1693440000
+      },
+      {
+        "id": 4408644,
+        "name": "Borderlands: Game of the Year Enhanced",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1554300000
+      },
+      {
+        "id": 5245300,
+        "name": "Borderlands 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "egs"
+        ],
+        "release_date": 1568332800
+      },
+      {
+        "id": 5249783,
+        "name": "Borderlands 2 VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1571727600
+      },
+      {
+        "id": 5257055,
+        "name": "Borderlands Granting Tool",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BLUS82013",
+    "title": "Borderlands Triple Pack (Add-On Installation Disc)",
+    "candidates": [
+      {
+        "id": 29618,
+        "name": "Borderlands",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1255996800
+      },
+      {
+        "id": 2190,
+        "name": "Borderlands 2 RU",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 3362,
+        "name": "Borderlands: The Pre-Sequel",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1413270000
+      },
+      {
+        "id": 5675,
+        "name": "Borderlands 2: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 12627,
+        "name": "Borderlands 2",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1347840000
+      },
+      {
+        "id": 29751,
+        "name": "Borderlands: Game of the Year Edition",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1693440000
+      },
+      {
+        "id": 4408644,
+        "name": "Borderlands: Game of the Year Enhanced",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1554300000
+      },
+      {
+        "id": 5245300,
+        "name": "Borderlands 3",
+        "verified": true,
+        "types": [
+          "steam",
+          "egs"
+        ],
+        "release_date": 1568332800
+      },
+      {
+        "id": 5249783,
+        "name": "Borderlands 2 VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1571727600
+      },
+      {
+        "id": 5257055,
+        "name": "Borderlands Granting Tool",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS90190",
+    "title": "The Ico & Shadow of the Colossus Collection",
+    "candidates": [
+      {
+        "id": 5253594,
+        "name": "Ico and Shadow of the Colossus Classics HD",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5437587,
+        "name": "'the",
+        "verified": true,
+        "types": [],
+        "release_date": 1451952000
+      },
+      {
+        "id": 27,
+        "name": "The Incredible Adventures of Van Helsing",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1369236840
+      },
+      {
+        "id": 35,
+        "name": "The Last Story",
+        "verified": true,
+        "types": [],
+        "release_date": 1296086400
+      },
+      {
+        "id": 47,
+        "name": "The Final Fantasy Legend",
+        "verified": true,
+        "types": [],
+        "release_date": 629683200
+      },
+      {
+        "id": 54,
+        "name": "The Movies",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1131436800
+      },
+      {
+        "id": 136,
+        "name": "The ScreaMaze",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1543824000
+      },
+      {
+        "id": 162,
+        "name": "The Town",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1548151236
+      },
+      {
+        "id": 193,
+        "name": "The Far Kingdoms: Elements",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1546596407
+      },
+      {
+        "id": 197,
+        "name": "The Five Cores Remastered",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1564471615
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

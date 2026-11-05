@@ -12,7 +12,7 @@ Conclusive matches that pass validation are approved automatically. Only inconcl
 
 No entries in this section yet.
 
-## Approved artwork (607)
+## Approved artwork (669)
 
 | Preview | Game | Title ID | Approval | Contributor / source |
 |---|---|---|---|---|
@@ -23,8 +23,11 @@ No entries in this section yet.
 | [![BLUS31389](../thumbnails/BLUS31389.png)](../art/BLUS31389.png) | 2014 FIFA World Cup Brazil | `BLUS31389` | automatic | mendihoza<br>[asset #155222](https://www.steamgriddb.com/grid/155222) |
 | [![BLUS30490](../thumbnails/BLUS30490.png)](../art/BLUS30490.png) | 3D Dot Game Heroes | `BLUS30490` | automatic | Shiios42<br>[asset #341122](https://www.steamgriddb.com/grid/341122) |
 | [![BLUS30256](../thumbnails/BLUS30256.png)](../art/BLUS30256.png) | 50 Cent: Blood on the Sand | `BLUS30256` | automatic | kurkobein<br>[asset #173166](https://www.steamgriddb.com/grid/173166) |
+| [![BLUS31570](../thumbnails/BLUS31570.png)](../art/BLUS31570.png) | Adam&#x27;s Venture: Chronicles | `BLUS31570` | automatic | Neuropod<br>[asset #372226](https://www.steamgriddb.com/grid/372226) |
 | [![BLUS31214](../thumbnails/BLUS31214.png)](../art/BLUS31214.png) | Adventure Time: Explore the Dungeon Because I Don&#x27;t Know! | `BLUS31214` | automatic | HTheorigin4l<br>[asset #358308](https://www.steamgriddb.com/grid/358308) |
+| [![BLUS31526](../thumbnails/BLUS31526.png)](../art/BLUS31526.png) | Adventure Time: Finn &amp; Jake Investigations | `BLUS31526` | automatic | Neuropod<br>[asset #484735](https://www.steamgriddb.com/grid/484735) |
 | [![BLUS31450](../thumbnails/BLUS31450.png)](../art/BLUS31450.png) | Adventure Time: The Secret of the Nameless Kingdom | `BLUS31450` | automatic | HexDawn<br>[asset #444821](https://www.steamgriddb.com/grid/444821) |
+| [![BLUS31587](../thumbnails/BLUS31587.png)](../art/BLUS31587.png) | Aegis of Earth: Protonovus Assault | `BLUS31587` | automatic | Arikado1476<br>[asset #678333](https://www.steamgriddb.com/grid/678333) |
 | [![BLUS30399](../thumbnails/BLUS30399.png)](../art/BLUS30399.png) | Afrika | `BLUS30399` | automatic | Mentos0723<br>[asset #733800](https://www.steamgriddb.com/grid/733800) |
 | [![BLUS30264](../thumbnails/BLUS30264.png)](../art/BLUS30264.png) | Afro Samurai | `BLUS30264` | automatic | Shiios42<br>[asset #340806](https://www.steamgriddb.com/grid/340806) |
 | [![BLUS31210](../thumbnails/BLUS31210.png)](../art/BLUS31210.png) | Air Conflicts: Pacific Carriers | `BLUS31210` | automatic | XueSN<br>[asset #527627](https://www.steamgriddb.com/grid/527627) |
@@ -67,10 +70,12 @@ No entries in this section yet.
 | [![BLUS30978](../thumbnails/BLUS30978.png)](../art/BLUS30978.png) | Batman: Arkham City: Game of the Year Edition | `BLUS30978` | automatic | RealZombro<br>[asset #139448](https://www.steamgriddb.com/grid/139448) |
 | [![BLUS31147](../thumbnails/BLUS31147.png)](../art/BLUS31147.png) | Batman: Arkham Origins | `BLUS31147` | automatic | CriticalComposer<br>[asset #137040](https://www.steamgriddb.com/grid/137040) |
 | [![BLUS31207](../thumbnails/BLUS31147.png)](../art/BLUS31147.png) | Batman: Arkham Origins | `BLUS31207` | automatic | CriticalComposer<br>[asset #137040](https://www.steamgriddb.com/grid/137040) |
+| [![BLUS31605](../thumbnails/BLUS31605.png)](../art/BLUS31605.png) | Batman: The Telltale Series | `BLUS31605` | automatic | Varimarthas<br>[asset #165613](https://www.steamgriddb.com/grid/165613) |
 | [![BLUS30762](../thumbnails/BLUS30762.png)](../art/BLUS30762.png) | Battlefield 3 | `BLUS30762` | automatic | TheKersalMassive<br>[asset #193705](https://www.steamgriddb.com/grid/193705) |
 | [![BLUS31068](../thumbnails/BLUS30762.png)](../art/BLUS30762.png) | Battlefield 3 | `BLUS31068` | automatic | TheKersalMassive<br>[asset #193705](https://www.steamgriddb.com/grid/193705) |
 | [![BLUS31162](../thumbnails/BLUS31162.png)](../art/BLUS31162.png) | Battlefield 4 | `BLUS31162` | automatic | TheKersalMassive<br>[asset #193706](https://www.steamgriddb.com/grid/193706) |
 | [![BLUS31440](../thumbnails/BLUS31440.png)](../art/BLUS31440.png) | Battlefield Hardline | `BLUS31440` | automatic | Mingebag<br>[asset #417557](https://www.steamgriddb.com/grid/417557) |
+| [![BLUS31539](../thumbnails/BLUS31440.png)](../art/BLUS31440.png) | Battlefield Hardline | `BLUS31539` | automatic | Mingebag<br>[asset #417557](https://www.steamgriddb.com/grid/417557) |
 | [![BLUS30118](../thumbnails/BLUS30118.png)](../art/BLUS30118.png) | Battlefield: Bad Company | `BLUS30118` | automatic | FrostWolf<br>[asset #147047](https://www.steamgriddb.com/grid/147047) |
 | [![BLUS30121](../thumbnails/BLUS30118.png)](../art/BLUS30118.png) | Battlefield: Bad Company | `BLUS30121` | automatic | FrostWolf<br>[asset #147047](https://www.steamgriddb.com/grid/147047) |
 | [![BLUS30458](../thumbnails/BLUS30458.png)](../art/BLUS30458.png) | Battlefield: Bad Company 2 | `BLUS30458` | automatic | Mingebag<br>[asset #417564](https://www.steamgriddb.com/grid/417564) |
@@ -105,11 +110,13 @@ No entries in this section yet.
 | [![BLUS30012](../thumbnails/BLUS30012.png)](../art/BLUS30012.png) | Call of Duty 3 | `BLUS30012` | automatic | Mingebag<br>[asset #417546](https://www.steamgriddb.com/grid/417546) |
 | [![BLUS30072](../thumbnails/BLUS30072.png)](../art/BLUS30072.png) | Call of Duty 4: Modern Warfare | `BLUS30072` | automatic | ParsaMON<br>[asset #367937](https://www.steamgriddb.com/grid/367937) |
 | [![BLUS31466](../thumbnails/BLUS31466.png)](../art/BLUS31466.png) | Call of Duty: Advanced Warfare | `BLUS31466` | automatic | CluckenDip<br>[asset #136204](https://www.steamgriddb.com/grid/136204) |
+| [![BCUS90162](../thumbnails/BLUS30591.png)](../art/BLUS30591.png) | Call of Duty: Black Ops | `BCUS90162` | automatic | ParsaMON<br>[asset #352797](https://www.steamgriddb.com/grid/352797) |
 | [![BLUS30591](../thumbnails/BLUS30591.png)](../art/BLUS30591.png) | Call of Duty: Black Ops | `BLUS30591` | automatic | ParsaMON<br>[asset #352797](https://www.steamgriddb.com/grid/352797) |
 | [![BLUS30638](../thumbnails/BLUS30591.png)](../art/BLUS30591.png) | Call of Duty: Black Ops | `BLUS30638` | automatic | ParsaMON<br>[asset #352797](https://www.steamgriddb.com/grid/352797) |
 | [![BLUS31011](../thumbnails/BLUS31011.png)](../art/BLUS31011.png) | Call of Duty: Black Ops II | `BLUS31011` | automatic | TheKersalMassive<br>[asset #193740](https://www.steamgriddb.com/grid/193740) |
 | [![BLUS31140](../thumbnails/BLUS31011.png)](../art/BLUS31011.png) | Call of Duty: Black Ops II | `BLUS31140` | automatic | TheKersalMassive<br>[asset #193740](https://www.steamgriddb.com/grid/193740) |
 | [![BLUS31141](../thumbnails/BLUS31011.png)](../art/BLUS31011.png) | Call of Duty: Black Ops II | `BLUS31141` | automatic | TheKersalMassive<br>[asset #193740](https://www.steamgriddb.com/grid/193740) |
+| [![BLUS31527](../thumbnails/BLUS31527.png)](../art/BLUS31527.png) | Call of Duty: Black Ops III | `BLUS31527` | automatic | Mingebag<br>[asset #417520](https://www.steamgriddb.com/grid/417520) |
 | [![BLUS31270](../thumbnails/BLUS31270.png)](../art/BLUS31270.png) | Call of Duty: Ghosts | `BLUS31270` | automatic | CluckenDip<br>[asset #136208](https://www.steamgriddb.com/grid/136208) |
 | [![BLUS30192](../thumbnails/BLUS30192.png)](../art/BLUS30192.png) | Call of Duty: World at War | `BLUS30192` | automatic | ParsaMON<br>[asset #389041](https://www.steamgriddb.com/grid/389041) |
 | [![BLUS30347](../thumbnails/BLUS30347.png)](../art/BLUS30347.png) | Call of Juarez: Bound in Blood | `BLUS30347` | automatic | Devin<br>[asset #139882](https://www.steamgriddb.com/grid/139882) |
@@ -129,6 +136,8 @@ No entries in this section yet.
 | [![BLUS30976](../thumbnails/BLUS30976.png)](../art/BLUS30976.png) | Crysis 3 | `BLUS30976` | automatic | TytusV2<br>[asset #721291](https://www.steamgriddb.com/grid/721291) |
 | [![BLUS30116](../thumbnails/BLUS30116.png)](../art/BLUS30116.png) | Dark Sector | `BLUS30116` | automatic | flamepanther<br>[asset #150094](https://www.steamgriddb.com/grid/150094) |
 | [![BLUS30782](../thumbnails/BLUS30782.png)](../art/BLUS30782.png) | Dark Souls | `BLUS30782` | automatic | Maxine<br>[asset #208682](https://www.steamgriddb.com/grid/208682) |
+| [![BLUS41045](../thumbnails/BLUS41045.png)](../art/BLUS41045.png) | Dark Souls II | `BLUS41045` | automatic | TytusV2<br>[asset #675097](https://www.steamgriddb.com/grid/675097) |
+| [![BLUS31528](../thumbnails/BLUS31528.png)](../art/BLUS31528.png) | Dark Souls II: Scholar of the First Sin | `BLUS31528` | automatic | CluckenDip<br>[asset #136158](https://www.steamgriddb.com/grid/136158) |
 | [![BLUS30323](../thumbnails/BLUS30323.png)](../art/BLUS30323.png) | Dark Void | `BLUS30323` | automatic | flamepanther<br>[asset #150092](https://www.steamgriddb.com/grid/150092) |
 | [![BLUS30320](../thumbnails/BLUS30320.png)](../art/BLUS30320.png) | Darksiders | `BLUS30320` | automatic | TytusV2<br>[asset #679163](https://www.steamgriddb.com/grid/679163) |
 | [![BLUS30829](../thumbnails/BLUS30829.png)](../art/BLUS30829.png) | Darksiders II | `BLUS30829` | automatic | TytusV2<br>[asset #679161](https://www.steamgriddb.com/grid/679161) |
@@ -148,6 +157,7 @@ No entries in this section yet.
 | [![BLUS31146](../thumbnails/BLUS31146.png)](../art/BLUS31146.png) | Deadpool | `BLUS31146` | automatic | CriticalComposer<br>[asset #138239](https://www.steamgriddb.com/grid/138239) |
 | [![BLUS31396](../thumbnails/BLUS31396.png)](../art/BLUS31396.png) | Deception IV: Blood Ties | `BLUS31396` | automatic | Arthur Lopes<br>[asset #149808](https://www.steamgriddb.com/grid/149808) |
 | [![BLUS30024](../thumbnails/BLUS30024.png)](../art/BLUS30024.png) | Def Jam: Icon | `BLUS30024` | automatic | PlayingKarrde<br>[asset #616168](https://www.steamgriddb.com/grid/616168) |
+| [![BLUS31535](../thumbnails/BLUS31535.png)](../art/BLUS31535.png) | Dengeki Bunko: Fighting Climax | `BLUS31535` | automatic | Plague<br>[asset #774527](https://www.steamgriddb.com/grid/774527) |
 | [![BLUS30476](../thumbnails/BLUS30476.png)](../art/BLUS30476.png) | Deus Ex: Human Revolution | `BLUS30476` | automatic | TheKersalMassive<br>[asset #193717](https://www.steamgriddb.com/grid/193717) |
 | [![BLUS31317](../thumbnails/BLUS31317.png)](../art/BLUS31317.png) | Deus Ex: Human Revolution: Director&#x27;s Cut | `BLUS31317` | automatic | Skyclad<br>[asset #136624](https://www.steamgriddb.com/grid/136624) |
 | [![BLUS30092](../thumbnails/BLUS30092.png)](../art/BLUS30092.png) | Devil May Cry 4 | `BLUS30092` | automatic | CriticalComposer<br>[asset #138263](https://www.steamgriddb.com/grid/138263) |
@@ -172,6 +182,7 @@ No entries in this section yet.
 | [![BLUS31024](../thumbnails/BLUS31024.png)](../art/BLUS31024.png) | Doom 3: BFG Edition | `BLUS31024` | automatic | flamepanther<br>[asset #142816](https://www.steamgriddb.com/grid/142816) |
 | [![BLUS30645](../thumbnails/BLUS30645.png)](../art/BLUS30645.png) | Dragon Age II | `BLUS30645` | automatic | clam.buttocks<br>[asset #450211](https://www.steamgriddb.com/grid/450211) |
 | [![BLUS30997](../thumbnails/BLUS30997.png)](../art/BLUS30997.png) | Dragon Age: Inquisition | `BLUS30997` | automatic | TheKersalMassive<br>[asset #193720](https://www.steamgriddb.com/grid/193720) |
+| [![BLUS31515](../thumbnails/BLUS30997.png)](../art/BLUS30997.png) | Dragon Age: Inquisition | `BLUS31515` | automatic | TheKersalMassive<br>[asset #193720](https://www.steamgriddb.com/grid/193720) |
 | [![BLUS30415](../thumbnails/BLUS30415.png)](../art/BLUS30415.png) | Dragon Age: Origins | `BLUS30415` | automatic | Timberfang<br>[asset #136947](https://www.steamgriddb.com/grid/136947) |
 | [![BLUS30649](../thumbnails/BLUS30649.png)](../art/BLUS30649.png) | Dragon Age: Origins: Ultimate Edition | `BLUS30649` | automatic | flamepanther<br>[asset #142820](https://www.steamgriddb.com/grid/142820) |
 | [![BLUS31507](../thumbnails/BLUS31507.png)](../art/BLUS31507.png) | Dragon Ball Xenoverse | `BLUS31507` | automatic | Kynd<br>[asset #229014](https://www.steamgriddb.com/grid/229014) |
@@ -225,6 +236,11 @@ No entries in this section yet.
 | [![BLUS31190](../thumbnails/BLUS31189.png)](../art/BLUS31189.png) | FIFA 14 | `BLUS31190` | automatic | Varimarthas<br>[asset #165218](https://www.steamgriddb.com/grid/165218) |
 | [![BLUS31443](../thumbnails/BLUS31443.png)](../art/BLUS31443.png) | FIFA 15 | `BLUS31443` | automatic | itsteddyyo<br>[asset #151909](https://www.steamgriddb.com/grid/151909) |
 | [![BLUS31457](../thumbnails/BLUS31443.png)](../art/BLUS31443.png) | FIFA 15 | `BLUS31457` | automatic | itsteddyyo<br>[asset #151909](https://www.steamgriddb.com/grid/151909) |
+| [![BLUS31543](../thumbnails/BLUS31543.png)](../art/BLUS31543.png) | FIFA 16 | `BLUS31543` | automatic | Varimarthas<br>[asset #165219](https://www.steamgriddb.com/grid/165219) |
+| [![BLUS31553](../thumbnails/BLUS31543.png)](../art/BLUS31543.png) | FIFA 16 | `BLUS31553` | automatic | Varimarthas<br>[asset #165219](https://www.steamgriddb.com/grid/165219) |
+| [![BLUS31593](../thumbnails/BLUS31593.png)](../art/BLUS31593.png) | FIFA 17 | `BLUS31593` | automatic | itsteddyyo<br>[asset #151911](https://www.steamgriddb.com/grid/151911) |
+| [![BLUS31594](../thumbnails/BLUS31593.png)](../art/BLUS31593.png) | FIFA 17 | `BLUS31594` | automatic | itsteddyyo<br>[asset #151911](https://www.steamgriddb.com/grid/151911) |
+| [![BLUS31611](../thumbnails/BLUS31611.png)](../art/BLUS31611.png) | FIFA 18 | `BLUS31611` | automatic | itsteddyyo<br>[asset #151912](https://www.steamgriddb.com/grid/151912) |
 | [![BLUS30385](../thumbnails/BLUS30385.png)](../art/BLUS30385.png) | FIFA Soccer 10 | `BLUS30385` | automatic | Mentos0723<br>[asset #733700](https://www.steamgriddb.com/grid/733700) |
 | [![BLUS30809](../thumbnails/BLUS30809.png)](../art/BLUS30809.png) | FIFA Soccer 12 | `BLUS30809` | automatic | Mentos0723<br>[asset #733701](https://www.steamgriddb.com/grid/733701) |
 | [![BLUS30998](../thumbnails/BLUS30998.png)](../art/BLUS30998.png) | FIFA Soccer 13 | `BLUS30998` | automatic | Mentos0723<br>[asset #730880](https://www.steamgriddb.com/grid/730880) |
@@ -241,6 +257,7 @@ No entries in this section yet.
 | [![BLUS30009](../thumbnails/BLUS30009.png)](../art/BLUS30009.png) | Full Auto 2: Battlelines | `BLUS30009` | automatic | Mentos0723<br>[asset #733651](https://www.steamgriddb.com/grid/733651) |
 | [![BLUS30326](../thumbnails/BLUS30326.png)](../art/BLUS30326.png) | G.I. Joe: The Rise of Cobra | `BLUS30326` | automatic | Arikado1476<br>[asset #356580](https://www.steamgriddb.com/grid/356580) |
 | [![BLUS30939](../thumbnails/BLUS30939.png)](../art/BLUS30939.png) | Game of Thrones | `BLUS30939` | automatic | Neuropod<br>[asset #376655](https://www.steamgriddb.com/grid/376655) |
+| [![BLUS31582](../thumbnails/BLUS31582.png)](../art/BLUS31582.png) | Game of Thrones: A Telltale Games Series | `BLUS31582` | automatic | Comcord<br>[asset #168272](https://www.steamgriddb.com/grid/168272) |
 | [![BLUS30307](../thumbnails/BLUS30307.png)](../art/BLUS30307.png) | Ghostbusters: The Video Game | `BLUS30307` | automatic | Neuropod<br>[asset #376027](https://www.steamgriddb.com/grid/376027) |
 | [![BCUS98229](../thumbnails/BCUS98229.png)](../art/BCUS98229.png) | God of War Collection | `BCUS98229` | automatic | SolarisTM<br>[asset #267289](https://www.steamgriddb.com/grid/267289) |
 | [![BCUS98253](../thumbnails/BCUS98229.png)](../art/BCUS98229.png) | God of War Collection | `BCUS98253` | automatic | SolarisTM<br>[asset #267289](https://www.steamgriddb.com/grid/267289) |
@@ -249,11 +266,13 @@ No entries in this section yet.
 | [![BCUS98289](../thumbnails/BCUS98289.png)](../art/BCUS98289.png) | God of War: Origins Collection | `BCUS98289` | automatic | Crayzn<br>[asset #563289](https://www.steamgriddb.com/grid/563289) |
 | [![BLUS30209](../thumbnails/BLUS30209.png)](../art/BLUS30209.png) | Golden Axe: Beast Rider | `BLUS30209` | automatic | ABH20<br>[asset #158993](https://www.steamgriddb.com/grid/158993) |
 | [![BLUS30755](../thumbnails/BLUS30755.png)](../art/BLUS30755.png) | GoldenEye 007: Reloaded | `BLUS30755` | automatic | FrostWolf<br>[asset #148185](https://www.steamgriddb.com/grid/148185) |
+| [![BLUS90262](../thumbnails/BLUS30755.png)](../art/BLUS30755.png) | GoldenEye 007: Reloaded | `BLUS90262` | automatic | FrostWolf<br>[asset #148185](https://www.steamgriddb.com/grid/148185) |
 | [![BCUS98158](../thumbnails/BCUS98158.png)](../art/BCUS98158.png) | Gran Turismo 5: Prologue | `BCUS98158` | automatic | Greenbill<br>[asset #682335](https://www.steamgriddb.com/grid/682335) |
 | [![BCUS98296](../thumbnails/BCUS98296.png)](../art/BCUS98296.png) | Gran Turismo 6 | `BCUS98296` | automatic | reTokyo<br>[asset #336514](https://www.steamgriddb.com/grid/336514) |
 | [![BCUS99247](../thumbnails/BCUS99247.png)](../art/BCUS99247.png) | Gran Turismo 6 | `BCUS99247` | automatic | darkregal040<br>[asset #324570](https://www.steamgriddb.com/grid/324570) |
 | [![BLUS31156](../thumbnails/BLUS31156.png)](../art/BLUS31156.png) | Grand Theft Auto V | `BLUS31156` | automatic | TheKersalMassive<br>[asset #193681](https://www.steamgriddb.com/grid/193681) |
 | [![BLUS30524](../thumbnails/BLUS30524.png)](../art/BLUS30524.png) | Grand Theft Auto: Episodes from Liberty City | `BLUS30524` | automatic | GabrielXZLIVE<br>[asset #788081](https://www.steamgriddb.com/grid/788081) |
+| [![BLUS31584](../thumbnails/BLUS31584.png)](../art/BLUS31584.png) | Grand Theft Auto: San Andreas | `BLUS31584` | automatic | Omnix_01<br>[asset #169714](https://www.steamgriddb.com/grid/169714) |
 | [![BLUS30350](../thumbnails/BLUS30350.png)](../art/BLUS30350.png) | Green Day: Rock Band | `BLUS30350` | automatic | GabrielXZLIVE<br>[asset #774942](https://www.steamgriddb.com/grid/774942) |
 | [![BLUS30573](../thumbnails/BLUS30350.png)](../art/BLUS30350.png) | Green Day: Rock Band | `BLUS30573` | automatic | GabrielXZLIVE<br>[asset #774942](https://www.steamgriddb.com/grid/774942) |
 | [![BLUS31055](../thumbnails/BLUS31055.png)](../art/BLUS31055.png) | Grid 2 | `BLUS31055` | automatic | HitAgent<br>[asset #800692](https://www.steamgriddb.com/grid/800692) |
@@ -261,6 +280,7 @@ No entries in this section yet.
 | [![BLUS31467](../thumbnails/BLUS31467.png)](../art/BLUS31467.png) | Guilty Gear Xrd: Sign | `BLUS31467` | automatic | flamepanther<br>[asset #141099](https://www.steamgriddb.com/grid/141099) |
 | [![BLUS30292](../thumbnails/BLUS30292.png)](../art/BLUS30292.png) | Guitar Hero 5 | `BLUS30292` | automatic | Imatination<br>[asset #378600](https://www.steamgriddb.com/grid/378600) |
 | [![BLUS30074](../thumbnails/BLUS30074.png)](../art/BLUS30074.png) | Guitar Hero III: Legends of Rock | `BLUS30074` | automatic | SolarisTM<br>[asset #258030](https://www.steamgriddb.com/grid/258030) |
+| [![BLUS31556](../thumbnails/BLUS31556.png)](../art/BLUS31556.png) | Guitar Hero Live | `BLUS31556` | automatic | Imatination<br>[asset #378602](https://www.steamgriddb.com/grid/378602) |
 | [![BLUS30164](../thumbnails/BLUS30164.png)](../art/BLUS30164.png) | Guitar Hero World Tour | `BLUS30164` | automatic | GabrielXZLIVE<br>[asset #792755](https://www.steamgriddb.com/grid/792755) |
 | [![BLUS30291](../thumbnails/BLUS30291.png)](../art/BLUS30291.png) | Guitar Hero: Van Halen | `BLUS30291` | automatic | ZazaMastro<br>[asset #480494](https://www.steamgriddb.com/grid/480494) |
 | [![BLUS30460](../thumbnails/BLUS30291.png)](../art/BLUS30291.png) | Guitar Hero: Van Halen | `BLUS30460` | automatic | ZazaMastro<br>[asset #480494](https://www.steamgriddb.com/grid/480494) |
@@ -286,6 +306,7 @@ No entries in this section yet.
 | [![BLUS31364](../thumbnails/BLUS31364.png)](../art/BLUS31364.png) | Injustice: Gods Among Us: Ultimate Edition | `BLUS31364` | automatic | CluckenDip<br>[asset #180357](https://www.steamgriddb.com/grid/180357) |
 | [![BLUS30134](../thumbnails/BLUS30134.png)](../art/BLUS30134.png) | Iron Man | `BLUS30134` | automatic | Mentos0723<br>[asset #723080](https://www.steamgriddb.com/grid/723080) |
 | [![BLUS30514](../thumbnails/BLUS30514.png)](../art/BLUS30514.png) | Iron Man 2 | `BLUS30514` | automatic | Shiios42<br>[asset #393677](https://www.steamgriddb.com/grid/393677) |
+| [![BLUS31519](../thumbnails/BLUS31519.png)](../art/BLUS31519.png) | J-Stars Victory Vs+ | `BLUS31519` | automatic | ScarletteSkunk<br>[asset #526516](https://www.steamgriddb.com/grid/526516) |
 | [![BCUS98281](../thumbnails/BCUS98281.png)](../art/BCUS98281.png) | Jak and Daxter Collection | `BCUS98281` | automatic | fia<br>[asset #559173](https://www.steamgriddb.com/grid/559173) |
 | [![BLUS30374](../thumbnails/BLUS30374.png)](../art/BLUS30374.png) | James Cameron&#x27;s Avatar: The Game | `BLUS30374` | automatic | mitsuuuuuu<br>[asset #699487](https://www.steamgriddb.com/grid/699487) |
 | [![BLUS30084](../thumbnails/BLUS30084.png)](../art/BLUS30084.png) | Juiced 2: Hot Import Nights | `BLUS30084` | automatic | thatRdude<br>[asset #772934](https://www.steamgriddb.com/grid/772934) |
@@ -293,6 +314,9 @@ No entries in this section yet.
 | [![BLUS30400](../thumbnails/BLUS30400.png)](../art/BLUS30400.png) | Just Cause 2 | `BLUS30400` | automatic | Mingebag<br>[asset #417468](https://www.steamgriddb.com/grid/417468) |
 | [![BLUS31315](../thumbnails/BLUS31315.png)](../art/BLUS31315.png) | Just Dance 2014 | `BLUS31315` | automatic | Plague<br>[asset #590979](https://www.steamgriddb.com/grid/590979) |
 | [![BLUS31454](../thumbnails/BLUS31454.png)](../art/BLUS31454.png) | Just Dance 2015 | `BLUS31454` | automatic | Plague<br>[asset #590991](https://www.steamgriddb.com/grid/590991) |
+| [![BLUS31558](../thumbnails/BLUS31558.png)](../art/BLUS31558.png) | Just Dance 2016 | `BLUS31558` | automatic | Plague<br>[asset #590978](https://www.steamgriddb.com/grid/590978) |
+| [![BLUS31595](../thumbnails/BLUS31595.png)](../art/BLUS31595.png) | Just Dance 2017 | `BLUS31595` | automatic | Plague<br>[asset #590974](https://www.steamgriddb.com/grid/590974) |
+| [![BLUS31613](../thumbnails/BLUS31613.png)](../art/BLUS31613.png) | Just Dance 2018 | `BLUS31613` | automatic | Plague<br>[asset #590999](https://www.steamgriddb.com/grid/590999) |
 | [![BLUS30899](../thumbnails/BLUS30899.png)](../art/BLUS30899.png) | Just Dance 3 | `BLUS30899` | automatic | Plague<br>[asset #591216](https://www.steamgriddb.com/grid/591216) |
 | [![BLUS30914](../thumbnails/BLUS30899.png)](../art/BLUS30899.png) | Just Dance 3 | `BLUS30914` | automatic | Plague<br>[asset #591216](https://www.steamgriddb.com/grid/591216) |
 | [![BLUS30915](../thumbnails/BLUS30899.png)](../art/BLUS30899.png) | Just Dance 3 | `BLUS30915` | automatic | Plague<br>[asset #591216](https://www.steamgriddb.com/grid/591216) |
@@ -317,20 +341,24 @@ No entries in this section yet.
 | [![BLUS30794](../thumbnails/BLUS30794.png)](../art/BLUS30794.png) | LEGO Harry Potter: Years 5-7 | `BLUS30794` | automatic | cking<br>[asset #337073](https://www.steamgriddb.com/grid/337073) |
 | [![BLUS30425](../thumbnails/BLUS30425.png)](../art/BLUS30425.png) | LEGO Indiana Jones 2: The Adventure Continues | `BLUS30425` | automatic | MoonLight<br>[asset #158568](https://www.steamgriddb.com/grid/158568) |
 | [![BLUS30141](../thumbnails/BLUS30141.png)](../art/BLUS30141.png) | LEGO Indiana Jones: The Original Adventures | `BLUS30141` | automatic | Tyra64<br>[asset #199603](https://www.steamgriddb.com/grid/199603) |
+| [![BLUS31518](../thumbnails/BLUS31518.png)](../art/BLUS31518.png) | LEGO Jurassic World | `BLUS31518` | automatic | cking<br>[asset #336870](https://www.steamgriddb.com/grid/336870) |
 | [![BLUS31161](../thumbnails/BLUS31161.png)](../art/BLUS31161.png) | LEGO Marvel Super Heroes | `BLUS31161` | automatic | cking<br>[asset #337077](https://www.steamgriddb.com/grid/337077) |
 | [![BLUS30744](../thumbnails/BLUS30744.png)](../art/BLUS30744.png) | LEGO Pirates of the Caribbean: The Video Game | `BLUS30744` | automatic | carlsgrids<br>[asset #152844](https://www.steamgriddb.com/grid/152844) |
 | [![BLUS30382](../thumbnails/BLUS30382.png)](../art/BLUS30382.png) | LEGO Rock Band | `BLUS30382` | automatic | ZazaMastro<br>[asset #480509](https://www.steamgriddb.com/grid/480509) |
 | [![BLUS30540](../thumbnails/BLUS30540.png)](../art/BLUS30540.png) | LEGO Star Wars III: The Clone Wars | `BLUS30540` | automatic | FrostGamer98<br>[asset #158398](https://www.steamgriddb.com/grid/158398) |
 | [![BLUS30079](../thumbnails/BLUS30079.png)](../art/BLUS30079.png) | LEGO Star Wars: The Complete Saga | `BLUS30079` | automatic | cking<br>[asset #336872](https://www.steamgriddb.com/grid/336872) |
+| [![BLUS31578](../thumbnails/BLUS31578.png)](../art/BLUS31578.png) | LEGO Star Wars: The Force Awakens | `BLUS31578` | automatic | SirYodaJedi<br>[asset #139430](https://www.steamgriddb.com/grid/139430) |
 | [![BLUS31392](../thumbnails/BLUS31392.png)](../art/BLUS31392.png) | LEGO The Hobbit | `BLUS31392` | automatic | Varimarthas<br>[asset #165543](https://www.steamgriddb.com/grid/165543) |
 | [![BLUS30963](../thumbnails/BLUS30963.png)](../art/BLUS30963.png) | LEGO The Lord of the Rings | `BLUS30963` | automatic | cking<br>[asset #337061](https://www.steamgriddb.com/grid/337061) |
 | [![BLUS31164](../thumbnails/BLUS31164.png)](../art/BLUS31164.png) | Lightning Returns: Final Fantasy XIII | `BLUS31164` | automatic | riefu24<br>[asset #164274](https://www.steamgriddb.com/grid/164274) |
 | [![BCUS98148](../thumbnails/BCUS98148.png)](../art/BCUS98148.png) | LittleBigPlanet | `BCUS98148` | automatic | Shiios42<br>[asset #238018](https://www.steamgriddb.com/grid/238018) |
 | [![BCUS98245](../thumbnails/BCUS98245.png)](../art/BCUS98245.png) | LittleBigPlanet 2 | `BCUS98245` | automatic | Maxine<br>[asset #208100](https://www.steamgriddb.com/grid/208100) |
+| [![BCUS81138](../thumbnails/BCUS98362.png)](../art/BCUS98362.png) | LittleBigPlanet 3 | `BCUS81138` | automatic | Varimarthas<br>[asset #165200](https://www.steamgriddb.com/grid/165200) |
 | [![BCUS98362](../thumbnails/BCUS98362.png)](../art/BCUS98362.png) | LittleBigPlanet 3 | `BCUS98362` | automatic | Varimarthas<br>[asset #165200](https://www.steamgriddb.com/grid/165200) |
 | [![BCUS98254](../thumbnails/BCUS98254.png)](../art/BCUS98254.png) | LittleBigPlanet Karting | `BCUS98254` | automatic | Kynd<br>[asset #224769](https://www.steamgriddb.com/grid/224769) |
 | [![BCUS99089](../thumbnails/BCUS98254.png)](../art/BCUS98254.png) | LittleBigPlanet Karting | `BCUS99089` | automatic | Kynd<br>[asset #224769](https://www.steamgriddb.com/grid/224769) |
 | [![BLUS30917](../thumbnails/BLUS30917.png)](../art/BLUS30917.png) | Lollipop Chainsaw | `BLUS30917` | automatic | Shiios42<br>[asset #238013](https://www.steamgriddb.com/grid/238013) |
+| [![BLUS31554](../thumbnails/BLUS31554.png)](../art/BLUS31554.png) | Lost Dimension | `BLUS31554` | automatic | Plague<br>[asset #773988](https://www.steamgriddb.com/grid/773988) |
 | [![BLUS30434](../thumbnails/BLUS30434.png)](../art/BLUS30434.png) | Lost Planet 2 | `BLUS30434` | automatic | flamepanther<br>[asset #154419](https://www.steamgriddb.com/grid/154419) |
 | [![BLUS31020](../thumbnails/BLUS31020.png)](../art/BLUS31020.png) | Lost Planet 3 | `BLUS31020` | automatic | flamepanther<br>[asset #142942](https://www.steamgriddb.com/grid/142942) |
 | [![BLUS30113](../thumbnails/BLUS30113.png)](../art/BLUS30113.png) | Lost Planet: Extreme Condition | `BLUS30113` | automatic | flamepanther<br>[asset #154418](https://www.steamgriddb.com/grid/154418) |
@@ -342,6 +370,8 @@ No entries in this section yet.
 | [![BLUS30770](../thumbnails/BLUS30770.png)](../art/BLUS30770.png) | Madden NFL 12 | `BLUS30770` | automatic | Mentos0723<br>[asset #730792](https://www.steamgriddb.com/grid/730792) |
 | [![BLUS30973](../thumbnails/BLUS30973.png)](../art/BLUS30973.png) | Madden NFL 13 | `BLUS30973` | automatic | Mentos0723<br>[asset #730879](https://www.steamgriddb.com/grid/730879) |
 | [![BLUS31428](../thumbnails/BLUS31428.png)](../art/BLUS31428.png) | Madden NFL 15 | `BLUS31428` | automatic | Hamid<br>[asset #801295](https://www.steamgriddb.com/grid/801295) |
+| [![BLUS31521](../thumbnails/BLUS31521.png)](../art/BLUS31521.png) | Madden NFL 16 | `BLUS31521` | automatic | Hamid<br>[asset #801332](https://www.steamgriddb.com/grid/801332) |
+| [![BLUS31589](../thumbnails/BLUS31589.png)](../art/BLUS31589.png) | Madden NFL 17 | `BLUS31589` | automatic | Hamid<br>[asset #801297](https://www.steamgriddb.com/grid/801297) |
 | [![BLUS30281](../thumbnails/BLUS30281.png)](../art/BLUS30281.png) | Mafia II | `BLUS30281` | automatic | anteR<br>[asset #385614](https://www.steamgriddb.com/grid/385614) |
 | [![BLUS30472](../thumbnails/BLUS30472.png)](../art/BLUS30472.png) | Majin and the Forsaken Kingdom | `BLUS30472` | automatic | Shiios42<br>[asset #347541](https://www.steamgriddb.com/grid/347541) |
 | [![BLUS30010](../thumbnails/BLUS30010.png)](../art/BLUS30010.png) | Marvel: Ultimate Alliance | `BLUS30010` | automatic | CriticalComposer<br>[asset #139065](https://www.steamgriddb.com/grid/139065) |
@@ -352,6 +382,7 @@ No entries in this section yet.
 | [![BLUS30557](../thumbnails/BLUS30557.png)](../art/BLUS30557.png) | Max Payne 3 | `BLUS30557` | automatic | TheKersalMassive<br>[asset #193687](https://www.steamgriddb.com/grid/193687) |
 | [![BLUS30067](../thumbnails/BLUS30067.png)](../art/BLUS30067.png) | Medal of Honor: Airborne | `BLUS30067` | automatic | CriticalComposer<br>[asset #262455](https://www.steamgriddb.com/grid/262455) |
 | [![BLUS30990](../thumbnails/BLUS30990.png)](../art/BLUS30990.png) | Medal of Honor: Warfighter | `BLUS30990` | automatic | FrostWolf<br>[asset #166304](https://www.steamgriddb.com/grid/166304) |
+| [![BCUS90142](../thumbnails/BLUS30056.png)](../art/BLUS30056.png) | Mercenaries 2: World in Flames | `BCUS90142` | automatic | mr.empacotado<br>[asset #854446](https://www.steamgriddb.com/grid/854446) |
 | [![BLUS30056](../thumbnails/BLUS30056.png)](../art/BLUS30056.png) | Mercenaries 2: World in Flames | `BLUS30056` | automatic | mr.empacotado<br>[asset #854446](https://www.steamgriddb.com/grid/854446) |
 | [![BLUS31045](../thumbnails/BLUS31045.png)](../art/BLUS31045.png) | Metal Gear Rising: Revengeance | `BLUS31045` | automatic | Timberfang<br>[asset #137214](https://www.steamgriddb.com/grid/137214) |
 | [![BLUS30109](../thumbnails/BLUS30109.png)](../art/BLUS30109.png) | Metal Gear Solid 4: Guns of the Patriots | `BLUS30109` | automatic | CriticalComposer<br>[asset #139121](https://www.steamgriddb.com/grid/139121) |
@@ -364,12 +395,14 @@ No entries in this section yet.
 | [![BLUS30190](../thumbnails/BLUS30190.png)](../art/BLUS30190.png) | Midnight Club: Los Angeles | `BLUS30190` | automatic | ZazaMastro<br>[asset #480382](https://www.steamgriddb.com/grid/480382) |
 | [![BLUS30547](../thumbnails/BLUS30547.png)](../art/BLUS30547.png) | Mindjack | `BLUS30547` | automatic | Shiios42<br>[asset #340422](https://www.steamgriddb.com/grid/340422) |
 | [![BLUS31426](../thumbnails/BLUS31426.png)](../art/BLUS31426.png) | Minecraft: PlayStation 3 Edition | `BLUS31426` | automatic | Purgenta<br>[asset #303594](https://www.steamgriddb.com/grid/303594) |
+| [![BLUS31579](../thumbnails/BLUS31579.png)](../art/BLUS31579.png) | Minecraft: Story Mode: A Telltale Games Series | `BLUS31579` | automatic | FrostGamer98<br>[asset #158306](https://www.steamgriddb.com/grid/158306) |
 | [![BLUS30284](../thumbnails/BLUS30284.png)](../art/BLUS30284.png) | Mini Ninjas | `BLUS30284` | automatic | MoonLight<br>[asset #158571](https://www.steamgriddb.com/grid/158571) |
 | [![BLUS30179](../thumbnails/BLUS30179.png)](../art/BLUS30179.png) | Mirror&#x27;s Edge | `BLUS30179` | automatic | fia<br>[asset #559986](https://www.steamgriddb.com/grid/559986) |
 | [![BCUS98207](../thumbnails/BCUS98207.png)](../art/BCUS98207.png) | MLB 10: The Show | `BCUS98207` | automatic | Mentos0723<br>[asset #733662](https://www.steamgriddb.com/grid/733662) |
 | [![BCUS98251](../thumbnails/BCUS98251.png)](../art/BCUS98251.png) | MLB 11: The Show | `BCUS98251` | automatic | Mentos0723<br>[asset #641172](https://www.steamgriddb.com/grid/641172) |
 | [![BCUS98167](../thumbnails/BCUS98167.png)](../art/BCUS98167.png) | ModNation Racers | `BCUS98167` | automatic | reTokyo<br>[asset #209723](https://www.steamgriddb.com/grid/209723) |
 | [![BLUS30533](../thumbnails/BLUS30533.png)](../art/BLUS30533.png) | Monopoly Streets | `BLUS30533` | automatic | Ellite<br>[asset #471136](https://www.steamgriddb.com/grid/471136) |
+| [![BLUS31571](../thumbnails/BLUS31571.png)](../art/BLUS31571.png) | Monster High: New Ghoul in School | `BLUS31571` | automatic | ScarletteSkunk<br>[asset #523041](https://www.steamgriddb.com/grid/523041) |
 | [![BLUS30246](../thumbnails/BLUS30246.png)](../art/BLUS30246.png) | Mortal Kombat vs. DC Universe | `BLUS30246` | automatic | Shiios42<br>[asset #340803](https://www.steamgriddb.com/grid/340803) |
 | [![BLUS30902](../thumbnails/BLUS30902.png)](../art/BLUS30902.png) | Mortal Kombat: Komplete Edition | `BLUS30902` | automatic | anteR<br>[asset #387965](https://www.steamgriddb.com/grid/387965) |
 | [![BCUS98242](../thumbnails/BCUS98242.png)](../art/BCUS98242.png) | MotorStorm: Apocalypse | `BCUS98242` | automatic | Purgenta<br>[asset #278227](https://www.steamgriddb.com/grid/278227) |
@@ -388,6 +421,7 @@ No entries in this section yet.
 | [![BLUS31421](../thumbnails/BLUS31421.png)](../art/BLUS31421.png) | Naruto Shippuden: Ultimate Ninja Storm Revolution | `BLUS31421` | automatic | Rame2024<br>[asset #509842](https://www.steamgriddb.com/grid/509842) |
 | [![BLUS30200](../thumbnails/BLUS30200.png)](../art/BLUS30200.png) | Naruto: Ultimate Ninja Storm | `BLUS30200` | automatic | WeaponPC<br>[asset #139767](https://www.steamgriddb.com/grid/139767) |
 | [![BLUS31378](../thumbnails/BLUS31378.png)](../art/BLUS31378.png) | NASCAR &#x27;14 | `BLUS31378` | automatic | cca_jp<br>[asset #359424](https://www.steamgriddb.com/grid/359424) |
+| [![BLUS31580](../thumbnails/BLUS31580.png)](../art/BLUS31580.png) | NASCAR &#x27;15: Victory Edition | `BLUS31580` | automatic | cca_jp<br>[asset #359441](https://www.steamgriddb.com/grid/359441) |
 | [![BLUS30507](../thumbnails/BLUS30507.png)](../art/BLUS30507.png) | Naughty Bear | `BLUS30507` | automatic | fia<br>[asset #560359](https://www.steamgriddb.com/grid/560359) |
 | [![BLUS30700](../thumbnails/BLUS30700.png)](../art/BLUS30700.png) | Naughty Bear: Gold Edition | `BLUS30700` | automatic | SiTWulf<br>[asset #377491](https://www.steamgriddb.com/grid/377491) |
 | [![BLUS31143](../thumbnails/BLUS30700.png)](../art/BLUS30700.png) | Naughty Bear: Gold Edition | `BLUS31143` | automatic | SiTWulf<br>[asset #377491](https://www.steamgriddb.com/grid/377491) |
@@ -397,6 +431,9 @@ No entries in this section yet.
 | [![BLUS30830](../thumbnails/BLUS30830.png)](../art/BLUS30830.png) | NBA 2K12 | `BLUS30830` | automatic | mendihoza<br>[asset #270981](https://www.steamgriddb.com/grid/270981) |
 | [![BLUS31028](../thumbnails/BLUS31028.png)](../art/BLUS31028.png) | NBA 2K13 | `BLUS31028` | automatic | Mentos0723<br>[asset #733714](https://www.steamgriddb.com/grid/733714) |
 | [![BLUS31456](../thumbnails/BLUS31456.png)](../art/BLUS31456.png) | NBA 2K15 | `BLUS31456` | automatic | WeaponPC<br>[asset #139669](https://www.steamgriddb.com/grid/139669) |
+| [![BLUS31542](../thumbnails/BLUS31542.png)](../art/BLUS31542.png) | NBA 2K16 | `BLUS31542` | automatic | Varimarthas<br>[asset #165623](https://www.steamgriddb.com/grid/165623) |
+| [![BLUS31602](../thumbnails/BLUS31602.png)](../art/BLUS31602.png) | NBA 2K17 | `BLUS31602` | automatic | mendihoza<br>[asset #270985](https://www.steamgriddb.com/grid/270985) |
+| [![BLUS31614](../thumbnails/BLUS31614.png)](../art/BLUS31614.png) | NBA 2K18 | `BLUS31614` | automatic | mendihoza<br>[asset #270988](https://www.steamgriddb.com/grid/270988) |
 | [![BLUS30135](../thumbnails/BLUS30135.png)](../art/BLUS30135.png) | NBA Ballers: Chosen One | `BLUS30135` | automatic | riefu24<br>[asset #345244](https://www.steamgriddb.com/grid/345244) |
 | [![BLUS30173](../thumbnails/BLUS30173.png)](../art/BLUS30173.png) | NBA Live 09 | `BLUS30173` | automatic | Mentos0723<br>[asset #733601](https://www.steamgriddb.com/grid/733601) |
 | [![BLUS30393](../thumbnails/BLUS30393.png)](../art/BLUS30393.png) | NBA Live 10 | `BLUS30393` | automatic | Mentos0723<br>[asset #733715](https://www.steamgriddb.com/grid/733715) |
@@ -410,12 +447,15 @@ No entries in this section yet.
 | [![BLUS30757](../thumbnails/BLUS30757.png)](../art/BLUS30757.png) | Need for Speed: The Run | `BLUS30757` | automatic | FrostWolf<br>[asset #154002](https://www.steamgriddb.com/grid/154002) |
 | [![BLUS30248](../thumbnails/BLUS30248.png)](../art/BLUS30248.png) | Need for Speed: Undercover | `BLUS30248` | automatic | FrostWolf<br>[asset #153997](https://www.steamgriddb.com/grid/153997) |
 | [![BLUS31436](../thumbnails/BLUS31436.png)](../art/BLUS31436.png) | NHL 15 | `BLUS31436` | automatic | Hamid<br>[asset #801296](https://www.steamgriddb.com/grid/801296) |
+| [![BLUS31540](../thumbnails/BLUS31540.png)](../art/BLUS31540.png) | NHL Legacy Edition | `BLUS31540` | automatic | Hamid<br>[asset #801294](https://www.steamgriddb.com/grid/801294) |
 | [![BLUS30947](../thumbnails/BLUS30947.png)](../art/BLUS30947.png) | Ni no Kuni: Wrath of the White Witch | `BLUS30947` | automatic | syahr<br>[asset #688376](https://www.steamgriddb.com/grid/688376) |
 | [![BLUS30481](../thumbnails/BLUS30481.png)](../art/BLUS30481.png) | Nier | `BLUS30481` | automatic | aarbron72<br>[asset #532893](https://www.steamgriddb.com/grid/532893) |
 | [![BLUS30916](../thumbnails/BLUS30916.png)](../art/BLUS30916.png) | Ninja Gaiden 3 | `BLUS30916` | automatic | Jiquita<br>[asset #533230](https://www.steamgriddb.com/grid/533230) |
 | [![BLUS31175](../thumbnails/BLUS31175.png)](../art/BLUS31175.png) | Ninja Gaiden 3: Razor&#x27;s Edge | `BLUS31175` | automatic | Kynd<br>[asset #229085](https://www.steamgriddb.com/grid/229085) |
 | [![BLUS30036](../thumbnails/BLUS30036.png)](../art/BLUS30036.png) | Ninja Gaiden Sigma | `BLUS30036` | automatic | clam.buttocks<br>[asset #452996](https://www.steamgriddb.com/grid/452996) |
 | [![BLUS30652](../thumbnails/BLUS30652.png)](../art/BLUS30652.png) | No More Heroes: Heroes&#x27; Paradise | `BLUS30652` | automatic | fraiak<br>[asset #252792](https://www.steamgriddb.com/grid/252792) |
+| [![BLUS31620](../thumbnails/BLUS31620.png)](../art/BLUS31620.png) | Oddworld: Stranger&#x27;s Wrath HD | `BLUS31620` | automatic | flamepanther<br>[asset #156794](https://www.steamgriddb.com/grid/156794) |
+| [![BLUS31601](../thumbnails/BLUS31601.png)](../art/BLUS31601.png) | Odin Sphere: Leifthrasir | `BLUS31601` | automatic | riefu24<br>[asset #170154](https://www.steamgriddb.com/grid/170154) |
 | [![BLUS30316](../thumbnails/BLUS30316.png)](../art/BLUS30316.png) | Operation Flashpoint: Dragon Rising | `BLUS30316` | automatic | Devin<br>[asset #140735](https://www.steamgriddb.com/grid/140735) |
 | [![BLUS30704](../thumbnails/BLUS30704.png)](../art/BLUS30704.png) | Operation Flashpoint: Red River | `BLUS30704` | automatic | Neuropod<br>[asset #430912](https://www.steamgriddb.com/grid/430912) |
 | [![BLUS30317](../thumbnails/BLUS30317.png)](../art/BLUS30317.png) | Overlord II | `BLUS30317` | automatic | Neuropod<br>[asset #430928](https://www.steamgriddb.com/grid/430928) |
@@ -426,6 +466,7 @@ No entries in this section yet.
 | [![BLUS31219](../thumbnails/BLUS31219.png)](../art/BLUS31219.png) | Payday 2 | `BLUS31219` | automatic | Kam<br>[asset #137570](https://www.steamgriddb.com/grid/137570) |
 | [![BLUS30985](../thumbnails/BLUS30985.png)](../art/BLUS30985.png) | Persona 4 Arena | `BLUS30985` | automatic | Gray Mess<br>[asset #144842](https://www.steamgriddb.com/grid/144842) |
 | [![BLUS31469](../thumbnails/BLUS31469.png)](../art/BLUS31469.png) | Persona 4 Arena Ultimax | `BLUS31469` | automatic | Gray Mess<br>[asset #144841](https://www.steamgriddb.com/grid/144841) |
+| [![BLUS31604](../thumbnails/BLUS31604.png)](../art/BLUS31604.png) | Persona 5 | `BLUS31604` | automatic | Comcord<br>[asset #166622](https://www.steamgriddb.com/grid/166622) |
 | [![BLUS30852](../thumbnails/BLUS30852.png)](../art/BLUS30852.png) | Plants vs. Zombies | `BLUS30852` | automatic | Varimarthas<br>[asset #415373](https://www.steamgriddb.com/grid/415373) |
 | [![BLUS31410](../thumbnails/BLUS31410.png)](../art/BLUS31410.png) | Plants vs. Zombies: Garden Warfare | `BLUS31410` | automatic | Varimarthas<br>[asset #165563](https://www.steamgriddb.com/grid/165563) |
 | [![BCUS98472](../thumbnails/BCUS98472.png)](../art/BCUS98472.png) | PlayStation All-Stars Battle Royale | `BCUS98472` | automatic | CluckenDip<br>[asset #136274](https://www.steamgriddb.com/grid/136274) |
@@ -479,6 +520,7 @@ No entries in this section yet.
 | [![BLUS30123](../thumbnails/BLUS30123.png)](../art/BLUS30123.png) | Sega Superstars Tennis | `BLUS30123` | automatic | StarDontMiss<br>[asset #396608](https://www.steamgriddb.com/grid/396608) |
 | [![BLUS30492](../thumbnails/BLUS30492.png)](../art/BLUS30492.png) | Sengoku Basara: Samurai Heroes | `BLUS30492` | automatic | Yochia<br>[asset #208984](https://www.steamgriddb.com/grid/208984) |
 | [![BLUS30653](../thumbnails/BLUS30653.png)](../art/BLUS30653.png) | Shadows of the Damned | `BLUS30653` | automatic | Shiios42<br>[asset #347543](https://www.steamgriddb.com/grid/347543) |
+| [![BLUS31622](../thumbnails/BLUS31622.png)](../art/BLUS31622.png) | Shakedown: Hawaii | `BLUS31622` | automatic | WeaponPC<br>[asset #139697](https://www.steamgriddb.com/grid/139697) |
 | [![BLUS30303](../thumbnails/BLUS30303.png)](../art/BLUS30303.png) | Shaun White Skateboarding | `BLUS30303` | automatic | HQv2<br>[asset #592590](https://www.steamgriddb.com/grid/592590) |
 | [![BLUS30223](../thumbnails/BLUS30223.png)](../art/BLUS30223.png) | Shaun White Snowboarding | `BLUS30223` | automatic | Mentos0723<br>[asset #733806](https://www.steamgriddb.com/grid/733806) |
 | [![BLUS30233](../thumbnails/BLUS30223.png)](../art/BLUS30223.png) | Shaun White Snowboarding | `BLUS30233` | automatic | Mentos0723<br>[asset #733806](https://www.steamgriddb.com/grid/733806) |
@@ -491,7 +533,9 @@ No entries in this section yet.
 | [![BLUS30253](../thumbnails/BLUS30253.png)](../art/BLUS30253.png) | Skate 2 | `BLUS30253` | automatic | PlayingKarrde<br>[asset #616175](https://www.steamgriddb.com/grid/616175) |
 | [![BLUS30464](../thumbnails/BLUS30464.png)](../art/BLUS30464.png) | Skate 3 | `BLUS30464` | automatic | skyaos<br>[asset #156812](https://www.steamgriddb.com/grid/156812) |
 | [![BLUS31049](../thumbnails/BLUS31049.png)](../art/BLUS31049.png) | Skylanders: Giants | `BLUS31049` | automatic | GoahSparky<br>[asset #657759](https://www.steamgriddb.com/grid/657759) |
+| [![BLUS31600](../thumbnails/BLUS31600.png)](../art/BLUS31600.png) | Skylanders: Imaginators | `BLUS31600` | automatic | GoahSparky<br>[asset #657770](https://www.steamgriddb.com/grid/657770) |
 | [![BLUS30779](../thumbnails/BLUS30779.png)](../art/BLUS30779.png) | Skylanders: Spyro&#x27;s Adventure | `BLUS30779` | automatic | GoahSparky<br>[asset #657758](https://www.steamgriddb.com/grid/657758) |
+| [![BLUS31545](../thumbnails/BLUS31545.png)](../art/BLUS31545.png) | Skylanders: SuperChargers | `BLUS31545` | automatic | GoahSparky<br>[asset #657769](https://www.steamgriddb.com/grid/657769) |
 | [![BLUS31076](../thumbnails/BLUS31076.png)](../art/BLUS31076.png) | Skylanders: Swap Force | `BLUS31076` | automatic | GoahSparky<br>[asset #657760](https://www.steamgriddb.com/grid/657760) |
 | [![BLUS31442](../thumbnails/BLUS31442.png)](../art/BLUS31442.png) | Skylanders: Trap Team | `BLUS31442` | automatic | fraiak<br>[asset #418974](https://www.steamgriddb.com/grid/418974) |
 | [![BLUS30927](../thumbnails/BLUS30927.png)](../art/BLUS30927.png) | Sleeping Dogs | `BLUS30927` | automatic | mynameisunique<br>[asset #181444](https://www.steamgriddb.com/grid/181444) |
@@ -517,20 +561,27 @@ No entries in this section yet.
 | [![BLUS30394](../thumbnails/BLUS30394.png)](../art/BLUS30394.png) | Star Wars: The Clone Wars: Republic Heroes | `BLUS30394` | automatic | ScoringTiger487<br>[asset #533985](https://www.steamgriddb.com/grid/533985) |
 | [![BLUS30534](../thumbnails/BLUS30534.png)](../art/BLUS30534.png) | Star Wars: The Force Unleashed II | `BLUS30534` | automatic | flamepanther<br>[asset #141939](https://www.steamgriddb.com/grid/141939) |
 | [![BLUS30445](../thumbnails/BLUS30445.png)](../art/BLUS30445.png) | Star Wars: The Force Unleashed: Ultimate Sith Edition | `BLUS30445` | automatic | Skyclad<br>[asset #136598](https://www.steamgriddb.com/grid/136598) |
+| [![BLUS31538](../thumbnails/BLUS31538.png)](../art/BLUS31538.png) | Steins;Gate | `BLUS31538` | automatic | Devin<br>[asset #160838](https://www.steamgriddb.com/grid/160838) |
 | [![BLUS30265](../thumbnails/BLUS30265.png)](../art/BLUS30265.png) | Street Fighter IV | `BLUS30265` | automatic | CriticalComposer<br>[asset #172260](https://www.steamgriddb.com/grid/172260) |
 | [![BLUS30722](../thumbnails/BLUS30722.png)](../art/BLUS30722.png) | Street Fighter X Tekken | `BLUS30722` | automatic | WeaponPC<br>[asset #139518](https://www.steamgriddb.com/grid/139518) |
 | [![BLUS30073](../thumbnails/BLUS30073.png)](../art/BLUS30073.png) | Stuntman: Ignition | `BLUS30073` | automatic | Shiios42<br>[asset #233256](https://www.steamgriddb.com/grid/233256) |
 | [![BLUS30046](../thumbnails/BLUS30046.png)](../art/BLUS30046.png) | Surf&#x27;s Up | `BLUS30046` | automatic | Mentos0723<br>[asset #730802](https://www.steamgriddb.com/grid/730802) |
+| [![BLUS31586](../thumbnails/BLUS31586.png)](../art/BLUS31586.png) | Tales from the Borderlands | `BLUS31586` | automatic | Varimarthas<br>[asset #165652](https://www.steamgriddb.com/grid/165652) |
 | [![BLUS30903](../thumbnails/BLUS30903.png)](../art/BLUS30903.png) | Tales of Graces f | `BLUS30903` | automatic | Aut0mata<br>[asset #365684](https://www.steamgriddb.com/grid/365684) |
 | [![BLUS31172](../thumbnails/BLUS31172.png)](../art/BLUS31172.png) | Tales of Symphonia Chronicles | `BLUS31172` | automatic | Plague<br>[asset #482217](https://www.steamgriddb.com/grid/482217) |
 | [![BLUS31006](../thumbnails/BLUS31006.png)](../art/BLUS31006.png) | Tales of Xillia | `BLUS31006` | automatic | fia<br>[asset #559699](https://www.steamgriddb.com/grid/559699) |
 | [![BLUS31397](../thumbnails/BLUS31397.png)](../art/BLUS31397.png) | Tales of Xillia 2 | `BLUS31397` | automatic | regehman<br>[asset #151097](https://www.steamgriddb.com/grid/151097) |
 | [![BLUS31447](../thumbnails/BLUS31397.png)](../art/BLUS31397.png) | Tales of Xillia 2 | `BLUS31447` | automatic | regehman<br>[asset #151097](https://www.steamgriddb.com/grid/151097) |
+| [![BLUS31533](../thumbnails/BLUS31533.png)](../art/BLUS31533.png) | Tales of Zestiria | `BLUS31533` | automatic | CriticalComposer<br>[asset #139284](https://www.steamgriddb.com/grid/139284) |
 | [![BLUS31476](../thumbnails/BLUS31476.png)](../art/BLUS31476.png) | Tears to Tiara II: Heir of the Overlord | `BLUS31476` | automatic | Shadicluigi<br>[asset #255147](https://www.steamgriddb.com/grid/255147) |
+| [![BLUS31536](../thumbnails/BLUS31536.png)](../art/BLUS31536.png) | Teenage Mutant Ninja Turtles: Mutants in Manhattan | `BLUS31536` | automatic | Samcrossette<br>[asset #748461](https://www.steamgriddb.com/grid/748461) |
 | [![BLUS30359](../thumbnails/BLUS30359.png)](../art/BLUS30359.png) | Tekken 6 | `BLUS30359` | automatic | Shiios42<br>[asset #255274](https://www.steamgriddb.com/grid/255274) |
 | [![BLUS31002](../thumbnails/BLUS31002.png)](../art/BLUS31002.png) | Tekken Tag Tournament 2 | `BLUS31002` | automatic | WeaponPC<br>[asset #139515](https://www.steamgriddb.com/grid/139515) |
+| [![BLUS31537](../thumbnails/BLUS31537.png)](../art/BLUS31537.png) | Terraria | `BLUS31537` | automatic | Kam<br>[asset #137692](https://www.steamgriddb.com/grid/137692) |
+| [![BLUS31520](../thumbnails/BLUS31520.png)](../art/BLUS31520.png) | Teslagrad | `BLUS31520` | automatic | Neuropod<br>[asset #426395](https://www.steamgriddb.com/grid/426395) |
 | [![BLUS30527](../thumbnails/BLUS30527.png)](../art/BLUS30527.png) | Test Drive Unlimited 2 | `BLUS30527` | automatic | ZazaMastro<br>[asset #480387](https://www.steamgriddb.com/grid/480387) |
 | [![BLUS30842](../thumbnails/BLUS30842.png)](../art/BLUS30842.png) | Test Drive: Ferrari Racing Legends | `BLUS30842` | automatic | wulfbraker<br>[asset #320213](https://www.steamgriddb.com/grid/320213) |
+| [![BLUS41044](../thumbnails/BLUS41044.png)](../art/BLUS41044.png) | The Amazing Spider-Man 2 | `BLUS41044` | automatic | boubou<br>[asset #167739](https://www.steamgriddb.com/grid/167739) |
 | [![BLUS30282](../thumbnails/BLUS30282.png)](../art/BLUS30282.png) | The Beatles: Rock Band | `BLUS30282` | automatic | GabrielXZLIVE<br>[asset #774940](https://www.steamgriddb.com/grid/774940) |
 | [![BLUS30280](../thumbnails/BLUS30280.png)](../art/BLUS30280.png) | The Bigs 2 | `BLUS30280` | automatic | disabled241<br>[asset #757388](https://www.steamgriddb.com/grid/757388) |
 | [![BLUS30780](../thumbnails/BLUS30780.png)](../art/BLUS30780.png) | The Bureau: XCOM Declassified | `BLUS30780` | automatic | Devin<br>[asset #140212](https://www.steamgriddb.com/grid/140212) |
@@ -543,10 +594,13 @@ No entries in this section yet.
 | [![BLUS31374](../thumbnails/BLUS31374.png)](../art/BLUS31374.png) | The Evil Within | `BLUS31374` | automatic | CluckenDip<br>[asset #241472](https://www.steamgriddb.com/grid/241472) |
 | [![BLUS30261](../thumbnails/BLUS30261.png)](../art/BLUS30261.png) | The Godfather II | `BLUS30261` | automatic | ZazaMastro<br>[asset #480377](https://www.steamgriddb.com/grid/480377) |
 | [![BLUS31312](../thumbnails/BLUS31312.png)](../art/BLUS31312.png) | The Guided Fate Paradox | `BLUS31312` | automatic | Plague<br>[asset #589665](https://www.steamgriddb.com/grid/589665) |
+| [![BLUS31576](../thumbnails/BLUS31576.png)](../art/BLUS31576.png) | The Jackbox Party Pack | `BLUS31576` | automatic | HexDawn<br>[asset #444942](https://www.steamgriddb.com/grid/444942) |
 | [![BLUS30353](../thumbnails/BLUS30353.png)](../art/BLUS30353.png) | The King of Fighters XII | `BLUS30353` | automatic | Kaede Monthmore<br>[asset #137516](https://www.steamgriddb.com/grid/137516) |
 | [![BLUS30845](../thumbnails/BLUS30845.png)](../art/BLUS30845.png) | The King of Fighters XIII | `BLUS30845` | automatic | Kaede Monthmore<br>[asset #136726](https://www.steamgriddb.com/grid/136726) |
 | [![BCUS98174](../thumbnails/BCUS98174.png)](../art/BCUS98174.png) | The Last of Us | `BCUS98174` | automatic | ABH20<br>[asset #144045](https://www.steamgriddb.com/grid/144045) |
 | [![BCUS99198](../thumbnails/BCUS98174.png)](../art/BCUS98174.png) | The Last of Us | `BCUS99198` | automatic | ABH20<br>[asset #144045](https://www.steamgriddb.com/grid/144045) |
+| [![BLUS31572](../thumbnails/BLUS31572.png)](../art/BLUS31572.png) | The Legend of Heroes: Trails of Cold Steel | `BLUS31572` | automatic | regehman<br>[asset #146937](https://www.steamgriddb.com/grid/146937) |
+| [![BLUS31597](../thumbnails/BLUS31597.png)](../art/BLUS31597.png) | The Legend of Heroes: Trails of Cold Steel II | `BLUS31597` | automatic | regehman<br>[asset #148575](https://www.steamgriddb.com/grid/148575) |
 | [![BLUS30205](../thumbnails/BLUS30205.png)](../art/BLUS30205.png) | The Legend of Spyro: Dawn of the Dragon | `BLUS30205` | automatic | Timberfang<br>[asset #137891](https://www.steamgriddb.com/grid/137891) |
 | [![BLUS31373](../thumbnails/BLUS31373.png)](../art/BLUS31373.png) | The LEGO Movie: Videogame | `BLUS31373` | automatic | fia<br>[asset #568602](https://www.steamgriddb.com/grid/568602) |
 | [![BLUS30593](../thumbnails/BLUS30593.png)](../art/BLUS30593.png) | The Lord of the Rings: Aragorn&#x27;s Quest | `BLUS30593` | automatic | Mentos0723<br>[asset #733717](https://www.steamgriddb.com/grid/733717) |
@@ -573,12 +627,15 @@ No entries in this section yet.
 | [![BLUS30131](../thumbnails/BLUS30125.png)](../art/BLUS30125.png) | Tom Clancy&#x27;s Rainbow Six: Vegas 2 | `BLUS30131` | automatic | CriticalComposer<br>[asset #139196](https://www.steamgriddb.com/grid/139196) |
 | [![BLUS31025](../thumbnails/BLUS31025.png)](../art/BLUS31025.png) | Tom Clancy&#x27;s Splinter Cell: Blacklist | `BLUS31025` | automatic | TheKersalMassive<br>[asset #193734](https://www.steamgriddb.com/grid/193734) |
 | [![BLUS30032](../thumbnails/BLUS30032.png)](../art/BLUS30032.png) | Tom Clancy&#x27;s Splinter Cell: Double Agent | `BLUS30032` | automatic | TheKersalMassive<br>[asset #227005](https://www.steamgriddb.com/grid/227005) |
+| [![BCUS90143](../thumbnails/BLUS30224.png)](../art/BLUS30224.png) | Tomb Raider: Underworld | `BCUS90143` | automatic | HitAgent<br>[asset #800711](https://www.steamgriddb.com/grid/800711) |
 | [![BLUS30224](../thumbnails/BLUS30224.png)](../art/BLUS30224.png) | Tomb Raider: Underworld | `BLUS30224` | automatic | HitAgent<br>[asset #800711](https://www.steamgriddb.com/grid/800711) |
+| [![BLUS31568](../thumbnails/BLUS31568.png)](../art/BLUS31568.png) | Tony Hawk&#x27;s Pro Skater 5 | `BLUS31568` | automatic | Gector(lint)Nathan<br>[asset #742199](https://www.steamgriddb.com/grid/742199) |
 | [![BLUS30011](../thumbnails/BLUS30011.png)](../art/BLUS30011.png) | Tony Hawk&#x27;s Project 8 | `BLUS30011` | automatic | skyaos<br>[asset #156811](https://www.steamgriddb.com/grid/156811) |
 | [![BLUS30071](../thumbnails/BLUS30071.png)](../art/BLUS30071.png) | Tony Hawk&#x27;s Proving Ground | `BLUS30071` | automatic | Goof14<br>[asset #439383](https://www.steamgriddb.com/grid/439383) |
 | [![BLUS30542](../thumbnails/BLUS30542.png)](../art/BLUS30542.png) | Tony Hawk: Shred | `BLUS30542` | automatic | Goof14<br>[asset #491403](https://www.steamgriddb.com/grid/491403) |
 | [![BLUS30427](../thumbnails/BLUS30427.png)](../art/BLUS30427.png) | Top Spin 4 | `BLUS30427` | automatic | Shiios42<br>[asset #338196](https://www.steamgriddb.com/grid/338196) |
 | [![BLUS30709](../thumbnails/BLUS30709.png)](../art/BLUS30709.png) | Transformers: Dark of the Moon | `BLUS30709` | automatic | Elke1131<br>[asset #136644](https://www.steamgriddb.com/grid/136644) |
+| [![BLUS31566](../thumbnails/BLUS31566.png)](../art/BLUS31566.png) | Transformers: Devastation | `BLUS31566` | automatic | fia<br>[asset #567700](https://www.steamgriddb.com/grid/567700) |
 | [![BLUS30681](../thumbnails/BLUS30681.png)](../art/BLUS30681.png) | Transformers: Fall of Cybertron | `BLUS30681` | automatic | Elke1131<br>[asset #136646](https://www.steamgriddb.com/grid/136646) |
 | [![BLUS31324](../thumbnails/BLUS31324.png)](../art/BLUS31324.png) | Transformers: Rise of the Dark Spark | `BLUS31324` | automatic | Elke1131<br>[asset #136649](https://www.steamgriddb.com/grid/136649) |
 | [![BLUS30047](../thumbnails/BLUS30047.png)](../art/BLUS30047.png) | Transformers: The Game | `BLUS30047` | automatic | Prabhjot19<br>[asset #263641](https://www.steamgriddb.com/grid/263641) |
@@ -607,10 +664,14 @@ No entries in this section yet.
 | [![BLUS30298](../thumbnails/BLUS30298.png)](../art/BLUS30298.png) | Wolfenstein | `BLUS30298` | automatic | FrostWolf<br>[asset #146870](https://www.steamgriddb.com/grid/146870) |
 | [![BLUS31220](../thumbnails/BLUS31220.png)](../art/BLUS31220.png) | Wolfenstein: The New Order | `BLUS31220` | automatic | TheKersalMassive<br>[asset #227003](https://www.steamgriddb.com/grid/227003) |
 | [![BLUS31168](../thumbnails/BLUS31168.png)](../art/BLUS31168.png) | WRC 3: FIA World Rally Championship | `BLUS31168` | automatic | Selion<br>[asset #366528](https://www.steamgriddb.com/grid/366528) |
+| [![BLUS31509](../thumbnails/BLUS31509.png)](../art/BLUS31509.png) | WRC 4: FIA World Rally Championship | `BLUS31509` | automatic | Purgenta<br>[asset #225858](https://www.steamgriddb.com/grid/225858) |
+| [![BLUS31549](../thumbnails/BLUS31549.png)](../art/BLUS31549.png) | WRC 5 | `BLUS31549` | automatic | cca_jp<br>[asset #359427](https://www.steamgriddb.com/grid/359427) |
 | [![BLUS30841](../thumbnails/BLUS30841.png)](../art/BLUS30841.png) | WWE &#x27;12 | `BLUS30841` | automatic | Shiios42<br>[asset #254563](https://www.steamgriddb.com/grid/254563) |
 | [![BLUS31015](../thumbnails/BLUS31015.png)](../art/BLUS31015.png) | WWE &#x27;13 | `BLUS31015` | automatic | Shiios42<br>[asset #254583](https://www.steamgriddb.com/grid/254583) |
 | [![BLUS31277](../thumbnails/BLUS31277.png)](../art/BLUS31277.png) | WWE 2K14 | `BLUS31277` | automatic | Shiios42<br>[asset #254564](https://www.steamgriddb.com/grid/254564) |
 | [![BLUS31464](../thumbnails/BLUS31464.png)](../art/BLUS31464.png) | WWE 2K15 | `BLUS31464` | automatic | Shiios42<br>[asset #254569](https://www.steamgriddb.com/grid/254569) |
+| [![BLUS31565](../thumbnails/BLUS31565.png)](../art/BLUS31565.png) | WWE 2K16 | `BLUS31565` | automatic | Shiios42<br>[asset #254566](https://www.steamgriddb.com/grid/254566) |
+| [![BLUS31599](../thumbnails/BLUS31599.png)](../art/BLUS31599.png) | WWE 2K17 | `BLUS31599` | automatic | Shiios42<br>[asset #254570](https://www.steamgriddb.com/grid/254570) |
 | [![BLUS30588](../thumbnails/BLUS30588.png)](../art/BLUS30588.png) | WWE All Stars | `BLUS30588` | automatic | Shiios42<br>[asset #357779](https://www.steamgriddb.com/grid/357779) |
 | [![BLUS30269](../thumbnails/BLUS30269.png)](../art/BLUS30269.png) | WWE Legends of WrestleMania | `BLUS30269` | automatic | Mentos0723<br>[asset #733809](https://www.steamgriddb.com/grid/733809) |
 | [![BLUS30082](../thumbnails/BLUS30082.png)](../art/BLUS30082.png) | WWE SmackDown vs. Raw 2008 | `BLUS30082` | automatic | Shiios42<br>[asset #254562](https://www.steamgriddb.com/grid/254562) |
@@ -619,6 +680,7 @@ No entries in this section yet.
 | [![BLUS30621](../thumbnails/BLUS30621.png)](../art/BLUS30621.png) | WWE SmackDown vs. Raw 2011 | `BLUS30621` | automatic | thatRdude<br>[asset #561511](https://www.steamgriddb.com/grid/561511) |
 | [![BLUS30241](../thumbnails/BLUS30241.png)](../art/BLUS30241.png) | X-Blades | `BLUS30241` | automatic | flamepanther<br>[asset #150052](https://www.steamgriddb.com/grid/150052) |
 | [![BLUS31367](../thumbnails/BLUS31367.png)](../art/BLUS31367.png) | XBlaze: Code: Embryo | `BLUS31367` | automatic | effcol<br>[asset #318034](https://www.steamgriddb.com/grid/318034) |
+| [![BLUS31523](../thumbnails/BLUS31523.png)](../art/BLUS31523.png) | XBlaze: Lost: Memories | `BLUS31523` | automatic | effcol<br>[asset #385006](https://www.steamgriddb.com/grid/385006) |
 | [![BLUS30943](../thumbnails/BLUS30943.png)](../art/BLUS30943.png) | XCOM: Enemy Unknown | `BLUS30943` | automatic | Devin<br>[asset #140213](https://www.steamgriddb.com/grid/140213) |
 | [![BLUS31203](../thumbnails/BLUS31203.png)](../art/BLUS31203.png) | Yaiba: Ninja Gaiden Z | `BLUS31203` | automatic | flamepanther<br>[asset #156788](https://www.steamgriddb.com/grid/156788) |
 | [![BLUS30826](../thumbnails/BLUS30826.png)](../art/BLUS30826.png) | Yakuza: Dead Souls | `BLUS30826` | automatic | ZappyTails<br>[asset #658493](https://www.steamgriddb.com/grid/658493) |

@@ -1,6 +1,46 @@
 {
   "provider": "SteamGridDB",
   "games": {
+    "BCUS81138": {
+      "title": "LittleBigPlanet 3",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165200",
+      "source_url": "https://cdn2.steamgriddb.com/grid/466892d569e6f45e0443e7022497e461.png",
+      "asset_id": 165200,
+      "artwork": "art/BCUS98362.png",
+      "sha256": "f7ac79d4c9900dacf496a4a19666e6dd0f0d017826bfd8d4b13eac9cab2f6905"
+    },
+    "BCUS90142": {
+      "title": "Mercenaries 2: World in Flames",
+      "creator": "mr.empacotado",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/854446",
+      "source_url": "https://cdn2.steamgriddb.com/grid/3198c575fa55ab947fd6054e3d522126.png",
+      "asset_id": 854446,
+      "artwork": "art/BLUS30056.png",
+      "sha256": "99899c336f4297ab1259a719c097460643410411a3bd3cf51401957127138ceb"
+    },
+    "BCUS90143": {
+      "title": "Tomb Raider: Underworld",
+      "creator": "HitAgent",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/800711",
+      "source_url": "https://cdn2.steamgriddb.com/grid/38326fb12842f9c0c785cffb6afac2cf.png",
+      "asset_id": 800711,
+      "artwork": "art/BLUS30224.png",
+      "sha256": "5cc2108c08645fe941f9b9977abf7f8a1c29ce5e7431b4781cae771860924d88"
+    },
+    "BCUS90162": {
+      "title": "Call of Duty: Black Ops",
+      "creator": "ParsaMON",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/352797",
+      "source_url": "https://cdn2.steamgriddb.com/grid/7b74f3bdc587f079736a8c19dfa158b3.jpg",
+      "asset_id": 352797,
+      "artwork": "art/BLUS30591.png",
+      "sha256": "2eded82f7decc65cc4639f1eda7883cad4ec4825d03efea5b1e694b30f87722c"
+    },
     "BCUS98111": {
       "title": "God of War III",
       "creator": "Prabhjot19",
@@ -6070,6 +6110,586 @@
       "asset_id": 229014,
       "artwork": "art/BLUS31507.png",
       "sha256": "5d94696c87c8ff43efc4313f472ac5bc7da9ce40644afb720fb4a7916edbe3e3"
+    },
+    "BLUS31509": {
+      "title": "WRC 4: FIA World Rally Championship",
+      "creator": "Purgenta",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/225858",
+      "source_url": "https://cdn2.steamgriddb.com/grid/067d8d6c038601ce8b0b506547258bec.png",
+      "asset_id": 225858,
+      "artwork": "art/BLUS31509.png",
+      "sha256": "f38657671587342c2cbf8437d7a1d55e1d116c76a8c0ebd2a5ff5c4a1c5952ea"
+    },
+    "BLUS31515": {
+      "title": "Dragon Age: Inquisition",
+      "creator": "TheKersalMassive",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/193720",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e7981a4dc91d0424800720e6a88aea42.jpg",
+      "asset_id": 193720,
+      "artwork": "art/BLUS30997.png",
+      "sha256": "cb1f833f9208a745e376b1a4efc451bac9fadd571bbf9937d4869c52b03768a9"
+    },
+    "BLUS31518": {
+      "title": "LEGO Jurassic World",
+      "creator": "cking",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/336870",
+      "source_url": "https://cdn2.steamgriddb.com/grid/70ace7a2908312f7e24a427afefb2a55.jpg",
+      "asset_id": 336870,
+      "artwork": "art/BLUS31518.png",
+      "sha256": "a657af3bfc577cf215be824c75d66d19931e486197de80e4ef82acb6b5b86681"
+    },
+    "BLUS31519": {
+      "title": "J-Stars Victory Vs+",
+      "creator": "ScarletteSkunk",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/526516",
+      "source_url": "https://cdn2.steamgriddb.com/grid/469d0010c1035a6bf77d9708a774e48c.jpg",
+      "asset_id": 526516,
+      "artwork": "art/BLUS31519.png",
+      "sha256": "2a1c90ce05330433078942a9f3386a0033f6aeb263459ef31639dc2626b076b8"
+    },
+    "BLUS31520": {
+      "title": "Teslagrad",
+      "creator": "Neuropod",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/426395",
+      "source_url": "https://cdn2.steamgriddb.com/grid/6168aac54854430627f64f08ed2bff58.png",
+      "asset_id": 426395,
+      "artwork": "art/BLUS31520.png",
+      "sha256": "36147c460ff6ecf242da9e6f669b56824f4270746a622d126f96cd3aa17d4dd7"
+    },
+    "BLUS31521": {
+      "title": "Madden NFL 16",
+      "creator": "Hamid",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/801332",
+      "source_url": "https://cdn2.steamgriddb.com/grid/d38b8585eae2a9618ae751b8be63aab5.jpg",
+      "asset_id": 801332,
+      "artwork": "art/BLUS31521.png",
+      "sha256": "14dd2b98283651360cd32e13ddf5cc502fec63d269351b55e107063c266f6061"
+    },
+    "BLUS31523": {
+      "title": "XBlaze: Lost: Memories",
+      "creator": "effcol",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/385006",
+      "source_url": "https://cdn2.steamgriddb.com/grid/b25d20a46dcdc4d24722ad0e13ee369b.png",
+      "asset_id": 385006,
+      "artwork": "art/BLUS31523.png",
+      "sha256": "359d006fa611217d05328be4c8fd978b7b116a5af54641b54913146758b60f27"
+    },
+    "BLUS31526": {
+      "title": "Adventure Time: Finn & Jake Investigations",
+      "creator": "Neuropod",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/484735",
+      "source_url": "https://cdn2.steamgriddb.com/grid/0856e557f23a49b53cf5b307c9489b0c.png",
+      "asset_id": 484735,
+      "artwork": "art/BLUS31526.png",
+      "sha256": "1403881ad17c0d86afc0765e2f3a9c2d0f0ee47bbefc3b81e985518abc2aa330"
+    },
+    "BLUS31527": {
+      "title": "Call of Duty: Black Ops III",
+      "creator": "Mingebag",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/417520",
+      "source_url": "https://cdn2.steamgriddb.com/grid/9812fda2b797ec0d745391582d19d1c7.png",
+      "asset_id": 417520,
+      "artwork": "art/BLUS31527.png",
+      "sha256": "5fb233dc2bce2a724e333ad3fef57f9a0f18702939dcb464c21f23f271dc194f"
+    },
+    "BLUS31528": {
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "creator": "CluckenDip",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/136158",
+      "source_url": "https://cdn2.steamgriddb.com/grid/419d1dcbc72c375d5a1ec8927f4e8476.jpg",
+      "asset_id": 136158,
+      "artwork": "art/BLUS31528.png",
+      "sha256": "71009972c7d8f630ebd1ffc07b01be2e02d4f3fd30149678602fe50a1314cdc0"
+    },
+    "BLUS31533": {
+      "title": "Tales of Zestiria",
+      "creator": "CriticalComposer",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/139284",
+      "source_url": "https://cdn2.steamgriddb.com/grid/7952b575ff2797b431adb2aafabe22f0.jpg",
+      "asset_id": 139284,
+      "artwork": "art/BLUS31533.png",
+      "sha256": "639dec9945c2de3fbd6ddfe63576eabcf999527cf5a82582a0d25bd9632f88db"
+    },
+    "BLUS31535": {
+      "title": "Dengeki Bunko: Fighting Climax",
+      "creator": "Plague",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/774527",
+      "source_url": "https://cdn2.steamgriddb.com/grid/1d03b6851d79b8af918f8327594432d0.png",
+      "asset_id": 774527,
+      "artwork": "art/BLUS31535.png",
+      "sha256": "bf3052c362eb87bb2835a38602dc4221b2b3ebaf39cd104afb2d87fda914af6e"
+    },
+    "BLUS31536": {
+      "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+      "creator": "Samcrossette",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/748461",
+      "source_url": "https://cdn2.steamgriddb.com/grid/c7cb0e8fbb3264df5da5259415d2ad61.png",
+      "asset_id": 748461,
+      "artwork": "art/BLUS31536.png",
+      "sha256": "2ea5e48e8b81471d60e56334330acce8824eb281fb4066d6ca791ff80123c569"
+    },
+    "BLUS31537": {
+      "title": "Terraria",
+      "creator": "Kam",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/137692",
+      "source_url": "https://cdn2.steamgriddb.com/grid/775303472aa020f54927d2edca107d02.png",
+      "asset_id": 137692,
+      "artwork": "art/BLUS31537.png",
+      "sha256": "cd5a360ffb675b8823c06beee48e259542be2776015ece6682d94823c9c99dda"
+    },
+    "BLUS31538": {
+      "title": "Steins;Gate",
+      "creator": "Devin",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/160838",
+      "source_url": "https://cdn2.steamgriddb.com/grid/99c336c71daafd8f1f05cb32e1d1e1d5.jpg",
+      "asset_id": 160838,
+      "artwork": "art/BLUS31538.png",
+      "sha256": "86beb01534aa0dbad38a65292e1b8b25e869799bf9fb8d480ebf05d7182370ad"
+    },
+    "BLUS31539": {
+      "title": "Battlefield Hardline",
+      "creator": "Mingebag",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/417557",
+      "source_url": "https://cdn2.steamgriddb.com/grid/33d97841233e62d67fd96d59f8881327.png",
+      "asset_id": 417557,
+      "artwork": "art/BLUS31440.png",
+      "sha256": "2f70603ee2159e01efd77371ae829a0ea9a44233f0e446eb8876f6381ededb09"
+    },
+    "BLUS31540": {
+      "title": "NHL Legacy Edition",
+      "creator": "Hamid",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/801294",
+      "source_url": "https://cdn2.steamgriddb.com/grid/fb53cc470b06b83ae6963820a479edf0.jpg",
+      "asset_id": 801294,
+      "artwork": "art/BLUS31540.png",
+      "sha256": "2de298aab5dfe2891da05f136d83f0ce614682ad78179ae42a34b055b3c7b257"
+    },
+    "BLUS31542": {
+      "title": "NBA 2K16",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165623",
+      "source_url": "https://cdn2.steamgriddb.com/grid/5a219b104b8bf6144219a59a34dbe9e0.png",
+      "asset_id": 165623,
+      "artwork": "art/BLUS31542.png",
+      "sha256": "aaa8de6878bbca0d465fba95b58c94e5ca89d87b57b4765a5222eca7d607b679"
+    },
+    "BLUS31543": {
+      "title": "FIFA 16",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165219",
+      "source_url": "https://cdn2.steamgriddb.com/grid/cb407b8a1367eb75b61ff34dc6fa9c4e.png",
+      "asset_id": 165219,
+      "artwork": "art/BLUS31543.png",
+      "sha256": "f3d4e465a75143d7b8f35046955a00e6093e3dc62bd81b90a1461a997d466ba6"
+    },
+    "BLUS31545": {
+      "title": "Skylanders: SuperChargers",
+      "creator": "GoahSparky",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/657769",
+      "source_url": "https://cdn2.steamgriddb.com/grid/0b873a353a1dea54f539f1236461f1d4.png",
+      "asset_id": 657769,
+      "artwork": "art/BLUS31545.png",
+      "sha256": "1ffb0c3e4ef75a4c4987b9da523548f97a1e044fd214b4d6cb07effd4ae0adcd"
+    },
+    "BLUS31549": {
+      "title": "WRC 5",
+      "creator": "cca_jp",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/359427",
+      "source_url": "https://cdn2.steamgriddb.com/grid/7112a73d66c09673456d0d75ea9f1a47.png",
+      "asset_id": 359427,
+      "artwork": "art/BLUS31549.png",
+      "sha256": "61f2c92758574905b33dcf7dd5623099657e017c8cfd6123450d90f7d959c233"
+    },
+    "BLUS31553": {
+      "title": "FIFA 16",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165219",
+      "source_url": "https://cdn2.steamgriddb.com/grid/cb407b8a1367eb75b61ff34dc6fa9c4e.png",
+      "asset_id": 165219,
+      "artwork": "art/BLUS31543.png",
+      "sha256": "f3d4e465a75143d7b8f35046955a00e6093e3dc62bd81b90a1461a997d466ba6"
+    },
+    "BLUS31554": {
+      "title": "Lost Dimension",
+      "creator": "Plague",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/773988",
+      "source_url": "https://cdn2.steamgriddb.com/grid/d1f74b5b89e4afc0875076b35603c0b6.png",
+      "asset_id": 773988,
+      "artwork": "art/BLUS31554.png",
+      "sha256": "8eaba8864fb85974e4fa938208674c3286925e7ac71aaab9adb6be35e644250e"
+    },
+    "BLUS31556": {
+      "title": "Guitar Hero Live",
+      "creator": "Imatination",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/378602",
+      "source_url": "https://cdn2.steamgriddb.com/grid/2e145b46900ea6d04ad91e701c98c1bc.png",
+      "asset_id": 378602,
+      "artwork": "art/BLUS31556.png",
+      "sha256": "4240bb71e0785d5d0212c9cf758426583370d2b9ce84712e6a87aa0d5730be81"
+    },
+    "BLUS31558": {
+      "title": "Just Dance 2016",
+      "creator": "Plague",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/590978",
+      "source_url": "https://cdn2.steamgriddb.com/grid/02cb67ec4ea694e06338804570867f0e.png",
+      "asset_id": 590978,
+      "artwork": "art/BLUS31558.png",
+      "sha256": "c8738ced839934c433aafc79b8748ca916b949abdb53db5517c11bd23939c07a"
+    },
+    "BLUS31565": {
+      "title": "WWE 2K16",
+      "creator": "Shiios42",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/254566",
+      "source_url": "https://cdn2.steamgriddb.com/grid/c39eb1c7db70b028f6ca73536165f6b1.png",
+      "asset_id": 254566,
+      "artwork": "art/BLUS31565.png",
+      "sha256": "4b6cfdd5c8b2337b1ae9982c2155fdeb6e4a38dc5767f048f2051e058b0f0205"
+    },
+    "BLUS31566": {
+      "title": "Transformers: Devastation",
+      "creator": "fia",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/567700",
+      "source_url": "https://cdn2.steamgriddb.com/grid/d409632e347ee828a7271a16b48528dc.png",
+      "asset_id": 567700,
+      "artwork": "art/BLUS31566.png",
+      "sha256": "65cbb67c406d7185ec16f01b02afad50a96d4a10edac399e38514cd0fe3c6205"
+    },
+    "BLUS31568": {
+      "title": "Tony Hawk's Pro Skater 5",
+      "creator": "Gector(lint)Nathan",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/742199",
+      "source_url": "https://cdn2.steamgriddb.com/grid/fe3ffc71b0bd7ad966b2567ed43eaaaa.png",
+      "asset_id": 742199,
+      "artwork": "art/BLUS31568.png",
+      "sha256": "4561bb53fc2d7606109aea2d60b45861636f3b9dd53015d5e36221001a972106"
+    },
+    "BLUS31570": {
+      "title": "Adam's Venture: Chronicles",
+      "creator": "Neuropod",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/372226",
+      "source_url": "https://cdn2.steamgriddb.com/grid/61159e0dff029c99759dac719647c263.png",
+      "asset_id": 372226,
+      "artwork": "art/BLUS31570.png",
+      "sha256": "64c124acdadc5287428cb2a83c103dd461ad3950d18047ab47f468124a56d21c"
+    },
+    "BLUS31571": {
+      "title": "Monster High: New Ghoul in School",
+      "creator": "ScarletteSkunk",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/523041",
+      "source_url": "https://cdn2.steamgriddb.com/grid/fc6fabd28f61539a65655e05148f14d5.png",
+      "asset_id": 523041,
+      "artwork": "art/BLUS31571.png",
+      "sha256": "90e8de3b75d2db069945bbbca310b402bbed99c91a93e8ffa585ef53c5fc0529"
+    },
+    "BLUS31572": {
+      "title": "The Legend of Heroes: Trails of Cold Steel",
+      "creator": "regehman",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/146937",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e34eb2fefb3d58e1de814fb3f8834442.jpg",
+      "asset_id": 146937,
+      "artwork": "art/BLUS31572.png",
+      "sha256": "47afe82ad0ecd765d55fdeff40fb2fbff33ea4c2fe0be9d762318a14fa6383b2"
+    },
+    "BLUS31576": {
+      "title": "The Jackbox Party Pack",
+      "creator": "HexDawn",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/444942",
+      "source_url": "https://cdn2.steamgriddb.com/grid/630a247b83c296f2e18fee6bf570d40c.png",
+      "asset_id": 444942,
+      "artwork": "art/BLUS31576.png",
+      "sha256": "775381ca1c8a0493e3d49a1d7c07f49575a21d0d61eb0c162be2949a9ed1db14"
+    },
+    "BLUS31578": {
+      "title": "LEGO Star Wars: The Force Awakens",
+      "creator": "SirYodaJedi",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/139430",
+      "source_url": "https://cdn2.steamgriddb.com/grid/ed6d0a7b10ad1e43649ebaf376ce4ec8.png",
+      "asset_id": 139430,
+      "artwork": "art/BLUS31578.png",
+      "sha256": "a5229a9e5c78eb208a78b9d3fcaf86c7ed354c1aea48bfaf0f2deb6bd410c46f"
+    },
+    "BLUS31579": {
+      "title": "Minecraft: Story Mode: A Telltale Games Series",
+      "creator": "FrostGamer98",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/158306",
+      "source_url": "https://cdn2.steamgriddb.com/grid/d8224a199ad8ea31c2a427fcb832c2d6.jpg",
+      "asset_id": 158306,
+      "artwork": "art/BLUS31579.png",
+      "sha256": "cf119ffeb4dd5e254c5e4ba9e1c27bc7650b56375e551a1b0f37dcaca865d3a3"
+    },
+    "BLUS31580": {
+      "title": "NASCAR '15: Victory Edition",
+      "creator": "cca_jp",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/359441",
+      "source_url": "https://cdn2.steamgriddb.com/grid/fe7d6776bfaf26475b209fdb89465aef.png",
+      "asset_id": 359441,
+      "artwork": "art/BLUS31580.png",
+      "sha256": "c8e6c3125ee7d797ff43d0a3b1a355d2b1505e91dee3adfd1e77dbc029cfeead"
+    },
+    "BLUS31582": {
+      "title": "Game of Thrones: A Telltale Games Series",
+      "creator": "Comcord",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/168272",
+      "source_url": "https://cdn2.steamgriddb.com/grid/9a0afd48258114baa1de7676728492b1.jpg",
+      "asset_id": 168272,
+      "artwork": "art/BLUS31582.png",
+      "sha256": "42dc3b12ae7f176b8726319e1486bab7ce5f3548c9c8d291206125ba402cdfb6"
+    },
+    "BLUS31584": {
+      "title": "Grand Theft Auto: San Andreas",
+      "creator": "Omnix_01",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/169714",
+      "source_url": "https://cdn2.steamgriddb.com/grid/f616319df00e868bb6f835ceb683dfe4.jpg",
+      "asset_id": 169714,
+      "artwork": "art/BLUS31584.png",
+      "sha256": "2caa82a094dc22a695e464fc900345465324eb7764c35727be21c583350f90a5"
+    },
+    "BLUS31586": {
+      "title": "Tales from the Borderlands",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165652",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e67cd6476700d3cbcc1b983967fc031b.png",
+      "asset_id": 165652,
+      "artwork": "art/BLUS31586.png",
+      "sha256": "d09f96a06bfa1bbaa5c3f22a5a641140f7bb0c65b9bb7660831341df2ce16c0c"
+    },
+    "BLUS31587": {
+      "title": "Aegis of Earth: Protonovus Assault",
+      "creator": "Arikado1476",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/678333",
+      "source_url": "https://cdn2.steamgriddb.com/grid/99b244e487c5dfa3ea8abb97876e7d28.png",
+      "asset_id": 678333,
+      "artwork": "art/BLUS31587.png",
+      "sha256": "5004ec678488986ba2c4fe5541d20dec76fe4013d2dd7821625d7346efa8b35e"
+    },
+    "BLUS31589": {
+      "title": "Madden NFL 17",
+      "creator": "Hamid",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/801297",
+      "source_url": "https://cdn2.steamgriddb.com/grid/0a1af4f0996d86cd38f0f3d3b8ce649a.jpg",
+      "asset_id": 801297,
+      "artwork": "art/BLUS31589.png",
+      "sha256": "7e37811e0c2738045e94e5ed31c2d49778f1cc53fd13514990336af2355824fc"
+    },
+    "BLUS31593": {
+      "title": "FIFA 17",
+      "creator": "itsteddyyo",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/151911",
+      "source_url": "https://cdn2.steamgriddb.com/grid/15284c87358244657eba9a6bf373c342.png",
+      "asset_id": 151911,
+      "artwork": "art/BLUS31593.png",
+      "sha256": "8611854eb76db550766f1e52c2317dbb6743c13e999e3e5414310a4ec826a617"
+    },
+    "BLUS31594": {
+      "title": "FIFA 17",
+      "creator": "itsteddyyo",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/151911",
+      "source_url": "https://cdn2.steamgriddb.com/grid/15284c87358244657eba9a6bf373c342.png",
+      "asset_id": 151911,
+      "artwork": "art/BLUS31593.png",
+      "sha256": "8611854eb76db550766f1e52c2317dbb6743c13e999e3e5414310a4ec826a617"
+    },
+    "BLUS31595": {
+      "title": "Just Dance 2017",
+      "creator": "Plague",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/590974",
+      "source_url": "https://cdn2.steamgriddb.com/grid/9a39d32a8e41723d72a5aa9e178724cc.png",
+      "asset_id": 590974,
+      "artwork": "art/BLUS31595.png",
+      "sha256": "734bbdef8828539f683b17618bb9fe1b74b3e009bb1d04920ab9d137985d2c16"
+    },
+    "BLUS31597": {
+      "title": "The Legend of Heroes: Trails of Cold Steel II",
+      "creator": "regehman",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/148575",
+      "source_url": "https://cdn2.steamgriddb.com/grid/cc8bcb4b7b6d9e41cc265cb116a23c4c.png",
+      "asset_id": 148575,
+      "artwork": "art/BLUS31597.png",
+      "sha256": "b3f0323a803bab81aac4661ab57d7d591b637828e8eaed7fc6d7f8e0a7963573"
+    },
+    "BLUS31599": {
+      "title": "WWE 2K17",
+      "creator": "Shiios42",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/254570",
+      "source_url": "https://cdn2.steamgriddb.com/grid/b0584c35bf43bdbaf32a505ad6822b9d.png",
+      "asset_id": 254570,
+      "artwork": "art/BLUS31599.png",
+      "sha256": "b2bd981089d324c1a9aec0a924347caa634128e225aec7db3b062cc5464ea5f4"
+    },
+    "BLUS31600": {
+      "title": "Skylanders: Imaginators",
+      "creator": "GoahSparky",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/657770",
+      "source_url": "https://cdn2.steamgriddb.com/grid/dfdc4e8473ef8633977d1891ef22b0ba.png",
+      "asset_id": 657770,
+      "artwork": "art/BLUS31600.png",
+      "sha256": "dc8ddebb00307f0a917c994cb89c0a2599eee6a2becff9a805187bc30bf233c1"
+    },
+    "BLUS31601": {
+      "title": "Odin Sphere: Leifthrasir",
+      "creator": "riefu24",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/170154",
+      "source_url": "https://cdn2.steamgriddb.com/grid/0f376ffa32b9e4f15dd31f3990848b66.jpg",
+      "asset_id": 170154,
+      "artwork": "art/BLUS31601.png",
+      "sha256": "00258830983b29531776d680265c657f6b90af18dc200345a5f9866d2bab9bf6"
+    },
+    "BLUS31602": {
+      "title": "NBA 2K17",
+      "creator": "mendihoza",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/270985",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e8ce943eb451b912223994b1e4da64af.jpg",
+      "asset_id": 270985,
+      "artwork": "art/BLUS31602.png",
+      "sha256": "9740f4f3e1e2ffa8f3322625247b383b9d91f4e157274ff4216b017c66b4c350"
+    },
+    "BLUS31604": {
+      "title": "Persona 5",
+      "creator": "Comcord",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/166622",
+      "source_url": "https://cdn2.steamgriddb.com/grid/51a49b8fac78237f8f7be8150c4062bf.jpg",
+      "asset_id": 166622,
+      "artwork": "art/BLUS31604.png",
+      "sha256": "4d1147a60a4c9226f48d95d8878a6f1e1722376ccbcd4131b892b531cabbaa50"
+    },
+    "BLUS31605": {
+      "title": "Batman: The Telltale Series",
+      "creator": "Varimarthas",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/165613",
+      "source_url": "https://cdn2.steamgriddb.com/grid/3e05a2104efd8cf7a49b96a7e2617eb9.png",
+      "asset_id": 165613,
+      "artwork": "art/BLUS31605.png",
+      "sha256": "2787b06e70cfb30ff15268117b106a232f28f2ad717613a8ee2b245106357609"
+    },
+    "BLUS31611": {
+      "title": "FIFA 18",
+      "creator": "itsteddyyo",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/151912",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e4d9158658821b779fefcceffe2fbacf.png",
+      "asset_id": 151912,
+      "artwork": "art/BLUS31611.png",
+      "sha256": "7aae18e259471738389e7f9a1c0632dce47aef7322212bdb62f3a5bd9b91d2ed"
+    },
+    "BLUS31613": {
+      "title": "Just Dance 2018",
+      "creator": "Plague",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/590999",
+      "source_url": "https://cdn2.steamgriddb.com/grid/2757b92b8e027ef5e154618e1250dff4.png",
+      "asset_id": 590999,
+      "artwork": "art/BLUS31613.png",
+      "sha256": "b18c8cbeb6ad6bd3ff4df4d93076ff206ba50aec134bc889c3d29d9d80e055d0"
+    },
+    "BLUS31614": {
+      "title": "NBA 2K18",
+      "creator": "mendihoza",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/270988",
+      "source_url": "https://cdn2.steamgriddb.com/grid/31df3f41b8acab5230ea3f64e59a88f6.jpg",
+      "asset_id": 270988,
+      "artwork": "art/BLUS31614.png",
+      "sha256": "8f1a747e198f53983a85a850460c6a81012ab5ada2dd0c8dcba32fa2e1c411bb"
+    },
+    "BLUS31620": {
+      "title": "Oddworld: Stranger's Wrath HD",
+      "creator": "flamepanther",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/156794",
+      "source_url": "https://cdn2.steamgriddb.com/grid/f8ddef048fe3cf39dd6f382d94d23160.jpg",
+      "asset_id": 156794,
+      "artwork": "art/BLUS31620.png",
+      "sha256": "163fdc98d2807d661c637a80869400b9df94c5791c9aea6e7325ebf5eb965d4f"
+    },
+    "BLUS31622": {
+      "title": "Shakedown: Hawaii",
+      "creator": "WeaponPC",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/139697",
+      "source_url": "https://cdn2.steamgriddb.com/grid/82d3780c830ebe95bb0542e980c0ca27.png",
+      "asset_id": 139697,
+      "artwork": "art/BLUS31622.png",
+      "sha256": "cde5e9578322ff27f58b69a60d63c5362e66704444c3da93c50163dd9d3c34c4"
+    },
+    "BLUS41044": {
+      "title": "The Amazing Spider-Man 2",
+      "creator": "boubou",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/167739",
+      "source_url": "https://cdn2.steamgriddb.com/grid/723a3a48e9e3d809bda4e627520ba0ed.png",
+      "asset_id": 167739,
+      "artwork": "art/BLUS41044.png",
+      "sha256": "66b8f640095a181a2dc0c444509c3430c0423a14ffc07243cea04a735e5fe99c"
+    },
+    "BLUS41045": {
+      "title": "Dark Souls II",
+      "creator": "TytusV2",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/675097",
+      "source_url": "https://cdn2.steamgriddb.com/grid/a2bec93b7df817ca23d43bcb24c52f65.png",
+      "asset_id": 675097,
+      "artwork": "art/BLUS41045.png",
+      "sha256": "7119dd2c1109a4933e4f5dd7037787e820087e0f7b9ef6e339f98cde85d08468"
+    },
+    "BLUS90262": {
+      "title": "GoldenEye 007: Reloaded",
+      "creator": "FrostWolf",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/148185",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e6e7fde80a52dd4186d6487f09574437.png",
+      "asset_id": 148185,
+      "artwork": "art/BLUS30755.png",
+      "sha256": "7f54c6f888f893ecc9a9ddab5bef90dcf95585f50ff2c250b961b62906c0f0b6"
     }
   }
 }
