@@ -3615,3 +3615,111 @@ These titles have not been assigned artwork automatically. Compare the original 
 - [The Town](https://www.steamgriddb.com/game/162) — game ID `162`
 - [The Far Kingdoms: Elements](https://www.steamgriddb.com/game/193) — game ID `193`
 - [The Five Cores Remastered](https://www.steamgriddb.com/game/197) — game ID `197`
+
+## LittleBigPlanet 2: Special Edition — BCUS90260
+
+- [LittleBigPlanet 2](https://www.steamgriddb.com/game/5249655) — game ID `5249655`
+- [LittleBigPlanet](https://www.steamgriddb.com/game/5246704) — game ID `5246704`
+- [LittleBigPlanet 3](https://www.steamgriddb.com/game/5249323) — game ID `5249323`
+- [LittleBigPlanet](https://www.steamgriddb.com/game/5267797) — game ID `5267797`
+- [LittleBigPlanet Karting](https://www.steamgriddb.com/game/5271733) — game ID `5271733`
+- [LittleBigPlanet PS Vita](https://www.steamgriddb.com/game/5273011) — game ID `5273011`
+- [LittleBigPlanet™ HUB - Internal Beta](https://www.steamgriddb.com/game/5446339) — game ID `5446339`
+
+## Sports Champions / Medieval Moves: Deadmund&#x27;s Quest Combo Disc — BCUS90490
+
+- [Sports Champions 2](https://www.steamgriddb.com/game/5273779) — game ID `5273779`
+- [Sports Illustrated: Golf Classic](https://www.steamgriddb.com/game/34181) — game ID `34181`
+- [Sports Illustrated for Kids Baseball](https://www.steamgriddb.com/game/34454) — game ID `34454`
+- [Sports Illustrated: Championship Football &amp; Baseball](https://www.steamgriddb.com/game/35368) — game ID `35368`
+- [Sports Illustrated: Football &amp; Baseball](https://www.steamgriddb.com/game/35429) — game ID `35429`
+- [Sports Illustrated for Kids: The Ultimate Triple Dare](https://www.steamgriddb.com/game/37222) — game ID `37222`
+- [Sports Illustrated for Kids: Football](https://www.steamgriddb.com/game/37435) — game ID `37435`
+- [Sports Connection](https://www.steamgriddb.com/game/5256019) — game ID `5256019`
+- [Sports Paradise VR](https://www.steamgriddb.com/game/5276819) — game ID `5276819`
+- [Sports Heads: Tennis](https://www.steamgriddb.com/game/5293437) — game ID `5293437`
+
+## SingStar Latino — BCUS94344
+
+- [Singstar](https://www.steamgriddb.com/game/5261859) — game ID `5261859`
+- [SingStar &#x27;80s](https://www.steamgriddb.com/game/5343097) — game ID `5343097`
+- [SingStar Amped](https://www.steamgriddb.com/game/5346734) — game ID `5346734`
+- [SingStar Pop](https://www.steamgriddb.com/game/5346735) — game ID `5346735`
+- [SingStar Queen](https://www.steamgriddb.com/game/5346736) — game ID `5346736`
+- [SingStar Pop](https://www.steamgriddb.com/game/5441301) — game ID `5441301`
+- [SingStar Rocks!](https://www.steamgriddb.com/game/5441302) — game ID `5441302`
+- [SingStar La Edad de Oro del Pop Español](https://www.steamgriddb.com/game/5441303) — game ID `5441303`
+- [SingStar Pop Hits 40](https://www.steamgriddb.com/game/5441304) — game ID `5441304`
+- [Friday Night Funkin&#x27; SingStar Challenge](https://www.steamgriddb.com/game/5435887) — game ID `5435887`
+
+## Twisted Metal — BCUS98106
+
+- [Twisted Metal](https://www.steamgriddb.com/game/37393) — game ID `37393`
+- [Twisted Metal](https://www.steamgriddb.com/game/5246667) — game ID `5246667`
+- [Twisted Metal 4](https://www.steamgriddb.com/game/33909) — game ID `33909`
+- [Twisted Metal 2](https://www.steamgriddb.com/game/34846) — game ID `34846`
+- [Twisted Metal: Small Brawl](https://www.steamgriddb.com/game/35060) — game ID `35060`
+- [Twisted Metal: Black](https://www.steamgriddb.com/game/35922) — game ID `35922`
+- [Twisted Metal: Head-On](https://www.steamgriddb.com/game/37502) — game ID `37502`
+- [Twisted Metal: Black ONLINE](https://www.steamgriddb.com/game/38287) — game ID `38287`
+- [Twisted Metal III](https://www.steamgriddb.com/game/38607) — game ID `38607`
+- [Twisted Metal: Harbor City](https://www.steamgriddb.com/game/5474856) — game ID `5474856`
+
+## MAG — BCUS98110
+
+- [MAG](https://www.steamgriddb.com/game/33650) — game ID `33650`
+- [MÁG](https://www.steamgriddb.com/game/5546626) — game ID `5546626`
+- [Cro-Mag Rally](https://www.steamgriddb.com/game/5342139) — game ID `5342139`
+- [Static Mag](https://www.steamgriddb.com/game/5427554) — game ID `5427554`
+- [Mr.Mag: The Dark Side Within](https://www.steamgriddb.com/game/5503157) — game ID `5503157`
+- [Games Mag Tycoon](https://www.steamgriddb.com/game/5562269) — game ID `5562269`
+- [Magus Over Fool](https://www.steamgriddb.com/game/217) — game ID `217`
+- [Magic Combat VR](https://www.steamgriddb.com/game/664) — game ID `664`
+- [Magic Word Alchemist](https://www.steamgriddb.com/game/718) — game ID `718`
+- [Magic Heart](https://www.steamgriddb.com/game/942) — game ID `942`
+
+## Warhawk — BCUS98117
+
+- [Warhawk](https://www.steamgriddb.com/game/5245243) — game ID `5245243`
+- [Warhawk](https://www.steamgriddb.com/game/5273706) — game ID `5273706`
+- [Warhawk](https://www.steamgriddb.com/game/5470864) — game ID `5470864`
+- [Warhawks](https://www.steamgriddb.com/game/8119) — game ID `8119`
+
+## NBA 08 featuring Games of the Week — BCUS98144
+
+- [NBA 08](https://www.steamgriddb.com/game/5342379) — game ID `5342379`
+- [NBA Live 08](https://www.steamgriddb.com/game/5259773) — game ID `5259773`
+- [NBA](https://www.steamgriddb.com/game/5342376) — game ID `5342376`
+- [NBA 2K12](https://www.steamgriddb.com/game/1740) — game ID `1740`
+- [NBA 2K13](https://www.steamgriddb.com/game/2237) — game ID `2237`
+- [NBA 2K14](https://www.steamgriddb.com/game/3189) — game ID `3189`
+- [NBA 2K15](https://www.steamgriddb.com/game/3933) — game ID `3933`
+- [NBA 2K16](https://www.steamgriddb.com/game/7672) — game ID `7672`
+- [NBA 2K17](https://www.steamgriddb.com/game/8377) — game ID `8377`
+- [NBA 2K10](https://www.steamgriddb.com/game/9385) — game ID `9385`
+
+## Buzz! Quiz TV — BCUS98145
+
+- [BUZZ](https://www.steamgriddb.com/game/5432197) — game ID `5432197`
+- [Buzz Aldrin&#x27;s Space Program Manager](https://www.steamgriddb.com/game/4917) — game ID `4917`
+- [Buzz Lightyear of Star Command](https://www.steamgriddb.com/game/34653) — game ID `34653`
+- [Buzz Kill Zero](https://www.steamgriddb.com/game/5246119) — game ID `5246119`
+- [Buzz Aldrin: Cycling Pathways to Mars](https://www.steamgriddb.com/game/5251638) — game ID `5251638`
+- [Buzz Cut Simulation](https://www.steamgriddb.com/game/5436699) — game ID `5436699`
+- [BUZZ or DIE](https://www.steamgriddb.com/game/5448279) — game ID `5448279`
+- [Buzz Off](https://www.steamgriddb.com/game/5478904) — game ID `5478904`
+- [Buzz Wars](https://www.steamgriddb.com/game/5494574) — game ID `5494574`
+- [Buzz Buddies](https://www.steamgriddb.com/game/5533240) — game ID `5533240`
+
+## White Knight Chronicles: International Edition — BCUS98146
+
+- [White Knight Chronicles](https://www.steamgriddb.com/game/36426) — game ID `36426`
+- [White Knight Chronicles II](https://www.steamgriddb.com/game/35896) — game ID `35896`
+- [White Knight Chronicles Origins](https://www.steamgriddb.com/game/5354093) — game ID `5354093`
+- [White Knight &amp; Dark Servant](https://www.steamgriddb.com/game/5287369) — game ID `5287369`
+- [White Cat Knight](https://www.steamgriddb.com/game/5476542) — game ID `5476542`
+- [A Kiss for the Petals: Snow White&#x27;s Knight](https://www.steamgriddb.com/game/5257131) — game ID `5257131`
+- [White](https://www.steamgriddb.com/game/5369850) — game ID `5369850`
+- [White](https://www.steamgriddb.com/game/5449111) — game ID `5449111`
+- [White](https://www.steamgriddb.com/game/5521908) — game ID `5521908`
+- [White Haven Mysteries](https://www.steamgriddb.com/game/4141) — game ID `4141`

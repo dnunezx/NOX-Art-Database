@@ -46,6 +46,46 @@
       "resolution": "512x512",
       "status": "available"
     },
+    "BCUS90259": {
+      "artwork": "BCUS98175.png",
+      "thumbnail": "BCUS98175.png",
+      "sha256": "3ab8246f833b68fff231dd1f120deccf462d6b4f913517908c7d32a0eb39021a",
+      "thumbnail_sha256": "8ad3268efcbb54a1132b137008f86f7415105a3c23ba0b49bc2f5bd0f9255288",
+      "steamgriddb_id": 37293,
+      "asset_id": 241869,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS90664": {
+      "artwork": "BCUS98190.png",
+      "thumbnail": "BCUS98190.png",
+      "sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead",
+      "thumbnail_sha256": "358df8efdba360bcdf95907e7d5245cda5ef556edf0f9f09fc7ccfe11d288a72",
+      "steamgriddb_id": 5263262,
+      "asset_id": 146534,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98103": {
+      "artwork": "BCUS98103.png",
+      "thumbnail": "BCUS98103.png",
+      "sha256": "b722be5edb78c071cc4505ce448e81e20ae317ca26f5ee6dc40a31fc71b502d9",
+      "thumbnail_sha256": "5803551ba623c814217078e9cc878db0b3123906d2ff5e3921d09af2c33d0c00",
+      "steamgriddb_id": 5209428,
+      "asset_id": 137318,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98107": {
+      "artwork": "BCUS98107.png",
+      "thumbnail": "BCUS98107.png",
+      "sha256": "b999067267d515029365c20a3f71abf82713daec23151e79d95fcf18dd8e201e",
+      "thumbnail_sha256": "5237edd3e7e31f0b36ca3fdc4e16f06385e84ac099b1a707fc2a921667699325",
+      "steamgriddb_id": 5259376,
+      "asset_id": 146533,
+      "resolution": "512x512",
+      "status": "available"
+    },
     "BCUS98111": {
       "artwork": "BCUS98111.png",
       "thumbnail": "BCUS98111.png",
@@ -56,6 +96,46 @@
       "resolution": "512x512",
       "status": "available"
     },
+    "BCUS98114": {
+      "artwork": "BCUS98114.png",
+      "thumbnail": "BCUS98114.png",
+      "sha256": "975ef24ba330c8db03f6787e429ed551789b1fe1cb0ff2ae5befd87a23fb6895",
+      "thumbnail_sha256": "6aa6f2c1785ff43ee1fd024b7db13112f1fe1d0b246871290adebc4800127fd0",
+      "steamgriddb_id": 5253538,
+      "asset_id": 336513,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98116": {
+      "artwork": "BCUS98116.png",
+      "thumbnail": "BCUS98116.png",
+      "sha256": "3a114f55aaa4e04d0adc6abebf4df643f2566a3b0baaf142b7766e1a2a227f4c",
+      "thumbnail_sha256": "b88d0b2f80d1948452b79dc6eb401798e6577b5e717d30a62a688c23f9b2e98d",
+      "steamgriddb_id": 5258910,
+      "asset_id": 246509,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98119": {
+      "artwork": "BCUS98119.png",
+      "thumbnail": "BCUS98119.png",
+      "sha256": "72cbf17a1204d9c047f07d08f14e081dde8ddd78da0b8e1285f512f434f2423f",
+      "thumbnail_sha256": "16772ec71e8008df2a87a7a59bea6e3c46848e06115e1fe6cf2127cd8d53e9bd",
+      "steamgriddb_id": 5173873,
+      "asset_id": 354886,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98120": {
+      "artwork": "BCUS98190.png",
+      "thumbnail": "BCUS98190.png",
+      "sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead",
+      "thumbnail_sha256": "358df8efdba360bcdf95907e7d5245cda5ef556edf0f9f09fc7ccfe11d288a72",
+      "steamgriddb_id": 5263262,
+      "asset_id": 146534,
+      "resolution": "512x512",
+      "status": "available"
+    },
     "BCUS98123": {
       "artwork": "BCUS98123.png",
       "thumbnail": "BCUS98123.png",
@@ -63,6 +143,86 @@
       "thumbnail_sha256": "33bcd66a87ddd0d6dc5879c312ccb0be3cd99264c07d4c06143b4d37ea7693df",
       "steamgriddb_id": 5245365,
       "asset_id": 137325,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98124": {
+      "artwork": "BCUS98124.png",
+      "thumbnail": "BCUS98124.png",
+      "sha256": "8ef8c4e5af658ede02aa3546ddc14b1efd2e37fdfd988b10425b6404485ec42f",
+      "thumbnail_sha256": "3fd1cd03407d3325ba979cfc8fee1e763e194d04187d6465f25c3bcc4ff274da",
+      "steamgriddb_id": 37142,
+      "asset_id": 144862,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98125": {
+      "artwork": "BCUS98125.png",
+      "thumbnail": "BCUS98125.png",
+      "sha256": "1706aa414b7e1d070f21f21fb74b583dd8d631b8ded0b3637bb699e3f5da5a4a",
+      "thumbnail_sha256": "5308bb532e1058ee702d21a8d484716de8dee5fdb186a0b455eaf8d8b8c82a62",
+      "steamgriddb_id": 34397,
+      "asset_id": 694621,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98127": {
+      "artwork": "BCUS98153.png",
+      "thumbnail": "BCUS98153.png",
+      "sha256": "819f37eb307ea5e4869d4c0377bde20a1dbf5f8d285b62784bc8960c03982983",
+      "thumbnail_sha256": "3cc0e3b6ebc3c90e7f35b3cc21dd406196e69e560f3095a38f925c2fe1e22c7f",
+      "steamgriddb_id": 12885,
+      "asset_id": 354884,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98132": {
+      "artwork": "BCUS98132.png",
+      "thumbnail": "BCUS98132.png",
+      "sha256": "475b80cb626ad13909a03ce93491d046c4e64511b1a5321068cafd0b0c5016e9",
+      "thumbnail_sha256": "806014c969edc6669566e6eecebb8142f37c5f9dadf14aff3fe5203afe46a1e1",
+      "steamgriddb_id": 5246727,
+      "asset_id": 341813,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98135": {
+      "artwork": "BCUS98135.png",
+      "thumbnail": "BCUS98135.png",
+      "sha256": "f58a89eeff26125b3fdee1ca59e840fd27327c541b5e6aa4d43e5088885faccb",
+      "thumbnail_sha256": "1f3dd63f5df41d3a378d579fa64d8378bbe9d56d53dc9445f768bbc5bf69611e",
+      "steamgriddb_id": 5270776,
+      "asset_id": 227081,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98137": {
+      "artwork": "BCUS98137.png",
+      "thumbnail": "BCUS98137.png",
+      "sha256": "43acb4065d41df5193352d10041d03b85175011c8c8447ff6976be0183498151",
+      "thumbnail_sha256": "16330b13d043f221de362411bd92411191444b3388384a1a1254974a48c1ec1d",
+      "steamgriddb_id": 5259375,
+      "asset_id": 209704,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98141": {
+      "artwork": "BCUS98141.png",
+      "thumbnail": "BCUS98141.png",
+      "sha256": "c146ef8e72f32ec6b25aaf5cfe4425d1405fcfb1b9eaad43c507e2647612eb41",
+      "thumbnail_sha256": "7e07585b1dbc49b623dda0aaf163c7cf158fbd52e1e19eaa5391bbec068a55d4",
+      "steamgriddb_id": 5277425,
+      "asset_id": 328193,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BCUS98147": {
+      "artwork": "BCUS98147.png",
+      "thumbnail": "BCUS98147.png",
+      "sha256": "4355bc924c480528667d5f41a09ba6036ee2fedd3be02b97f2fd1f707e2d1af7",
+      "thumbnail_sha256": "bae1b2732ff61655426d4b4ef13a7297679956a13710c311e1301de6a57cc330",
+      "steamgriddb_id": 25583,
+      "asset_id": 341634,
       "resolution": "512x512",
       "status": "available"
     },

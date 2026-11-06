@@ -16096,5 +16096,357 @@
         "page": "https://www.steamgriddb.com/grid/552476"
       }
     ]
+  },
+  {
+    "title_id": "BCUS90259",
+    "selected_asset_id": 241869,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 241869,
+        "url": "https://cdn2.steamgriddb.com/grid/5c68cbbf85b0520835ac4d4588a99df1.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/241869"
+      },
+      {
+        "asset_id": 736847,
+        "url": "https://cdn2.steamgriddb.com/grid/276c9b1e686d9507db47d875686b753b.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/736847"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS90637",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS90664",
+    "selected_asset_id": 146534,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 146534,
+        "url": "https://cdn2.steamgriddb.com/grid/cf62cfeb3796c44845f303785e4bb88c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146534"
+      },
+      {
+        "asset_id": 146557,
+        "url": "https://cdn2.steamgriddb.com/grid/56527e60fa624e44fe0bd78ba5d96345.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146557"
+      },
+      {
+        "asset_id": 825602,
+        "url": "https://cdn2.steamgriddb.com/grid/51cfc8020e64e1f0f5583a462c7b46cb.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/825602"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98102",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98103",
+    "selected_asset_id": 137318,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 137318,
+        "url": "https://cdn2.steamgriddb.com/grid/7670cc4426a36873cf7d4a0624347dac.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/137318"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98107",
+    "selected_asset_id": 146533,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 146533,
+        "url": "https://cdn2.steamgriddb.com/grid/80b2665f20b7dc08201de028828a30c0.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146533"
+      },
+      {
+        "asset_id": 146556,
+        "url": "https://cdn2.steamgriddb.com/grid/3dd78a52bcb3798f4d382f8705e6c283.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146556"
+      },
+      {
+        "asset_id": 253985,
+        "url": "https://cdn2.steamgriddb.com/grid/52eb8f9a0c5e48f708b1cc42bc39b431.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/253985"
+      },
+      {
+        "asset_id": 825604,
+        "url": "https://cdn2.steamgriddb.com/grid/ce852155b325383a9bfa88fe314db689.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/825604"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98109",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98112",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98114",
+    "selected_asset_id": 336513,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 336513,
+        "url": "https://cdn2.steamgriddb.com/grid/e81300cf6f789d3daf6ef0d83dc9ffc4.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/336513"
+      },
+      {
+        "asset_id": 682338,
+        "url": "https://cdn2.steamgriddb.com/grid/cfc61b7435b25620dea6a3bc3b73634d.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/682338"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98115",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98116",
+    "selected_asset_id": 246509,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 246509,
+        "url": "https://cdn2.steamgriddb.com/grid/e0ad41defc682134c972c6f99ffa7fcb.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/246509"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98119",
+    "selected_asset_id": 354886,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 354886,
+        "url": "https://cdn2.steamgriddb.com/grid/8853673e284ce269d873d90bbb2d4788.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/354886"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98120",
+    "selected_asset_id": 146534,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 146534,
+        "url": "https://cdn2.steamgriddb.com/grid/cf62cfeb3796c44845f303785e4bb88c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146534"
+      },
+      {
+        "asset_id": 146557,
+        "url": "https://cdn2.steamgriddb.com/grid/56527e60fa624e44fe0bd78ba5d96345.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/146557"
+      },
+      {
+        "asset_id": 825602,
+        "url": "https://cdn2.steamgriddb.com/grid/51cfc8020e64e1f0f5583a462c7b46cb.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/825602"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98124",
+    "selected_asset_id": 144862,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 144862,
+        "url": "https://cdn2.steamgriddb.com/grid/267bae333f36fdb5820dee195136fe5c.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/144862"
+      },
+      {
+        "asset_id": 719631,
+        "url": "https://cdn2.steamgriddb.com/grid/44e26b8c92e617360bbc028fc0f33758.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/719631"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98125",
+    "selected_asset_id": 694621,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 694621,
+        "url": "https://cdn2.steamgriddb.com/grid/5a61ea5f1584923d1d34e375281a80f7.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/694621"
+      },
+      {
+        "asset_id": 854294,
+        "url": "https://cdn2.steamgriddb.com/grid/fa39e494e911149aad40ae83ea971dd0.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/854294"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98127",
+    "selected_asset_id": 354884,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 354884,
+        "url": "https://cdn2.steamgriddb.com/grid/ff73092f4ad4fab5fb77b18062b4e2a8.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/354884"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98131",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98132",
+    "selected_asset_id": 341813,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 341813,
+        "url": "https://cdn2.steamgriddb.com/grid/aa9d6024e7497a53cb88f03c62055286.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/341813"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98133",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98135",
+    "selected_asset_id": 227081,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 227081,
+        "url": "https://cdn2.steamgriddb.com/grid/daf7137a4227453fa9029976efd8f5e5.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/227081"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98137",
+    "selected_asset_id": 209704,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 209704,
+        "url": "https://cdn2.steamgriddb.com/grid/e4875c6efc49908746b42d81121d0127.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/209704"
+      },
+      {
+        "asset_id": 793654,
+        "url": "https://cdn2.steamgriddb.com/grid/ae7b1562799af295358a1a98811d6087.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/793654"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98141",
+    "selected_asset_id": 328193,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 328193,
+        "url": "https://cdn2.steamgriddb.com/grid/8f13507608018413afe4ad565234b8ea.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/328193"
+      }
+    ]
+  },
+  {
+    "title_id": "BCUS98142",
+    "selected_asset_id": null,
+    "confidence": "exact",
+    "selection": null,
+    "previews": []
+  },
+  {
+    "title_id": "BCUS98147",
+    "selected_asset_id": 341634,
+    "confidence": "exact",
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 341634,
+        "url": "https://cdn2.steamgriddb.com/grid/dc54d475ac895e20bd5aac9755afde3d.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/341634"
+      }
+    ]
   }
 ]

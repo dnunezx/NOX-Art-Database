@@ -9,8 +9,24 @@ Original creators, contributors and game publishers retain their rights.
 | BCUS90142 | Mercenaries 2: World in Flames | mr.empacotado | [#854446](https://www.steamgriddb.com/grid/854446) |
 | BCUS90143 | Tomb Raider: Underworld | HitAgent | [#800711](https://www.steamgriddb.com/grid/800711) |
 | BCUS90162 | Call of Duty: Black Ops | ParsaMON | [#352797](https://www.steamgriddb.com/grid/352797) |
+| BCUS90259 | Ratchet & Clank: All 4 One | fraiak | [#241869](https://www.steamgriddb.com/grid/241869) |
+| BCUS90664 | Resistance 2 | Cyrene | [#146534](https://www.steamgriddb.com/grid/146534) |
+| BCUS98103 | Uncharted: Drake's Fortune | Timberfang | [#137318](https://www.steamgriddb.com/grid/137318) |
+| BCUS98107 | Resistance: Fall of Man | Cyrene | [#146533](https://www.steamgriddb.com/grid/146533) |
 | BCUS98111 | God of War III | Prabhjot19 | [#263645](https://www.steamgriddb.com/grid/263645) |
+| BCUS98114 | Gran Turismo 5 | reTokyo | [#336513](https://www.steamgriddb.com/grid/336513) |
+| BCUS98116 | Killzone 2 | fraiak | [#246509](https://www.steamgriddb.com/grid/246509) |
+| BCUS98119 | inFamous | FloydWarshall | [#354886](https://www.steamgriddb.com/grid/354886) |
+| BCUS98120 | Resistance 2 | Cyrene | [#146534](https://www.steamgriddb.com/grid/146534) |
 | BCUS98123 | Uncharted 2: Among Thieves | Timberfang | [#137325](https://www.steamgriddb.com/grid/137325) |
+| BCUS98124 | Ratchet & Clank Future: A Crack in Time | Gray Mess | [#144862](https://www.steamgriddb.com/grid/144862) |
+| BCUS98125 | inFamous 2 | CluckenDip | [#694621](https://www.steamgriddb.com/grid/694621) |
+| BCUS98127 | Ratchet & Clank Future: Tools of Destruction | FloydWarshall | [#354884](https://www.steamgriddb.com/grid/354884) |
+| BCUS98132 | Heavenly Sword | Shiios42 | [#341813](https://www.steamgriddb.com/grid/341813) |
+| BCUS98135 | SOCOM 4: U.S. Navy SEALs | Kynd | [#227081](https://www.steamgriddb.com/grid/227081) |
+| BCUS98137 | MotorStorm | reTokyo | [#209704](https://www.steamgriddb.com/grid/209704) |
+| BCUS98141 | MLB 08: The Show | donnrach1 | [#328193](https://www.steamgriddb.com/grid/328193) |
+| BCUS98147 | Folklore | Shiios42 | [#341634](https://www.steamgriddb.com/grid/341634) |
 | BCUS98148 | LittleBigPlanet | Shiios42 | [#238018](https://www.steamgriddb.com/grid/238018) |
 | BCUS98153 | Ratchet & Clank Future: Tools of Destruction | FloydWarshall | [#354884](https://www.steamgriddb.com/grid/354884) |
 | BCUS98155 | MotorStorm: Pacific Rift | reTokyo | [#209979](https://www.steamgriddb.com/grid/209979) |

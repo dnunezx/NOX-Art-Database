@@ -1,6 +1,6 @@
 [
   {
-    "title_id": "BLUS31509",
+    "title_id": "BCUS98103",
     "status": "generated",
     "dimensions": [
       512,
@@ -10,521 +10,11 @@
     "warnings": []
   },
   {
-    "title_id": "BLUS31518",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31519",
+    "title_id": "BCUS98107",
     "status": "generated",
     "dimensions": [
       1024,
       1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31520",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31521",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31523",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31526",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31527",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31528",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31533",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31535",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31536",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31537",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31538",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31540",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31542",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31543",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31545",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31549",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31554",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31556",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31558",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31565",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31566",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31568",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31570",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31571",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31572",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31576",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31578",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31579",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31580",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31582",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31584",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31586",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31587",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31589",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31593",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31595",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31597",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31599",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31600",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31601",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31602",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31604",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31605",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31611",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31613",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31614",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31620",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "JPEG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS31622",
-    "status": "generated",
-    "dimensions": [
-      1024,
-      1024
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS41044",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
-    ],
-    "format": "PNG",
-    "warnings": []
-  },
-  {
-    "title_id": "BLUS41045",
-    "status": "generated",
-    "dimensions": [
-      512,
-      512
     ],
     "format": "PNG",
     "warnings": []
@@ -535,9 +25,109 @@
     "message": "Existing artwork preserved"
   },
   {
+    "title_id": "BCUS98114",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98116",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98119",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
     "title_id": "BCUS98123",
     "status": "preserved",
     "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BCUS98124",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98125",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98132",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98135",
+    "status": "generated",
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98137",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98141",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
+    "title_id": "BCUS98147",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
   },
   {
     "title_id": "BCUS98148",
@@ -3376,6 +2966,271 @@
   },
   {
     "title_id": "BLUS31507",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31509",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31518",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31519",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31520",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31521",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31523",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31526",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31527",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31528",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31533",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31535",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31536",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31537",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31538",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31540",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31542",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31543",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31545",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31549",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31554",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31556",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31558",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31565",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31566",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31568",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31570",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31571",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31572",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31576",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31578",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31579",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31580",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31582",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31584",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31586",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31587",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31589",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31593",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31595",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31597",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31599",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31600",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31601",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31602",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31604",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31605",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31611",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31613",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31614",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31620",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS31622",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS41044",
+    "status": "preserved",
+    "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS41045",
     "status": "preserved",
     "message": "Existing artwork preserved"
   }

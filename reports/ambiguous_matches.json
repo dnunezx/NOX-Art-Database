@@ -24315,5 +24315,688 @@
       }
     ],
     "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS90260",
+    "title": "LittleBigPlanet 2: Special Edition",
+    "candidates": [
+      {
+        "id": 5249655,
+        "name": "LittleBigPlanet 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1295308800
+      },
+      {
+        "id": 5246704,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1224547200
+      },
+      {
+        "id": 5249323,
+        "name": "LittleBigPlanet 3",
+        "verified": true,
+        "types": [],
+        "release_date": 1416268800
+      },
+      {
+        "id": 5267797,
+        "name": "LittleBigPlanet",
+        "verified": true,
+        "types": [],
+        "release_date": 1258416000
+      },
+      {
+        "id": 5271733,
+        "name": "LittleBigPlanet Karting",
+        "verified": true,
+        "types": [],
+        "release_date": 1349481600
+      },
+      {
+        "id": 5273011,
+        "name": "LittleBigPlanet PS Vita",
+        "verified": true,
+        "types": [],
+        "release_date": 1348012800
+      },
+      {
+        "id": 5446339,
+        "name": "LittleBigPlanet™ HUB - Internal Beta",
+        "verified": true,
+        "types": [],
+        "release_date": 1386633600
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS90490",
+    "title": "Sports Champions / Medieval Moves: Deadmund's Quest Combo Disc",
+    "candidates": [
+      {
+        "id": 5273779,
+        "name": "Sports Champions 2",
+        "verified": true,
+        "types": [],
+        "release_date": 1351555200
+      },
+      {
+        "id": 34181,
+        "name": "Sports Illustrated: Golf Classic",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 34454,
+        "name": "Sports Illustrated for Kids Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 35368,
+        "name": "Sports Illustrated: Championship Football & Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 35429,
+        "name": "Sports Illustrated: Football & Baseball",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 37222,
+        "name": "Sports Illustrated for Kids: The Ultimate Triple Dare",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 37435,
+        "name": "Sports Illustrated for Kids: Football",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5256019,
+        "name": "Sports Connection",
+        "verified": true,
+        "types": [
+          "eshop"
+        ],
+        "release_date": 1352764800
+      },
+      {
+        "id": 5276819,
+        "name": "Sports Paradise VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1613606400
+      },
+      {
+        "id": 5293437,
+        "name": "Sports Heads: Tennis",
+        "verified": true,
+        "types": [
+          "flashpoint"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS94344",
+    "title": "SingStar Latino",
+    "candidates": [
+      {
+        "id": 5261859,
+        "name": "Singstar",
+        "verified": true,
+        "types": [],
+        "release_date": 1414108800
+      },
+      {
+        "id": 5343097,
+        "name": "SingStar '80s",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346734,
+        "name": "SingStar Amped",
+        "verified": true,
+        "types": [],
+        "release_date": 1190073600
+      },
+      {
+        "id": 5346735,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1115942400
+      },
+      {
+        "id": 5346736,
+        "name": "SingStar Queen",
+        "verified": true,
+        "types": [],
+        "release_date": 1237420800
+      },
+      {
+        "id": 5441301,
+        "name": "SingStar Pop",
+        "verified": true,
+        "types": [],
+        "release_date": 1116374400
+      },
+      {
+        "id": 5441302,
+        "name": "SingStar Rocks!",
+        "verified": true,
+        "types": [],
+        "release_date": 1150416000
+      },
+      {
+        "id": 5441303,
+        "name": "SingStar La Edad de Oro del Pop Español",
+        "verified": true,
+        "types": [],
+        "release_date": 1163548800
+      },
+      {
+        "id": 5441304,
+        "name": "SingStar Pop Hits 40",
+        "verified": true,
+        "types": [],
+        "release_date": 1181692800
+      },
+      {
+        "id": 5435887,
+        "name": "Friday Night Funkin' SingStar Challenge",
+        "verified": true,
+        "types": [],
+        "release_date": 1658534400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98106",
+    "title": "Twisted Metal",
+    "candidates": [
+      {
+        "id": 37393,
+        "name": "Twisted Metal",
+        "verified": true,
+        "types": [],
+        "release_date": 815961600
+      },
+      {
+        "id": 5246667,
+        "name": "Twisted Metal",
+        "verified": true,
+        "types": [],
+        "release_date": 1329177600
+      },
+      {
+        "id": 33909,
+        "name": "Twisted Metal 4",
+        "verified": true,
+        "types": [],
+        "release_date": 942710400
+      },
+      {
+        "id": 34846,
+        "name": "Twisted Metal 2",
+        "verified": true,
+        "types": [],
+        "release_date": 847411200
+      },
+      {
+        "id": 35060,
+        "name": "Twisted Metal: Small Brawl",
+        "verified": true,
+        "types": [],
+        "release_date": 1006819200
+      },
+      {
+        "id": 35922,
+        "name": "Twisted Metal: Black",
+        "verified": true,
+        "types": [],
+        "release_date": 992908800
+      },
+      {
+        "id": 37502,
+        "name": "Twisted Metal: Head-On",
+        "verified": true,
+        "types": [],
+        "release_date": 1111622400
+      },
+      {
+        "id": 38287,
+        "name": "Twisted Metal: Black ONLINE",
+        "verified": true,
+        "types": [],
+        "release_date": 1030406400
+      },
+      {
+        "id": 38607,
+        "name": "Twisted Metal III",
+        "verified": true,
+        "types": [],
+        "release_date": 910656000
+      },
+      {
+        "id": 5474856,
+        "name": "Twisted Metal: Harbor City",
+        "verified": true,
+        "types": [],
+        "release_date": 1123718400
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98110",
+    "title": "MAG",
+    "candidates": [
+      {
+        "id": 33650,
+        "name": "MAG",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5546626,
+        "name": "MÁG",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1793491200
+      },
+      {
+        "id": 5342139,
+        "name": "Cro-Mag Rally",
+        "verified": true,
+        "types": [],
+        "release_date": 883612800
+      },
+      {
+        "id": 5427554,
+        "name": "Static Mag",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5503157,
+        "name": "Mr.Mag: The Dark Side Within",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5562269,
+        "name": "Games Mag Tycoon",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 217,
+        "name": "Magus Over Fool",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1551340800
+      },
+      {
+        "id": 664,
+        "name": "Magic Combat VR",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1550736000
+      },
+      {
+        "id": 718,
+        "name": "Magic Word Alchemist",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1549267890
+      },
+      {
+        "id": 942,
+        "name": "Magic Heart",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1554043156
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98117",
+    "title": "Warhawk",
+    "candidates": [
+      {
+        "id": 5245243,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [],
+        "release_date": 815961600
+      },
+      {
+        "id": 5273706,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [],
+        "release_date": 1188259200
+      },
+      {
+        "id": 5470864,
+        "name": "Warhawk",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1734048000
+      },
+      {
+        "id": 8119,
+        "name": "Warhawks",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1594394151
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98144",
+    "title": "NBA 08 featuring Games of the Week",
+    "candidates": [
+      {
+        "id": 5342379,
+        "name": "NBA 08",
+        "verified": true,
+        "types": [],
+        "release_date": 1190764800
+      },
+      {
+        "id": 5259773,
+        "name": "NBA Live 08",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5342376,
+        "name": "NBA",
+        "verified": true,
+        "types": [],
+        "release_date": 1111622400
+      },
+      {
+        "id": 1740,
+        "name": "NBA 2K12",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1317758400
+      },
+      {
+        "id": 2237,
+        "name": "NBA 2K13",
+        "verified": true,
+        "types": [
+          "steam",
+          "eshop"
+        ]
+      },
+      {
+        "id": 3189,
+        "name": "NBA 2K14",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1380646260
+      },
+      {
+        "id": 3933,
+        "name": "NBA 2K15",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1412578800
+      },
+      {
+        "id": 7672,
+        "name": "NBA 2K16",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1443510000
+      },
+      {
+        "id": 8377,
+        "name": "NBA 2K17",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1474354800
+      },
+      {
+        "id": 9385,
+        "name": "NBA 2K10",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1255330800
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98145",
+    "title": "Buzz! Quiz TV",
+    "candidates": [
+      {
+        "id": 5432197,
+        "name": "BUZZ",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704931200
+      },
+      {
+        "id": 4917,
+        "name": "Buzz Aldrin's Space Program Manager",
+        "verified": true,
+        "types": [
+          "steam",
+          "gog"
+        ],
+        "release_date": 1414753119
+      },
+      {
+        "id": 34653,
+        "name": "Buzz Lightyear of Star Command",
+        "verified": true,
+        "types": [],
+        "release_date": 970617600
+      },
+      {
+        "id": 5246119,
+        "name": "Buzz Kill Zero",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1573804800
+      },
+      {
+        "id": 5251638,
+        "name": "Buzz Aldrin: Cycling Pathways to Mars",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1489734000
+      },
+      {
+        "id": 5436699,
+        "name": "Buzz Cut Simulation",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1701043200
+      },
+      {
+        "id": 5448279,
+        "name": "BUZZ or DIE",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1704067200
+      },
+      {
+        "id": 5478904,
+        "name": "Buzz Off",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1741219200
+      },
+      {
+        "id": 5494574,
+        "name": "Buzz Wars",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 5533240,
+        "name": "Buzz Buddies",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
+  },
+  {
+    "title_id": "BCUS98146",
+    "title": "White Knight Chronicles: International Edition",
+    "candidates": [
+      {
+        "id": 36426,
+        "name": "White Knight Chronicles",
+        "verified": true,
+        "types": [],
+        "release_date": 1230163200
+      },
+      {
+        "id": 35896,
+        "name": "White Knight Chronicles II",
+        "verified": true,
+        "types": []
+      },
+      {
+        "id": 5354093,
+        "name": "White Knight Chronicles Origins",
+        "verified": true,
+        "types": [],
+        "release_date": 1296691200
+      },
+      {
+        "id": 5287369,
+        "name": "White Knight & Dark Servant",
+        "verified": true,
+        "types": [],
+        "release_date": 1425081600
+      },
+      {
+        "id": 5476542,
+        "name": "White Cat Knight",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1738368000
+      },
+      {
+        "id": 5257131,
+        "name": "A Kiss for the Petals: Snow White's Knight",
+        "verified": true,
+        "types": [],
+        "release_date": 1387497600
+      },
+      {
+        "id": 5369850,
+        "name": "White",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1671580800
+      },
+      {
+        "id": 5449111,
+        "name": "White",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1756684800
+      },
+      {
+        "id": 5521908,
+        "name": "White",
+        "verified": true,
+        "types": [
+          "steam"
+        ]
+      },
+      {
+        "id": 4141,
+        "name": "White Haven Mysteries",
+        "verified": true,
+        "types": [
+          "steam"
+        ],
+        "release_date": 1397749050
+      }
+    ],
+    "reason": "No unique exact title and release match; verify game ID manually"
   }
 ]

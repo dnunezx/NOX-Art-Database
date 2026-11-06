@@ -41,6 +41,46 @@
       "artwork": "art/BLUS30591.png",
       "sha256": "2eded82f7decc65cc4639f1eda7883cad4ec4825d03efea5b1e694b30f87722c"
     },
+    "BCUS90259": {
+      "title": "Ratchet & Clank: All 4 One",
+      "creator": "fraiak",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/241869",
+      "source_url": "https://cdn2.steamgriddb.com/grid/5c68cbbf85b0520835ac4d4588a99df1.jpg",
+      "asset_id": 241869,
+      "artwork": "art/BCUS98175.png",
+      "sha256": "3ab8246f833b68fff231dd1f120deccf462d6b4f913517908c7d32a0eb39021a"
+    },
+    "BCUS90664": {
+      "title": "Resistance 2",
+      "creator": "Cyrene",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/146534",
+      "source_url": "https://cdn2.steamgriddb.com/grid/cf62cfeb3796c44845f303785e4bb88c.png",
+      "asset_id": 146534,
+      "artwork": "art/BCUS98190.png",
+      "sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead"
+    },
+    "BCUS98103": {
+      "title": "Uncharted: Drake's Fortune",
+      "creator": "Timberfang",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/137318",
+      "source_url": "https://cdn2.steamgriddb.com/grid/7670cc4426a36873cf7d4a0624347dac.png",
+      "asset_id": 137318,
+      "artwork": "art/BCUS98103.png",
+      "sha256": "b722be5edb78c071cc4505ce448e81e20ae317ca26f5ee6dc40a31fc71b502d9"
+    },
+    "BCUS98107": {
+      "title": "Resistance: Fall of Man",
+      "creator": "Cyrene",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/146533",
+      "source_url": "https://cdn2.steamgriddb.com/grid/80b2665f20b7dc08201de028828a30c0.png",
+      "asset_id": 146533,
+      "artwork": "art/BCUS98107.png",
+      "sha256": "b999067267d515029365c20a3f71abf82713daec23151e79d95fcf18dd8e201e"
+    },
     "BCUS98111": {
       "title": "God of War III",
       "creator": "Prabhjot19",
@@ -51,6 +91,46 @@
       "artwork": "art/BCUS98111.png",
       "sha256": "acc827b43a1852de76d71822bb7524719eb65f9e0564e20c658f5baf734ef8e3"
     },
+    "BCUS98114": {
+      "title": "Gran Turismo 5",
+      "creator": "reTokyo",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/336513",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e81300cf6f789d3daf6ef0d83dc9ffc4.jpg",
+      "asset_id": 336513,
+      "artwork": "art/BCUS98114.png",
+      "sha256": "975ef24ba330c8db03f6787e429ed551789b1fe1cb0ff2ae5befd87a23fb6895"
+    },
+    "BCUS98116": {
+      "title": "Killzone 2",
+      "creator": "fraiak",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/246509",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e0ad41defc682134c972c6f99ffa7fcb.jpg",
+      "asset_id": 246509,
+      "artwork": "art/BCUS98116.png",
+      "sha256": "3a114f55aaa4e04d0adc6abebf4df643f2566a3b0baaf142b7766e1a2a227f4c"
+    },
+    "BCUS98119": {
+      "title": "inFamous",
+      "creator": "FloydWarshall",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/354886",
+      "source_url": "https://cdn2.steamgriddb.com/grid/8853673e284ce269d873d90bbb2d4788.jpg",
+      "asset_id": 354886,
+      "artwork": "art/BCUS98119.png",
+      "sha256": "72cbf17a1204d9c047f07d08f14e081dde8ddd78da0b8e1285f512f434f2423f"
+    },
+    "BCUS98120": {
+      "title": "Resistance 2",
+      "creator": "Cyrene",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/146534",
+      "source_url": "https://cdn2.steamgriddb.com/grid/cf62cfeb3796c44845f303785e4bb88c.png",
+      "asset_id": 146534,
+      "artwork": "art/BCUS98190.png",
+      "sha256": "a6bc92d7551973cc5b609eaf820feade7cab0507cc79eee500e6786b75de1ead"
+    },
     "BCUS98123": {
       "title": "Uncharted 2: Among Thieves",
       "creator": "Timberfang",
@@ -60,6 +140,86 @@
       "asset_id": 137325,
       "artwork": "art/BCUS98123.png",
       "sha256": "73ec95034d4f83f3f0b081f65cb486c433004610d6f9e6e8f2a241cd0adb53aa"
+    },
+    "BCUS98124": {
+      "title": "Ratchet & Clank Future: A Crack in Time",
+      "creator": "Gray Mess",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/144862",
+      "source_url": "https://cdn2.steamgriddb.com/grid/267bae333f36fdb5820dee195136fe5c.jpg",
+      "asset_id": 144862,
+      "artwork": "art/BCUS98124.png",
+      "sha256": "8ef8c4e5af658ede02aa3546ddc14b1efd2e37fdfd988b10425b6404485ec42f"
+    },
+    "BCUS98125": {
+      "title": "inFamous 2",
+      "creator": "CluckenDip",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/694621",
+      "source_url": "https://cdn2.steamgriddb.com/grid/5a61ea5f1584923d1d34e375281a80f7.jpg",
+      "asset_id": 694621,
+      "artwork": "art/BCUS98125.png",
+      "sha256": "1706aa414b7e1d070f21f21fb74b583dd8d631b8ded0b3637bb699e3f5da5a4a"
+    },
+    "BCUS98127": {
+      "title": "Ratchet & Clank Future: Tools of Destruction",
+      "creator": "FloydWarshall",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/354884",
+      "source_url": "https://cdn2.steamgriddb.com/grid/ff73092f4ad4fab5fb77b18062b4e2a8.jpg",
+      "asset_id": 354884,
+      "artwork": "art/BCUS98153.png",
+      "sha256": "819f37eb307ea5e4869d4c0377bde20a1dbf5f8d285b62784bc8960c03982983"
+    },
+    "BCUS98132": {
+      "title": "Heavenly Sword",
+      "creator": "Shiios42",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/341813",
+      "source_url": "https://cdn2.steamgriddb.com/grid/aa9d6024e7497a53cb88f03c62055286.png",
+      "asset_id": 341813,
+      "artwork": "art/BCUS98132.png",
+      "sha256": "475b80cb626ad13909a03ce93491d046c4e64511b1a5321068cafd0b0c5016e9"
+    },
+    "BCUS98135": {
+      "title": "SOCOM 4: U.S. Navy SEALs",
+      "creator": "Kynd",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/227081",
+      "source_url": "https://cdn2.steamgriddb.com/grid/daf7137a4227453fa9029976efd8f5e5.png",
+      "asset_id": 227081,
+      "artwork": "art/BCUS98135.png",
+      "sha256": "f58a89eeff26125b3fdee1ca59e840fd27327c541b5e6aa4d43e5088885faccb"
+    },
+    "BCUS98137": {
+      "title": "MotorStorm",
+      "creator": "reTokyo",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/209704",
+      "source_url": "https://cdn2.steamgriddb.com/grid/e4875c6efc49908746b42d81121d0127.jpg",
+      "asset_id": 209704,
+      "artwork": "art/BCUS98137.png",
+      "sha256": "43acb4065d41df5193352d10041d03b85175011c8c8447ff6976be0183498151"
+    },
+    "BCUS98141": {
+      "title": "MLB 08: The Show",
+      "creator": "donnrach1",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/328193",
+      "source_url": "https://cdn2.steamgriddb.com/grid/8f13507608018413afe4ad565234b8ea.png",
+      "asset_id": 328193,
+      "artwork": "art/BCUS98141.png",
+      "sha256": "c146ef8e72f32ec6b25aaf5cfe4425d1405fcfb1b9eaad43c507e2647612eb41"
+    },
+    "BCUS98147": {
+      "title": "Folklore",
+      "creator": "Shiios42",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/341634",
+      "source_url": "https://cdn2.steamgriddb.com/grid/dc54d475ac895e20bd5aac9755afde3d.jpg",
+      "asset_id": 341634,
+      "artwork": "art/BCUS98147.png",
+      "sha256": "4355bc924c480528667d5f41a09ba6036ee2fedd3be02b97f2fd1f707e2d1af7"
     },
     "BCUS98148": {
       "title": "LittleBigPlanet",
