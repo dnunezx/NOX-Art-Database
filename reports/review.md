@@ -10,39 +10,39 @@
 | Call of Duty: Black Ops | BCUS90162 | 352797 | exact | validated | approved | approved |
 | The Ico & Shadow of the Colossus Collection | BCUS90190 | none | unknown | missing | pending | unverified |
 | Ratchet & Clank: All 4 One | BCUS90259 | 241869 | exact | validated | approved | approved |
-| LittleBigPlanet 2: Special Edition | BCUS90260 | none | unknown | ambiguous_match | pending | unverified |
-| Sports Champions / Medieval Moves: Deadmund's Quest Combo Disc | BCUS90490 | none | unknown | ambiguous_match | pending | unverified |
-| MLB 12: The Show | BCUS90637 | none | exact | missing_square | pending | unverified |
+| LittleBigPlanet 2: Special Edition | BCUS90260 | none | unknown | missing | pending | unverified |
+| Sports Champions / Medieval Moves: Deadmund's Quest Combo Disc | BCUS90490 | none | unknown | missing | pending | unverified |
+| MLB 12: The Show | BCUS90637 | none | exact | missing | pending | unverified |
 | Resistance 2 | BCUS90664 | 146534 | exact | validated | approved | approved |
-| SingStar Latino | BCUS94344 | none | unknown | ambiguous_match | pending | unverified |
-| NBA 07 | BCUS98102 | none | exact | missing_square | pending | unverified |
+| SingStar Latino | BCUS94344 | none | unknown | missing | pending | unverified |
+| NBA 07 | BCUS98102 | none | exact | missing | pending | unverified |
 | Uncharted: Drake's Fortune | BCUS98103 | 137318 | exact | validated | approved | approved |
-| Twisted Metal | BCUS98106 | none | unknown | ambiguous_match | pending | unverified |
+| Twisted Metal | BCUS98106 | none | unknown | missing | pending | unverified |
 | Resistance: Fall of Man | BCUS98107 | 146533 | exact | validated | approved | approved |
-| MLB 07: The Show | BCUS98109 | none | exact | missing_square | pending | unverified |
-| MAG | BCUS98110 | none | unknown | ambiguous_match | pending | unverified |
+| MLB 07: The Show | BCUS98109 | none | exact | missing | pending | unverified |
+| MAG | BCUS98110 | none | unknown | missing | pending | unverified |
 | God of War III | BCUS98111 | 263645 | exact | validated | approved | approved |
-| Lair | BCUS98112 | none | exact | missing_square | pending | unverified |
+| Lair | BCUS98112 | none | exact | missing | pending | unverified |
 | Gran Turismo 5 | BCUS98114 | 336513 | exact | validated | approved | approved |
-| Hot Shots Golf: Out of Bounds | BCUS98115 | none | exact | missing_square | pending | unverified |
+| Hot Shots Golf: Out of Bounds | BCUS98115 | none | exact | missing | pending | unverified |
 | Killzone 2 | BCUS98116 | 246509 | exact | validated | approved | approved |
-| Warhawk | BCUS98117 | none | unknown | ambiguous_match | pending | unverified |
+| Warhawk | BCUS98117 | none | unknown | missing | pending | unverified |
 | inFamous | BCUS98119 | 354886 | exact | validated | approved | approved |
 | Resistance 2 | BCUS98120 | 146534 | exact | validated | approved | approved |
 | Uncharted 2: Among Thieves | BCUS98123 | 137325 | exact | validated | approved | approved |
 | Ratchet & Clank Future: A Crack in Time | BCUS98124 | 144862 | exact | validated | approved | approved |
 | inFamous 2 | BCUS98125 | 694621 | exact | validated | approved | approved |
 | Ratchet & Clank Future: Tools of Destruction | BCUS98127 | 354884 | exact | validated | approved | approved |
-| Genji: Days of the Blade | BCUS98131 | none | exact | missing_square | pending | unverified |
+| Genji: Days of the Blade | BCUS98131 | none | exact | missing | pending | unverified |
 | Heavenly Sword | BCUS98132 | 341813 | exact | validated | approved | approved |
-| The Eye of Judgment | BCUS98133 | none | exact | missing_square | pending | unverified |
+| The Eye of Judgment | BCUS98133 | none | exact | missing | pending | unverified |
 | SOCOM 4: U.S. Navy SEALs | BCUS98135 | 227081 | exact | validated | approved | approved |
 | MotorStorm | BCUS98137 | 209704 | exact | validated | approved | approved |
 | MLB 08: The Show | BCUS98141 | 328193 | exact | validated | approved | approved |
-| Formula One: Championship Edition | BCUS98142 | none | exact | missing_square | pending | unverified |
-| NBA 08 featuring Games of the Week | BCUS98144 | none | unknown | ambiguous_match | pending | unverified |
-| Buzz! Quiz TV | BCUS98145 | none | unknown | ambiguous_match | pending | unverified |
-| White Knight Chronicles: International Edition | BCUS98146 | none | unknown | ambiguous_match | pending | unverified |
+| Formula One: Championship Edition | BCUS98142 | none | exact | missing | pending | unverified |
+| NBA 08 featuring Games of the Week | BCUS98144 | none | unknown | missing | pending | unverified |
+| Buzz! Quiz TV | BCUS98145 | none | unknown | missing | pending | unverified |
+| White Knight Chronicles: International Edition | BCUS98146 | none | unknown | missing | pending | unverified |
 | Folklore | BCUS98147 | 341634 | exact | validated | approved | approved |
 | LittleBigPlanet | BCUS98148 | 238018 | exact | validated | approved | approved |
 | SingStar | BCUS98151 | none | exact | missing | pending | unverified |
