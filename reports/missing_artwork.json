@@ -887,7 +887,7 @@
   {
     "title_id": "BLUS30254",
     "title": "NPPL Championship Paintball 2009",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30255",
@@ -897,22 +897,22 @@
   {
     "title_id": "BLUS30257",
     "title": "Guitar Hero: Metallica",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30258",
     "title": "Red Faction: Guerrilla",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30266",
     "title": "MLB Front Office Manager",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30267",
     "title": "Eat Lead: The Return of Matt Hazard",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30268",
@@ -922,12 +922,12 @@
   {
     "title_id": "BLUS30271",
     "title": "Trivial Pursuit",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30272",
     "title": "Ski-Doo Snowmobile Challenge",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30273",
@@ -942,7 +942,7 @@
   {
     "title_id": "BLUS30276",
     "title": "Major League Baseball 2K9",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30283",
@@ -952,7 +952,7 @@
   {
     "title_id": "BLUS30286",
     "title": "Tiger Woods PGA Tour 10",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30289",
@@ -962,7 +962,7 @@
   {
     "title_id": "BLUS30290",
     "title": "Guitar Hero: Smash Hits",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30296",
@@ -972,12 +972,12 @@
   {
     "title_id": "BLUS30297",
     "title": "Transformers: Revenge of the Fallen",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30299",
     "title": "UFC 2009 Undisputed",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30304",
@@ -987,17 +987,17 @@
   {
     "title_id": "BLUS30306",
     "title": "Dynasty Warriors 6: Empires",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30308",
     "title": "Heroes over Europe",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30318",
     "title": "Terminator Salvation",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30319",
@@ -1007,37 +1007,37 @@
   {
     "title_id": "BLUS30325",
     "title": "Tony Hawk: Ride",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30327",
     "title": "Rock Band Track Pack: Classic Rock",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30328",
     "title": "Stormrise",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30329",
     "title": "Quantum Theory",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30331",
     "title": "Leisure Suit Larry: Box Office Bust",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30333",
     "title": "JASF: Jane's Advanced Strike Fighters",
-    "status": "missing_game"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30334",
     "title": "Backbreaker",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30335",
@@ -1052,22 +1052,22 @@
   {
     "title_id": "BLUS30345",
     "title": "NHL 10",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30348",
     "title": "Cross Edge",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30351",
     "title": "Rock Band: Country Track Pack",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30352",
     "title": "Rock Band: Metal Track Pack",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30354",
@@ -1077,7 +1077,7 @@
   {
     "title_id": "BLUS30355",
     "title": "NCAA Football 10",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30358",
@@ -1092,27 +1092,27 @@
   {
     "title_id": "BLUS30363",
     "title": "Cloudy with a Chance of Meatballs",
-    "status": "missing_square"
+    "status": "missing"
   },
   {
     "title_id": "BLUS30365",
     "title": "Hannah Montana: The Movie",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30366",
     "title": "Planet 51: The Game",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30369",
     "title": "MotoGP 09/10",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30371",
     "title": "Tornado Outbreak",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30376",
@@ -1127,22 +1127,22 @@
   {
     "title_id": "BLUS30378",
     "title": "Karaoke Revolution",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30379",
     "title": "F1 2010",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30380",
     "title": "Ninja Gaiden Sigma 2",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30387",
     "title": "Pinball Hall of Fame: The Williams Collection",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30388",
@@ -1152,22 +1152,22 @@
   {
     "title_id": "BLUS30389",
     "title": "Chaotic: Shadow Warriors",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30396",
     "title": "Cabela's Big Game Hunter 2010",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30397",
     "title": "Disney Sing It: Pop Hits",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30398",
     "title": "Way of the Samurai 3",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30403",
@@ -1192,7 +1192,7 @@
   {
     "title_id": "BLUS30410",
     "title": "Marvel vs. Capcom 3: Fate of Two Worlds",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30411",
@@ -1202,12 +1202,12 @@
   {
     "title_id": "BLUS30417",
     "title": "Grand Slam Tennis 2",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30424",
     "title": "IL-2 Sturmovik: Birds of Prey",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30429",
@@ -1232,17 +1232,17 @@
   {
     "title_id": "BLUS30438",
     "title": "NHL 2K10",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30441",
     "title": "Where the Wild Things Are",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30442",
     "title": "Midnight Club: Los Angeles: Complete Edition",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30443",
@@ -1252,7 +1252,7 @@
   {
     "title_id": "BLUS30444",
     "title": "NCAA Basketball 10",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30450",
@@ -1267,7 +1267,7 @@
   {
     "title_id": "BLUS30453",
     "title": "Super Street Fighter IV",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30455",
@@ -1277,7 +1277,7 @@
   {
     "title_id": "BLUS30456",
     "title": "Fairytale Fights",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30457",
@@ -1292,7 +1292,7 @@
   {
     "title_id": "BLUS30462",
     "title": "Star Ocean: The Last Hope International",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30465",
@@ -1307,12 +1307,12 @@
   {
     "title_id": "BLUS30467",
     "title": "Prison Break: The Conspiracy",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30469",
     "title": "Legend of the Guardians: The Owls of Ga'Hoole",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30478",
@@ -1332,7 +1332,7 @@
   {
     "title_id": "BLUS30489",
     "title": "Tiger Woods PGA Tour 11",
-    "status": "missing"
+    "status": "missing_square"
   },
   {
     "title_id": "BLUS30491",
