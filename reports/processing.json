@@ -280,6 +280,16 @@
     "message": "Existing artwork preserved"
   },
   {
+    "title_id": "BLUS30063",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
     "title_id": "BLUS30064",
     "status": "preserved",
     "message": "Existing artwork preserved"
@@ -333,6 +343,16 @@
     "title_id": "BLUS30079",
     "status": "preserved",
     "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS30080",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "PNG",
+    "warnings": []
   },
   {
     "title_id": "BLUS30082",
@@ -445,6 +465,16 @@
     "message": "Existing artwork preserved"
   },
   {
+    "title_id": "BLUS30133",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "PNG",
+    "warnings": []
+  },
+  {
     "title_id": "BLUS30134",
     "status": "preserved",
     "message": "Existing artwork preserved"
@@ -453,6 +483,16 @@
     "title_id": "BLUS30135",
     "status": "preserved",
     "message": "Existing artwork preserved"
+  },
+  {
+    "title_id": "BLUS30139",
+    "status": "generated",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "JPEG",
+    "warnings": []
   },
   {
     "title_id": "BLUS30141",

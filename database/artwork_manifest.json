@@ -856,6 +856,16 @@
       "resolution": "512x512",
       "status": "available"
     },
+    "BLUS30063": {
+      "artwork": "BLUS30063.png",
+      "thumbnail": "BLUS30063.png",
+      "sha256": "4639b8edcd392b148f5d5aa5f376fc4bca0163d180933bb20855a671342778e4",
+      "thumbnail_sha256": "36c84bfaab19e13dc2166df0ed72a3299ea49fc07cd110b33e4114ce92d65df3",
+      "steamgriddb_id": 1317,
+      "asset_id": 157271,
+      "resolution": "512x512",
+      "status": "available"
+    },
     "BLUS30064": {
       "artwork": "BLUS30064.png",
       "thumbnail": "BLUS30064.png",
@@ -963,6 +973,26 @@
       "thumbnail_sha256": "37ba6de04853ec9d1b39d4f546e837f3605e2d1348619b3d3856597f8db6e65d",
       "steamgriddb_id": 5517,
       "asset_id": 336872,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BLUS30080": {
+      "artwork": "BLUS30080.png",
+      "thumbnail": "BLUS30080.png",
+      "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+      "thumbnail_sha256": "d46b36c811b913ded563e570542ec939dc0076e64293577dc299ededa7c0558e",
+      "steamgriddb_id": 5249079,
+      "asset_id": 832462,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BLUS30081": {
+      "artwork": "BLUS30080.png",
+      "thumbnail": "BLUS30080.png",
+      "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+      "thumbnail_sha256": "d46b36c811b913ded563e570542ec939dc0076e64293577dc299ededa7c0558e",
+      "steamgriddb_id": 5249079,
+      "asset_id": 832462,
       "resolution": "512x512",
       "status": "available"
     },
@@ -1206,6 +1236,16 @@
       "resolution": "512x512",
       "status": "available"
     },
+    "BLUS30133": {
+      "artwork": "BLUS30133.png",
+      "thumbnail": "BLUS30133.png",
+      "sha256": "e8d54098ec58d7aaea66f8882fcba518646f68bed33c5d9acb5c3d6b87aec248",
+      "thumbnail_sha256": "e19d84b49756fc39823d38e7e1c27dedbc169a81531c43a00d0d606d36b3eb56",
+      "steamgriddb_id": 5254986,
+      "asset_id": 378601,
+      "resolution": "512x512",
+      "status": "available"
+    },
     "BLUS30134": {
       "artwork": "BLUS30134.png",
       "thumbnail": "BLUS30134.png",
@@ -1223,6 +1263,16 @@
       "thumbnail_sha256": "209352a4c4e9e1dbc14f2ae46868f8f0d301e9e1c2dd07b0fec158ed2ee8aaf4",
       "steamgriddb_id": 5412717,
       "asset_id": 345244,
+      "resolution": "512x512",
+      "status": "available"
+    },
+    "BLUS30139": {
+      "artwork": "BLUS30139.png",
+      "thumbnail": "BLUS30139.png",
+      "sha256": "82979a44b18fdff1b47d84b68c321570bb62b6a292567cc331fa945a90911394",
+      "thumbnail_sha256": "ba0e78ad2ffd43bf47a916b7620804e5289ad30dc74ebbe5a5f584699140c63f",
+      "steamgriddb_id": 5262209,
+      "asset_id": 503284,
       "resolution": "512x512",
       "status": "available"
     },

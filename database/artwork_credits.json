@@ -851,6 +851,16 @@
       "artwork": "art/BLUS30061.png",
       "sha256": "2f18f6b383232a37fb0310380fefa0cb185d51b9a26a823b6c8488378da76cd6"
     },
+    "BLUS30063": {
+      "title": "Clive Barker's Jericho",
+      "creator": "FrostWolf",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/157271",
+      "source_url": "https://cdn2.steamgriddb.com/grid/d490708eaf8cdca88409acb06e61dbac.png",
+      "asset_id": 157271,
+      "artwork": "art/BLUS30063.png",
+      "sha256": "4639b8edcd392b148f5d5aa5f376fc4bca0163d180933bb20855a671342778e4"
+    },
     "BLUS30064": {
       "title": "DiRT",
       "creator": "leburn98",
@@ -960,6 +970,26 @@
       "asset_id": 336872,
       "artwork": "art/BLUS30079.png",
       "sha256": "7319cdbc69732c154f521ec109c3a56da08b23391422afcf45ca20751f60889a"
+    },
+    "BLUS30080": {
+      "title": "John Woo Presents Stranglehold",
+      "creator": "tema_keks",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/832462",
+      "source_url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+      "asset_id": 832462,
+      "artwork": "art/BLUS30080.png",
+      "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8"
+    },
+    "BLUS30081": {
+      "title": "John Woo Presents Stranglehold",
+      "creator": "tema_keks",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/832462",
+      "source_url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+      "asset_id": 832462,
+      "artwork": "art/BLUS30080.png",
+      "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8"
     },
     "BLUS30082": {
       "title": "WWE SmackDown vs. Raw 2008",
@@ -1201,6 +1231,16 @@
       "artwork": "art/BLUS30132.png",
       "sha256": "83ff2e93dc05f7d1885e9419949b1eee9f4c722f9d2212eb05329406245925fa"
     },
+    "BLUS30133": {
+      "title": "Guitar Hero: Aerosmith",
+      "creator": "Imatination",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/378601",
+      "source_url": "https://cdn2.steamgriddb.com/grid/86d742ac9b8bfe2759a2764a25cc7e71.png",
+      "asset_id": 378601,
+      "artwork": "art/BLUS30133.png",
+      "sha256": "e8d54098ec58d7aaea66f8882fcba518646f68bed33c5d9acb5c3d6b87aec248"
+    },
     "BLUS30134": {
       "title": "Iron Man",
       "creator": "Mentos0723",
@@ -1220,6 +1260,16 @@
       "asset_id": 345244,
       "artwork": "art/BLUS30135.png",
       "sha256": "e4a1860a80f79b1878abc7edeb08d065ba01f74601af95499232f73d8866bf5d"
+    },
+    "BLUS30139": {
+      "title": "NASCAR 09",
+      "creator": "Luizero",
+      "provider": "SteamGridDB",
+      "source_page": "https://www.steamgriddb.com/grid/503284",
+      "source_url": "https://cdn2.steamgriddb.com/grid/0e39811be62b7e230f5116e5aa29ffc2.jpg",
+      "asset_id": 503284,
+      "artwork": "art/BLUS30139.png",
+      "sha256": "82979a44b18fdff1b47d84b68c321570bb62b6a292567cc331fa945a90911394"
     },
     "BLUS30141": {
       "title": "LEGO Indiana Jones: The Original Adventures",

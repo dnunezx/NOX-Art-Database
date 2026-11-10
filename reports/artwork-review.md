@@ -12,7 +12,7 @@ Conclusive matches that pass validation are approved automatically. Only inconcl
 
 No entries in this section yet.
 
-## Approved artwork (685)
+## Approved artwork (690)
 
 | Preview | Game | Title ID | Approval | Contributor / source |
 |---|---|---|---|---|
@@ -128,6 +128,7 @@ No entries in this section yet.
 | [![BLUS30999](../thumbnails/BLUS30999.png)](../art/BLUS30999.png) | Castlevania: Lords of Shadow 2 | `BLUS30999` | automatic | CriticalComposer<br>[asset #137448](https://www.steamgriddb.com/grid/137448) |
 | [![BLUS30428](../thumbnails/BLUS30428.png)](../art/BLUS30428.png) | Catherine | `BLUS30428` | automatic | Ichiron47<br>[asset #326079](https://www.steamgriddb.com/grid/326079) |
 | [![BLUS30669](../thumbnails/BLUS30669.png)](../art/BLUS30669.png) | Child of Eden | `BLUS30669` | automatic | fia<br>[asset #560782](https://www.steamgriddb.com/grid/560782) |
+| [![BLUS30063](../thumbnails/BLUS30063.png)](../art/BLUS30063.png) | Clive Barker&#x27;s Jericho | `BLUS30063` | automatic | FrostWolf<br>[asset #157271](https://www.steamgriddb.com/grid/157271) |
 | [![BLUS30078](../thumbnails/BLUS30078.png)](../art/BLUS30078.png) | College Hoops 2K8 | `BLUS30078` | automatic | Nardokrazy<br>[asset #315383](https://www.steamgriddb.com/grid/315383) |
 | [![BLUS30115](../thumbnails/BLUS30115.png)](../art/BLUS30115.png) | Condemned 2: Bloodshot | `BLUS30115` | automatic | tema_keks<br>[asset #832230](https://www.steamgriddb.com/grid/832230) |
 | [![BLUS30107](../thumbnails/BLUS30107.png)](../art/BLUS30107.png) | Conflict: Denied Ops | `BLUS30107` | automatic | Neuropod<br>[asset #443473](https://www.steamgriddb.com/grid/443473) |
@@ -284,6 +285,7 @@ No entries in this section yet.
 | [![BLUS30074](../thumbnails/BLUS30074.png)](../art/BLUS30074.png) | Guitar Hero III: Legends of Rock | `BLUS30074` | automatic | SolarisTM<br>[asset #258030](https://www.steamgriddb.com/grid/258030) |
 | [![BLUS31556](../thumbnails/BLUS31556.png)](../art/BLUS31556.png) | Guitar Hero Live | `BLUS31556` | automatic | Imatination<br>[asset #378602](https://www.steamgriddb.com/grid/378602) |
 | [![BLUS30164](../thumbnails/BLUS30164.png)](../art/BLUS30164.png) | Guitar Hero World Tour | `BLUS30164` | automatic | GabrielXZLIVE<br>[asset #792755](https://www.steamgriddb.com/grid/792755) |
+| [![BLUS30133](../thumbnails/BLUS30133.png)](../art/BLUS30133.png) | Guitar Hero: Aerosmith | `BLUS30133` | automatic | Imatination<br>[asset #378601](https://www.steamgriddb.com/grid/378601) |
 | [![BLUS30291](../thumbnails/BLUS30291.png)](../art/BLUS30291.png) | Guitar Hero: Van Halen | `BLUS30291` | automatic | ZazaMastro<br>[asset #480494](https://www.steamgriddb.com/grid/480494) |
 | [![BLUS30460](../thumbnails/BLUS30291.png)](../art/BLUS30291.png) | Guitar Hero: Van Halen | `BLUS30460` | automatic | ZazaMastro<br>[asset #480494](https://www.steamgriddb.com/grid/480494) |
 | [![BLUS30487](../thumbnails/BLUS30487.png)](../art/BLUS30487.png) | Guitar Hero: Warriors of Rock | `BLUS30487` | automatic | Imatination<br>[asset #378606](https://www.steamgriddb.com/grid/378606) |
@@ -314,6 +316,8 @@ No entries in this section yet.
 | [![BLUS31519](../thumbnails/BLUS31519.png)](../art/BLUS31519.png) | J-Stars Victory Vs+ | `BLUS31519` | automatic | ScarletteSkunk<br>[asset #526516](https://www.steamgriddb.com/grid/526516) |
 | [![BCUS98281](../thumbnails/BCUS98281.png)](../art/BCUS98281.png) | Jak and Daxter Collection | `BCUS98281` | automatic | fia<br>[asset #559173](https://www.steamgriddb.com/grid/559173) |
 | [![BLUS30374](../thumbnails/BLUS30374.png)](../art/BLUS30374.png) | James Cameron&#x27;s Avatar: The Game | `BLUS30374` | automatic | mitsuuuuuu<br>[asset #699487](https://www.steamgriddb.com/grid/699487) |
+| [![BLUS30080](../thumbnails/BLUS30080.png)](../art/BLUS30080.png) | John Woo Presents Stranglehold | `BLUS30080` | automatic | tema_keks<br>[asset #832462](https://www.steamgriddb.com/grid/832462) |
+| [![BLUS30081](../thumbnails/BLUS30080.png)](../art/BLUS30080.png) | John Woo Presents Stranglehold | `BLUS30081` | automatic | tema_keks<br>[asset #832462](https://www.steamgriddb.com/grid/832462) |
 | [![BLUS30084](../thumbnails/BLUS30084.png)](../art/BLUS30084.png) | Juiced 2: Hot Import Nights | `BLUS30084` | automatic | thatRdude<br>[asset #772934](https://www.steamgriddb.com/grid/772934) |
 | [![BLUS30435](../thumbnails/BLUS30435.png)](../art/BLUS30435.png) | Jurassic: The Hunted | `BLUS30435` | automatic | MagieUltime<br>[asset #537478](https://www.steamgriddb.com/grid/537478) |
 | [![BLUS30400](../thumbnails/BLUS30400.png)](../art/BLUS30400.png) | Just Cause 2 | `BLUS30400` | automatic | Mingebag<br>[asset #417468](https://www.steamgriddb.com/grid/417468) |
@@ -430,6 +434,7 @@ No entries in this section yet.
 | [![BLUS30200](../thumbnails/BLUS30200.png)](../art/BLUS30200.png) | Naruto: Ultimate Ninja Storm | `BLUS30200` | automatic | WeaponPC<br>[asset #139767](https://www.steamgriddb.com/grid/139767) |
 | [![BLUS31378](../thumbnails/BLUS31378.png)](../art/BLUS31378.png) | NASCAR &#x27;14 | `BLUS31378` | automatic | cca_jp<br>[asset #359424](https://www.steamgriddb.com/grid/359424) |
 | [![BLUS31580](../thumbnails/BLUS31580.png)](../art/BLUS31580.png) | NASCAR &#x27;15: Victory Edition | `BLUS31580` | automatic | cca_jp<br>[asset #359441](https://www.steamgriddb.com/grid/359441) |
+| [![BLUS30139](../thumbnails/BLUS30139.png)](../art/BLUS30139.png) | NASCAR 09 | `BLUS30139` | automatic | Luizero<br>[asset #503284](https://www.steamgriddb.com/grid/503284) |
 | [![BLUS30507](../thumbnails/BLUS30507.png)](../art/BLUS30507.png) | Naughty Bear | `BLUS30507` | automatic | fia<br>[asset #560359](https://www.steamgriddb.com/grid/560359) |
 | [![BLUS30700](../thumbnails/BLUS30700.png)](../art/BLUS30700.png) | Naughty Bear: Gold Edition | `BLUS30700` | automatic | SiTWulf<br>[asset #377491](https://www.steamgriddb.com/grid/377491) |
 | [![BLUS31143](../thumbnails/BLUS30700.png)](../art/BLUS30700.png) | Naughty Bear: Gold Edition | `BLUS31143` | automatic | SiTWulf<br>[asset #377491](https://www.steamgriddb.com/grid/377491) |

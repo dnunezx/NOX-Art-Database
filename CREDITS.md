@@ -90,6 +90,7 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30056 | Mercenaries 2: World in Flames | mr.empacotado | [#854446](https://www.steamgriddb.com/grid/854446) |
 | BLUS30057 | Army of Two | Imatination | [#207033](https://www.steamgriddb.com/grid/207033) |
 | BLUS30061 | Burnout Paradise | fia | [#567814](https://www.steamgriddb.com/grid/567814) |
+| BLUS30063 | Clive Barker's Jericho | FrostWolf | [#157271](https://www.steamgriddb.com/grid/157271) |
 | BLUS30064 | DiRT | leburn98 | [#667949](https://www.steamgriddb.com/grid/667949) |
 | BLUS30065 | The Simpsons Game | Shiios42 | [#349034](https://www.steamgriddb.com/grid/349034) |
 | BLUS30066 | Need for Speed: ProStreet | FrostWolf | [#153996](https://www.steamgriddb.com/grid/153996) |
@@ -101,6 +102,8 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30074 | Guitar Hero III: Legends of Rock | SolarisTM | [#258030](https://www.steamgriddb.com/grid/258030) |
 | BLUS30078 | College Hoops 2K8 | Nardokrazy | [#315383](https://www.steamgriddb.com/grid/315383) |
 | BLUS30079 | LEGO Star Wars: The Complete Saga | cking | [#336872](https://www.steamgriddb.com/grid/336872) |
+| BLUS30080 | John Woo Presents Stranglehold | tema_keks | [#832462](https://www.steamgriddb.com/grid/832462) |
+| BLUS30081 | John Woo Presents Stranglehold | tema_keks | [#832462](https://www.steamgriddb.com/grid/832462) |
 | BLUS30082 | WWE SmackDown vs. Raw 2008 | Shiios42 | [#254562](https://www.steamgriddb.com/grid/254562) |
 | BLUS30084 | Juiced 2: Hot Import Nights | thatRdude | [#772934](https://www.steamgriddb.com/grid/772934) |
 | BLUS30086 | Unreal Tournament III | CriticalComposer | [#337967](https://www.steamgriddb.com/grid/337967) |
@@ -125,8 +128,10 @@ Original creators, contributors and game publishers retain their rights.
 | BLUS30129 | Viking: Battle for Asgard | Neuropod | [#424613](https://www.steamgriddb.com/grid/424613) |
 | BLUS30131 | Tom Clancy's Rainbow Six: Vegas 2 | CriticalComposer | [#139196](https://www.steamgriddb.com/grid/139196) |
 | BLUS30132 | Enemy Territory: Quake Wars | FrostWolf | [#358075](https://www.steamgriddb.com/grid/358075) |
+| BLUS30133 | Guitar Hero: Aerosmith | Imatination | [#378601](https://www.steamgriddb.com/grid/378601) |
 | BLUS30134 | Iron Man | Mentos0723 | [#723080](https://www.steamgriddb.com/grid/723080) |
 | BLUS30135 | NBA Ballers: Chosen One | riefu24 | [#345244](https://www.steamgriddb.com/grid/345244) |
+| BLUS30139 | NASCAR 09 | Luizero | [#503284](https://www.steamgriddb.com/grid/503284) |
 | BLUS30141 | LEGO Indiana Jones: The Original Adventures | Tyra64 | [#199603](https://www.steamgriddb.com/grid/199603) |
 | BLUS30143 | Overlord: Raising Hell | Neuropod | [#430929](https://www.steamgriddb.com/grid/430929) |
 | BLUS30147 | Rock Band 2 | Mentos0723 | [#733553](https://www.steamgriddb.com/grid/733553) |

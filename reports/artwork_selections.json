@@ -1649,10 +1649,17 @@
   },
   {
     "title_id": "BLUS30063",
-    "selected_asset_id": null,
+    "selected_asset_id": 157271,
     "confidence": "exact",
-    "selection": null,
-    "previews": []
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 157271,
+        "url": "https://cdn2.steamgriddb.com/grid/d490708eaf8cdca88409acb06e61dbac.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/157271"
+      }
+    ]
   },
   {
     "title_id": "BLUS30064",
@@ -1909,17 +1916,31 @@
   },
   {
     "title_id": "BLUS30080",
-    "selected_asset_id": null,
+    "selected_asset_id": 832462,
     "confidence": "exact",
-    "selection": null,
-    "previews": []
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 832462,
+        "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/832462"
+      }
+    ]
   },
   {
     "title_id": "BLUS30081",
-    "selected_asset_id": null,
+    "selected_asset_id": 832462,
     "confidence": "exact",
-    "selection": null,
-    "previews": []
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 832462,
+        "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/832462"
+      }
+    ]
   },
   {
     "title_id": "BLUS30082",
@@ -2522,10 +2543,17 @@
   },
   {
     "title_id": "BLUS30133",
-    "selected_asset_id": null,
+    "selected_asset_id": 378601,
     "confidence": "exact",
-    "selection": null,
-    "previews": []
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 378601,
+        "url": "https://cdn2.steamgriddb.com/grid/86d742ac9b8bfe2759a2764a25cc7e71.png",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/378601"
+      }
+    ]
   },
   {
     "title_id": "BLUS30134",
@@ -2570,10 +2598,17 @@
   },
   {
     "title_id": "BLUS30139",
-    "selected_asset_id": null,
+    "selected_asset_id": 503284,
     "confidence": "exact",
-    "selection": null,
-    "previews": []
+    "selection": "ranked",
+    "previews": [
+      {
+        "asset_id": 503284,
+        "url": "https://cdn2.steamgriddb.com/grid/0e39811be62b7e230f5116e5aa29ffc2.jpg",
+        "score": 0.0,
+        "page": "https://www.steamgriddb.com/grid/503284"
+      }
+    ]
   },
   {
     "title_id": "BLUS30141",

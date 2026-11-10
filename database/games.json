@@ -1701,8 +1701,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "ce7f1c70d5061c1531f2339edc373faf9954abb1a94698cc0062bf0b6bec7a32",
-      "checked_at": "2026-11-03T03:55:31.891023+00:00",
-      "retry_after": "2026-11-10T03:55:31.891023+00:00"
+      "checked_at": "2026-11-10T09:58:14.694711+00:00",
+      "retry_after": "2026-11-17T09:58:14.694711+00:00"
     }
   },
   {
@@ -1721,8 +1721,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "26223b5903274f1256473b32adc095bc0a0005aeaa81f78a0329f4708487fc3b",
-      "checked_at": "2026-11-03T03:55:35.884812+00:00",
-      "retry_after": "2026-11-10T03:55:35.884812+00:00"
+      "checked_at": "2026-11-10T09:58:17.675429+00:00",
+      "retry_after": "2026-11-17T09:58:17.675429+00:00"
     }
   },
   {
@@ -1912,8 +1912,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "ce7f1c70d5061c1531f2339edc373faf9954abb1a94698cc0062bf0b6bec7a32",
-      "checked_at": "2026-11-03T03:56:30.497369+00:00",
-      "retry_after": "2026-11-10T03:56:30.497369+00:00"
+      "checked_at": "2026-11-10T09:58:17.675907+00:00",
+      "retry_after": "2026-11-17T09:58:17.675907+00:00"
     }
   },
   {
@@ -2006,8 +2006,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "8fa4fb3a04ecb5bddfef3007c891c68e1719df502317983e7bd6aca6626fc6bd",
-      "checked_at": "2026-11-03T03:56:41.625929+00:00",
-      "retry_after": "2026-11-10T03:56:41.625929+00:00"
+      "checked_at": "2026-11-10T09:58:20.701793+00:00",
+      "retry_after": "2026-11-17T09:58:20.701793+00:00"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "84222bf5798ca295cfbc552879735ff410fd5bf0358819f9212ccbe11b435835",
-      "checked_at": "2026-11-03T03:57:50.709579+00:00",
-      "retry_after": "2026-11-10T03:57:50.709579+00:00"
+      "checked_at": "2026-11-10T09:58:23.687680+00:00",
+      "retry_after": "2026-11-17T09:58:23.687680+00:00"
     }
   },
   {
@@ -2324,8 +2324,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "26223b5903274f1256473b32adc095bc0a0005aeaa81f78a0329f4708487fc3b",
-      "checked_at": "2026-11-03T03:57:53.706946+00:00",
-      "retry_after": "2026-11-10T03:57:53.706946+00:00"
+      "checked_at": "2026-11-10T09:58:23.688104+00:00",
+      "retry_after": "2026-11-17T09:58:23.688104+00:00"
     }
   },
   {
@@ -2452,8 +2452,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "f14378d07ec5d2cbee8427ef6cf77d1dd54ac88b7446794fa749e1de7cb2c43d",
-      "checked_at": "2026-11-03T03:58:04.813386+00:00",
-      "retry_after": "2026-11-10T03:58:04.813386+00:00"
+      "checked_at": "2026-11-10T09:58:26.687771+00:00",
+      "retry_after": "2026-11-17T09:58:26.687771+00:00"
     }
   },
   {
@@ -2472,8 +2472,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "11b7552203e59da599d296251710cc11008d49144c7f1178147fbc5fda00f189",
-      "checked_at": "2026-11-03T03:58:08.823082+00:00",
-      "retry_after": "2026-11-10T03:58:08.823082+00:00"
+      "checked_at": "2026-11-10T09:58:29.698121+00:00",
+      "retry_after": "2026-11-17T09:58:29.698121+00:00"
     }
   },
   {
@@ -2583,8 +2583,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "da3d654fb27c2ff62846ca6abb3ee6e18be8d23fe7ec647a281e06557abe77df",
-      "checked_at": "2026-11-03T03:58:59.402749+00:00",
-      "retry_after": "2026-11-10T03:58:59.402749+00:00"
+      "checked_at": "2026-11-10T09:58:32.688581+00:00",
+      "retry_after": "2026-11-17T09:58:32.688581+00:00"
     }
   },
   {
@@ -2637,8 +2637,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "83a23704cb0e7ed57fc7367eec7b60c218eb4930a20d992bbe6d53b882cd36c0",
-      "checked_at": "2026-11-03T03:59:04.410283+00:00",
-      "retry_after": "2026-11-10T03:59:04.410283+00:00"
+      "checked_at": "2026-11-10T09:58:35.689835+00:00",
+      "retry_after": "2026-11-17T09:58:35.689835+00:00"
     }
   },
   {
@@ -3123,8 +3123,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "ff6d44efc722d70815b89044d4df217e14ddb211f3036a0344b314c608e99b76",
-      "checked_at": "2026-11-03T03:59:45.415594+00:00",
-      "retry_after": "2026-11-10T03:59:45.415594+00:00"
+      "checked_at": "2026-11-10T09:58:38.690774+00:00",
+      "retry_after": "2026-11-17T09:58:38.690774+00:00"
     }
   },
   {
@@ -3316,8 +3316,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "d31f9d5e8efc31f0dae6ec7f67c8b56efef04a67b1ade147841dec3c7e86460f",
-      "checked_at": "2026-11-03T03:59:59.418923+00:00",
-      "retry_after": "2026-11-10T03:59:59.418923+00:00"
+      "checked_at": "2026-11-10T09:58:41.684081+00:00",
+      "retry_after": "2026-11-17T09:58:41.684081+00:00"
     }
   },
   {
@@ -3411,8 +3411,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "16c2afaedb545520b01f78c38014999dfba4d6e93b1ddd0b9fae156ada7f8783",
-      "checked_at": "2026-11-03T04:00:24.715453+00:00",
-      "retry_after": "2026-11-10T04:00:24.715453+00:00"
+      "checked_at": "2026-11-10T09:58:44.708173+00:00",
+      "retry_after": "2026-11-17T09:58:44.708173+00:00"
     }
   },
   {
@@ -3448,8 +3448,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "3998799f7bb0fdbd7859259d9abb1b63f59fe0b6af8c1f00f015a2fac1d6e101",
-      "checked_at": "2026-11-03T04:00:29.755194+00:00",
-      "retry_after": "2026-11-10T04:00:29.755194+00:00"
+      "checked_at": "2026-11-10T09:58:47.693475+00:00",
+      "retry_after": "2026-11-17T09:58:47.693475+00:00"
     }
   },
   {
@@ -3468,8 +3468,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "2ec4ae4b8f14468f8e4c74fb129dc2600d54765e10b9af05df0a1c88d8fd5512",
-      "checked_at": "2026-11-03T04:00:33.728975+00:00",
-      "retry_after": "2026-11-10T04:00:33.728975+00:00"
+      "checked_at": "2026-11-10T09:58:50.692730+00:00",
+      "retry_after": "2026-11-17T09:58:50.692730+00:00"
     }
   },
   {
@@ -3505,8 +3505,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "8ed64719cec061d25e056815ccd2aa5bb355dd0c6873d1f38e1d51d0a100431d",
-      "checked_at": "2026-11-03T04:00:38.716920+00:00",
-      "retry_after": "2026-11-10T04:00:38.716920+00:00"
+      "checked_at": "2026-11-10T09:58:53.695911+00:00",
+      "retry_after": "2026-11-17T09:58:53.695911+00:00"
     }
   },
   {
@@ -3748,8 +3748,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "1e4d949e41129265ce4c113ed8dcf555de5097f8cc277b6fe3e0df2424fc2714",
-      "checked_at": "2026-11-03T04:03:27.991848+00:00",
-      "retry_after": "2026-11-10T04:03:27.991848+00:00"
+      "checked_at": "2026-11-10T09:58:56.694598+00:00",
+      "retry_after": "2026-11-17T09:58:56.694598+00:00"
     }
   },
   {
@@ -4247,8 +4247,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "1f2a7dafe325ff40e07f8bfad69ed0f5f94d37a8ac8f4c1ff2f2a71e55331f61",
-      "checked_at": "2026-11-03T04:06:52.508923+00:00",
-      "retry_after": "2026-11-10T04:06:52.508923+00:00"
+      "checked_at": "2026-11-10T09:58:59.706930+00:00",
+      "retry_after": "2026-11-17T09:58:59.706930+00:00"
     }
   },
   {
@@ -4452,8 +4452,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "edba19c57f49c5bcc90d5cd5d633c92316316c5866331d9830603454935d76ee",
-      "checked_at": "2026-11-03T04:07:00.483142+00:00",
-      "retry_after": "2026-11-10T04:07:00.483142+00:00"
+      "checked_at": "2026-11-10T09:59:02.707444+00:00",
+      "retry_after": "2026-11-17T09:59:02.707444+00:00"
     }
   },
   {
@@ -4736,8 +4736,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "21818772ff942519e56fcb986156b46b85c2c9dd1ada0afe2bd32f2896b5984f",
-      "checked_at": "2026-11-03T04:07:55.960343+00:00",
-      "retry_after": "2026-11-10T04:07:55.960343+00:00"
+      "checked_at": "2026-11-10T09:59:05.689875+00:00",
+      "retry_after": "2026-11-17T09:59:05.689875+00:00"
     }
   },
   {
@@ -4773,8 +4773,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "aaf0c1f9e17fcd594b830da9d879bca29a677358e0673769e0f83c08ad033e79",
-      "checked_at": "2026-11-03T04:08:00.964717+00:00",
-      "retry_after": "2026-11-10T04:08:00.964717+00:00"
+      "checked_at": "2026-11-10T09:59:08.715693+00:00",
+      "retry_after": "2026-11-17T09:59:08.715693+00:00"
     }
   },
   {
@@ -4793,8 +4793,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "0ccf0abd2b5cc58b08390681b7ce2e417da7be0cf60ab99e9c2301b56fbb9ed6",
-      "checked_at": "2026-11-03T04:08:04.961988+00:00",
-      "retry_after": "2026-11-10T04:08:04.961988+00:00"
+      "checked_at": "2026-11-10T09:59:11.691599+00:00",
+      "retry_after": "2026-11-17T09:59:11.691599+00:00"
     }
   },
   {
@@ -4813,8 +4813,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "d1930f9df17752fbf1efbd5c7846bb8af4581499abb7f23a17922fc71e886a0d",
-      "checked_at": "2026-11-03T04:08:08.974099+00:00",
-      "retry_after": "2026-11-10T04:08:08.974099+00:00"
+      "checked_at": "2026-11-10T09:59:14.701052+00:00",
+      "retry_after": "2026-11-17T09:59:14.701052+00:00"
     }
   },
   {
@@ -5135,8 +5135,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "b99c96c644f76b127dd6b2308c5df848ee5575240d6a0fb42064115be5e46e53",
-      "checked_at": "2026-11-03T04:10:21.637502+00:00",
-      "retry_after": "2026-11-10T04:10:21.637502+00:00"
+      "checked_at": "2026-11-10T09:59:17.695710+00:00",
+      "retry_after": "2026-11-17T09:59:17.695710+00:00"
     }
   },
   {
@@ -5457,8 +5457,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "70a374becc64d0e7f085a29e563859aef8ddf69cf42698025a26531218a9b96c",
-      "checked_at": "2026-11-03T04:29:13.606511+00:00",
-      "retry_after": "2026-11-10T04:29:13.606511+00:00"
+      "checked_at": "2026-11-10T09:59:20.706295+00:00",
+      "retry_after": "2026-11-17T09:59:20.706295+00:00"
     }
   },
   {
@@ -5477,8 +5477,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "d2772cd65970d6b1e92f1538a01eb1b4acd31caa95a09e885d8a976184055b8c",
-      "checked_at": "2026-11-03T04:29:17.603271+00:00",
-      "retry_after": "2026-11-10T04:29:17.603271+00:00"
+      "checked_at": "2026-11-10T09:59:23.696576+00:00",
+      "retry_after": "2026-11-17T09:59:23.696576+00:00"
     }
   },
   {
@@ -5497,8 +5497,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "2c29c4a558ee3c4f35e67891411e2012743529a5e5185153660688cca1a90d1d",
-      "checked_at": "2026-11-03T04:29:21.611523+00:00",
-      "retry_after": "2026-11-10T04:29:21.611523+00:00"
+      "checked_at": "2026-11-10T09:59:26.704781+00:00",
+      "retry_after": "2026-11-17T09:59:26.704781+00:00"
     }
   },
   {
@@ -5574,8 +5574,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "abb24d6b91bfa0f627d36012854d0b4435836c039edf7c5656741b1fb42cfc31",
-      "checked_at": "2026-11-03T04:29:30.638387+00:00",
-      "retry_after": "2026-11-10T04:29:30.638387+00:00"
+      "checked_at": "2026-11-10T09:59:29.704702+00:00",
+      "retry_after": "2026-11-17T09:59:29.704702+00:00"
     }
   },
   {
@@ -5594,8 +5594,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "7d336a29cbbc6fc462a2cf72bc619d869651306a97867c2f138021839845227d",
-      "checked_at": "2026-11-03T04:29:34.618070+00:00",
-      "retry_after": "2026-11-10T04:29:34.618070+00:00"
+      "checked_at": "2026-11-10T09:59:32.695025+00:00",
+      "retry_after": "2026-11-17T09:59:32.695025+00:00"
     }
   },
   {
@@ -5671,8 +5671,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "e79d64458cf9f2caef715e2ce297a3af7dff9b572153451f5c24826ae11bcd80",
-      "checked_at": "2026-11-03T04:29:43.609658+00:00",
-      "retry_after": "2026-11-10T04:29:43.609658+00:00"
+      "checked_at": "2026-11-10T09:59:35.697774+00:00",
+      "retry_after": "2026-11-17T09:59:35.697774+00:00"
     }
   },
   {
@@ -5880,8 +5880,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "0e1f5498f5924e4157b87b04b869d55e1f68219ae8f29e72d2d35e0fc7eecfb0",
-      "checked_at": "2026-11-03T04:30:47.443968+00:00",
-      "retry_after": "2026-11-10T04:30:47.443968+00:00"
+      "checked_at": "2026-11-10T09:59:38.739278+00:00",
+      "retry_after": "2026-11-17T09:59:38.739278+00:00"
     }
   },
   {
@@ -6105,8 +6105,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "144cbe595b7ecba2d5d359d884589641e442bc691713009a5e498d0d0f16ade4",
-      "checked_at": "2026-11-03T04:31:09.451508+00:00",
-      "retry_after": "2026-11-10T04:31:09.451508+00:00"
+      "checked_at": "2026-11-10T09:59:41.703833+00:00",
+      "retry_after": "2026-11-17T09:59:41.703833+00:00"
     }
   },
   {
@@ -6125,8 +6125,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "4b791c4a49304ba10d31fb65ec02f42ed3515668984464e47ca99fca7da2ba59",
-      "checked_at": "2026-11-03T04:31:13.467744+00:00",
-      "retry_after": "2026-11-10T04:31:13.467744+00:00"
+      "checked_at": "2026-11-10T09:59:44.718496+00:00",
+      "retry_after": "2026-11-17T09:59:44.718496+00:00"
     }
   },
   {
@@ -6145,8 +6145,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "ac9819695af09170a6f6d1abe0976f73305512bcbb10ad7e6f6a9cb2ce33213b",
-      "checked_at": "2026-11-03T04:31:17.465899+00:00",
-      "retry_after": "2026-11-10T04:31:17.465899+00:00"
+      "checked_at": "2026-11-10T09:59:47.700554+00:00",
+      "retry_after": "2026-11-17T09:59:47.700554+00:00"
     }
   },
   {
@@ -6182,8 +6182,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "348e2f7de1b270075686cb30c30989eae2cffa801197e11fc9e09f2bd681e989",
-      "checked_at": "2026-11-03T04:31:22.462318+00:00",
-      "retry_after": "2026-11-10T04:31:22.462318+00:00"
+      "checked_at": "2026-11-10T09:59:50.703476+00:00",
+      "retry_after": "2026-11-17T09:59:50.703476+00:00"
     }
   },
   {
@@ -6373,8 +6373,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "649b79b4436ff4ae1e24703d3aa230d4ecec16ccc310a21c3a13b80c0cf2631c",
-      "checked_at": "2026-11-03T04:31:40.455392+00:00",
-      "retry_after": "2026-11-10T04:31:40.455392+00:00"
+      "checked_at": "2026-11-10T09:59:53.699598+00:00",
+      "retry_after": "2026-11-17T09:59:53.699598+00:00"
     }
   },
   {
@@ -6393,8 +6393,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "84ea99481633cb2cc186f643f0ec3f245371b96b53c655ab390fad8a5389a5f9",
-      "checked_at": "2026-11-03T04:31:44.459369+00:00",
-      "retry_after": "2026-11-10T04:31:44.459369+00:00"
+      "checked_at": "2026-11-10T09:59:56.709213+00:00",
+      "retry_after": "2026-11-17T09:59:56.709213+00:00"
     }
   },
   {
@@ -6470,8 +6470,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "67ca7f61815d11d8bf90ab4f515c0d6c27b49c764dd556bcf705ecf025d7983d",
-      "checked_at": "2026-11-03T04:31:53.463107+00:00",
-      "retry_after": "2026-11-10T04:31:53.463107+00:00"
+      "checked_at": "2026-11-10T09:59:59.702673+00:00",
+      "retry_after": "2026-11-17T09:59:59.702673+00:00"
     }
   },
   {
@@ -6490,8 +6490,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "92850f8525c591dc56e743a26dbed72ecc574f644ebe2ffb3b1d82352a669710",
-      "checked_at": "2026-11-03T04:31:57.467961+00:00",
-      "retry_after": "2026-11-10T04:31:57.467961+00:00"
+      "checked_at": "2026-11-10T10:00:02.720409+00:00",
+      "retry_after": "2026-11-17T10:00:02.720409+00:00"
     }
   },
   {
@@ -6681,8 +6681,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "5805a787b25586fb928f3eadbb40417febe0ea337a7083f1c35ee89797e1f4c7",
-      "checked_at": "2026-11-03T04:32:15.504024+00:00",
-      "retry_after": "2026-11-10T04:32:15.504024+00:00"
+      "checked_at": "2026-11-10T10:00:05.707852+00:00",
+      "retry_after": "2026-11-17T10:00:05.707852+00:00"
     }
   },
   {
@@ -6718,8 +6718,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "c6737f0a615bb89fbeec0893e493f001e3b4023d70de37753d94b1a1985ee8b8",
-      "checked_at": "2026-11-03T04:32:22.475107+00:00",
-      "retry_after": "2026-11-10T04:32:22.475107+00:00"
+      "checked_at": "2026-11-10T10:00:08.705931+00:00",
+      "retry_after": "2026-11-17T10:00:08.705931+00:00"
     }
   },
   {
@@ -6795,8 +6795,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "0c01bfdf67d4f0430ee399d3f784a83ff3dd83c477edf6f98f22f5b6bdf6371f",
-      "checked_at": "2026-11-03T04:32:30.493601+00:00",
-      "retry_after": "2026-11-10T04:32:30.493601+00:00"
+      "checked_at": "2026-11-10T10:00:11.710155+00:00",
+      "retry_after": "2026-11-17T10:00:11.710155+00:00"
     }
   },
   {
@@ -6805,19 +6805,56 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
-    "review_status": "pending",
+    "artwork_status": "generated",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30063",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30063",
     "match_confidence": "exact",
     "steamgriddb_game_id": 1317,
     "fetch_state": {
-      "status": "missing_square",
+      "status": "selected",
       "fingerprint": "d082a5a0beaf46852179ffc30f15cb0d913a54aa51156ee6de80388b25b1279b",
-      "checked_at": "2026-11-03T04:33:31.935325+00:00",
-      "retry_after": "2026-11-10T04:33:31.935325+00:00"
-    }
+      "checked_at": "2026-11-10T10:00:16.151976+00:00"
+    },
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/d490708eaf8cdca88409acb06e61dbac.png",
+      "provider_artwork_id": 157271,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/496558fc7a9224b3a976c7c7025409898d3c36e4b56a5992ec73c1ac53cf93cd.image",
+      "source_page": "https://www.steamgriddb.com/grid/157271",
+      "attribution": "FrostWolf",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "artwork": "BLUS30063.png",
+    "thumbnail": "BLUS30063.png",
+    "source_sha256": "496558fc7a9224b3a976c7c7025409898d3c36e4b56a5992ec73c1ac53cf93cd",
+    "sha256": "4639b8edcd392b148f5d5aa5f376fc4bca0163d180933bb20855a671342778e4",
+    "thumbnail_sha256": "36c84bfaab19e13dc2166df0ed72a3299ea49fc07cd110b33e4114ce92d65df3",
+    "generated_at": "2026-11-10T10:02:04.725218+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "4639b8edcd392b148f5d5aa5f376fc4bca0163d180933bb20855a671342778e4",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30064",
@@ -7137,8 +7174,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "41bc8f3d07a884b7b5658d13733f0d4c7bba5929c8a9367d29a45fa91d44a61a",
-      "checked_at": "2026-11-03T04:34:52.252641+00:00",
-      "retry_after": "2026-11-10T04:34:52.252641+00:00"
+      "checked_at": "2026-11-10T10:00:18.736006+00:00",
+      "retry_after": "2026-11-17T10:00:18.736006+00:00"
     }
   },
   {
@@ -7385,8 +7422,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "180127f00adf95bf763a326976c1acacf77e978edf0bda4605c4d6e77ed17752",
-      "checked_at": "2026-11-03T04:36:17.109918+00:00",
-      "retry_after": "2026-11-10T04:36:17.109918+00:00"
+      "checked_at": "2026-11-10T10:00:21.718955+00:00",
+      "retry_after": "2026-11-17T10:00:21.718955+00:00"
     }
   },
   {
@@ -7422,8 +7459,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "1ea02dd5273c49051b5e1361ad7f1e5253c9d5da0b85b1f9cfd72ebe3b8c9cb2",
-      "checked_at": "2026-11-03T04:36:22.120054+00:00",
-      "retry_after": "2026-11-10T04:36:22.120054+00:00"
+      "checked_at": "2026-11-10T10:00:24.725041+00:00",
+      "retry_after": "2026-11-17T10:00:24.725041+00:00"
     }
   },
   {
@@ -7546,19 +7583,56 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
-    "review_status": "pending",
+    "artwork_status": "generated",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30080",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30080",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5249079,
     "fetch_state": {
-      "status": "missing_square",
+      "status": "selected",
       "fingerprint": "b3778d33354ada0b33520faad23487c7054647f36e176b756f1284418ca8cc48",
-      "checked_at": "2026-11-03T04:37:42.491488+00:00",
-      "retry_after": "2026-11-10T04:37:42.491488+00:00"
-    }
+      "checked_at": "2026-11-10T10:00:28.896976+00:00"
+    },
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+      "provider_artwork_id": 832462,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/199e1c960d1d6ac1ac2d4fe75d0b84b9fc318dfae52e3ec0ad65cf6465c3ccdc.image",
+      "source_page": "https://www.steamgriddb.com/grid/832462",
+      "attribution": "tema_keks",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "artwork": "BLUS30080.png",
+    "thumbnail": "BLUS30080.png",
+    "source_sha256": "199e1c960d1d6ac1ac2d4fe75d0b84b9fc318dfae52e3ec0ad65cf6465c3ccdc",
+    "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+    "thumbnail_sha256": "d46b36c811b913ded563e570542ec939dc0076e64293577dc299ededa7c0558e",
+    "generated_at": "2026-11-10T10:02:05.251569+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30081",
@@ -7566,19 +7640,57 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
-    "review_status": "pending",
+    "artwork_status": "generated",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30081",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30081",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5249079,
     "fetch_state": {
-      "status": "missing_square",
+      "status": "selected",
       "fingerprint": "b3778d33354ada0b33520faad23487c7054647f36e176b756f1284418ca8cc48",
-      "checked_at": "2026-11-03T04:38:32.057721+00:00",
-      "retry_after": "2026-11-10T04:38:32.057721+00:00"
-    }
+      "checked_at": "2026-11-10T10:00:28.936280+00:00"
+    },
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/68d0aac11de8204461492aba431cef9c.png",
+      "provider_artwork_id": 832462,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/199e1c960d1d6ac1ac2d4fe75d0b84b9fc318dfae52e3ec0ad65cf6465c3ccdc.image",
+      "source_page": "https://www.steamgriddb.com/grid/832462",
+      "attribution": "tema_keks",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "shared_with": "BLUS30080",
+    "artwork": "BLUS30080.png",
+    "thumbnail": "BLUS30080.png",
+    "sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+    "thumbnail_sha256": "d46b36c811b913ded563e570542ec939dc0076e64293577dc299ededa7c0558e",
+    "source_sha256": "199e1c960d1d6ac1ac2d4fe75d0b84b9fc318dfae52e3ec0ad65cf6465c3ccdc",
+    "generated_at": "2026-11-10T10:02:05.251569+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "3e236cf61d7dbe576693b4f305aaf265251b5a60cf261708efb6467fd76d94e8",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30082",
@@ -7653,8 +7765,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "16a7a4b891094961633fd16592b1da6c2d17e41af996dd313d1212337c78a570",
-      "checked_at": "2026-11-03T04:38:39.154336+00:00",
-      "retry_after": "2026-11-10T04:38:39.154336+00:00"
+      "checked_at": "2026-11-10T10:00:31.716708+00:00",
+      "retry_after": "2026-11-17T10:00:31.716708+00:00"
     }
   },
   {
@@ -7935,8 +8047,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "7ddab86f6df4162bcf1dcdce510d288a4000f5a706c62e549878a090dce8b2bf",
-      "checked_at": "2026-11-03T04:40:03.685934+00:00",
-      "retry_after": "2026-11-10T04:40:03.685934+00:00"
+      "checked_at": "2026-11-10T10:00:34.726259+00:00",
+      "retry_after": "2026-11-17T10:00:34.726259+00:00"
     }
   },
   {
@@ -8012,8 +8124,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "70bc7f17df89954bbe2e7a7099243e1cf7f436842bced3e0ce7db5c278406904",
-      "checked_at": "2026-11-03T04:40:27.393478+00:00",
-      "retry_after": "2026-11-10T04:40:27.393478+00:00"
+      "checked_at": "2026-11-10T10:00:37.714444+00:00",
+      "retry_after": "2026-11-17T10:00:37.714444+00:00"
     }
   },
   {
@@ -8197,8 +8309,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "498b392aae713bbba9cf98ebbda62a862514defc0b0486e09495a604473da579",
-      "checked_at": "2026-11-03T04:40:48.400581+00:00",
-      "retry_after": "2026-11-10T04:40:48.400581+00:00"
+      "checked_at": "2026-11-10T10:00:40.736504+00:00",
+      "retry_after": "2026-11-17T10:00:40.736504+00:00"
     }
   },
   {
@@ -8274,8 +8386,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "e74809272fcadade222f6709024b9cdc28fd685cf871b0c0a9ab3228dbc51490",
-      "checked_at": "2026-11-03T04:40:57.515521+00:00",
-      "retry_after": "2026-11-10T04:40:57.515521+00:00"
+      "checked_at": "2026-11-10T10:00:43.721985+00:00",
+      "retry_after": "2026-11-17T10:00:43.721985+00:00"
     }
   },
   {
@@ -8311,8 +8423,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "b01661c13521d915f2516117f484427122b7c5f822569e3b5e800278682dde89",
-      "checked_at": "2026-11-03T04:41:04.397445+00:00",
-      "retry_after": "2026-11-10T04:41:04.397445+00:00"
+      "checked_at": "2026-11-10T10:00:46.715366+00:00",
+      "retry_after": "2026-11-17T10:00:46.715366+00:00"
     }
   },
   {
@@ -8553,8 +8665,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "636f02ed12b392098c72135e8a82a440e46fa297bfa4df20b284dc1343fbdbb6",
-      "checked_at": "2026-11-03T04:41:46.391132+00:00",
-      "retry_after": "2026-11-10T04:41:46.391132+00:00"
+      "checked_at": "2026-11-10T10:00:49.813836+00:00",
+      "retry_after": "2026-11-17T10:00:49.813836+00:00"
     }
   },
   {
@@ -8875,8 +8987,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "afbf867a792567c4719eb4700faef3c0ef0955d2db96f154f9448cbe7f9d545e",
-      "checked_at": "2026-11-03T04:42:27.011224+00:00",
-      "retry_after": "2026-11-10T04:42:27.011224+00:00"
+      "checked_at": "2026-11-10T10:00:52.748443+00:00",
+      "retry_after": "2026-11-17T10:00:52.748443+00:00"
     }
   },
   {
@@ -9010,8 +9122,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "bc2c63f1363f9f90ba3b9751f9e164a306c04648e571925c31946130a54d9688",
-      "checked_at": "2026-11-03T04:44:30.680917+00:00",
-      "retry_after": "2026-11-10T04:44:30.680917+00:00"
+      "checked_at": "2026-11-10T10:00:55.744787+00:00",
+      "retry_after": "2026-11-17T10:00:55.744787+00:00"
     }
   },
   {
@@ -9144,8 +9256,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "1d139443fc07b7d7c1eae6a99c7ee87539860a473cf84af4c81dfad76d15a563",
-      "checked_at": "2026-11-03T04:45:03.297398+00:00",
-      "retry_after": "2026-11-10T04:45:03.297398+00:00"
+      "checked_at": "2026-11-10T10:00:58.739179+00:00",
+      "retry_after": "2026-11-17T10:00:58.739179+00:00"
     }
   },
   {
@@ -9181,8 +9293,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "fecfb5955f9b8cea3edf6ec5d5cec0ba4e81b431e8ca67db6a7575bf0e79c4f0",
-      "checked_at": "2026-11-03T04:45:08.281444+00:00",
-      "retry_after": "2026-11-10T04:45:08.281444+00:00"
+      "checked_at": "2026-11-10T10:01:01.727898+00:00",
+      "retry_after": "2026-11-17T10:01:01.727898+00:00"
     }
   },
   {
@@ -9380,19 +9492,56 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
-    "review_status": "pending",
+    "artwork_status": "generated",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30133",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30133",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5254986,
     "fetch_state": {
-      "status": "missing_square",
+      "status": "selected",
       "fingerprint": "df8bf977139d3d60db3118880de373235ac91640dafe95c7a1e7906cb696f25d",
-      "checked_at": "2026-11-03T04:48:16.612610+00:00",
-      "retry_after": "2026-11-10T04:48:16.612610+00:00"
-    }
+      "checked_at": "2026-11-10T10:01:06.127899+00:00"
+    },
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/86d742ac9b8bfe2759a2764a25cc7e71.png",
+      "provider_artwork_id": 378601,
+      "format": "PNG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/b0a66090e94fb764c0bff36953b4014a7744e3f65559cb442f828e1b1cc0d739.image",
+      "source_page": "https://www.steamgriddb.com/grid/378601",
+      "attribution": "Imatination",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "artwork": "BLUS30133.png",
+    "thumbnail": "BLUS30133.png",
+    "source_sha256": "b0a66090e94fb764c0bff36953b4014a7744e3f65559cb442f828e1b1cc0d739",
+    "sha256": "e8d54098ec58d7aaea66f8882fcba518646f68bed33c5d9acb5c3d6b87aec248",
+    "thumbnail_sha256": "e19d84b49756fc39823d38e7e1c27dedbc169a81531c43a00d0d606d36b3eb56",
+    "generated_at": "2026-11-10T10:02:06.352578+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "e8d54098ec58d7aaea66f8882fcba518646f68bed33c5d9acb5c3d6b87aec248",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30134",
@@ -9558,8 +9707,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "0759348aef0611cb72c1aec6beb8c60f36fe3c76d3a7b978faf4f3fa33f9da59",
-      "checked_at": "2026-11-03T04:48:31.728557+00:00",
-      "retry_after": "2026-11-10T04:48:31.728557+00:00"
+      "checked_at": "2026-11-10T10:01:08.734384+00:00",
+      "retry_after": "2026-11-17T10:01:08.734384+00:00"
     }
   },
   {
@@ -9568,19 +9717,56 @@
     "platform": "PS3",
     "region": "US",
     "distribution": "disc",
-    "artwork_status": "missing",
-    "review_status": "pending",
+    "artwork_status": "generated",
+    "review_status": "approved",
     "catalog_source": "https://github.com/niemasd/GameDB-PS3",
     "catalog_serial": "BLUS-30139",
     "title_id_evidence": "https://github.com/niemasd/GameDB-PS3/tree/main/games/BLUS-30139",
     "match_confidence": "exact",
     "steamgriddb_game_id": 5262209,
     "fetch_state": {
-      "status": "missing_square",
+      "status": "selected",
       "fingerprint": "da0950ae546035af55399c246524fbf3c80126410588090431acc6a588f35301",
-      "checked_at": "2026-11-03T04:49:24.727292+00:00",
-      "retry_after": "2026-11-10T04:49:24.727292+00:00"
-    }
+      "checked_at": "2026-11-10T10:01:13.010814+00:00"
+    },
+    "source": {
+      "provider": "steamgriddb",
+      "url": "https://cdn2.steamgriddb.com/grid/0e39811be62b7e230f5116e5aa29ffc2.jpg",
+      "provider_artwork_id": 503284,
+      "format": "JPEG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "path": "downloads/2a159e83e4ba28bd6b1fe7614c15a68ed2daa4a8d503d3006756917ae43caf8d.image",
+      "source_page": "https://www.steamgriddb.com/grid/503284",
+      "attribution": "Luizero",
+      "license": "Original creator and publisher rights retained; see attribution policy",
+      "redistribution": "approved",
+      "permission_evidence": "docs/ARTWORK-POLICY.md",
+      "publication_basis": "repository-owner-authorized-with-attribution"
+    },
+    "artwork": "BLUS30139.png",
+    "thumbnail": "BLUS30139.png",
+    "source_sha256": "2a159e83e4ba28bd6b1fe7614c15a68ed2daa4a8d503d3006756917ae43caf8d",
+    "sha256": "82979a44b18fdff1b47d84b68c321570bb62b6a292567cc331fa945a90911394",
+    "thumbnail_sha256": "ba0e78ad2ffd43bf47a916b7620804e5289ad30dc74ebbe5a5f584699140c63f",
+    "generated_at": "2026-11-10T10:02:06.800074+00:00",
+    "processing_method": "downscale-square",
+    "processing_settings": {
+      "method": "native-square",
+      "output_size": 512
+    },
+    "processing_sha256": "658cdb5835ab7d6d58040360ac35b7d1fd567530c86819dc9f95cbd3fe5a8261",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "quality_warnings": [],
+    "publication_status": "validated-with-attribution",
+    "reviewed_sha256": "82979a44b18fdff1b47d84b68c321570bb62b6a292567cc331fa945a90911394",
+    "review_method": "automatic",
+    "approval_reason": "Confirmed game identity and validated static square artwork"
   },
   {
     "title_id": "BLUS30140",
@@ -9780,8 +9966,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "8becf0739c30a767eedb3df17c07713d6941f6f998a67e0246154194359be8ae",
-      "checked_at": "2026-11-03T04:51:08.276543+00:00",
-      "retry_after": "2026-11-10T04:51:08.276543+00:00"
+      "checked_at": "2026-11-10T10:01:15.715515+00:00",
+      "retry_after": "2026-11-17T10:01:15.715515+00:00"
     }
   },
   {
@@ -9857,8 +10043,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "8becf0739c30a767eedb3df17c07713d6941f6f998a67e0246154194359be8ae",
-      "checked_at": "2026-11-03T04:51:25.573929+00:00",
-      "retry_after": "2026-11-10T04:51:25.573929+00:00"
+      "checked_at": "2026-11-10T10:01:15.715916+00:00",
+      "retry_after": "2026-11-17T10:01:15.715916+00:00"
     }
   },
   {
@@ -9928,8 +10114,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "e7a9db502c154936437a1d375bf5c3cd548546dededbcc6bfd620023b0e3c6a4",
-      "checked_at": "2026-11-03T04:51:33.686802+00:00",
-      "retry_after": "2026-11-10T04:51:33.686802+00:00"
+      "checked_at": "2026-11-10T10:01:18.750615+00:00",
+      "retry_after": "2026-11-17T10:01:18.750615+00:00"
     }
   },
   {
@@ -9948,8 +10134,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "e30afa94580fdd1421ed5c0d6476ec1603de734ab0de8d50cbb5b9bd574edfdc",
-      "checked_at": "2026-11-03T04:51:37.677448+00:00",
-      "retry_after": "2026-11-10T04:51:37.677448+00:00"
+      "checked_at": "2026-11-10T10:01:21.721031+00:00",
+      "retry_after": "2026-11-17T10:01:21.721031+00:00"
     }
   },
   {
@@ -10025,8 +10211,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "54885b1be2c6df4f2e572dfbbdb446e5372e432a37cd2553d6d61c278a4ea455",
-      "checked_at": "2026-11-03T04:53:14.056507+00:00",
-      "retry_after": "2026-11-10T04:53:14.056507+00:00"
+      "checked_at": "2026-11-10T10:01:24.721584+00:00",
+      "retry_after": "2026-11-17T10:01:24.721584+00:00"
     }
   },
   {
@@ -10062,8 +10248,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "4f4fe33265e1cbefd5c4575b06aa235d27b60bbb77c6dbc090d2dc6a2804270e",
-      "checked_at": "2026-11-03T04:53:19.058388+00:00",
-      "retry_after": "2026-11-10T04:53:19.058388+00:00"
+      "checked_at": "2026-11-10T10:01:27.724435+00:00",
+      "retry_after": "2026-11-17T10:01:27.724435+00:00"
     }
   },
   {
@@ -10424,8 +10610,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "72b17e5ec5180921c5bc7433a6b9b9270765aa8b9c2444579ca2dc58d3f08815",
-      "checked_at": "2026-11-03T04:53:56.347836+00:00",
-      "retry_after": "2026-11-10T04:53:56.347836+00:00"
+      "checked_at": "2026-11-10T10:01:30.724420+00:00",
+      "retry_after": "2026-11-17T10:01:30.724420+00:00"
     }
   },
   {
@@ -10649,8 +10835,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "b5d9ec595ee85797d7d4d82f5635ba351071f3af13aaf32381b8aebfbe0a0dc2",
-      "checked_at": "2026-11-03T04:55:51.719148+00:00",
-      "retry_after": "2026-11-10T04:55:51.719148+00:00"
+      "checked_at": "2026-11-10T10:01:33.719819+00:00",
+      "retry_after": "2026-11-17T10:01:33.719819+00:00"
     }
   },
   {
@@ -10914,8 +11100,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "e19cf7fc44864d7a87167742e727243ae1193bbacfc2a6b9b7afff97b859e81c",
-      "checked_at": "2026-11-03T04:57:25.773100+00:00",
-      "retry_after": "2026-11-10T04:57:25.773100+00:00"
+      "checked_at": "2026-11-10T10:01:36.730168+00:00",
+      "retry_after": "2026-11-17T10:01:36.730168+00:00"
     }
   },
   {
@@ -11122,8 +11308,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "98ab4d895e5e8e08474e3a73e16e2f8dc16d594f71b274ac56d160d2b4d19981",
-      "checked_at": "2026-11-03T04:58:06.472811+00:00",
-      "retry_after": "2026-11-10T04:58:06.472811+00:00"
+      "checked_at": "2026-11-10T10:01:39.717306+00:00",
+      "retry_after": "2026-11-17T10:01:39.717306+00:00"
     }
   },
   {
@@ -11421,8 +11607,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "a05fc1facf705b76b862a13770b845d31bb7f172cf0255bf2c274d2fec7d54c0",
-      "checked_at": "2026-11-03T04:58:32.484428+00:00",
-      "retry_after": "2026-11-10T04:58:32.484428+00:00"
+      "checked_at": "2026-11-10T10:01:42.724580+00:00",
+      "retry_after": "2026-11-17T10:01:42.724580+00:00"
     }
   },
   {
@@ -11670,8 +11856,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "68c1c57dc7b4a383c6b0a6be1dd268a506ce7a0dec9e34a0fdc4215f9ebe4c0c",
-      "checked_at": "2026-11-03T04:59:49.100693+00:00",
-      "retry_after": "2026-11-10T04:59:49.100693+00:00"
+      "checked_at": "2026-11-10T10:01:45.725604+00:00",
+      "retry_after": "2026-11-17T10:01:45.725604+00:00"
     }
   },
   {
@@ -11690,8 +11876,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "9e07fe6834a68865d96855b33ff5e3beae8f2035e1fa42af302fbb4b17a2848d",
-      "checked_at": "2026-11-03T04:59:53.108464+00:00",
-      "retry_after": "2026-11-10T04:59:53.108464+00:00"
+      "checked_at": "2026-11-10T10:01:48.730689+00:00",
+      "retry_after": "2026-11-17T10:01:48.730689+00:00"
     }
   },
   {
@@ -11898,8 +12084,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "94f50ffe98fa7fa338c8fc85523fc9f833d0f56e59d9e3df0f58a01798db9983",
-      "checked_at": "2026-11-03T05:01:05.646001+00:00",
-      "retry_after": "2026-11-10T05:01:05.646001+00:00"
+      "checked_at": "2026-11-10T10:01:51.744606+00:00",
+      "retry_after": "2026-11-17T10:01:51.744606+00:00"
     }
   },
   {
@@ -11952,8 +12138,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "0bf735b446f6bbec5a4df3b9cfc266897e7c8f8b2be2b142218fe4fbf0dd7f35",
-      "checked_at": "2026-11-03T05:01:17.634112+00:00",
-      "retry_after": "2026-11-10T05:01:17.634112+00:00"
+      "checked_at": "2026-11-10T10:01:54.737809+00:00",
+      "retry_after": "2026-11-17T10:01:54.737809+00:00"
     }
   },
   {
@@ -12046,8 +12232,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "54d9071aeccaac2be3517845289dc4e02e16d6834729c04fb354afdbf970d762",
-      "checked_at": "2026-11-03T05:01:27.629363+00:00",
-      "retry_after": "2026-11-10T05:01:27.629363+00:00"
+      "checked_at": "2026-11-10T10:01:57.726378+00:00",
+      "retry_after": "2026-11-17T10:01:57.726378+00:00"
     }
   },
   {
@@ -12066,8 +12252,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "fa80390b483bad4d74484c5fd1cf46f8aac7e0b7fe9762955a04749415ccfc53",
-      "checked_at": "2026-11-03T05:01:31.641529+00:00",
-      "retry_after": "2026-11-10T05:01:31.641529+00:00"
+      "checked_at": "2026-11-10T10:02:00.726387+00:00",
+      "retry_after": "2026-11-17T10:02:00.726387+00:00"
     }
   },
   {
@@ -12555,8 +12741,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "193d60a1b4ede01c79814740d8b7fa399af4a53a5d026534d61a3ec0442b6323",
-      "checked_at": "2026-11-03T05:02:02.664508+00:00",
-      "retry_after": "2026-11-10T05:02:02.664508+00:00"
+      "checked_at": "2026-11-10T10:02:03.738892+00:00",
+      "retry_after": "2026-11-17T10:02:03.738892+00:00"
     }
   },
   {
