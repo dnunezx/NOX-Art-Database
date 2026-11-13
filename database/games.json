@@ -396,8 +396,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "1e4d949e41129265ce4c113ed8dcf555de5097f8cc277b6fe3e0df2424fc2714",
-      "checked_at": "2026-11-06T01:36:23.553161+00:00",
-      "retry_after": "2026-11-13T01:36:23.553161+00:00"
+      "checked_at": "2026-11-13T01:53:12.629030+00:00",
+      "retry_after": "2026-11-20T01:53:12.629030+00:00"
     }
   },
   {
@@ -491,8 +491,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "99e7f3458ef33467847bd6abd1909066e5936f87700c9c3a94102ba82b1d2190",
-      "checked_at": "2026-11-06T01:36:29.724278+00:00",
-      "retry_after": "2026-11-13T01:36:29.724278+00:00"
+      "checked_at": "2026-11-13T01:53:14.835347+00:00",
+      "retry_after": "2026-11-20T01:53:14.835347+00:00"
     }
   },
   {
@@ -642,8 +642,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "8d6d06fac520adce97b2745cbb23c6f89e714cd673d6a255ee1dee91938be5b2",
-      "checked_at": "2026-11-06T01:36:50.573014+00:00",
-      "retry_after": "2026-11-13T01:36:50.573014+00:00"
+      "checked_at": "2026-11-13T01:53:17.834070+00:00",
+      "retry_after": "2026-11-20T01:53:17.834070+00:00"
     }
   },
   {
@@ -735,8 +735,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "491aebb11a6483b328ffd9d07fbfca9825c05a6bcb8ea7e9214e8b7120e06cdd",
-      "checked_at": "2026-11-06T01:36:57.570403+00:00",
-      "retry_after": "2026-11-13T01:36:57.570403+00:00"
+      "checked_at": "2026-11-13T01:53:20.851828+00:00",
+      "retry_after": "2026-11-20T01:53:20.851828+00:00"
     }
   },
   {
@@ -812,8 +812,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "ece041f49cb1b4851a3b2e8778df60c89803e3efebcc3ade2990fe5d04463d6e",
-      "checked_at": "2026-11-06T01:37:06.576863+00:00",
-      "retry_after": "2026-11-13T01:37:06.576863+00:00"
+      "checked_at": "2026-11-13T01:53:23.851373+00:00",
+      "retry_after": "2026-11-20T01:53:23.851373+00:00"
     }
   },
   {
@@ -1249,8 +1249,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "f67edfa124bd934bf72953f9abdfe5aa1a1a0649a0ff86773398d48ebeb2e49f",
-      "checked_at": "2026-11-06T01:37:29.874584+00:00",
-      "retry_after": "2026-11-13T01:37:29.874584+00:00"
+      "checked_at": "2026-11-13T01:53:26.854339+00:00",
+      "retry_after": "2026-11-20T01:53:26.854339+00:00"
     }
   },
   {
@@ -1326,8 +1326,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "9388ff15b31ab57352aba88043adea73030d23453b0f170fae17ba8819a8ab93",
-      "checked_at": "2026-11-06T01:37:37.871718+00:00",
-      "retry_after": "2026-11-13T01:37:37.871718+00:00"
+      "checked_at": "2026-11-13T01:53:29.836307+00:00",
+      "retry_after": "2026-11-20T01:53:29.836307+00:00"
     }
   },
   {
@@ -1517,8 +1517,8 @@
     "fetch_state": {
       "status": "missing_square",
       "fingerprint": "abf94cc3636e550ae41cbdce67856542afc772c3d3f9547d0b9e98c53e083f90",
-      "checked_at": "2026-11-06T01:37:56.550059+00:00",
-      "retry_after": "2026-11-13T01:37:56.550059+00:00"
+      "checked_at": "2026-11-13T01:53:32.843997+00:00",
+      "retry_after": "2026-11-20T01:53:32.843997+00:00"
     }
   },
   {
